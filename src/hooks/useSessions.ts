@@ -129,7 +129,9 @@ export function useSessions() {
       // Update CacheStorage directly so offline access has the freshest data
       if (typeof caches !== 'undefined' && forceNetwork) {
         try {
-          const cache = await caches.open('reinvent-2026-cache-v2');
+          const cacheKeys = await caches.keys();
+          const targetCache = cacheKeys.find((k) => k.startsWith('reinvent-2026-cache')) || 'reinvent-2026-cache-v4';
+          const cache = await caches.open(targetCache);
           await cache.put(
             `${cleanBase}data/sessions.min.json`,
             new Response(JSON.stringify(sessionsData), {
