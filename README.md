@@ -6,7 +6,7 @@ A fast, zero-latency, transit-aware session explorer and itinerary planner for *
 
 Built with React 19, TypeScript, Tailwind CSS v4, and MiniSearch, hosted completely serverless on GitHub Pages.
 
-🔗 **Live Website**: [https://smford.github.io/reinvent-2026-finder/](https://smford.github.io/reinvent-2026-finder/)
+🔗 **Live Website**: [https://stephenford.org/reinvent-2026-finder/](https://stephenford.org/reinvent-2026-finder/) *(or [smford.github.io/reinvent-2026-finder/](https://smford.github.io/reinvent-2026-finder/))*
 
 ---
 
