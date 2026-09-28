@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/logo.svg" width="110" height="110" alt="AWS re:Invent 2026 Session Finder Logo" />
-  <h1>AWS re:Invent 2026 Session Finder & Campus Bundler</h1>
+  <h1>AWS re:Invent 2026 Session Finder, Schedular & Campus Planner</h1>
 </div>
 
 [![Deploy to GitHub Pages](https://github.com/smford/reinvent-2026-finder/actions/workflows/deploy.yml/badge.svg)](https://github.com/smford/reinvent-2026-finder/actions/workflows/deploy.yml)
@@ -31,24 +31,6 @@ Attendees frequently book sessions back-to-back across venues that require 40–
 4. **RFC 5545 iCalendar (`.ics`) Export**: Export selected sessions with exact Las Vegas timezone (`America/Los_Angeles`) boundaries and location metadata.
 5. **Shareable Itineraries**: Share schedule bundles via clean URL hash encoding (`#itinerary=...`) or local storage.
 6. **Live or Static Data**: Operates offline/statically with pre-bundled session data, with an on-demand sync button that talks directly to the upstream RainFocus catalog API.
-
----
-
-## 🛠️ Architecture & SRE Considerations
-
-```mermaid
-flowchart LR
-    A[RainFocus Catalog API\ncatalog.awsevents.com] -->|Multi-threaded Sync\nscripts/sync_sessions.py| B[Static JSON Dataset\ndata/sessions.min.json]
-    B --> C[GitHub Actions CI/CD\n.github/workflows/deploy.yml]
-    C -->|Automatic Deployment| D[GitHub Pages CDN\nsmford.github.io]
-    D -->|Client-Side App| E[Browser MiniSearch &\nTransit Conflict Engine]
-    A -.->|Direct CORS Sync\nOn Demand in Browser| E
-```
-
-- **Zero Running Costs**: 100% static client-side bundle hosted on GitHub Pages.
-- **Resilience**: Operates from pre-indexed snapshots (`data/sessions.min.json`) so the site never fails even if upstream RainFocus experiences downtime or rate-limiting.
-- **Automated Freshness**: GitHub Actions workflow runs twice daily (and on demand) to re-sync any newly scheduled or canceled sessions.
-- **Rendering Performance**: Implements CSS `content-visibility: auto` to sustain 60fps scrolling across 2,000+ session cards.
 
 ---
 
