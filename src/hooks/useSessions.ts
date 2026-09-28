@@ -54,52 +54,79 @@ export function useSessions() {
     encodeItineraryToUrl(idsArray);
   }, [bookmarkedIds]);
 
-  // Load static data from JSON on mount
-  useEffect(() => {
-    async function loadData() {
-      setIsLoading(true);
-      setError(null);
-      try {
-        const baseUrl = import.meta.env.BASE_URL || '/';
-        const cleanBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
+  // Load static data from JSON or cache
+  const reloadCatalog = useCallback(async (forceNetwork = true): Promise<number> => {
+    setIsLoading(true);
+    setError(null);
+    try {
+      const baseUrl = import.meta.env.BASE_URL || '/';
+      const cleanBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
 
-        let sessionsRes: Response | null = await fetch(`${cleanBase}data/sessions.min.json`).catch(() => null);
-        let metaRes: Response | null = await fetch(`${cleanBase}data/metadata.json`).catch(() => null);
+      const cacheBust = forceNetwork ? `?v=${Date.now()}` : '';
+      const fetchOptions: RequestInit = forceNetwork ? { cache: 'reload' } : {};
 
-        // Fallback to CacheStorage if network is offline
-        if ((!sessionsRes || !sessionsRes.ok) && typeof caches !== 'undefined') {
-          const cachedSession =
-            (await caches.match(`${cleanBase}data/sessions.min.json`)) ||
-            (await caches.match('./data/sessions.min.json'));
-          if (cachedSession) sessionsRes = cachedSession;
+      let sessionsRes: Response | null = await fetch(
+        `${cleanBase}data/sessions.min.json${cacheBust}`,
+        fetchOptions
+      ).catch(() => null);
+      let metaRes: Response | null = await fetch(
+        `${cleanBase}data/metadata.json${cacheBust}`,
+        fetchOptions
+      ).catch(() => null);
 
-          const cachedMeta =
-            (await caches.match(`${cleanBase}data/metadata.json`)) ||
-            (await caches.match('./data/metadata.json'));
-          if (cachedMeta) metaRes = cachedMeta;
-        }
+      // Fallback to CacheStorage if network is offline
+      if ((!sessionsRes || !sessionsRes.ok) && typeof caches !== 'undefined') {
+        const cachedSession =
+          (await caches.match(`${cleanBase}data/sessions.min.json`)) ||
+          (await caches.match('./data/sessions.min.json'));
+        if (cachedSession) sessionsRes = cachedSession;
 
-        if (!sessionsRes || !sessionsRes.ok) {
-          throw new Error('Unable to load session catalog. Please check your connection.');
-        }
-
-        const sessionsData: Session[] = await sessionsRes.json();
-        setSessions(sessionsData);
-
-        if (metaRes && metaRes.ok) {
-          const metaData: Metadata = await metaRes.json();
-          setMetadata(metaData);
-        }
-      } catch (err: unknown) {
-        console.error('Error loading session data:', err);
-        setError(err instanceof Error ? err.message : 'Unknown error loading data');
-      } finally {
-        setIsLoading(false);
+        const cachedMeta =
+          (await caches.match(`${cleanBase}data/metadata.json`)) ||
+          (await caches.match('./data/metadata.json'));
+        if (cachedMeta) metaRes = cachedMeta;
       }
-    }
 
-    loadData();
+      if (!sessionsRes || !sessionsRes.ok) {
+        throw new Error('Unable to load session catalog. Please check your connection.');
+      }
+
+      const sessionsData: Session[] = await sessionsRes.json();
+      setSessions(sessionsData);
+
+      if (metaRes && metaRes.ok) {
+        const metaData: Metadata = await metaRes.json();
+        setMetadata(metaData);
+      }
+
+      // Update CacheStorage directly so offline access has the freshest data
+      if (typeof caches !== 'undefined' && forceNetwork) {
+        try {
+          const cache = await caches.open('reinvent-2026-cache-v2');
+          await cache.put(
+            `${cleanBase}data/sessions.min.json`,
+            new Response(JSON.stringify(sessionsData), {
+              headers: { 'Content-Type': 'application/json' },
+            })
+          );
+        } catch (e) {
+          console.warn('Could not update cache storage:', e);
+        }
+      }
+
+      return sessionsData.length;
+    } catch (err: unknown) {
+      console.error('Error loading session data:', err);
+      setError(err instanceof Error ? err.message : 'Unknown error loading data');
+      throw err;
+    } finally {
+      setIsLoading(false);
+    }
   }, []);
+
+  useEffect(() => {
+    reloadCatalog(false);
+  }, [reloadCatalog]);
 
   // Configure MiniSearch instance for instant search
   const miniSearch = useMemo(() => {
@@ -307,6 +334,7 @@ export function useSessions() {
     addMultipleBookmarks,
     clearBookmarks,
     refreshLiveFromAWS,
+    reloadCatalog,
     initialFilterState,
   };
 }

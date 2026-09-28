@@ -109,3 +109,32 @@ self.addEventListener('fetch', (event) => {
     })
   );
 });
+
+// Message Event: Allow clients to prompt service worker updates
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+  if (event.data && event.data.type === 'REFRESH_CACHE') {
+    event.waitUntil(
+      caches.open(CACHE_NAME).then(async (cache) => {
+        const assets = [
+          './',
+          './index.html',
+          './data/sessions.min.json',
+          './data/metadata.json'
+        ];
+        await Promise.all(
+          assets.map(async (url) => {
+            try {
+              const res = await fetch(url, { cache: 'reload' });
+              if (res.ok) await cache.put(url, res);
+            } catch (err) {
+              console.warn('Failed to refresh cached asset:', url, err);
+            }
+          })
+        );
+      })
+    );
+  }
+});

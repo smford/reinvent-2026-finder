@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { useSessions } from './hooks/useSessions';
 import { useTheme } from './hooks/useTheme';
+import { usePWA } from './hooks/usePWA';
 import { Header } from './components/Header';
 import { FilterSidebar } from './components/FilterSidebar';
 import { SessionCard } from './components/SessionCard';
@@ -10,22 +11,19 @@ import { CampusBundlerModal } from './components/CampusBundlerModal';
 import { SessionDetailModal } from './components/SessionDetailModal';
 import { detectTransitAlerts } from './utils/transit';
 import { Session } from './types';
-import { Compass, Filter, AlertCircle, RefreshCw, WifiOff } from 'lucide-react';
+import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X } from 'lucide-react';
 
 export const App: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
-  const [isOnline, setIsOnline] = useState(() => (typeof navigator !== 'undefined' ? navigator.onLine : true));
-
-  React.useEffect(() => {
-    const handleOnline = () => setIsOnline(true);
-    const handleOffline = () => setIsOnline(false);
-    window.addEventListener('online', handleOnline);
-    window.addEventListener('offline', handleOffline);
-    return () => {
-      window.removeEventListener('online', handleOnline);
-      window.removeEventListener('offline', handleOffline);
-    };
-  }, []);
+  const {
+    isOnline,
+    updateAvailable,
+    isUpdating,
+    updateStatus,
+    lastSyncTime,
+    triggerUpdate,
+    dismissStatus,
+  } = usePWA();
 
   const {
     sessions,
@@ -34,7 +32,6 @@ export const App: React.FC = () => {
     bookmarkedSessions,
     bookmarkedIds,
     isLoading,
-    isRefreshingLive,
     error,
     filterState,
     setFilterState,
@@ -42,6 +39,7 @@ export const App: React.FC = () => {
     addMultipleBookmarks,
     clearBookmarks,
     refreshLiveFromAWS,
+    reloadCatalog,
   } = useSessions();
 
   const [isItineraryOpen, setIsItineraryOpen] = useState(false);
@@ -76,26 +74,58 @@ export const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col font-sans transition-colors">
-      {/* Top Navigation Header */}
+      {/* Top Navigation Header with PWA Update Trigger */}
       <Header
         totalSessions={metadata?.totalSessions || sessions.length}
         bookmarkedSessions={bookmarkedSessions}
         transitAlerts={transitAlerts}
         onOpenItinerary={() => setIsItineraryOpen(true)}
         onOpenBundler={() => setIsBundlerOpen(true)}
-        onRefreshLive={refreshLiveFromAWS}
-        isRefreshingLive={isRefreshingLive}
         theme={theme}
         onToggleTheme={toggleTheme}
+        onUpdatePWA={() => triggerUpdate(reloadCatalog)}
+        isUpdatingPWA={isUpdating}
+        updateAvailable={updateAvailable}
+        isOnline={isOnline}
+        lastSyncTime={lastSyncTime}
       />
 
-      {/* Offline Mode Status Banner */}
-      {!isOnline && (
-        <div className="bg-amber-500/15 border-b border-amber-500/30 px-4 py-2 text-center text-xs font-medium text-amber-800 dark:text-amber-300 flex items-center justify-center space-x-2">
-          <WifiOff className="h-3.5 w-3.5 text-amber-600 dark:text-amber-400 animate-pulse" />
-          <span>
-            <strong>Offline Mode Active:</strong> Full 2,043 session catalog, search index, and your itinerary are available offline.
-          </span>
+      {/* PWA Connectivity & Update Status Banner */}
+      {updateStatus && (
+        <div
+          className={`border-b px-4 py-2 text-center text-xs font-medium flex items-center justify-center space-x-2 transition-colors ${
+            !isOnline
+              ? 'bg-amber-500/15 border-amber-500/30 text-amber-800 dark:text-amber-300'
+              : updateAvailable
+              ? 'bg-emerald-500/15 border-emerald-500/30 text-emerald-800 dark:text-emerald-300 font-semibold'
+              : 'bg-indigo-500/15 border-indigo-500/30 text-indigo-800 dark:text-indigo-300'
+          }`}
+        >
+          {!isOnline ? (
+            <WifiOff className="h-3.5 w-3.5 text-amber-600 dark:text-amber-400 animate-pulse flex-shrink-0" />
+          ) : (
+            <RefreshCw
+              className={`h-3.5 w-3.5 flex-shrink-0 ${
+                isUpdating ? 'animate-spin text-amber-500' : 'text-emerald-600 dark:text-emerald-400'
+              }`}
+            />
+          )}
+          <span>{updateStatus}</span>
+          {isOnline && !isUpdating && (
+            <button
+              onClick={() => triggerUpdate(reloadCatalog)}
+              className="ml-2 font-bold underline hover:opacity-80 transition cursor-pointer"
+            >
+              Update Now
+            </button>
+          )}
+          <button
+            onClick={dismissStatus}
+            className="ml-2 opacity-60 hover:opacity-100 p-0.5 rounded cursor-pointer"
+            title="Dismiss notice"
+          >
+            <X className="h-3.5 w-3.5" />
+          </button>
         </div>
       )}
 
@@ -265,7 +295,7 @@ export const App: React.FC = () => {
           Built for the AWS community • Zero-transit schedule optimizer for AWS re:Invent 2026.
         </p>
         <p className="text-[11px] text-slate-400 dark:text-slate-500">
-          Data synchronized directly from the official AWS Event Catalog via RainFocus API. Unofficial community tool; Amazon Web Services, AWS, and re:Invent are trademarks of Amazon.com, Inc. or its affiliates.
+          Progressive Web App (PWA) with full offline support. Data synchronized directly from the official AWS Event Catalog via RainFocus API. Unofficial community tool; Amazon Web Services, AWS, and re:Invent are trademarks of Amazon.com, Inc. or its affiliates.
         </p>
       </footer>
 
