@@ -9,9 +9,12 @@ import { TransitAlertBanner } from './components/TransitAlertBanner';
 import { ItineraryDrawer } from './components/ItineraryDrawer';
 import { CampusBundlerModal } from './components/CampusBundlerModal';
 import { SessionDetailModal } from './components/SessionDetailModal';
+import { PrintSchedule } from './components/PrintSchedule';
 import { detectTransitAlerts } from './utils/transit';
+import { exportItineraryToPdf } from './utils/pdf';
+import { printSchedule } from './utils/print';
 import { Session } from './types';
-import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X, Calendar } from 'lucide-react';
+import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X, Calendar, FileDown, Printer } from 'lucide-react';
 
 export const App: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
@@ -205,7 +208,23 @@ export const App: React.FC = () => {
                     </p>
                   </div>
                 </div>
-                <div className="flex items-center space-x-2.5 flex-shrink-0">
+                <div className="flex flex-wrap items-center gap-2 flex-shrink-0">
+                  <button
+                    onClick={() => exportItineraryToPdf(bookmarkedSessions)}
+                    className="flex items-center space-x-1.5 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-100 font-semibold px-3 py-2 text-xs transition shadow-sm cursor-pointer"
+                    title="Download schedule as PDF"
+                  >
+                    <FileDown className="h-4 w-4 text-amber-600 dark:text-amber-400" />
+                    <span>PDF</span>
+                  </button>
+                  <button
+                    onClick={() => printSchedule()}
+                    className="flex items-center space-x-1.5 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-100 font-semibold px-3 py-2 text-xs transition shadow-sm cursor-pointer"
+                    title="Print schedule matrix"
+                  >
+                    <Printer className="h-4 w-4 text-slate-600 dark:text-slate-300" />
+                    <span>Print</span>
+                  </button>
                   <button
                     onClick={() => setIsItineraryOpen(true)}
                     className="flex items-center space-x-1.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold px-3.5 py-2 text-xs transition shadow-md shadow-amber-500/20 cursor-pointer"
@@ -380,6 +399,9 @@ export const App: React.FC = () => {
         isBookmarked={selectedSessionForModal ? bookmarkedIds.has(selectedSessionForModal.id) : false}
         onToggleBookmark={toggleBookmark}
       />
+
+      {/* Dedicated Print Layout for physical printing and Save-to-PDF */}
+      <PrintSchedule sessions={bookmarkedSessions} />
     </div>
   );
 };

@@ -1,9 +1,11 @@
 import React, { useState, useMemo } from 'react';
-import { X, Calendar, Clock, MapPin, Download, Share2, Trash2, AlertTriangle, Check } from 'lucide-react';
+import { X, Calendar, Clock, MapPin, Download, Share2, Trash2, AlertTriangle, Check, FileDown, Printer } from 'lucide-react';
 import { Session, SessionTime, TransitAlert } from '../types';
 import { exportItineraryToIcs } from '../utils/ical';
 import { copyShareableLink } from '../utils/share';
 import { getRequiredTransitMinutes } from '../utils/transit';
+import { exportItineraryToPdf } from '../utils/pdf';
+import { printSchedule } from '../utils/print';
 
 interface ItineraryDrawerProps {
   isOpen: boolean;
@@ -80,6 +82,14 @@ export const ItineraryDrawer: React.FC<ItineraryDrawerProps> = ({
 
   const handleExport = () => {
     exportItineraryToIcs(sessions);
+  };
+
+  const handleDownloadPdf = () => {
+    exportItineraryToPdf(sessions);
+  };
+
+  const handlePrint = () => {
+    printSchedule();
   };
 
   if (!isOpen) return null;
@@ -270,18 +280,40 @@ export const ItineraryDrawer: React.FC<ItineraryDrawerProps> = ({
           <div className="border-t border-slate-200 dark:border-slate-800 bg-slate-50/90 dark:bg-slate-900/90 p-4 sm:px-6 space-y-3">
             <div className="grid grid-cols-2 gap-2.5">
               <button
+                onClick={handleDownloadPdf}
+                disabled={!sessions.length}
+                className="flex items-center justify-center space-x-2 rounded-xl bg-amber-500 hover:bg-amber-400 disabled:opacity-50 py-2.5 text-xs sm:text-sm font-bold text-slate-950 shadow-md shadow-amber-500/20 transition cursor-pointer"
+                title="Download formatted itinerary PDF file"
+              >
+                <FileDown className="h-4 w-4" />
+                <span>Download PDF</span>
+              </button>
+
+              <button
+                onClick={handlePrint}
+                disabled={!sessions.length}
+                className="flex items-center justify-center space-x-2 rounded-xl bg-slate-900 dark:bg-slate-100 hover:bg-slate-800 dark:hover:bg-white text-white dark:text-slate-900 disabled:opacity-50 py-2.5 text-xs sm:text-sm font-bold shadow-md transition cursor-pointer"
+                title="Print clean multi-page schedule matrix"
+              >
+                <Printer className="h-4 w-4" />
+                <span>Print Schedule</span>
+              </button>
+
+              <button
                 onClick={handleExport}
                 disabled={!sessions.length}
-                className="flex items-center justify-center space-x-2 rounded-xl bg-amber-500 hover:bg-amber-400 disabled:opacity-50 py-2.5 text-xs sm:text-sm font-bold text-slate-950 shadow-md shadow-amber-500/20 transition"
+                className="flex items-center justify-center space-x-2 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-50 border border-slate-300 dark:border-slate-700 py-2.5 text-xs sm:text-sm font-semibold text-slate-800 dark:text-white transition shadow-sm cursor-pointer"
+                title="Export to iCalendar (.ics)"
               >
-                <Download className="h-4 w-4" />
-                <span>Export .ics Calendar</span>
+                <Download className="h-4 w-4 text-slate-500 dark:text-slate-400" />
+                <span>Export .ics</span>
               </button>
 
               <button
                 onClick={handleShare}
                 disabled={!sessions.length}
-                className="flex items-center justify-center space-x-2 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-50 border border-slate-300 dark:border-slate-700 py-2.5 text-xs sm:text-sm font-semibold text-slate-800 dark:text-white transition shadow-sm"
+                className="flex items-center justify-center space-x-2 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 disabled:opacity-50 border border-slate-300 dark:border-slate-700 py-2.5 text-xs sm:text-sm font-semibold text-slate-800 dark:text-white transition shadow-sm cursor-pointer"
+                title="Copy shareable link with current schedule"
               >
                 {copied ? <Check className="h-4 w-4 text-emerald-600 dark:text-emerald-400" /> : <Share2 className="h-4 w-4 text-slate-500 dark:text-slate-400" />}
                 <span>{copied ? 'Link Copied!' : 'Share Itinerary'}</span>

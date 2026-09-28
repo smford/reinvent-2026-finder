@@ -26,6 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "clsx": "^2.1.1",
+    "jspdf": "^4.2.1",
     "lucide-react": "^1.16.0",
     "minisearch": "^7.1.2",
     "react": "^19.0.0",

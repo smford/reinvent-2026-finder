@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
-import { Calendar, Compass, Share2, Download, RefreshCw, AlertTriangle, Check, Sun, Moon, ArrowDownToLine } from 'lucide-react';
+import { Calendar, Compass, Share2, Download, RefreshCw, AlertTriangle, Check, Sun, Moon, ArrowDownToLine, FileDown, Printer } from 'lucide-react';
 import { Session, TransitAlert } from '../types';
 import { exportItineraryToIcs } from '../utils/ical';
 import { copyShareableLink } from '../utils/share';
+import { exportItineraryToPdf } from '../utils/pdf';
+import { printSchedule } from '../utils/print';
 
 interface HeaderProps {
   totalSessions: number;
@@ -146,11 +148,45 @@ export const Header: React.FC<HeaderProps> = ({
             )}
           </button>
 
+          {/* Print Schedule Button */}
+          <button
+            onClick={() => {
+              if (!bookmarkedSessions.length) {
+                alert('Your itinerary is empty. Bookmark some sessions first to print your schedule!');
+                return;
+              }
+              printSchedule();
+            }}
+            disabled={!bookmarkedSessions.length}
+            className="hidden xl:flex items-center space-x-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 disabled:opacity-50 disabled:pointer-events-none border border-slate-200 dark:border-slate-700 px-2.5 sm:px-3 py-1.5 text-xs sm:text-sm font-medium text-slate-700 dark:text-slate-200 transition-colors cursor-pointer"
+            title="Print schedule matrix"
+          >
+            <Printer className="h-4 w-4 text-slate-500 dark:text-slate-300" />
+            <span>Print</span>
+          </button>
+
+          {/* Download PDF Button */}
+          <button
+            onClick={() => {
+              if (!bookmarkedSessions.length) {
+                alert('Your itinerary is empty. Bookmark some sessions first to download as PDF!');
+                return;
+              }
+              exportItineraryToPdf(bookmarkedSessions);
+            }}
+            disabled={!bookmarkedSessions.length}
+            className="hidden lg:flex items-center space-x-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 disabled:opacity-50 disabled:pointer-events-none border border-slate-200 dark:border-slate-700 px-2.5 sm:px-3 py-1.5 text-xs sm:text-sm font-medium text-slate-700 dark:text-slate-200 transition-colors cursor-pointer"
+            title="Download itinerary PDF"
+          >
+            <FileDown className="h-4 w-4 text-slate-500 dark:text-slate-300" />
+            <span>PDF</span>
+          </button>
+
           {/* Export to .ics Button */}
           <button
             onClick={handleExport}
             disabled={!bookmarkedSessions.length}
-            className="hidden sm:flex items-center space-x-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 disabled:opacity-50 disabled:pointer-events-none border border-slate-200 dark:border-slate-700 px-2.5 sm:px-3 py-1.5 text-xs sm:text-sm font-medium text-slate-700 dark:text-slate-200 transition-colors"
+            className="hidden sm:flex items-center space-x-1.5 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 disabled:opacity-50 disabled:pointer-events-none border border-slate-200 dark:border-slate-700 px-2.5 sm:px-3 py-1.5 text-xs sm:text-sm font-medium text-slate-700 dark:text-slate-200 transition-colors cursor-pointer"
             title="Export itinerary to iCalendar (.ics)"
           >
             <Download className="h-4 w-4 text-slate-500 dark:text-slate-300" />
