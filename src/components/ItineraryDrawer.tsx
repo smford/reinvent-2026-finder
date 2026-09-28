@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { X, Calendar, Clock, MapPin, Download, Share2, Trash2, AlertTriangle, Check, FileDown, Printer } from 'lucide-react';
-import { Session, SessionTime, TransitAlert } from '../types';
+import { Session, SessionTime, TransitAlert, ScheduleChangeNotice } from '../types';
 import { exportItineraryToIcs } from '../utils/ical';
 import { copyShareableLink } from '../utils/share';
 import { getRequiredTransitMinutes } from '../utils/transit';
@@ -12,6 +12,7 @@ interface ItineraryDrawerProps {
   onClose: () => void;
   sessions: Session[];
   transitAlerts: TransitAlert[];
+  scheduleChangeNotices?: ScheduleChangeNotice[];
   onRemoveSession: (id: string) => void;
   onClearAll: () => void;
   onSelectSession?: (session: Session) => void;
@@ -31,6 +32,7 @@ export const ItineraryDrawer: React.FC<ItineraryDrawerProps> = ({
   onClose,
   sessions,
   transitAlerts,
+  scheduleChangeNotices = [],
   onRemoveSession,
   onClearAll,
   onSelectSession,
@@ -205,6 +207,11 @@ export const ItineraryDrawer: React.FC<ItineraryDrawerProps> = ({
                             <span className="rounded bg-slate-100 dark:bg-slate-800 px-2 py-0.5 text-[10px] text-slate-700 dark:text-slate-300 font-medium">
                               {item.session.type}
                             </span>
+                            {scheduleChangeNotices.some((n) => n.sessionId === item.session.id) && (
+                              <span className="rounded bg-amber-500/20 border border-amber-500/40 px-1.5 py-0.2 text-[9px] font-bold text-amber-800 dark:text-amber-300 animate-pulse" title="This session was rescheduled by AWS">
+                                Rescheduled by AWS
+                              </span>
+                            )}
                           </div>
                           <h4
                             onClick={() => onSelectSession?.(item.session)}

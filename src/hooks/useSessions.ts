@@ -1,9 +1,10 @@
-import { useState, useEffect, useMemo, useCallback } from 'react';
+import { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import MiniSearch from 'minisearch';
-import { Session, Metadata, FilterState } from '../types';
+import { Session, Metadata, FilterState, SessionTime, ScheduleChangeNotice } from '../types';
 import { decodeItineraryFromUrl, encodeItineraryToUrl } from '../utils/share';
 
 const LOCAL_STORAGE_KEY = 'reinvent_itinerary_2026';
+const SCHEDULE_CHANGES_KEY = 'reinvent_schedule_changes_2026';
 
 const initialFilterState: FilterState = {
   searchQuery: '',
@@ -24,6 +25,25 @@ export function useSessions() {
   const [isLoading, setIsLoading] = useState(true);
   const [isRefreshingLive, setIsRefreshingLive] = useState(false);
   const [error, setError] = useState<string | null>(null);
+
+  // Schedule change notices (persisted across sessions)
+  const [scheduleChangeNotices, setScheduleChangeNotices] = useState<ScheduleChangeNotice[]>(() => {
+    try {
+      const stored = localStorage.getItem(SCHEDULE_CHANGES_KEY);
+      if (stored) return JSON.parse(stored);
+    } catch (e) {
+      console.warn('Could not read schedule changes from localStorage', e);
+    }
+    return [];
+  });
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(SCHEDULE_CHANGES_KEY, JSON.stringify(scheduleChangeNotices));
+    } catch (e) {
+      console.warn('Could not write schedule changes to localStorage', e);
+    }
+  }, [scheduleChangeNotices]);
 
   // Initialize filterState with bookmarkedOnly=true if URL contains an itinerary
   const [filterState, setFilterState] = useState<FilterState>(() => {
@@ -50,6 +70,11 @@ export function useSessions() {
     }
     return new Set();
   });
+
+  const sessionsRef = useRef(sessions);
+  sessionsRef.current = sessions;
+  const bookmarkedIdsRef = useRef(bookmarkedIds);
+  bookmarkedIdsRef.current = bookmarkedIds;
 
   // Listen for dynamic hashchange and popstate events (e.g. user pasting or navigating shared links)
   useEffect(() => {
@@ -119,6 +144,78 @@ export function useSessions() {
       }
 
       const sessionsData: Session[] = await sessionsRes.json();
+
+      // Check for schedule changes in bookmarked sessions (if not cold start and network sync)
+      if (forceNetwork && sessionsRef.current.length > 0 && bookmarkedIdsRef.current.size > 0) {
+        const detectedNotices: ScheduleChangeNotice[] = [];
+        const newMap = new Map<string, Session>();
+        sessionsData.forEach((s) => {
+          newMap.set(s.id, s);
+          if (s.code) newMap.set(s.code, s);
+        });
+
+        const formatSlot = (s: Session, t?: SessionTime) => {
+          if (!t) return `${s.campus || 'Venue TBD'} • Time TBD`;
+          return `${t.day || ''} ${t.startTimeFormatted || t.startTime} - ${t.endTimeFormatted || t.endTime} (${t.room || t.venue || s.campus})`.trim();
+        };
+
+        bookmarkedIdsRef.current.forEach((idOrCode) => {
+          const oldSession = sessionsRef.current.find((s) => s.id === idOrCode || s.code === idOrCode);
+          if (!oldSession) return;
+
+          const newSession = newMap.get(idOrCode);
+          if (!newSession) {
+            detectedNotices.push({
+              id: `${oldSession.id}-cancelled-${Date.now()}`,
+              sessionId: oldSession.id,
+              code: oldSession.code,
+              title: oldSession.title,
+              changeType: 'cancelled',
+              description: 'This session was removed from the official AWS catalog.',
+              oldSummary: formatSlot(oldSession, oldSession.times[0]),
+              newSummary: 'Cancelled / Removed by AWS',
+              timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+            });
+          } else {
+            const oldTime = oldSession.times[0];
+            const newTime = newSession.times[0];
+            const oldStr = formatSlot(oldSession, oldTime);
+            const newStr = formatSlot(newSession, newTime);
+
+            if (oldStr !== newStr) {
+              const isTimeChange = oldTime?.startTime !== newTime?.startTime || oldTime?.day !== newTime?.day;
+              const isCampusChange = oldSession.campus !== newSession.campus;
+              const changeType = isTimeChange ? 'rescheduled' : isCampusChange ? 'campus_changed' : 'room_changed';
+              const description = isTimeChange
+                ? `Rescheduled by AWS to ${newTime?.day || ''} ${newTime?.startTimeFormatted || newTime?.startTime || ''}.`
+                : isCampusChange
+                ? `Campus moved from ${oldSession.campus} to ${newSession.campus}.`
+                : `Room updated to ${newTime?.room || newSession.venue}.`;
+
+              detectedNotices.push({
+                id: `${newSession.id}-${changeType}-${Date.now()}`,
+                sessionId: newSession.id,
+                code: newSession.code,
+                title: newSession.title,
+                changeType,
+                description,
+                oldSummary: oldStr,
+                newSummary: newStr,
+                timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+              });
+            }
+          }
+        });
+
+        if (detectedNotices.length > 0) {
+          setScheduleChangeNotices((prev) => {
+            const existingIds = new Set(prev.map((n) => n.sessionId));
+            const fresh = detectedNotices.filter((n) => !existingIds.has(n.sessionId));
+            return [...fresh, ...prev];
+          });
+        }
+      }
+
       setSessions(sessionsData);
 
       if (metaRes && metaRes.ok) {
@@ -250,6 +347,16 @@ export function useSessions() {
   // Clear all bookmarks
   const clearBookmarks = useCallback(() => {
     setBookmarkedIds(new Set());
+  }, []);
+
+  // Dismiss a specific schedule change notice
+  const dismissScheduleChangeNotice = useCallback((id: string) => {
+    setScheduleChangeNotices((prev) => prev.filter((n) => n.id !== id));
+  }, []);
+
+  // Clear all schedule change notices
+  const clearAllScheduleChangeNotices = useCallback(() => {
+    setScheduleChangeNotices([]);
   }, []);
 
   // Optional Live Sync from AWS Rainfocus API directly in browser
@@ -387,6 +494,9 @@ export function useSessions() {
     clearBookmarks,
     refreshLiveFromAWS,
     reloadCatalog,
+    scheduleChangeNotices,
+    dismissScheduleChangeNotice,
+    clearAllScheduleChangeNotices,
     initialFilterState,
   };
 }

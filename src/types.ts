@@ -64,3 +64,15 @@ export interface FilterState {
   onlyScheduled: boolean;
   bookmarkedOnly: boolean;
 }
+
+export interface ScheduleChangeNotice {
+  id: string;
+  sessionId: string;
+  code: string;
+  title: string;
+  changeType: 'rescheduled' | 'room_changed' | 'campus_changed' | 'cancelled';
+  description: string;
+  oldSummary: string;
+  newSummary: string;
+  timestamp: string;
+}

@@ -6,6 +6,7 @@ import { Header } from './components/Header';
 import { FilterSidebar } from './components/FilterSidebar';
 import { SessionCard } from './components/SessionCard';
 import { TransitAlertBanner } from './components/TransitAlertBanner';
+import { ScheduleChangeBanner } from './components/ScheduleChangeBanner';
 import { ItineraryDrawer } from './components/ItineraryDrawer';
 import { CampusBundlerModal } from './components/CampusBundlerModal';
 import { SessionDetailModal } from './components/SessionDetailModal';
@@ -43,6 +44,9 @@ export const App: React.FC = () => {
     clearBookmarks,
     refreshLiveFromAWS,
     reloadCatalog,
+    scheduleChangeNotices,
+    dismissScheduleChangeNotice,
+    clearAllScheduleChangeNotices,
   } = useSessions();
 
   const [isItineraryOpen, setIsItineraryOpen] = useState(false);
@@ -136,6 +140,14 @@ export const App: React.FC = () => {
       {/* Transit Conflict Alert Banner */}
       <TransitAlertBanner
         alerts={transitAlerts}
+        onOpenItinerary={() => setIsItineraryOpen(true)}
+      />
+
+      {/* Schedule Reschedule / Notice Alert Banner */}
+      <ScheduleChangeBanner
+        notices={scheduleChangeNotices}
+        onDismissNotice={dismissScheduleChangeNotice}
+        onClearAllNotices={clearAllScheduleChangeNotices}
         onOpenItinerary={() => setIsItineraryOpen(true)}
       />
 
@@ -380,6 +392,7 @@ export const App: React.FC = () => {
         onClose={() => setIsItineraryOpen(false)}
         sessions={bookmarkedSessions}
         transitAlerts={transitAlerts}
+        scheduleChangeNotices={scheduleChangeNotices}
         onRemoveSession={toggleBookmark}
         onClearAll={clearBookmarks}
         onSelectSession={(s) => setSelectedSessionForModal(s)}
