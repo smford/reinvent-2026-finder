@@ -80,8 +80,8 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col font-sans transition-colors">
-      <div className="app-interactive-shell print:hidden flex flex-col min-h-screen">
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col font-sans transition-colors w-full max-w-full overflow-x-hidden">
+      <div className="app-interactive-shell print:hidden flex flex-col min-h-screen w-full max-w-full overflow-x-hidden">
         {/* Top Navigation Header with PWA Update Trigger */}
         <Header
         totalSessions={metadata?.totalSessions || sessions.length}
