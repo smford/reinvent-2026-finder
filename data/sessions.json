@@ -6486,21 +6486,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "AI agents are increasingly making real-world decisions — approving loans, issuing refunds, offering discounts — yet most fairness testing still focuses on whether chatbots use offensive language. This gap creates real business and regulatory risk. Join this session to explore how to assess whether your agentic AI systems apply equitable treatment across chosen demographic attributes using defined fairness criteria. Through hands-on examples spanning financial services, customer support, and commerce, discover how to move from language-level toxicity checks to decision-level fairness audits. Learn to identify disparate treatment, choose appropriate fairness metrics for your use case, and implement testing frameworks that catch bias where it matters most: in the outcomes that affect people's lives.",
     "times": [
       {
         "id": "1790360394664001AEaq",
         "date": "2026-12-01",
         "day": "Tuesday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Chopin 2",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 1 | Boulevard 167",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -13775,8 +13775,8 @@
       "Event-Driven Architecture"
     ],
     "roles": [
+      "DevOps Engineer",
       "Developer / Engineer",
-      "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
     "venue": "Caesars Forum",
@@ -13810,8 +13810,8 @@
       "Event-Driven Architecture"
     ],
     "roles": [
+      "DevOps Engineer",
       "Developer / Engineer",
-      "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
     "venue": "Wynn/Encore",
@@ -13915,8 +13915,14 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Discover how Amazon EventBridge simplifies enterprise-scale event routing across accounts and teams. In this hands-on builders' session, configure an event bus with routing policies, schema discovery, and access controls that let platform teams govern event flows while application teams ship independently. Working in small groups with AWS experts, you'll implement multi-account event routing patterns and test event delivery at scale. Bring your laptop and come ready to build!",
@@ -13944,8 +13950,14 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
     "abstract": "Discover how Amazon EventBridge simplifies enterprise-scale event routing across accounts and teams. In this hands-on builders' session, configure an event bus with routing policies, schema discovery, and access controls that let platform teams govern event flows while application teams ship independently. Working in small groups with AWS experts, you'll implement multi-account event routing patterns and test event delivery at scale. Bring your laptop and come ready to build!",
@@ -14003,7 +14015,10 @@
       "Application Integration"
     ],
     "areasOfInterest": [],
-    "roles": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Secure your APIs with confidence and build them faster. In this builders' session, dive into Amazon API Gateway authorization strategies including Amazon Cognito user pools, Amazon Verified Permissions, Lambda custom authorizers, IAM authorizers, and machine-to-machine scenarios. Through hands-on exercises, implement each strategy and understand their trade-offs. Once secured, ship faster—use Kiro CLI, OpenAPI, and MCP servers to go from spec to deployed API in minutes. You must bring your laptop to participate.",
@@ -14031,8 +14046,14 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Amazon EventBridge simplifies event routing for distributed applications. In this chalk talk, explore how to centralize multi-account event routing without custom infrastructure. We discuss routing policies, event discovery with schema registry, and access controls that let platform teams govern while app teams move independently. We also explore rate limiting and backpressure so your applications gracefully handle traffic spikes and protect downstream systems without losing events.",
@@ -14060,8 +14081,13 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Unlock the full potential of Amazon API Gateway for modern workloads. In this chalk talk, we discuss migration strategies from legacy API platforms using OpenAPI extensions, schema validation, and Infrastructure as Code. Then we tackle the agentic era: how do you design APIs that AI agents can discover, authenticate against, and call reliably? We explore custom authorizers, mutual TLS, and exposing your endpoints as MCP-compatible tool definitions. Bring your questions—we'll work through them on the whiteboard.",
@@ -14089,8 +14115,13 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
     "abstract": "Unlock the full potential of Amazon API Gateway for modern workloads. In this chalk talk, we discuss migration strategies from legacy API platforms using OpenAPI extensions, schema validation, and Infrastructure as Code. Then we tackle the agentic era: how do you design APIs that AI agents can discover, authenticate against, and call reliably? We explore custom authorizers, mutual TLS, and exposing your endpoints as MCP-compatible tool definitions. Bring your questions—we'll work through them on the whiteboard.",
@@ -14118,8 +14149,13 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "In this builders' session, design and deploy a workflow that chains AI service calls—document analysis, content generation, and decision routing—using AWS Step Functions and Lambda durable functions for checkpoint and recovery. Working in small groups, you'll implement error handling, human approval gates, and cost controls for AI-powered pipelines. Walk away with reusable patterns for production-ready GenAI workflows. You must bring your laptop to participate.",
@@ -14147,8 +14183,13 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Event-driven architectures promise decoupling and scalability, but production systems reveal hard-won lessons. In this chalk talk, we dissect the most expensive anti-patterns teams encounter such as unbounded fan-out, missing dead-letter queues, chatty event schemas that drive up costs, and orchestration gaps that silently drop work. We whiteboard fixes using Amazon EventBridge, AWS Step Functions, and proven enterprise integration patterns, then walk through designs that keep event-driven systems reliable, cost-effective, and observable at scale.",
@@ -14176,8 +14217,13 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Event-driven architectures promise decoupling and scalability, but production systems reveal hard-won lessons. In this chalk talk, we dissect the most expensive anti-patterns teams encounter such as unbounded fan-out, missing dead-letter queues, chatty event schemas that drive up costs, and orchestration gaps that silently drop work. We whiteboard fixes using Amazon EventBridge, AWS Step Functions, and proven enterprise integration patterns, then walk through designs that keep event-driven systems reliable, cost-effective, and observable at scale.",
@@ -14199,17 +14245,22 @@
   {
     "id": "1780441496748001GEDU",
     "code": "API312",
-    "title": "Building event-driven, multi-agent architectures on serverless",
+    "title": "Building event-driven, multi-agent swarms on serverless",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Multi-agent AI systems need communication patterns that are decoupled, observable, and scalable. In this chalk talk, we map out agent coordination patterns using Amazon EventBridge: peer-to-peer messaging, supervisor-worker hierarchies, and broadcast coordination. We discuss how to choose an orchestration approach, handle multi-agent failure modes like cascading hallucinations and circular delegation, and design real-time coordination protocols that prevent conflicting actions. ",
+    "abstract": "Multi-agent AI systems need communication that is decoupled, observable, and scalable. In this chalk talk, we show how to coordinate swarms of independent agents through event choreography on Amazon EventBridge. Each agent reacts to events and emits new ones rather than being told what to do by a central controller. We discuss how to handle multi-agent failure modes like cascading hallucinations and runaway event loops (circular delegation), and how to prevent independent agents from taking conflicting actions.",
     "times": [
       {
         "id": "1790025495941001CJjg",
@@ -14235,7 +14286,10 @@
       "Application Integration"
     ],
     "areasOfInterest": [],
-    "roles": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
     "abstract": "In this chalk talk, learn how to optimize your serverless data processing workflows at scale. We cover AWS Step Functions Distributed Map for massive parallel batch processing and AWS Lambda durable functions for durable execution workflows. See how to combine these with Lambda event source mappings for stream and queue processing. We discuss cost optimization strategies and when to choose each approach for your data workload.",
@@ -14264,7 +14318,10 @@
       "Application Integration"
     ],
     "areasOfInterest": [],
-    "roles": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Lambda durable functions let you write reliable, long-running workflows as sequential code. We start with how durable execution works: checkpointing, replay-based recovery, and the programming model. Next, we explore production patterns including sagas, fan-out/fan-in, and human-in-the-loop waits. Finally, we cover observability, a decision framework to help you choose when to use durable functions versus AWS Step Functions, and operational considerations like concurrency, cost, and versioning.",
@@ -14293,7 +14350,10 @@
       "Application Integration"
     ],
     "areasOfInterest": [],
-    "roles": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Lambda durable functions let you write reliable, long-running workflows as sequential code. We start with how durable execution works: checkpointing, replay-based recovery, and the programming model. Next, we explore production patterns including sagas, fan-out/fan-in, and human-in-the-loop waits. Finally, we cover observability, a decision framework to help you choose when to use durable functions versus AWS Step Functions, and operational considerations like concurrency, cost, and versioning.",
@@ -14560,8 +14620,14 @@
     "topics": [
       "Application Integration"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "In this builders' session, transform a batch-oriented data processing pipeline into a real-time, event-driven architecture using Amazon EventBridge, AWS Lambda, and AWS Step Functions. Working hands-on in small groups, you'll decompose a monolithic batch process into discrete event-driven steps, implement file-processing triggers, and design fan-out patterns for parallel execution. Learn when to keep batch and when to go event-driven, and leave with a working modernization pattern. You must bring your laptop to participate.",
@@ -18242,7 +18308,7 @@
   {
     "id": "1780441465993001GIUO",
     "code": "BIZ213",
-    "title": "From AI Skeptic to Enterprise AI Champion with Amazon Quick",
+    "title": "Accelerating AI adoption and realized value with Amazon Quick",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -19120,21 +19186,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Every organization is building AI agents for inbound, but who's automating outreach? In this workshop, you become a carrier responding to a device safety recall. Instead of posting a notice and waiting for calls, you build a system that identifies affected customers, prioritizes them by risk and value, and deploys an AI agent to reach them by voice before they ever pick up the phone. Walk away with a working proactive outreach engine and the architecture to deploy anticipatory engagement at scale.",
     "times": [
       {
         "id": "1790360399740001ApIK",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "08:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 120,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 1",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 3 | Premier 317",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -19178,21 +19244,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Your customer is halfway through an application in your app, and stuck. Today they abandon it, call you, and start explaining from scratch. In this hands-on workshop you build a single unbroken conversation that escalates in richness without losing context. A customer opens chat inside your application. When they stall on a form, the agent co-browses the page and sees the blocking field, then uses agent assist to answer a policy question with cited sources. The conversation carries into an in-app call, context intact, no phone number and no repeated details. Documents are reviewed over screen share, identity is confirmed over video, and because it's a joint application the co-applicant and a product specialist join the same call. Walk away with an escalation pattern combining persistent context, WebRTC channels and AI-assisted agents, for any high-consideration interaction.",
     "times": [
       {
         "id": "1790360403199001AKwA",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "08:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 120,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 7",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 3 | Premier 310",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -19294,21 +19360,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Moving from one agent to enterprise-wide automation means choosing the right path — Flows, Automate, Custom Agents, persistent agents — and the right trigger model. In this chalk talk, we whiteboard a decision framework that bakes in evaluation and cost management from the start, not as afterthoughts. We'll connect orchestration across 25+ connectors, skills, and workstreams to measurable outcomes and dollars. Bring your automation backlog — you'll leave with a decision matrix, eval harness, and ROI story.",
     "times": [
       {
         "id": "1790360378115001AJcQ",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 1 | Boulevard 167",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Convention Promenade | Montrachet 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -19579,21 +19645,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Every organization is building AI agents, but few have made it to production. You can't prove it works, you can't prove it's responsible, and compliance won't sign off. In this chalk talk, we walk through a production-readiness framework for AI agents on Amazon Connect. First, evaluation: measuring resolution with the Connect Simulation API to score AI agents on the same bar as human agents. Second, responsible AI: disclosure patterns that build trust, escalation triggers for sensitive journeys, and harm avoidance for regulated industries. Third, safeguards: defense-in-depth governance for agents that process refunds and access sensitive data, including asymmetric PII, MCP tool authorization for human confirmation, and automated escalation when confidence drops. Leave with a checklist: what to measure, what to disclose, what to block, and when to ship.",
     "times": [
       {
         "id": "1790360387956001Az9z",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Room 350",
-        "venue": "MGM Grand"
+        "room": "Caesars Forum | Level 1 | Alliance 314",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -20066,7 +20132,7 @@
   {
     "id": "1780442225668001c2Zz",
     "code": "CMP302-R",
-    "title": "Automate and secure EC2 Image Builder with AI agents",
+    "title": "Agents at the Gate: Governing AI in EC2 Image Builder",
     "type": "Builders' session",
     "level": "300 - Advanced",
     "topics": [
@@ -20104,7 +20170,7 @@
   {
     "id": "1790358227152001ieko",
     "code": "CMP302-R1",
-    "title": "Automate and secure EC2 Image Builder with AI agents",
+    "title": "Agents at the Gate: Governing AI in EC2 Image Builder",
     "type": "Builders' session",
     "level": "300 - Advanced",
     "topics": [
@@ -38416,7 +38482,7 @@
   {
     "id": "1780441504229001Gmvx",
     "code": "GHJ308-S",
-    "title": "Agentic AI Jam - brought to you by Nvidia",
+    "title": "Agentic AI Jam - Sponsored by Nvidia",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38431,7 +38497,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four or join a team and meet new friends in the session. Are you ready to build and deploy agentic AI solutions on AWS? We provide hands-on environments where you can architect intelligent and production-ready agents. How do you orchestrate multi-step agent reasoning with tool use? How can you design agents that plan, act, and self-correct autonomously? Whether you are new to AWS or a seasoned Cloud Ninja, this Jam is your chance to demonstrate your skills and learn new ones. Structured for all experience levels, our sessions include guided exercises, helpful clues, and support from AWS experts to accelerate your agentic AI expertise. Team up, compete with others, climb the leaderboard, and win prizes based on speed and accuracy. With expert guidance every step of the way, all you need is a computer, a desire to learn, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Solve real-world Gen AI and Agentic AI scenarios using Amazon Bedrock, SageMaker AI & Kiro — including a sponsored challenge from NVIDIA to build and optimize GenAI workloads using NVIDIA's accelerated computing and AI inference stack on AWS. Challenges suit all skill levels, with AWS experts and helpful clues throughout. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790015012967001orSD",
@@ -38450,7 +38516,7 @@
   {
     "id": "1780441504291001GHKc",
     "code": "GHJ309-S",
-    "title": "DevOps and Modernization Jam – brought to you by LaunchDarkly",
+    "title": "DevOps and Modernization Jam – Sponsored by LaunchDarkly",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38467,7 +38533,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four, or join a team and meet new friends in the session. Compete head-to-head, race to the top of the leaderboard, and win prizes based on speed and accuracy. What if AI agents could autonomously manage your entire deployment pipeline? In this Jam, we provide hands-on environments where you can refactor applications using Kiro and automate operations with the Amazon DevOps Agent. Use spec-driven development to transform legacy monoliths into modern architecture. Configure AI agents that optimize your CI/CD pipelines for production.  Structured for all experience levels, our sessions include guided exercises, helpful clues, and support from AWS experts to boost your modernization and DevOps expertise. All you need is a computer, a desire to learn, and a competitive spirit. ",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle hands-on DevOps scenarios to modernize architectures and implement best practices — including a sponsored challenge from LaunchDarkly to ship safely with feature flags and progressive delivery. Whether you're new to AWS or a seasoned Cloud Ninja, guided exercises and AWS experts support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790020028137001K98K",
@@ -38486,7 +38552,7 @@
   {
     "id": "1780441504367001GwC3",
     "code": "GHJ310-S",
-    "title": "Security Jam - brought to you by Fortinet",
+    "title": "Security Jam - Sponsored by Fortinet",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38504,7 +38570,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four, or join a team and meet new friends in the session. Compete head-to-head, race to the top of the leaderboard, and win prizes based on speed and accuracy. Are you ready to defend cloud environments with agentic AI-powered security on AWS? We provide incident response scenarios where you can sharpen your skills by working through simulated breaches. Can you identify the attack vector that caused the compromise? How would you deploy AI agents to autonomously detect and contain the threat? How can you architect self-healing defenses that prevent incidents from recurring? Whether you are new to AWS, new to security, or experienced in both, this session is for you. Our guided exercises and AWS experts will support learners of all levels. All you need is a computer, a desire to learn, and a competitive spirit to take on the challenge.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Work through simulated incident response scenarios — including a sponsored challenge from Fortinet to test your skills securing cloud workloads with Fortinet's network and cloud security platform. Can you find the breach and prevent the next one? AWS experts and guided exercises support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790014921282001ocbP",
@@ -38541,7 +38607,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four, or join a team and meet new friends in the session. Compete head-to-head, race to the top of the leaderboard, and win prizes based on speed and accuracy. Ready to dive deep into AWS? Join our All-In Session featuring hands-on environments where you'll tackle AI-powered solutions, DevOps automation, and cloud security scenarios. You'll explore cutting-edge AI services, streamline deployments, and implement security best practices. Whether you're new to AWS or an experienced Cloud Ninja, this is your chance to shine and learn. Our challenges are designed for all skill levels, with helpful clues and AWS expert support throughout. Work solo or as part of a team to complete real world scenarios, expand your AWS expertise, and connect with fellow cloud enthusiasts. All you need is a laptop, enthusiasm for learning, and a competitive spirit. ",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Dive deep into AWS with our All-In session — hands-on environments covering AI-powered solutions, DevOps automation, and cloud security. Explore cutting-edge AI services, streamline deployments, and implement security best practices. Challenges are designed for all skill levels, with helpful clues and AWS expert support throughout. Work solo or as a team on real-world scenarios, expand your AWS expertise, and connect with fellow cloud enthusiasts. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790019982541001g2oU",
@@ -38577,7 +38643,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four or join a team and meet new friends in the session. Compete head-to-head, race to the top of the leaderboard, and win prizes based on speed and accuracy. What if AI agents could autonomously manage your entire deployment pipeline? In this Jam, we provide hands-on environments where you can refactor applications using Kiro and automate operations with the Amazon DevOps Agent. Use spec-driven development to transform legacy monoliths into modern architecture. Configure AI agents that optimize your CI/CD pipelines for production.  Structured for all experience levels, our sessions include guided exercises, helpful clues, and support from AWS experts to boost your modernization and DevOps expertise. All you need is a computer, a desire to learn, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle hands-on DevOps environments to improve applications and modernize architectures using multiple AWS services. What are the limitations of the current solution? How can you do it better? Whether you're new to AWS or a seasoned Cloud Ninja, this is your chance to demonstrate and grow your skills. Guided exercises, helpful clues, and AWS expert support throughout. All you need: a laptop, a desire to learn, and a competitive spirit.",
     "times": [
       {
         "id": "1790023777658001F4PC",
@@ -38596,7 +38662,7 @@
   {
     "id": "1780442258703001cqxr",
     "code": "GHJ313-S",
-    "title": "Security Jam - brought to you by Semgrep",
+    "title": "Security Jam - Sponsored by Semgrep",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38614,7 +38680,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four, or join a team and meet new friends in the session. Compete head-to-head, race to the top of the leaderboard, and win prizes based on speed and accuracy. Are you ready to defend cloud environments with agentic AI-powered security on AWS? We provide incident response scenarios where you can sharpen your skills by working through simulated breaches. Can you identify the attack vector that caused the compromise? How would you deploy AI agents to autonomously detect and contain the threat? How can you architect self-healing defenses that prevent incidents from recurring? Whether you are new to AWS, new to security, or experienced in both, this session is for you. Our guided exercises and AWS experts will support learners of all levels. All you need is a computer, a desire to learn, and a competitive spirit to take on the challenge. ",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Work through simulated incident response scenarios — including a sponsored challenge from Semgrep to find and fix code vulnerabilities early using Semgrep's static analysis and code security scanning. Can you find the breach and prevent the next one? AWS experts and guided exercises support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790020771163001OA4w",
@@ -38665,7 +38731,7 @@
   {
     "id": "1780442258818001colI",
     "code": "GHJ317-S",
-    "title": "AWS Jam: All-in Builder Showdown - brought to you by Vonage ",
+    "title": "AWS Jam: All-in Builder Showdown - Sponsored by Vonage ",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38684,7 +38750,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of four, or join a team and meet new friends in the session. Compete head-to-head, race to the top of the leaderboard, and win prizes based on speed and accuracy. Ready to dive deep into AWS? Join our All-In Session featuring hands-on environments where you'll tackle AI-powered solutions, DevOps automation, and cloud security scenarios. You'll explore cutting-edge AI services, streamline deployments, and implement security best practices. Whether you're new to AWS or an experienced Cloud Ninja, this is your chance to shine and learn. Our challenges are designed for all skill levels, with helpful clues and AWS expert support throughout. Work solo or as part of a team to complete real world scenarios, expand your AWS expertise, and connect with fellow cloud enthusiasts. All you need is a laptop, enthusiasm for learning, and a competitive spirit. ",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle AI, DevOps, and security scenarios across AWS services — including a sponsored challenge from Vonage to add real-time voice, video, and messaging to applications using Vonage communications APIs. Challenges suit all skill levels, with AWS expert guidance and helpful clues throughout. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790023812973001VLnP",
@@ -39995,21 +40061,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Learn how to extend Amazon Bedrock AgentCore to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed agentic apps using Model Context Protocol (MCP) and agent-to-agent (A2A) communication with on-prem data. Get hands-on with hybrid agentic AI using Amazon Bedrock and Strands Agents while exploring AWS hybrid and edge solutions for data residency compliance. ",
     "times": [
       {
         "id": "1790360383262001ArMI",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "12:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "12:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "03:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 120,
-        "room": "MGM Grand | Level 3 | Premier 310",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -47501,6 +47567,43 @@
     ]
   },
   {
+    "id": "1787870984320001HQXF",
+    "code": "INV001",
+    "title": "Ctrl+Alt+Ship: Hands-on with Kiro, Amazon Quick, and Amazon Connect Customer",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Workstations are provided; no reservation needed. Labs are 30-60 min.",
+    "times": [
+      {
+        "id": "1790273873719001yDC5",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Ctrl+Alt+Ship",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1780441493349001G6lf",
     "code": "INV501",
     "title": "AtoZ AI Co-Scientist: Multi-Agent Systems That Do Research With You",
@@ -51564,7 +51667,7 @@
   {
     "id": "1786823307680001leci",
     "code": "MAM345",
-    "title": "How HealthEdge is consolidating 8,700 servers from multicloud to AWS",
+    "title": "Multicloud-to-AWS transformation: HealthEdge migrating 8,700 servers",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -60584,7 +60687,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.",
+    "abstract": "Forensics is one of the hardest, most manual parts of incident response, and it usually requires a specialist. In this code talk, we work through a realistic Kubernetes cluster compromise where an Amazon GuardDuty finding kicks off the forensics investigation. We watch as an AI agent identifies injected code, and reconstructs the attack chain. Then we tackle the real problem. Forensic evidence needs determinism and a defensible chain of custody, and generative AI is not deterministic. We show the techniques that close that gap, so an AI-driven investigation produces evidence you can defend.",
     "times": [
       {
         "id": "1790033113066001qpyf",
@@ -60981,7 +61084,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AI agents built on Amazon Bedrock AgentCore accept untrusted input and make outbound API calls, creating both ingress and egress attack surfaces. In this session, learn how to defend both paths using AWS WAF and AWS Network Firewall. See how WAF authenticates callers, enforces rate limits, and blocks prompt-injection payloads before they reach your agent, while Network Firewall applies managed threat-intelligence categories to drop egress traffic to malicious destinations without maintaining custom deny lists. Walk away with a deployable defense-in-depth boundary pattern for your agentic AI workloads.",
+    "abstract": "Teams deploying AI agents inherit two exposures. Any client reaching the endpoint can invoke the agent, and it can reach any destination its tools name. In this builders' session, learn to close both gaps with AWS managed controls. Put AWS WAF Bot Control in front of your Amazon Bedrock AgentCore Gateway to classify callers and admit only the classes you choose, then route the agent through AWS Network Firewall and use domain category filtering to decide which destination categories it may reach. Run each control in count or alert mode, then enforce it and verify the allowed and the refused path. Leave with a two-boundary pattern you can apply to your own agent deployments.",
     "times": [
       {
         "id": "1790025516353001CnPr",
@@ -64099,7 +64202,7 @@
   {
     "id": "1780441490688001GCMC",
     "code": "STG306",
-    "title": "Building Apache Iceberg data lakes with Amazon S3 Tables",
+    "title": "Amazon S3 Tables: A deep dive into storage built for Apache Iceberg",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -65493,7 +65596,7 @@
   {
     "id": "1780441503025001GtwA",
     "code": "STG348-R",
-    "title": "Designing cost-efficient Iceberg data lakes on Amazon S3 Tables",
+    "title": "Designing performant and cost-effective data lakes on Amazon S3 Tables",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
