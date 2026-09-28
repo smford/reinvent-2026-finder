@@ -19,6 +19,13 @@ interface HeaderProps {
   updateAvailable: boolean;
   isOnline: boolean;
   lastSyncTime: string | null;
+  canIncreaseTextSize: boolean;
+  canDecreaseTextSize: boolean;
+  textSizeLabel: string;
+  isDefaultTextSize: boolean;
+  onIncreaseTextSize: () => void;
+  onDecreaseTextSize: () => void;
+  onResetTextSize: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -34,6 +41,13 @@ export const Header: React.FC<HeaderProps> = ({
   updateAvailable,
   isOnline,
   lastSyncTime,
+  canIncreaseTextSize,
+  canDecreaseTextSize,
+  textSizeLabel,
+  isDefaultTextSize,
+  onIncreaseTextSize,
+  onDecreaseTextSize,
+  onResetTextSize,
 }) => {
   const [copied, setCopied] = useState(false);
 
@@ -215,6 +229,50 @@ export const Header: React.FC<HeaderProps> = ({
               </span>
             )}
           </button>
+
+          {/* Text Size Controls */}
+          <div
+            className="flex items-center rounded-lg border border-slate-200 dark:border-slate-700 overflow-hidden flex-shrink-0"
+            title={`Font size: ${textSizeLabel}`}
+          >
+            <button
+              onClick={onDecreaseTextSize}
+              disabled={!canDecreaseTextSize}
+              className="flex items-center justify-center p-1.5 text-slate-600 hover:text-slate-900 hover:bg-slate-100 dark:text-slate-300 dark:hover:text-slate-100 dark:hover:bg-slate-800 transition disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer"
+              title="Decrease font size"
+              aria-label="Decrease font size"
+            >
+              <span className="text-[11px] font-bold leading-none select-none">A</span>
+            </button>
+            {/* Centre dot — lights up when non-default; click to reset */}
+            <button
+              onClick={isDefaultTextSize ? undefined : onResetTextSize}
+              className={`flex items-center justify-center w-5 h-full transition border-x border-slate-200 dark:border-slate-700 ${
+                isDefaultTextSize
+                  ? 'cursor-default'
+                  : 'hover:bg-slate-100 dark:hover:bg-slate-800 cursor-pointer'
+              }`}
+              title={isDefaultTextSize ? 'Default font size' : `Reset to default (currently: ${textSizeLabel})`}
+              aria-label={isDefaultTextSize ? 'Default font size' : 'Reset font size to default'}
+            >
+              <span
+                className={`block h-1.5 w-1.5 rounded-full transition-colors ${
+                  isDefaultTextSize
+                    ? 'bg-slate-300 dark:bg-slate-600'
+                    : 'bg-amber-500 dark:bg-amber-400'
+                }`}
+              />
+            </button>
+            <button
+              onClick={onIncreaseTextSize}
+              disabled={!canIncreaseTextSize}
+              className="flex items-center justify-center p-1.5 text-slate-600 hover:text-slate-900 hover:bg-slate-100 dark:text-slate-300 dark:hover:text-slate-100 dark:hover:bg-slate-800 transition disabled:opacity-30 disabled:cursor-not-allowed cursor-pointer"
+              title="Increase font size"
+              aria-label="Increase font size"
+            >
+              <span className="text-[15px] font-bold leading-none select-none">A</span>
+            </button>
+          </div>
 
           {/* Light / Dark Mode Toggle */}
           <button

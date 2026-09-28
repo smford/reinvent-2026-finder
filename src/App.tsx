@@ -2,6 +2,7 @@ import React, { useState, useMemo } from 'react';
 import { useSessions } from './hooks/useSessions';
 import { useTheme } from './hooks/useTheme';
 import { usePWA } from './hooks/usePWA';
+import { useTextSize } from './hooks/useTextSize';
 import { Header } from './components/Header';
 import { FilterSidebar } from './components/FilterSidebar';
 import { SessionCard } from './components/SessionCard';
@@ -19,6 +20,15 @@ import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X, Calendar, FileDown
 
 export const App: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
+  const {
+    canIncrease: canIncreaseTextSize,
+    canDecrease: canDecreaseTextSize,
+    label: textSizeLabel,
+    isDefault: isDefaultTextSize,
+    increaseSize: onIncreaseTextSize,
+    decreaseSize: onDecreaseTextSize,
+    resetSize: onResetTextSize,
+  } = useTextSize();
   const {
     isOnline,
     updateAvailable,
@@ -96,6 +106,13 @@ export const App: React.FC = () => {
         updateAvailable={updateAvailable}
         isOnline={isOnline}
         lastSyncTime={lastSyncTime}
+        canIncreaseTextSize={canIncreaseTextSize}
+        canDecreaseTextSize={canDecreaseTextSize}
+        textSizeLabel={textSizeLabel}
+        isDefaultTextSize={isDefaultTextSize}
+        onIncreaseTextSize={onIncreaseTextSize}
+        onDecreaseTextSize={onDecreaseTextSize}
+        onResetTextSize={onResetTextSize}
       />
 
       {/* PWA Connectivity & Update Status Banner */}

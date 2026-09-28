@@ -1,4 +1,4 @@
-const CACHE_NAME = 'reinvent-2026-cache-v7';
+const CACHE_NAME = 'reinvent-2026-cache-v8';
 
 const PRECACHE_ASSETS = [
   './',
