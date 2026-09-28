@@ -1,4 +1,7 @@
-# AWS re:Invent 2026 Session Finder & Campus Bundler
+<div align="center">
+  <img src="public/logo.svg" width="110" height="110" alt="AWS re:Invent 2026 Session Finder Logo" />
+  <h1>AWS re:Invent 2026 Session Finder & Campus Bundler</h1>
+</div>
 
 [![Deploy to GitHub Pages](https://github.com/smford/reinvent-2026-finder/actions/workflows/deploy.yml/badge.svg)](https://github.com/smford/reinvent-2026-finder/actions/workflows/deploy.yml)
 

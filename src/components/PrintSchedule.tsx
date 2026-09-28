@@ -81,13 +81,20 @@ export const PrintSchedule: React.FC<PrintScheduleProps> = ({ sessions }) => {
       {/* Document Header */}
       <div className="border-b-2 border-slate-900 pb-3 mb-6">
         <div className="flex items-center justify-between">
-          <div>
-            <h1 className="text-2xl font-black tracking-tight text-slate-900">
-              AWS re:Invent 2026 — Schedule Matrix
-            </h1>
-            <p className="text-xs text-slate-600 mt-0.5">
-              Personalized Conference Itinerary & Transit Verification • Generated on {generatedDate}
-            </p>
+          <div className="flex items-center space-x-3">
+            <img
+              src={`${import.meta.env.BASE_URL}logo.svg`}
+              alt="re:Invent Logo"
+              className="h-10 w-10 rounded-lg flex-shrink-0"
+            />
+            <div>
+              <h1 className="text-2xl font-black tracking-tight text-slate-900">
+                AWS re:Invent 2026 — Schedule Matrix
+              </h1>
+              <p className="text-xs text-slate-600 mt-0.5">
+                Personalized Conference Itinerary & Transit Verification • Generated on {generatedDate}
+              </p>
+            </div>
           </div>
           <div className="text-right">
             <span className="inline-block border border-slate-300 rounded px-2.5 py-1 text-xs font-bold text-slate-800 bg-slate-100">

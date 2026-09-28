@@ -58,8 +58,12 @@ export const Header: React.FC<HeaderProps> = ({
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         {/* Brand & Event Title */}
         <div className="flex items-center space-x-3">
-          <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-tr from-amber-500 to-orange-600 text-slate-950 shadow-lg shadow-orange-500/20 font-black text-xl">
-            ⚡
+          <div className="flex h-10 w-10 items-center justify-center rounded-xl overflow-hidden shadow-lg shadow-orange-500/20 border border-slate-700/40 bg-slate-900 flex-shrink-0">
+            <img
+              src={`${import.meta.env.BASE_URL}logo.svg`}
+              alt="re:Invent 2026 Logo"
+              className="h-full w-full object-cover"
+            />
           </div>
           <div>
             <div className="flex items-center space-x-2">

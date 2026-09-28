@@ -1,10 +1,12 @@
-const CACHE_NAME = 'reinvent-2026-cache-v5';
+const CACHE_NAME = 'reinvent-2026-cache-v6';
 
 const PRECACHE_ASSETS = [
   './',
   './index.html',
   './manifest.json',
+  './logo.svg',
   './icon.svg',
+  './favicon.ico',
   './icon-192.png',
   './icon-512.png',
   './data/sessions.min.json',
