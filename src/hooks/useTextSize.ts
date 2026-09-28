@@ -1,24 +1,32 @@
 import { useState, useEffect } from 'react';
 
-export type TextSize = 'xs' | 'sm' | 'md' | 'lg' | 'xl';
+export type TextSize = 'xs' | 'sm' | 'md' | 'lg' | 'xl' | '2xl' | '3xl' | '4xl' | '5xl';
 
 const SIZE_SCALE: Record<TextSize, number> = {
-  xs: 85,
-  sm: 92,
-  md: 100,
-  lg: 112,
-  xl: 125,
+  xs:  85,
+  sm:  92,
+  md:  100,
+  lg:  112,
+  xl:  125,
+  '2xl': 140,
+  '3xl': 160,
+  '4xl': 180,
+  '5xl': 200,
 };
 
 const SIZE_LABELS: Record<TextSize, string> = {
-  xs: 'Smallest',
-  sm: 'Small',
-  md: 'Default',
-  lg: 'Large',
-  xl: 'Largest',
+  xs:    'Smallest (85%)',
+  sm:    'Small (92%)',
+  md:    'Default (100%)',
+  lg:    'Large (112%)',
+  xl:    'Larger (125%)',
+  '2xl': 'X-Large (140%)',
+  '3xl': 'XX-Large (160%)',
+  '4xl': 'XXX-Large (180%)',
+  '5xl': 'Maximum (200%)',
 };
 
-const SIZES: TextSize[] = ['xs', 'sm', 'md', 'lg', 'xl'];
+const SIZES: TextSize[] = ['xs', 'sm', 'md', 'lg', 'xl', '2xl', '3xl', '4xl', '5xl'];
 
 function applyTextSize(size: TextSize) {
   document.documentElement.style.setProperty('--font-scale', `${SIZE_SCALE[size]}%`);
@@ -60,7 +68,7 @@ export function useTextSize() {
 
   const resetSize = () => setTextSizeState('md');
 
-  const canIncrease = textSize !== 'xl';
+  const canIncrease = textSize !== '5xl';
   const canDecrease = textSize !== 'xs';
   const label = SIZE_LABELS[textSize];
   const isDefault = textSize === 'md';
