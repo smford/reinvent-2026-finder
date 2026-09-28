@@ -63,19 +63,30 @@ export function useSessions() {
         const baseUrl = import.meta.env.BASE_URL || '/';
         const cleanBase = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
 
-        const [sessionsRes, metaRes] = await Promise.all([
-          fetch(`${cleanBase}data/sessions.min.json`),
-          fetch(`${cleanBase}data/metadata.json`),
-        ]);
+        let sessionsRes: Response | null = await fetch(`${cleanBase}data/sessions.min.json`).catch(() => null);
+        let metaRes: Response | null = await fetch(`${cleanBase}data/metadata.json`).catch(() => null);
 
-        if (!sessionsRes.ok) {
-          throw new Error(`Failed to load sessions: ${sessionsRes.statusText}`);
+        // Fallback to CacheStorage if network is offline
+        if ((!sessionsRes || !sessionsRes.ok) && typeof caches !== 'undefined') {
+          const cachedSession =
+            (await caches.match(`${cleanBase}data/sessions.min.json`)) ||
+            (await caches.match('./data/sessions.min.json'));
+          if (cachedSession) sessionsRes = cachedSession;
+
+          const cachedMeta =
+            (await caches.match(`${cleanBase}data/metadata.json`)) ||
+            (await caches.match('./data/metadata.json'));
+          if (cachedMeta) metaRes = cachedMeta;
+        }
+
+        if (!sessionsRes || !sessionsRes.ok) {
+          throw new Error('Unable to load session catalog. Please check your connection.');
         }
 
         const sessionsData: Session[] = await sessionsRes.json();
         setSessions(sessionsData);
 
-        if (metaRes.ok) {
+        if (metaRes && metaRes.ok) {
           const metaData: Metadata = await metaRes.json();
           setMetadata(metaData);
         }

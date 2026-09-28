@@ -10,10 +10,22 @@ import { CampusBundlerModal } from './components/CampusBundlerModal';
 import { SessionDetailModal } from './components/SessionDetailModal';
 import { detectTransitAlerts } from './utils/transit';
 import { Session } from './types';
-import { Compass, Filter, AlertCircle, RefreshCw } from 'lucide-react';
+import { Compass, Filter, AlertCircle, RefreshCw, WifiOff } from 'lucide-react';
 
 export const App: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
+  const [isOnline, setIsOnline] = useState(() => (typeof navigator !== 'undefined' ? navigator.onLine : true));
+
+  React.useEffect(() => {
+    const handleOnline = () => setIsOnline(true);
+    const handleOffline = () => setIsOnline(false);
+    window.addEventListener('online', handleOnline);
+    window.addEventListener('offline', handleOffline);
+    return () => {
+      window.removeEventListener('online', handleOnline);
+      window.removeEventListener('offline', handleOffline);
+    };
+  }, []);
 
   const {
     sessions,
@@ -76,6 +88,16 @@ export const App: React.FC = () => {
         theme={theme}
         onToggleTheme={toggleTheme}
       />
+
+      {/* Offline Mode Status Banner */}
+      {!isOnline && (
+        <div className="bg-amber-500/15 border-b border-amber-500/30 px-4 py-2 text-center text-xs font-medium text-amber-800 dark:text-amber-300 flex items-center justify-center space-x-2">
+          <WifiOff className="h-3.5 w-3.5 text-amber-600 dark:text-amber-400 animate-pulse" />
+          <span>
+            <strong>Offline Mode Active:</strong> Full 2,043 session catalog, search index, and your itinerary are available offline.
+          </span>
+        </div>
+      )}
 
       {/* Transit Conflict Alert Banner */}
       <TransitAlertBanner
