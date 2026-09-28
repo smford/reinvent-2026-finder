@@ -11,7 +11,7 @@ import { CampusBundlerModal } from './components/CampusBundlerModal';
 import { SessionDetailModal } from './components/SessionDetailModal';
 import { detectTransitAlerts } from './utils/transit';
 import { Session } from './types';
-import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X } from 'lucide-react';
+import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X, Calendar } from 'lucide-react';
 
 export const App: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
@@ -184,13 +184,58 @@ export const App: React.FC = () => {
 
           {/* Right Session Feed */}
           <div className="flex-1 w-full space-y-4">
+            {/* Shared Schedule Banner */}
+            {filterState.bookmarkedOnly && (
+              <div className="rounded-2xl border border-amber-500/40 bg-gradient-to-r from-amber-500/10 via-amber-500/5 to-transparent dark:bg-amber-950/40 p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4 shadow-sm">
+                <div className="flex items-start sm:items-center space-x-3">
+                  <div className="h-10 w-10 rounded-xl bg-amber-500/20 border border-amber-500/40 flex items-center justify-center text-amber-600 dark:text-amber-400 font-bold text-lg flex-shrink-0">
+                    📅
+                  </div>
+                  <div>
+                    <div className="flex items-center space-x-2">
+                      <span className="font-bold text-slate-900 dark:text-white text-sm sm:text-base">
+                        Schedule View ({bookmarkedSessions.length} session{bookmarkedSessions.length !== 1 ? 's' : ''})
+                      </span>
+                      <span className="rounded-full bg-amber-500/20 px-2.5 py-0.5 text-xs font-mono font-bold text-amber-700 dark:text-amber-300">
+                        Active
+                      </span>
+                    </div>
+                    <p className="text-xs text-slate-600 dark:text-slate-300 mt-0.5">
+                      Showing the specific sessions in this schedule. You can inspect transit times, add or remove sessions, or browse the entire catalog.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-center space-x-2.5 flex-shrink-0">
+                  <button
+                    onClick={() => setIsItineraryOpen(true)}
+                    className="flex items-center space-x-1.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold px-3.5 py-2 text-xs transition shadow-md shadow-amber-500/20 cursor-pointer"
+                  >
+                    <Calendar className="h-4 w-4" />
+                    <span>Open Schedule Matrix</span>
+                  </button>
+                  <button
+                    onClick={() => setFilterState((prev) => ({ ...prev, bookmarkedOnly: false }))}
+                    className="rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-700 text-slate-700 dark:text-slate-200 font-semibold px-3.5 py-2 text-xs transition shadow-sm cursor-pointer"
+                  >
+                    Browse All {metadata?.totalSessions || sessions.length} Sessions
+                  </button>
+                </div>
+              </div>
+            )}
+
             {/* Results Status Bar */}
             <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-200 dark:border-slate-800/80 pb-3">
               <div className="flex items-center space-x-2">
-                <span className="text-sm font-semibold text-slate-900 dark:text-white">
-                  Showing <strong className="text-amber-600 dark:text-amber-400 font-bold">{filteredSessions.length}</strong> of{' '}
-                  {metadata?.totalSessions || sessions.length} sessions
-                </span>
+                {filterState.bookmarkedOnly ? (
+                  <span className="text-sm font-semibold text-slate-900 dark:text-white">
+                    Showing <strong className="text-amber-600 dark:text-amber-400 font-bold">{filteredSessions.length}</strong> sessions in schedule
+                  </span>
+                ) : (
+                  <span className="text-sm font-semibold text-slate-900 dark:text-white">
+                    Showing <strong className="text-amber-600 dark:text-amber-400 font-bold">{filteredSessions.length}</strong> of{' '}
+                    {metadata?.totalSessions || sessions.length} sessions
+                  </span>
+                )}
                 {filterState.searchQuery && (
                   <span className="text-xs text-slate-500 dark:text-slate-400">
                     for &ldquo;<span className="text-slate-800 dark:text-slate-200 font-medium">{filterState.searchQuery}</span>&rdquo;
@@ -198,11 +243,21 @@ export const App: React.FC = () => {
                 )}
               </div>
 
-              {filteredSessions.length > 0 && (
-                <span className="text-xs text-slate-500">
-                  Showing {Math.min(paginatedSessions.length, filteredSessions.length)} items
-                </span>
-              )}
+              <div className="flex items-center space-x-3">
+                {filterState.bookmarkedOnly && (
+                  <button
+                    onClick={() => setFilterState((prev) => ({ ...prev, bookmarkedOnly: false }))}
+                    className="text-xs text-amber-600 dark:text-amber-400 hover:underline font-semibold cursor-pointer"
+                  >
+                    Show full catalog
+                  </button>
+                )}
+                {filteredSessions.length > 0 && (
+                  <span className="text-xs text-slate-500">
+                    Showing {Math.min(paginatedSessions.length, filteredSessions.length)} items
+                  </span>
+                )}
+              </div>
             </div>
 
             {/* Loading State */}

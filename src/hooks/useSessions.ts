@@ -24,7 +24,15 @@ export function useSessions() {
   const [isLoading, setIsLoading] = useState(true);
   const [isRefreshingLive, setIsRefreshingLive] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [filterState, setFilterState] = useState<FilterState>(initialFilterState);
+
+  // Initialize filterState with bookmarkedOnly=true if URL contains an itinerary
+  const [filterState, setFilterState] = useState<FilterState>(() => {
+    const fromUrl = decodeItineraryFromUrl();
+    if (fromUrl.length > 0) {
+      return { ...initialFilterState, bookmarkedOnly: true };
+    }
+    return initialFilterState;
+  });
 
   // Initialize bookmarks from URL hash (if shared) or LocalStorage
   const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(() => {
@@ -42,6 +50,25 @@ export function useSessions() {
     }
     return new Set();
   });
+
+  // Listen for dynamic hashchange and popstate events (e.g. user pasting or navigating shared links)
+  useEffect(() => {
+    const handleUrlChange = () => {
+      const fromUrl = decodeItineraryFromUrl();
+      if (fromUrl.length > 0) {
+        setBookmarkedIds(new Set(fromUrl));
+        setFilterState((prev) => ({ ...prev, bookmarkedOnly: true }));
+      }
+    };
+
+    window.addEventListener('hashchange', handleUrlChange);
+    window.addEventListener('popstate', handleUrlChange);
+
+    return () => {
+      window.removeEventListener('hashchange', handleUrlChange);
+      window.removeEventListener('popstate', handleUrlChange);
+    };
+  }, []);
 
   // Keep LocalStorage and URL in sync with bookmarks
   useEffect(() => {
@@ -165,6 +192,27 @@ export function useSessions() {
     return map;
   }, [sessions]);
 
+  // Normalize any session codes in bookmarkedIds to canonical IDs once catalog loads
+  useEffect(() => {
+    if (!sessions.length || !bookmarkedIds.size) return;
+    let needsNormalization = false;
+    const normalized = new Set<string>();
+
+    bookmarkedIds.forEach((idOrCode) => {
+      const found = sessionMap.get(idOrCode);
+      if (found) {
+        normalized.add(found.id);
+        if (found.id !== idOrCode) needsNormalization = true;
+      } else {
+        normalized.add(idOrCode);
+      }
+    });
+
+    if (needsNormalization) {
+      setBookmarkedIds(normalized);
+    }
+  }, [sessions, sessionMap, bookmarkedIds]);
+
   // Bookmarked sessions list
   const bookmarkedSessions = useMemo(() => {
     const list: Session[] = [];
@@ -250,9 +298,11 @@ export function useSessions() {
       result = result.filter((s) => hitIds.has(s.id));
     }
 
-    // 2. Bookmarked only filter
+    // 2. Bookmarked only filter (supports both canonical id and session code)
     if (filterState.bookmarkedOnly) {
-      result = result.filter((s) => bookmarkedIds.has(s.id));
+      result = result.filter(
+        (s) => bookmarkedIds.has(s.id) || (s.code && bookmarkedIds.has(s.code))
+      );
     }
 
     // 3. Only scheduled filter
