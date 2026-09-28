@@ -77,8 +77,9 @@ export const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col font-sans transition-colors">
-      {/* Top Navigation Header with PWA Update Trigger */}
-      <Header
+      <div className="app-interactive-shell print:hidden flex flex-col min-h-screen">
+        {/* Top Navigation Header with PWA Update Trigger */}
+        <Header
         totalSessions={metadata?.totalSessions || sessions.length}
         bookmarkedSessions={bookmarkedSessions}
         transitAlerts={transitAlerts}
@@ -399,6 +400,7 @@ export const App: React.FC = () => {
         isBookmarked={selectedSessionForModal ? bookmarkedIds.has(selectedSessionForModal.id) : false}
         onToggleBookmark={toggleBookmark}
       />
+      </div>
 
       {/* Dedicated Print Layout for physical printing and Save-to-PDF */}
       <PrintSchedule sessions={bookmarkedSessions} />

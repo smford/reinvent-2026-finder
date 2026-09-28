@@ -61,7 +61,7 @@ export const PrintSchedule: React.FC<PrintScheduleProps> = ({ sessions }) => {
 
   if (!sessions || sessions.length === 0) {
     return (
-      <div id="printable-schedule" className="hidden print:block p-8 text-center bg-white text-slate-900">
+      <div id="printable-schedule" className="p-8 text-center bg-white text-slate-900">
         <h1 className="text-xl font-bold">AWS re:Invent 2026 Schedule</h1>
         <p className="mt-2 text-sm text-slate-600">No sessions currently in your schedule.</p>
         <p className="text-xs text-slate-400 mt-1">Visit https://stephenford.org/reinvent-2026-finder/ to plan your itinerary.</p>
@@ -77,7 +77,7 @@ export const PrintSchedule: React.FC<PrintScheduleProps> = ({ sessions }) => {
   });
 
   return (
-    <div id="printable-schedule" className="hidden print:block font-sans text-slate-900 bg-white p-4">
+    <div id="printable-schedule" className="font-sans text-slate-900 bg-white p-4">
       {/* Document Header */}
       <div className="border-b-2 border-slate-900 pb-3 mb-6">
         <div className="flex items-center justify-between">
