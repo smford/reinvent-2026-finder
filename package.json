@@ -1,0 +1,46 @@
+{
+  "name": "reinvent-2026-finder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AWS re:Invent 2026 Session Finder & Transit-Aware Schedule Bundler",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "sync": "python3 scripts/sync_sessions.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smford/reinvent-2026-finder.git"
+  },
+  "keywords": [
+    "aws",
+    "reinvent",
+    "reinvent-2026",
+    "schedule",
+    "transit",
+    "conference",
+    "planner"
+  ],
+  "author": "smford",
+  "license": "MIT",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.16.0",
+    "minisearch": "^7.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.1.0"
+  }
+}

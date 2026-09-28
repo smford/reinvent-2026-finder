@@ -1,0 +1,21 @@
+{
+  "name": "AWS re:Invent 2026 Session Finder",
+  "short_name": "re:Invent '26",
+  "description": "AWS re:Invent 2026 Session Finder & Transit-Aware Schedule Bundler",
+  "start_url": "/reinvent-2026-finder/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "event": "AWS re:Invent 2026",
+  "lastUpdated": "2026-09-28T12:14:00Z",
+  "totalSessions": 2043,
+  "scheduledTimeSlots": 1996,
+  "campuses": {
+    "Caesars Campus": 644,
+    "Wynn Campus": 523,
+    "MGM Grand Campus": 607,
+    "Venetian Campus": 224,
+    "Other / Virtual": 45
+  },
+  "venues": {
+    "Caesars Palace": 329,
+    "Wynn/Encore": 523,
+    "MGM Grand": 607,
+    "Caesars Forum": 315,
+    "Venetian": 224,
+    "TBD": 45
+  },
+  "levels": {
+    "200 - Intermediate": 323,
+    "300 - Advanced": 1210,
+    "100 - Foundational": 76,
+    "400 - Expert": 405,
+    "500 - Distinguished": 28,
+    "Unspecified": 1
+  },
+  "sessionTypes": {
+    "Breakout session": 477,
+    "Chalk talk": 639,
+    "Gamified learning": 26,
+    "Lightning talk": 208,
+    "Builders' session": 243,
+    "Workshop": 290,
+    "Code talk": 118,
+    "Bootcamp": 16,
+    "Exam prep": 4,
+    "Lab": 22
+  },
+  "days": {
+    "Monday": 536,
+    "Wednesday": 523,
+    "Tuesday": 391,
+    "Thursday": 499,
+    "Friday": 47
+  },
+  "topics": [
+    "Analytics",
+    "Application Integration",
+    "Architecture",
+    "Artificial Intelligence",
+    "Business Agents",
+    "Cloud Operations",
+    "Compute",
+    "Containers",
+    "Databases",
+    "Developer Tools",
+    "Hybrid Cloud & Multicloud",
+    "Industry Solutions",
+    "Migration & Modernization",
+    "Networking & Content Delivery",
+    "Open Source",
+    "Security & Identity",
+    "Serverless",
+    "Storage"
+  ]
+}

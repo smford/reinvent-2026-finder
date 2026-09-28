@@ -1,0 +1,20 @@
+# Ignore prompt files
+prompt-*.txt
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environment and OS
+.DS_Store
+Thumbs.db
+.env
