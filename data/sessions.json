@@ -7369,44 +7369,6 @@
     ]
   },
   {
-    "id": "1790358220085001itbT",
-    "code": "AIM349-R1",
-    "title": "Build production AI assistant with Hugging Face Libraries and models",
-    "type": "Chalk talk",
-    "level": "300 - Advanced",
-    "topics": [
-      "Artificial Intelligence",
-      "Compute"
-    ],
-    "areasOfInterest": [
-      "Cost Optimization",
-      "Generative AI",
-      "Machine Learning"
-    ],
-    "roles": [
-      "Academic / Researcher",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Every product team wants an embedded AI assistant—but closed APIs erode margins and limit customization. In this Chalk Talk, we architect a production-ready solution using open building blocks: retrieval, reranking, and generation models working together in real time. We diagram how to fine-tune for your domain, orchestrate multi-model pipelines, and serve thousands of concurrent users cost-efficiently. Walk away understanding how Native Hugging Face models and libraries on AWS Trainium let you own your AI stack and scale. ",
-    "times": [
-      {
-        "id": "1790360363275001Aq1N",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Academy 414",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
     "id": "1780441464414001GeGm",
     "code": "AIM350",
     "title": "Web grounding on Amazon Bedrock AgentCore and Amazon Bedrock",
@@ -7583,7 +7545,7 @@
   {
     "id": "1780442235020001cGiD",
     "code": "AIM355-R",
-    "title": "Accelerate intelligent document processing with Amazon Textract",
+    "title": "Strengthen identity verification with Amazon Rekognition",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -7593,7 +7555,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Building custom extraction pipelines on foundation models is powerful but expensive to maintain. Textract Intelligence gives you the same GenAI flexibility as a managed service: custom-field extraction, document classification, splitting, and summarization, all backed by purpose-built OCR instead of a vision model guessing at pixels. In this session we compare approaches head-to-head on accuracy, latency, and cost, then show how 40-language support and trustworthy confidence scores close the gaps that push teams to DIY solutions.",
+    "abstract": "Learn how to use Amazon Rekognition Face Liveness to help confirm a real person is present during digital onboarding. This session explores how to integrate liveness checks into your application, detect spoofing attempts, and support identity verification workflows.",
     "times": [
       {
         "id": "1790025471646001CkqM",
@@ -7612,7 +7574,7 @@
   {
     "id": "1790358217311001ieZk",
     "code": "AIM355-R1",
-    "title": "Accelerate intelligent document processing with Amazon Textract",
+    "title": "Strengthen identity verification with Amazon Rekognition",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -7622,7 +7584,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Building custom extraction pipelines on foundation models is powerful but expensive to maintain. Textract Intelligence gives you the same GenAI flexibility as a managed service: custom-field extraction, document classification, splitting, and summarization, all backed by purpose-built OCR instead of a vision model guessing at pixels. In this session we compare approaches head-to-head on accuracy, latency, and cost, then show how 40-language support and trustworthy confidence scores close the gaps that push teams to DIY solutions.",
+    "abstract": "Learn how to use Amazon Rekognition Face Liveness to help confirm a real person is present during digital onboarding. This session explores how to integrate liveness checks into your application, detect spoofing attempts, and support identity verification workflows.",
     "times": [
       {
         "id": "1790360395126001AjRD",
@@ -11231,7 +11193,7 @@
   {
     "id": "1780442270736001cpwg",
     "code": "ANT203-S",
-    "title": "Accelerating Data Processing: GPU Accelerated Amazon EMR at the Scale of Netflix (sponsored by NVIDIA)",
+    "title": "Accelerating Data Processing: GPU Accelerated Amazon EMR at the Enterprise Scale",
     "type": "Lightning talk",
     "level": "200 - Intermediate",
     "topics": [
@@ -11250,7 +11212,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "As demand for more responsive analytics grows, so does the cost of delivering it at scale. This session explores how GPU acceleration integrated with Amazon EMR can improve performance and efficiency, with the NVIDIA cuDF Router that enables seamless migration and simplifies adoption across a large enterprise setting. Applying operational metrics to AI-driven optimization, the smart router continuously directs workloads for better performance and cost efficiency. See how Netflix operates this architecture at scale and hear the practical lessons learned along the way. This presentation is brought to you by NVIDIA, an AWS Partner.",
+    "abstract": "As AI agents ask increasingly complex and frequent questions, analytics systems must become more responsive, scalable, and efficient, over hundreds of Terabytes and trillions of rows. This session explores how GPU acceleration integrated with Amazon EMR can improve performance and efficiency, with the NVIDIA cuDF Router that enables seamless migration and simplifies adoption across a large enterprise setting. Applying operational metrics to AI-driven optimization, the smart router continuously directs workloads for better performance and cost efficiency. See how enterprises can operate this architecture over hundreds of jobs in a fraction of time and hear the practical lessons learned along the way.",
     "times": [
       {
         "id": "1790033124514001qmKi",
@@ -16540,7 +16502,7 @@
   {
     "id": "1790358218787001indJ",
     "code": "ARC326-R1",
-    "title": "When one tenant spikes 100x, your architecture decides who pays [REPEAT]",
+    "title": "When one tenant spikes 100x, your architecture decides who pays",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -16613,7 +16575,7 @@
   {
     "id": "1790358221114001ieXt",
     "code": "ARC327-R1",
-    "title": "Your system made a decision. you cannot explain it. [REPEAT]",
+    "title": "Your system made a decision. you cannot explain it.",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -16943,7 +16905,7 @@
   {
     "id": "1790358241461001iJ2U",
     "code": "ARC335-R1",
-    "title": "Route or escalate: Confidence boundaries in multi-domain AI agents [REPEAT]",
+    "title": "Route or escalate: Confidence boundaries in multi-domain AI agents",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -17124,7 +17086,7 @@
   {
     "id": "1790358234280001iCkw",
     "code": "ARC404-R1",
-    "title": "Event storming: Find your service boundaries before production does [REPEAT]",
+    "title": "Event storming: Find your service boundaries before production does",
     "type": "Builders' session",
     "level": "400 - Expert",
     "topics": [
@@ -17300,7 +17262,7 @@
   {
     "id": "1790358256740001iCt8",
     "code": "ARC408-R1",
-    "title": "Specs, not vibes: Strangling the monolith in the IDE [REPEAT]",
+    "title": "Specs, not vibes: Strangling the monolith in the IDE",
     "type": "Code talk",
     "level": "400 - Expert",
     "topics": [
@@ -17371,7 +17333,7 @@
   {
     "id": "1790358216844001idEh",
     "code": "ARC409-R1",
-    "title": "Load-bearing coupling: Finding the coupling you can't cut [REPEAT]",
+    "title": "Load-bearing coupling: Finding the coupling you can't cut",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -18403,7 +18365,7 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Caesars Palace",
+    "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Public sector organizations serve diverse populations with strict boundaries: students and administrators, citizens and case workers, patients and providers. They need AI that works across these groups without compromising data isolation, compliance, or governance. Multi-tenant environments demand security frameworks most AI assistants were not built to meet.\n\nHear from a higher education customer who faced these constraints and displaced their incumbent tool in favor of Amazon Quick's governance-first architecture: tenant-level data isolation, role-based access controls across distinct user populations, and compliance frameworks built for regulated environments. Learn why existing solutions fell short, how Quick's native governance model met their requirements without custom engineering, and what the transition looked like from decision to deployment.",
     "times": [
@@ -18417,7 +18379,7 @@
         "endTimeFormatted": "11:00 AM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Orange Theater",
-        "venue": "Caesars Palace"
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -19004,7 +18966,7 @@
   {
     "id": "1790358255919001isXm",
     "code": "BIZ317-R1",
-    "title": "Describe It, Deploy It: Building AI Agents in Natural Language [REPEAT]",
+    "title": "Build It or Bring It: Getting AI Agents into CX Faster [REPEAT]",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -19014,7 +18976,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "What if you could describe the customer experience you want in natural language and have an AI agent built for you, complete with tools, guardrails, and conversation flows? Amazon Connect Customer lets you build agentic experiences by describing what you want in natural language with no code. In this chalk talk we show how a plain-language description becomes a working, governed AI agent ready for production. We demo a guided walkthrough, then whiteboard what sits under the hood: how natural-language authoring generates the production infrastructure - AI agents, tools, knowledge bases, routing, and escalation - and how deterministic and agentic reasoning coexist on a single governed application. We close with best practices for testing before deployment and keeping agents improving from real conversations, plus an open architecture discussion.",
+    "abstract": "Getting agentic AI from prototype to production in your customer experience application is slow, and the gap is widening. In this chalk talk we give you two levers to close it on Amazon Connect Customer. Build new AI agents on the agentic CX designer canvas, describing what you want in natural language and applying enterprise guardrails to reach production-grade quickly. Or bring the agents your business has already built, anywhere, and orchestrate them through Connect Customer using the Agent-to-Agent (A2A) protocol. We demonstrate both, then whiteboard how they fit together architecturally. Come ready to challenge the design and share where you would use each.",
     "times": [
       {
         "id": "1790360368949001AAad",
@@ -19476,21 +19438,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "Every enterprise building agentic AI hits the same wall: AI agents can't deliver trusted guidance without governed knowledge behind them. In this session, learn how AWS solved this internally with an agentic specialist teammate for Amazon Connect powered by a structured knowledge governance framework. We'll show how specialist reasoning is captured, validated, and scaled across 92 domains to 30K+ field members, and demonstrate the live workflow from governed knowledge delivery to human escalation. Walk away with a repeatable reference architecture for making your own AI agents production-ready and trustworthy.",
     "times": [
       {
         "id": "1790360387673001AK87",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Room 306",
-        "venue": "MGM Grand"
+        "room": "Caesars Palace | Promenade Level | Trevi",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -46213,7 +46175,7 @@
   {
     "id": "1780441477261001Gaty",
     "code": "IND387",
-    "title": "How Novartis is Using AI to Reimagine Clinical Development on AWS",
+    "title": "How Novartis is Reimaging an AI-Native Drug Development with AWS",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -46228,7 +46190,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Developing a new medicine takes 10–15 years and $2.6 billion — and the timeline is getting longer, not shorter. At Novartis, the Global Drug Development organization recognized that incremental optimization of siloed, sequential clinical processes wouldn't be enough. In this session, learn how Novartis is transforming clinical development with AWS by replacing fragmented legacy systems with a unified NextGen Data Platform. You'll also learn how Novartis stood up an Intelligent Decision System that simulates entire trial operations as a computational twin, and pioneering a collaborative Trial Design Studio where biostatisticians, clinical operations, regulatory, and medical teams co-create protocols in real time. ",
+    "abstract": "Developing a new medicine takes 10 to 15 years and $2.6 billion, and timelines are getting longer. Novartis decided not to optimize the old model but to replace it, building an AI-native ecosystem spanning information, decision, and physical AI across the drug development lifecycle. In this session, hear how AI now writes over 80% of their RWE protocols in production, then go deep on intelligent decision systems that optimize clinical trial planning, and formulation optimisations that improve the medicines Novartis creates. Learn how Novartis and AWS are compressing the path from AI prototype to production, turning ambition into patient impact.",
     "times": [
       {
         "id": "1790025517187001CSza",
@@ -59889,7 +59851,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "The migration to post-quantum cryptography is on and here's a chance to test your skills. In this gamified builders' session, each team races a visible countdown clock through different cryptographic migration challenges: TLS endpoint migration, data-at-rest re-encryption, code signing rotation, certificate lifecycle automation, or secrets key rotation. Teams unlock \"quantum resistance badges\" as they complete steps using AWS Key Management Service (KMS), AWS Certificate Manager, and AWS Secrets Manager. A live leaderboard tracks progress across teams. Leave with new skills and the confidence you can execute under pressure.",
+    "abstract": "The migration to post-quantum cryptography is underway and here's a chance to hone your skills. In this gamified builders' session, each team races a countdown clock through different cryptographic migration challenges: TLS endpoint migration, ML-DSA key for code signing, quantum ready PKI, and an audit of your PQ posture. Teams complete quests using the AWS Key Management Service (KMS), AWS Private Certificate Authority, and AWS Secrets Manager services. A live leaderboard tracks progress across teams. Leave with new skills and the confidence to build quantum-resistant cryptographic infrastructure.",
     "times": [
       {
         "id": "1790025551029001Ca58",
@@ -60001,7 +59963,7 @@
   {
     "id": "1780442249832001ch8t",
     "code": "SEC321-R",
-    "title": "Securing AI Coding Agents: Defence in Depth Across the Development Lifecycle",
+    "title": "Securing AI Coding Agents: Defense in Depth Across the Development Lifecycle",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -60037,7 +59999,7 @@
   {
     "id": "1790358246558001iY0C",
     "code": "SEC321-R1",
-    "title": "Securing AI Coding Agents: Defence in Depth Across the Development Lifecycle",
+    "title": "Securing AI Coding Agents: Defense in Depth Across the Development Lifecycle",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -60865,7 +60827,7 @@
   {
     "id": "1780442248930001cfi0",
     "code": "SEC345",
-    "title": "Simplify your key management: Choosing between AWS KMS and CloudHSM",
+    "title": "Future-proof your keys: HSMs to AWS KMS in the post-quantum era",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -60875,7 +60837,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "You're running AWS CloudHSM, but do you still need to? AWS Key Management Service (KMS) capabilities now cover many workloads that once required dedicated HSMs, at lower cost and operational overhead. In this chalk talk, bring your architecture and we'll work through the decision together. Using a framework from real customer migrations, we'll whiteboard your use case, identify what's keeping you on CloudHSM, and map a migration path to KMS where it fits. Leave with concrete next steps to simplify your cryptographic infrastructure.",
+    "abstract": "Cryptography is changing fast. The dedicated HSM you rely on today, whether AWS CloudHSM or an on-premises appliance, carries operational overhead that will only grow as the industry moves toward post-quantum cryptography (PQC) and stricter digital sovereignty requirements. AWS Key Management Service (KMS) now covers most workloads that once required dedicated HSMs, with the same FIPS 140-3 Level 3 security, lower cost, and zero infrastructure management, while giving you a clear on-ramp to PQC and the sovereignty controls to keep your keys and data under your control. In this chalk talk, bring your architecture and we'll work through it together: we'll assess your workload, map signature and encryption migration paths, and show how moving to KMS puts you on the fastest path to post-quantum readiness. Meet the AWS Cryptography team and leave with a plan and concrete next steps.",
     "times": [
       {
         "id": "1790025531324001C26n",
@@ -62341,7 +62303,7 @@
   {
     "id": "1780442231095001co1D",
     "code": "SEC405",
-    "title": "From vulnerability to exploit to fix: detect and respond in real time",
+    "title": "From vulnerability to exploit to fix: closing the loop with AWS Security Services",
     "type": "Builders' session",
     "level": "400 - Expert",
     "topics": [
@@ -63552,7 +63514,20 @@
     "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Your developers are faster with AI. Your organization isn't. AI tools accelerate individual teams, but organizational outcomes depend on what happens between teams: coordination, dependencies, and end-to-end value streams that extend far beyond code. Most productivity metrics miss this entirely because they stop at the team boundary. In this session, we present real patterns from startups, scaleups, digital natives, and large organizations, introduce measurement frameworks that capture what matters at the organizational level, and share practical approaches for turning team-level acceleration into outcomes your customers will notice.",
-    "times": []
+    "times": [
+      {
+        "id": "1790697293443001lmD5",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
+      }
+    ]
   },
   {
     "id": "1780442221509001cfDw",
@@ -68834,7 +68809,7 @@
   {
     "id": "1780442251118001cHcn",
     "code": "SVS328",
-    "title": "Guardrails for AI-henerated Serverless infrastructure",
+    "title": "Guardrails for AI-generated Serverless infrastructure",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -71574,7 +71549,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AI agents decide at runtime which endpoints to call, and that decision can bypass your security review. In this SimuLearn session, you deploy an agent on Amazon Bedrock AgentCore in VPC mode and route its outbound traffic through AWS Network Firewall. You configure a default-deny policy with an approved-domain allow list, then prove it works: an approved call succeeds while an unapproved call gets dropped. The firewall log becomes your audit evidence. ",
+    "abstract": "A customer runs a support agent on Amazon Bedrock AgentCore that reaches destinations nobody reviewed and takes requests from any caller. In this SimuLearn session, you work the case as their security expert. Behind Amazon API Gateway, AWS WAF Bot Control labels each script and AI crawler, and you write the rule that refuses them with a 403 that names the reason. On the way out, AWS Network Firewall tags every destination by content category. You watch in alert mode, then reject AI and search categories while permitted sites still load. You leave knowing how to classify, then control, what enters and leaves an agent.",
     "times": [
       {
         "id": "1790019176058001cDyQ",
