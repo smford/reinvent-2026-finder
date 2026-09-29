@@ -39537,7 +39537,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "This session covers networking on AWS Outposts Gen2, from scalable multi-site topologies to ultra-low latency bare metal deployments for financial trading. We explore the Gen2 dedicated Network rack, LGW routing domains for segmentation, and Intra-VPC and Inter-VPC communication. We then expand to multi-site interconnections spanning Outposts and Local Zones, extended VPC designs, and resilient architectures grounded in Well-Architected principles. Finally, we dive into bare metal instances with high-throughput accelerated networking, kernel bypass, NIC selection, and rack topology for co-located workloads where every microsecond matters. This is an interactive session driven by attendee questions and real-world challenges.",
+    "abstract": "This session covers networking on AWS Outposts Gen2, from scalable multi-site topologies to ultra-low latency bare metal deployments for financial trading. It starts with the Gen2 dedicated Network rack, local gateway routing domains for segmentation, and Intra-VPC and Inter-VPC communication. It then expands to multi-site interconnections spanning Outposts and AWS Local Zones, extended VPC designs, and resilient architectures grounded in AWS Well-Architected principles. It closes with bare metal instances using high-throughput accelerated networking, kernel bypass, network interface card (NIC) selection, and rack topology for co-located workloads where every microsecond matters. This is an interactive session driven by attendee questions and real-world challenges.",
     "times": [
       {
         "id": "1790025493271001CeV4",
@@ -39613,7 +39613,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Digital sovereignty requirements vary widely across government, defense, healthcare, and financial services. In this session, we use real-world case studies to compare architectural differences across AWS Dedicated Local Zones, AWS Outposts within the AWS European Sovereign Cloud, and AWS Regions. We examine how data residency boundaries, network separation, operational controls, and cryptographic key management differ across these options. We then demonstrate how to configure account access, data residency controls, and network ingress/egress policies for strict versus moderate requirements, including how to detect and prevent non-permitted data flows between hybrid infrastructure, the parent Region, and on-premises environments.",
+    "abstract": "Digital sovereignty requirements vary widely across government, defense, healthcare, and financial services. This session uses real-world case studies to compare architectural differences across AWS Dedicated Local Zones and AWS Outposts, whether deployed within the AWS European Sovereign Cloud or AWS Regions. It examines how data residency boundaries, network separation, operational controls, and cryptographic key management differ across these options, then demonstrates how to configure account access, data residency controls, and network ingress/egress policies for strict versus moderate requirements, including how to detect and prevent non-permitted data flows between hybrid infrastructure, the parent Region, and on-premises environments.",
     "times": [
       {
         "id": "1790025512626001CrMb",
@@ -39651,7 +39651,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AWS Outposts and Local Zones bring cloud closer to your users and data but introduce architectural decisions that do not exist in a purely cloud-native model. How do you design for resilience when infrastructure sits in your facility? What does security and cost optimization look like across hybrid topologies? In this chalk talk, we walk through the Well-Architected Framework pillar by pillar, exploring how each applies and where it bends at the edge. Bring your toughest design questions. We will draw out real-world patterns, discuss trade-offs, and build a practical mental model for well-architected hybrid solutions.",
+    "abstract": "AWS Outposts and AWS Local Zones bring cloud closer to your end users and workloads but introduce architectural decisions that do not exist in a purely cloud-native model. Designing for resilience when infrastructure sits in your facility, and balancing security and cost across hybrid topologies, calls for rethinking each pillar. In this chalk talk, the session walks through the AWS Well-Architected Framework pillar by pillar, exploring how each applies and where it bends at the edge. Bring your toughest design questions. The session draws out real-world patterns, discusses trade-offs, and builds a practical mental model for well-architected hybrid solutions.",
     "times": [
       {
         "id": "1790025543394001CSZl",
@@ -39689,7 +39689,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AWS Outposts and Local Zones bring cloud closer to your users and data but introduce architectural decisions that do not exist in a purely cloud-native model. How do you design for resilience when infrastructure sits in your facility? What does security and cost optimization look like across hybrid topologies? In this chalk talk, we walk through the Well-Architected Framework pillar by pillar, exploring how each applies and where it bends at the edge. Bring your toughest design questions. We will draw out real-world patterns, discuss trade-offs, and build a practical mental model for well-architected hybrid solutions.",
+    "abstract": "AWS Outposts and AWS Local Zones bring cloud closer to your end users and workloads but introduce architectural decisions that do not exist in a purely cloud-native model. Designing for resilience when infrastructure sits in your facility, and balancing security and cost across hybrid topologies, calls for rethinking each pillar. In this chalk talk, the session walks through the AWS Well-Architected Framework pillar by pillar, exploring how each applies and where it bends at the edge. Bring your toughest design questions. The session draws out real-world patterns, discusses trade-offs, and builds a practical mental model for well-architected hybrid solutions.",
     "times": [
       {
         "id": "1790360370833001AbKL",
@@ -58842,7 +58842,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "A confirmed pentest finding still needs a code fix reviewed and shipped, and that takes days or weeks while the exploit path stays open. This talk covers Terra Security's Prevention capability. When Terra confirms an exploitable finding, it generates a rule scoped to that exact attack path, stages it inside the customer's existing AWS WAF web ACL, and lets the team validate it against the real exploit before activation. Attendees will leave with the mechanics of the integration and a model for closing the gap between proof and fix in AWS environments. This presentation is brought to you by Terra, an AWS Partner.",
+    "abstract": "A confirmed exploit still needs a code fix, and that fix often takes days or weeks. The exploit path stays open the whole time. This session shows how Terra Security turns a validated pentest finding into a scoped virtual patch inside the application's existing AWS WAF: matched to the specific attack, not a site-wide block, activated by a human on your team, and checked against both the exploit and normal traffic before you trust it. You will leave with a clear picture of how the integration works and a model for closing the gap between proof and fix without breaking the app you are protecting.",
     "times": [
       {
         "id": "1790033111397001qFLU",
@@ -62357,7 +62357,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In this builder session, you start with a deployed web application containing known OWASP vulnerabilities and race to find and fix them before attackers do. Using AWS Security Agent, you review application designs, reproduce vulnerabilities, and push fixes through a CI/CD pipeline. Simultaneously, Amazon GuardDuty detects active exploitation attempts targeting those same weaknesses — and you respond in real time by isolating compromised resources and hardening configurations. Experience the full closed-loop workflow: Inspector identifies the vulnerability, GuardDuty catches the exploit, and Security Agent generates the remediation.",
+    "abstract": "You start with a deployed e-commerce web application containing OWASP Top 10 vulnerabilities like SQL injection and SSRF, hardcoded credentials, and a dependency CVE. Using Amazon Inspector and AWS Continuum (formerly AWS Security Agent), you discover and validate existing flaws, reproduce the exploit chain, and push Continuum-generated fixes through CI/CD. When Amazon GuardDuty detects the active exploitation, including credential theft and prompt injection against an AI assistant, you isolate the compromised instance and harden it. Walk away with a repeatable closed-loop workflow: Inspector finds it, GuardDuty catches it, Continuum fixes it.",
     "times": [
       {
         "id": "1790025541829001C9iB",
@@ -66408,7 +66408,11 @@
       "Storage"
     ],
     "areasOfInterest": [],
-    "roles": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "Solution / Systems Architect"
+    ],
     "venue": "TBD",
     "campus": "Other / Virtual",
     "abstract": "Your AI workloads need enterprise data including documents, datasets, and unstructured content already sitting in ONTAP. The usual answer is to copy it to S3, build a sync pipeline, and hope nothing drifts. There's a better option. This session shows how to use FSx for ONTAP file shares directly via the S3 API so Amazon Bedrock and SageMaker can read them in place with no migration, no pipeline. Your existing access controls and data management policies stay intact. We'll cover the architecture, configuration steps, and how to pair ONTAP's data management capabilities with S3-based AI/ML services.",
