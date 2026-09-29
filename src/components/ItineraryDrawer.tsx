@@ -6,6 +6,12 @@ import { copyShareableLink } from '../utils/share';
 import { getRequiredTransitMinutes } from '../utils/transit';
 import { exportItineraryToPdf } from '../utils/pdf';
 import { printSchedule } from '../utils/print';
+import {
+  trackScheduleShared,
+  trackIcsExported,
+  trackPdfDownloaded,
+  trackSchedulePrinted,
+} from '../utils/analytics';
 
 interface ItineraryDrawerProps {
   isOpen: boolean;
@@ -77,20 +83,24 @@ export const ItineraryDrawer: React.FC<ItineraryDrawerProps> = ({
   const handleShare = async () => {
     const success = await copyShareableLink(sessions.map((s) => s.id));
     if (success) {
+      trackScheduleShared(sessions.length, 'drawer');
       setCopied(true);
       setTimeout(() => setCopied(false), 2500);
     }
   };
 
   const handleExport = () => {
+    trackIcsExported(sessions.length);
     exportItineraryToIcs(sessions);
   };
 
   const handleDownloadPdf = () => {
+    trackPdfDownloaded(sessions.length, 'drawer');
     exportItineraryToPdf(sessions);
   };
 
   const handlePrint = () => {
+    trackSchedulePrinted(sessions.length, 'drawer');
     printSchedule();
   };
 

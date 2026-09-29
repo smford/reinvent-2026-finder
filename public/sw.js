@@ -1,4 +1,4 @@
-const CACHE_NAME = 'reinvent-2026-cache-v8';
+const CACHE_NAME = 'reinvent-2026-cache-v9';
 
 const PRECACHE_ASSETS = [
   './',
@@ -11,6 +11,17 @@ const PRECACHE_ASSETS = [
   './icon-512.png',
   './data/sessions.min.json',
   './data/metadata.json',
+];
+
+// Domains that must NEVER be intercepted by the service worker.
+// GA4 requests must reach Google's servers directly; caching them would
+// break analytics and potentially corrupt the hit protocol.
+const PASSTHROUGH_ORIGINS = [
+  'www.googletagmanager.com',
+  'www.google-analytics.com',
+  'analytics.google.com',
+  'fonts.googleapis.com',
+  'fonts.gstatic.com',
 ];
 
 // Install Event: Pre-cache App Shell and the full session catalog
@@ -44,6 +55,12 @@ self.addEventListener('fetch', (event) => {
 
   // Skip non-GET requests and browser extensions
   if (request.method !== 'GET' || !url.protocol.startsWith('http')) {
+    return;
+  }
+
+  // Always pass GA4 / GTM / font requests straight through to the network —
+  // never cache or intercept them.
+  if (PASSTHROUGH_ORIGINS.includes(url.hostname)) {
     return;
   }
 

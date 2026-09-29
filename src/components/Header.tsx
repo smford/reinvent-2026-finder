@@ -5,6 +5,7 @@ import { exportItineraryToIcs } from '../utils/ical';
 import { copyShareableLink } from '../utils/share';
 import { exportItineraryToPdf } from '../utils/pdf';
 import { printSchedule } from '../utils/print';
+import { trackScheduleShared, trackIcsExported, trackPdfDownloaded, trackSchedulePrinted } from '../utils/analytics';
 
 interface HeaderProps {
   totalSessions: number;
@@ -54,6 +55,7 @@ export const Header: React.FC<HeaderProps> = ({
   const handleShare = async () => {
     const success = await copyShareableLink(bookmarkedSessions.map((s) => s.id));
     if (success) {
+      trackScheduleShared(bookmarkedSessions.length, 'header');
       setCopied(true);
       setTimeout(() => setCopied(false), 2500);
     }
@@ -64,6 +66,7 @@ export const Header: React.FC<HeaderProps> = ({
       alert('Your itinerary is empty. Bookmark some sessions first to export your schedule!');
       return;
     }
+    trackIcsExported(bookmarkedSessions.length);
     exportItineraryToIcs(bookmarkedSessions);
   };
 
@@ -173,6 +176,7 @@ export const Header: React.FC<HeaderProps> = ({
                 alert('Your itinerary is empty. Bookmark some sessions first to print your schedule!');
                 return;
               }
+              trackSchedulePrinted(bookmarkedSessions.length, 'header');
               printSchedule();
             }}
             disabled={!bookmarkedSessions.length}
@@ -190,6 +194,7 @@ export const Header: React.FC<HeaderProps> = ({
                 alert('Your itinerary is empty. Bookmark some sessions first to download as PDF!');
                 return;
               }
+              trackPdfDownloaded(bookmarkedSessions.length, 'header');
               exportItineraryToPdf(bookmarkedSessions);
             }}
             disabled={!bookmarkedSessions.length}

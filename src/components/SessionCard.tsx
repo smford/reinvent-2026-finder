@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Calendar, Clock, MapPin, Check, Plus, ChevronDown, ChevronUp } from 'lucide-react';
 import { Session } from '../types';
+import { trackSessionBookmarked, trackSessionRemoved, trackSessionViewed } from '../utils/analytics';
 
 interface SessionCardProps {
   session: Session;
@@ -16,6 +17,20 @@ export const SessionCard: React.FC<SessionCardProps> = ({
   onSelectSession,
 }) => {
   const [expanded, setExpanded] = useState(false);
+
+  const handleToggleBookmark = () => {
+    if (isBookmarked) {
+      trackSessionRemoved(session.code, session.campus);
+    } else {
+      trackSessionBookmarked(session.code, session.title, session.campus);
+    }
+    onToggleBookmark(session.id);
+  };
+
+  const handleSelectSession = () => {
+    trackSessionViewed(session.code, session.title);
+    onSelectSession?.(session);
+  };
 
   // Level color mapping
   const levelNum = session.level.split(' ')[0] || '';
@@ -83,7 +98,7 @@ export const SessionCard: React.FC<SessionCardProps> = ({
 
         {/* Bookmark Action Button */}
         <button
-          onClick={() => onToggleBookmark(session.id)}
+          onClick={handleToggleBookmark}
           className={`flex items-center space-x-1 rounded-lg px-2.5 py-1 text-xs font-semibold border transition-all ${
             isBookmarked
               ? 'bg-amber-500 text-slate-950 border-amber-400 shadow-md shadow-amber-500/20'
@@ -107,7 +122,7 @@ export const SessionCard: React.FC<SessionCardProps> = ({
 
       {/* Session Title */}
       <h3
-        onClick={() => onSelectSession?.(session)}
+        onClick={handleSelectSession}
         className="mt-2 text-sm sm:text-base font-bold text-slate-900 dark:text-slate-100 leading-snug hover:text-amber-600 dark:hover:text-amber-300 transition-colors cursor-pointer"
       >
         {session.title}

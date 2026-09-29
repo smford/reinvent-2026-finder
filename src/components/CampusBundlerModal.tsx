@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { X, Compass, MapPin, Calendar, Clock, Sparkles, Check, Plus } from 'lucide-react';
 import { Session } from '../types';
+import { trackBundlerApplied } from '../utils/analytics';
 
 interface CampusBundlerModalProps {
   isOpen: boolean;
@@ -62,6 +63,7 @@ export const CampusBundlerModal: React.FC<CampusBundlerModalProps> = ({
 
   const handleBundleAll = () => {
     const ids = matchingSessions.map((s) => s.id);
+    trackBundlerApplied(selectedCampus, selectedDay, ids.length);
     onAddMultipleBookmarks(ids);
   };
 

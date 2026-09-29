@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect, useRef } from 'react';
 import { useSessions } from './hooks/useSessions';
 import { useTheme } from './hooks/useTheme';
 import { usePWA } from './hooks/usePWA';
@@ -15,6 +15,19 @@ import { PrintSchedule } from './components/PrintSchedule';
 import { detectTransitAlerts } from './utils/transit';
 import { exportItineraryToPdf } from './utils/pdf';
 import { printSchedule } from './utils/print';
+import {
+  trackAppOpen,
+  trackPageView,
+  trackSearch,
+  trackThemeToggled,
+  trackFontSizeChanged,
+  trackUpdateTriggered,
+  trackScheduleOpened,
+  trackScheduleCleared,
+  trackPdfDownloaded,
+  trackSchedulePrinted,
+  trackBundlerOpened,
+} from './utils/analytics';
 import { Session } from './types';
 import { Compass, Filter, AlertCircle, RefreshCw, WifiOff, X, Calendar, FileDown, Printer } from 'lucide-react';
 
@@ -25,9 +38,9 @@ export const App: React.FC = () => {
     canDecrease: canDecreaseTextSize,
     label: textSizeLabel,
     isDefault: isDefaultTextSize,
-    increaseSize: onIncreaseTextSize,
-    decreaseSize: onDecreaseTextSize,
-    resetSize: onResetTextSize,
+    increaseSize,
+    decreaseSize,
+    resetSize,
   } = useTextSize();
   const {
     isOnline,
@@ -66,6 +79,66 @@ export const App: React.FC = () => {
   const [page, setPage] = useState(1);
   const ITEMS_PER_PAGE = 40;
 
+  // ── Analytics: fire app_open + page_view once on mount ──────────────────
+  useEffect(() => {
+    trackAppOpen();
+    trackPageView(window.location.pathname + window.location.search);
+  }, []);
+
+  // ── Analytics: debounced search tracking (800 ms after typing stops) ────
+  const searchDebounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  useEffect(() => {
+    if (!filterState.searchQuery) return;
+    if (searchDebounceRef.current) clearTimeout(searchDebounceRef.current);
+    searchDebounceRef.current = setTimeout(() => {
+      trackSearch(filterState.searchQuery, filteredSessions.length);
+    }, 800);
+    return () => { if (searchDebounceRef.current) clearTimeout(searchDebounceRef.current); };
+  }, [filterState.searchQuery, filteredSessions.length]);
+
+  // ── Analytics-instrumented action wrappers ───────────────────────────────
+
+  const handleToggleTheme = () => {
+    const next = theme === 'light' ? 'dark' : 'light';
+    trackThemeToggled(next);
+    toggleTheme();
+  };
+
+  const handleIncreaseTextSize = () => {
+    trackFontSizeChanged(textSizeLabel, 'increase');
+    increaseSize();
+  };
+
+  const handleDecreaseTextSize = () => {
+    trackFontSizeChanged(textSizeLabel, 'decrease');
+    decreaseSize();
+  };
+
+  const handleResetTextSize = () => {
+    trackFontSizeChanged('Default (100%)', 'reset');
+    resetSize();
+  };
+
+  const handleOpenItinerary = () => {
+    trackScheduleOpened(bookmarkedSessions.length);
+    setIsItineraryOpen(true);
+  };
+
+  const handleOpenBundler = () => {
+    trackBundlerOpened();
+    setIsBundlerOpen(true);
+  };
+
+  const handleUpdatePWA = () => {
+    trackUpdateTriggered(updateAvailable);
+    triggerUpdate(reloadCatalog);
+  };
+
+  const handleClearBookmarks = () => {
+    trackScheduleCleared(bookmarkedSessions.length);
+    clearBookmarks();
+  };
+
   // Real-time transit hazard detection across bookmarked sessions
   const transitAlerts = useMemo(() => {
     return detectTransitAlerts(bookmarkedSessions);
@@ -97,11 +170,11 @@ export const App: React.FC = () => {
         totalSessions={metadata?.totalSessions || sessions.length}
         bookmarkedSessions={bookmarkedSessions}
         transitAlerts={transitAlerts}
-        onOpenItinerary={() => setIsItineraryOpen(true)}
-        onOpenBundler={() => setIsBundlerOpen(true)}
+        onOpenItinerary={handleOpenItinerary}
+        onOpenBundler={handleOpenBundler}
         theme={theme}
-        onToggleTheme={toggleTheme}
-        onUpdatePWA={() => triggerUpdate(reloadCatalog)}
+        onToggleTheme={handleToggleTheme}
+        onUpdatePWA={handleUpdatePWA}
         isUpdatingPWA={isUpdating}
         updateAvailable={updateAvailable}
         isOnline={isOnline}
@@ -110,9 +183,9 @@ export const App: React.FC = () => {
         canDecreaseTextSize={canDecreaseTextSize}
         textSizeLabel={textSizeLabel}
         isDefaultTextSize={isDefaultTextSize}
-        onIncreaseTextSize={onIncreaseTextSize}
-        onDecreaseTextSize={onDecreaseTextSize}
-        onResetTextSize={onResetTextSize}
+        onIncreaseTextSize={handleIncreaseTextSize}
+        onDecreaseTextSize={handleDecreaseTextSize}
+        onResetTextSize={handleResetTextSize}
       />
 
       {/* PWA Connectivity & Update Status Banner */}
@@ -240,7 +313,7 @@ export const App: React.FC = () => {
                 </div>
                 <div className="flex flex-wrap items-center gap-2 flex-shrink-0">
                   <button
-                    onClick={() => exportItineraryToPdf(bookmarkedSessions)}
+                    onClick={() => { trackPdfDownloaded(bookmarkedSessions.length, 'banner'); exportItineraryToPdf(bookmarkedSessions); }}
                     className="flex items-center space-x-1.5 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-100 font-semibold px-3 py-2 text-xs transition shadow-sm cursor-pointer"
                     title="Download schedule as PDF"
                   >
@@ -248,7 +321,7 @@ export const App: React.FC = () => {
                     <span>PDF</span>
                   </button>
                   <button
-                    onClick={() => printSchedule()}
+                    onClick={() => { trackSchedulePrinted(bookmarkedSessions.length, 'banner'); printSchedule(); }}
                     className="flex items-center space-x-1.5 rounded-xl bg-white dark:bg-slate-800 hover:bg-slate-100 dark:hover:bg-slate-700 border border-slate-300 dark:border-slate-700 text-slate-800 dark:text-slate-100 font-semibold px-3 py-2 text-xs transition shadow-sm cursor-pointer"
                     title="Print schedule matrix"
                   >
@@ -256,7 +329,7 @@ export const App: React.FC = () => {
                     <span>Print</span>
                   </button>
                   <button
-                    onClick={() => setIsItineraryOpen(true)}
+                    onClick={handleOpenItinerary}
                     className="flex items-center space-x-1.5 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold px-3.5 py-2 text-xs transition shadow-md shadow-amber-500/20 cursor-pointer"
                   >
                     <Calendar className="h-4 w-4" />
@@ -411,7 +484,7 @@ export const App: React.FC = () => {
         transitAlerts={transitAlerts}
         scheduleChangeNotices={scheduleChangeNotices}
         onRemoveSession={toggleBookmark}
-        onClearAll={clearBookmarks}
+        onClearAll={handleClearBookmarks}
         onSelectSession={(s) => setSelectedSessionForModal(s)}
       />
 
