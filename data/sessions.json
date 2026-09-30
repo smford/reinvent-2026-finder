@@ -12478,7 +12478,7 @@
   {
     "id": "1790358218602001ij33",
     "code": "ANT416-R1",
-    "title": "Build agentic AI applications with the open data lakehouse architecture on AWS [REPEAT]",
+    "title": "Build agentic AI applications with the open data lakehouse architecture on AWS ",
     "type": "Workshop",
     "level": "400 - Expert",
     "topics": [
@@ -20448,21 +20448,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Learn how to cut agentic AI infrastructure costs by migrating to AWS Graviton5 on Amazon EKS Auto Mode — with no compromise on latency or reliability. This hands-on workshop covers the full playbook: building multi-architecture container images, designing ARM64 NodePools, configuring IAM Roles for Service Accounts for secure agent-to-AWS communication, and tuning Graviton-optimized inference runtimes for predictable tail latency. Run live cost benchmarks against x86 equivalents to see exactly where Graviton5 pays back, and instrument with CloudWatch Container Insights to confirm performance parity. Walk away with a reusable pattern, a reproducible benchmark methodology, and a clear migration path you can apply to your own workloads the same week.",
     "times": [
       {
         "id": "1790360393604001AUpA",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "08:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 120,
-        "room": "Wynn/Encore | Convention Promenade | Mouton 2",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 3 | Premier 317",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -21041,14 +21041,14 @@
     "times": [
       {
         "id": "1790360402094001AA3U",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "08:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "10:00 AM",
-        "duration": 120,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 3",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 167",
         "venue": "Wynn/Encore"
       }
     ]
@@ -21595,21 +21595,21 @@
       "DevOps Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Discover how to leverage EC2 Image Builder to create secure, compliant, and hardened AMIs. Learn to automate security baseline implementation, including CIS benchmarks. We'll demonstrate building compliance checks into Image Builder pipelines, integrating vulnerability scanning, and implementing automated testing for regulatory standards.",
     "times": [
       {
         "id": "1790360396418001AZkA",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Chopin 4",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 3 | Room 350",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -23312,21 +23312,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Aperf is an open-source project created by AWS to accelerate the performance debugging process by enabling experienced users to deep dive into extensive data and less experienced users to identify issues without specialized knowledge. During this session, we'll present its key features and run a demo showing the analysis workflow, from installation, data collection, and then analysis. Finally, we'll open the conversation to collect feedback and feature requests from the audience.",
     "times": [
       {
         "id": "1790360391851001A5ZA",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Convention Promenade | Margaux 1",
-        "venue": "Wynn/Encore"
+        "room": "Caesars Forum | Level 1 | Forum 103",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -32565,7 +32565,20 @@
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Expedia Group manages thousands of database instances across hundreds of AWS accounts. When incidents strike at this scale, every second counts. In this session, learn how a customer-driven vision for agentic AI evolved into a joint design partnership for autonomous database operations on Amazon Aurora. Discover how agents diagnose incidents across fleet-scale telemetry and deliver actionable recommendations to engineers. This joint initiative demonstrates how AI agents reduce incident response time and serves as a blueprint for teams seeking to automate database operations at scale. Learn how AWS is building the underlying capabilities to make autonomous operations real.",
-    "times": []
+    "times": [
+      {
+        "id": "1790776991377001MEq9",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:30",
+        "endTime": "09:50",
+        "startTimeFormatted": "09:30 AM",
+        "endTimeFormatted": "09:50 AM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1780441469589001Gd7z",
@@ -36587,7 +36600,7 @@
   {
     "id": "1780442279278001czgB",
     "code": "DVT309-R",
-    "title": "Death, taxes, and runtime deprecations: automate your way out",
+    "title": "Your runtime Is being deprecated. Your weekend isn't.",
     "type": "Workshop",
     "level": "300 - Advanced",
     "topics": [
@@ -36624,7 +36637,7 @@
   {
     "id": "1790358244906001i7CV",
     "code": "DVT309-R1",
-    "title": "Death, taxes, and runtime deprecations: automate your way out",
+    "title": "Your runtime Is being deprecated. Your weekend isn't.",
     "type": "Workshop",
     "level": "300 - Advanced",
     "topics": [
@@ -39049,7 +39062,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations are running AI workloads, including training, inference, fine-tuning, reinforcement learning, across an expanding set of environments, from AWS Regions to AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories. The right deployment option depends on latency, data sovereignty, compute density, and scale. Explore how customers deploy GPU-accelerated AI across the full hybrid spectrum: G7e instances for edge inference, NVIDIA GPU-based and AWS Trainium-powered instances on Local Zones, purpose-built AWS AI Factories for large-scale training and model serving, and edge deployments for real-time applications like robotics. Hear how customers navigate these decisions and learn architectural patterns for placing AI workloads where your data lives, without compromising performance or compliance.",
+    "abstract": "Organizations are running AI workloads, including training, inference, fine-tuning, and reinforcement learning, across an expanding set of environments, from AWS Regions to AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories. The right deployment option depends on latency, data sovereignty, compute density, and scale. Explore how customers deploy GPU-accelerated AI across the full hybrid spectrum: low-latency inference at the edge, NVIDIA GPU-based and AWS Trainium-powered instances in Local Zones, purpose-built AWS AI Factories for large-scale training and model serving, and edge deployments for real-time applications like robotics. Hear how customers navigate these decisions and learn architectural patterns for placing AI workloads where your data lives, without compromising performance or compliance.",
     "times": [
       {
         "id": "1790025474691001CNSh",
@@ -40197,7 +40210,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Discover why Rivian chose AWS Outposts to support mission-critical manufacturing applications that produce vehicles at their Normal, IL plant. Explore how Rivian architected highly redundant infrastructure across multiple Outpost racks, using fast Amazon EC2 provisioning and scaling to meet production line demands. This session covers Multi-Availablity Zone deployment for high availability, Amazon RDS read replicas across racks for database resilience, and AWS Unified Operations for proactive observability across their hybrid environment. Learn how Rivian plans to scale this model into their 9 million square-foot mega factory in Georgia.",
+    "abstract": "Discover why Rivian chose AWS Outposts to support mission-critical manufacturing applications that produce vehicles at its Normal, Illinois, plant. Explore how Rivian architected highly redundant infrastructure across multiple Outposts racks, using fast Amazon EC2 provisioning and scaling to meet production line demands. This session covers Multi-Availability Zone deployment for high availability, Amazon RDS read replicas across racks for database resilience, and AWS Unified Operations for proactive observability across its hybrid environment. Learn how Rivian plans to scale this model into its 9-million-square-foot mega factory in Georgia.",
     "times": [
       {
         "id": "1790033110199001qBLf",
@@ -47491,8 +47504,8 @@
   },
   {
     "id": "1787870984320001HQXF",
-    "code": "INV001",
-    "title": "Ctrl+Alt+Ship: Hands-on with Kiro, Amazon Quick, and Amazon Connect Customer",
+    "code": "INV001-R",
+    "title": "Ctrl+Alt+Ship: Hands-On with Kiro, Amazon Quick, and Amazon Connect Customer",
     "type": "Lab",
     "level": "No Level",
     "topics": [
@@ -47510,7 +47523,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Workstations are provided; no reservation needed. Labs are 30-60 min.",
+    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Labs are 30-60 min. Workstations are provided; no reservation needed.",
     "times": [
       {
         "id": "1790273873719001yDC5",
@@ -47522,6 +47535,304 @@
         "endTimeFormatted": "05:30 PM",
         "duration": 570,
         "room": "Venetian | Level 2 | Ballroom F | Content Hub | Ctrl+Alt+Ship",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870984136001Htcj",
+    "code": "INV001-R1",
+    "title": "Ctrl+Alt+Ship: Hands-On with Kiro, Amazon Quick, and Amazon Connect Customer",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Labs are 30-60 min. Workstations are provided; no reservation needed.",
+    "times": [
+      {
+        "id": "1790791000151001D0to",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Ctrl+Alt+Ship",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870984000001HC2h",
+    "code": "INV001-R2",
+    "title": "Ctrl+Alt+Ship: Hands-On with Kiro, Amazon Quick, and Amazon Connect Customer",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Labs are 30-60 min. Workstations are provided; no reservation needed.",
+    "times": [
+      {
+        "id": "1790791049824001VuUw",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Ctrl+Alt+Ship",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870983940001HuP8",
+    "code": "INV001-R3",
+    "title": "Ctrl+Alt+Ship: Hands-On with Kiro, Amazon Quick, and Amazon Connect Customer",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Labs are 30-60 min. Workstations are provided; no reservation needed.",
+    "times": [
+      {
+        "id": "1790791097626001kOp1",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Ctrl+Alt+Ship",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789410444757001heJr",
+    "code": "INV001-R4",
+    "title": "Ctrl+Alt+Ship: Hands-On with Kiro, Amazon Quick, and Amazon Connect Customer",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Ctrl+Alt+Ship is a choose-your-own-adventure experience with self-paced labs spanning Kiro, Amazon Quick, and Amazon Connect Customer. Start with the Kiro IDE for AI-native development, or level up to multi-agent workflows. Solve an escape-room-style corporate crisis using Quick, your AI work assistant, choosing between a guided investigation or an advanced multi-step operation to plan, execute, and automate your way to cracking the case. With Connect Customer, see how AI resolves customer issues, gives agents context, and helps supervisors improve service—or go hands-on with the agentic CX designer, a no-code visual canvas, to build conversational AI. AWS facilitators from each product team will be available to answer questions. Labs are 30-60 min. Workstations are provided; no reservation needed.",
+    "times": [
+      {
+        "id": "1790791141616001x7uj",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:00",
+        "endTime": "12:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 270,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Ctrl+Alt+Ship",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870984199001HGRf",
+    "code": "INV002-S-R",
+    "title": "Build and Deploy an eve Agent with Vercel and AWS (sponsored by Vercel)",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "Developer / Engineer",
+      "Tech Explorer"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Build and deploy a personalized eve agent with Vercel and AWS in this hands-on innovation lab. You'll start from zero, scaffold an open-source eve.dev agent framework, configure it with your own instructions, connect it to Amazon Bedrock through Vercel Al Gateway, and deploy it to Vercel. The lab is designed for a range of builders: beginners and non-technical users can quickly build and launch a functional agent, while more advanced engineers can explore how the same agent architecture can connect to AWS services and enterprise data sources such as Aurora, S3, or DynamoDB using Vercel and AWS native integration and advanced Vercel networking. Along the way, you'll learn how Vercel and AWS work together to help teams move from Al prototype to production-ready application. Workstations are provided; no reservation needed. Labs are 30-60 min. This presentation is brought to you by Vercel, an AWS Partner.",
+    "times": [
+      {
+        "id": "1790365865414001q4r2",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Innovation Labs",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870984076001H9wt",
+    "code": "INV002-S-R1",
+    "title": "Build and Deploy an eve Agent with Vercel and AWS (sponsored by Vercel)",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "Developer / Engineer",
+      "Tech Explorer"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Build and deploy a personalized eve agent with Vercel and AWS in this hands-on innovation lab. You'll start from zero, scaffold an open-source eve.dev agent framework, configure it with your own instructions, connect it to Amazon Bedrock through Vercel Al Gateway, and deploy it to Vercel. The lab is designed for a range of builders: beginners and non-technical users can quickly build and launch a functional agent, while more advanced engineers can explore how the same agent architecture can connect to AWS services and enterprise data sources such as Aurora, S3, or DynamoDB using Vercel and AWS native integration and advanced Vercel networking. Along the way, you'll learn how Vercel and AWS work together to help teams move from Al prototype to production-ready application. Workstations are provided; no reservation needed. Labs are 30-60 min. This presentation is brought to you by Vercel, an AWS Partner.",
+    "times": [
+      {
+        "id": "1790794810215001V7Oc",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Innovation Labs",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870983874001HCun",
+    "code": "INV003-S",
+    "title": "Claude Code: From first feature to optimized agentic workflows (sponsored by Anthropic)",
+    "type": "Lab",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Claude Code is Anthropic's agentic coding tool. Point it at a codebase and choose your path, self-paced in the browser on Amazon Bedrock. In the Build with Claude track, give Claude project context, explore an unfamiliar repository, then plan, implement, and test a change you watch run - no experience required. In the Scale with Agents track, orchestrate parallel subagents across an agentic app, add review and verification gates, then apply Anthropic-authored skills to improve its performance and lower cost. Terminal experience assumed. Workstations are provided; no reservation needed. Labs are 30-60 min. This presentation is brought to you by Anthropic, an AWS Partner.",
+    "times": [
+      {
+        "id": "1790621067443001hcQP",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Innovation Labs",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787870984257001H8vq",
+    "code": "INV301-S",
+    "title": "Build Autonomous Agents and Run AI-Powered AppSec on Bedrock (sponsored by OpenAI)",
+    "type": "Lab",
+    "level": "300 - Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Application Security",
+      "Generative AI"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Go hands-on with OpenAI models on Amazon Bedrock across two builder tracks. First, stand up a fully managed autonomous agent with Amazon Bedrock Managed Agents: define instructions and tools, wire action groups for API access, and ground responses in your own data through knowledge bases. Then shift to code security, using OpenAI's Codex Security to review a real vulnerable app by running scans, threat modeling, triaging findings, and fixing one with verified remediation. Throughout, inference runs securely on Bedrock under your account's controls. You'll leave with repeatable blueprints for building agentic OpenAI applications and for AI-assisted application security on AWS. Workstations are provided; no reservation needed. Labs are 30-60 min. This presentation is brought to you by OpenAI, an AWS Partner.",
+    "times": [
+      {
+        "id": "1790366010803001jpZU",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Innovation Labs",
         "venue": "Venetian"
       }
     ]
@@ -51592,7 +51903,7 @@
     "code": "MAM345",
     "title": "Multicloud-to-AWS transformation: HealthEdge migrating 8,700 servers",
     "type": "Breakout session",
-    "level": "300 - Advanced",
+    "level": "200 - Intermediate",
     "topics": [
       "Migration & Modernization"
     ],
@@ -53056,7 +53367,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AWS Direct Connect can feel like a mystery beneath the surface — many customers never get hands-on access. In this show and tell, we change that. Starting from a live connection and an on-premises router, provision a virtual interface via the CLI and watch BGP establish in real time — then break things on purpose. See how route advertisements propagate, what ECMP and AS path prepending look like from both sides, and how BGP Route Visibility metrics in Amazon CloudWatch diagnose issues as they happen. Whether you run 1G or hundreds of 100G ports, walk away thinking differently about operating Direct Connect.",
+    "abstract": "AWS Direct Connect can feel like a mystery beneath the surface, and many customers never get hands-on access. In this show and tell, we change that. Starting from a live connection and on-premises router, watch a Direct Connect maintenance unfold in real-time from both sides of the BGP session. See how AWS signals maintenance ahead of time through AS path prepending, graceful shutdown, and how traffic shifts to the backup path before any route is withdrawn. Whether you run 1G or hundreds of 100G ports, leave with the policy and checklist to get through your next maintenance without a page.",
     "times": [
       {
         "id": "1790025486793001CNCm",
@@ -53092,7 +53403,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AWS Direct Connect can feel like a mystery beneath the surface — many customers never get hands-on access. In this show and tell, we change that. Starting from a live connection and an on-premises router, provision a virtual interface via the CLI and watch BGP establish in real time — then break things on purpose. See how route advertisements propagate, what ECMP and AS path prepending look like from both sides, and how BGP Route Visibility metrics in Amazon CloudWatch diagnose issues as they happen. Whether you run 1G or hundreds of 100G ports, walk away thinking differently about operating Direct Connect.",
+    "abstract": "AWS Direct Connect can feel like a mystery beneath the surface, and many customers never get hands-on access. In this show and tell, we change that. Starting from a live connection and on-premises router, watch a Direct Connect maintenance unfold in real-time from both sides of the BGP session. See how AWS signals maintenance ahead of time through AS path prepending, graceful shutdown, and how traffic shifts to the backup path before any route is withdrawn. Whether you run 1G or hundreds of 100G ports, leave with the policy and checklist to get through your next maintenance without a page.",
     "times": [
       {
         "id": "1790360373319001Aib6",
