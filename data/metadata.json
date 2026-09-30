@@ -1,6 +1,6 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-09-29T21:37:32Z",
+  "lastUpdated": "2026-09-30T11:31:46Z",
   "totalSessions": 2043,
   "scheduledTimeSlots": 1997,
   "campuses": {
@@ -19,9 +19,9 @@
     "TBD": 45
   },
   "levels": {
-    "200 - Intermediate": 323,
+    "200 - Intermediate": 322,
     "300 - Advanced": 1209,
-    "100 - Foundational": 76,
+    "100 - Foundational": 77,
     "400 - Expert": 405,
     "500 - Distinguished": 28,
     "No Level": 1,
@@ -36,8 +36,8 @@
     "Workshop": 290,
     "Code talk": 118,
     "Bootcamp": 16,
-    "Exam prep": 4,
-    "Lab": 23
+    "Lab": 23,
+    "Exam prep": 4
   },
   "days": {
     "Monday": 538,

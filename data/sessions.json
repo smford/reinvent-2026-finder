@@ -1496,45 +1496,6 @@
     ]
   },
   {
-    "id": "1780442268190001cIjA",
-    "code": "AIM214-S",
-    "title": "Ring's Security Evolution: From Doorbell to Enterprise Platform (sponsored by Ring LLC)",
-    "type": "Lightning talk",
-    "level": "200 - Intermediate",
-    "topics": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Identity & Access Management",
-      "Threat Detection & Incident Response"
-    ],
-    "roles": [
-      "Business Executive",
-      "Data Engineer",
-      "Developer / Engineer"
-    ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Ring started with a simple mission: make neighborhoods safer with a video doorbell. That mission has scaled — from 100M+ residential cameras to SMB storefronts and jobsites with mobile security towers, to an AI-powered Appstore unlocking entirely new use cases across elder care, workforce analytics, and beyond. Now, Ring is making its boldest leap yet: a cloud-native enterprise platform built on AWS, combining video management, intelligent alerting, third-party camera ingestion, and access control. Join this lightning round to trace Ring's evolution and see what's next for enterprise security. This presentation is brought to you by Ring LLC, an AWS Partner.",
-    "times": [
-      {
-        "id": "1790033119449001q60T",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:30",
-        "endTime": "13:50",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "01:50 PM",
-        "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
     "id": "1780441464305001GTfT",
     "code": "AIM216",
     "title": "Accelerate intelligent document processing with Amazon Textract",
@@ -2794,7 +2755,7 @@
   {
     "id": "1780441482005001Gzm0",
     "code": "AIM241-S",
-    "title": "4 foundations every enterprise needs to scale agents (sponsored by IBM)",
+    "title": "4 foundations for building the agentic enterprises on AWS​",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -2812,7 +2773,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AI agents are moving fast, but isolated agents will not change how the enterprise runs. To create value at scale, agents need trusted real-time data, secure access, workflow context and modern applications they can act on.\nJoin IBM and industry leaders to explore how organizations are moving from isolated agents to governed agentic systems on AWS. You’ll leave with a practical blueprint for scaling enterprise AI—connecting data, workflows, applications and access controls so agents can move from one-off tasks to enterprise-wide execution. This presentation is brought to you by IBM, an AWS Partner.",
+    "abstract": "Agentic AI is moving fast—but isolated agents and one-off experiments won’t transform the enterprise. To create value at scale, companies need a foundation that helps them build and modernize applications faster, orchestration across systems and workflows, governed execution, and control over the infrastructure, performance and cost behind them.​ Join IBM and industry leaders to discover what’s new from IBM on AWS. Hear real-world lessons and measurable business outcomes while exploring the four foundations organizations need to move from disconnected agents to secure, governed, enterprise-wide execution.​",
     "times": [
       {
         "id": "1790034533597001pyF0",
@@ -3050,7 +3011,7 @@
   {
     "id": "1780441484362001GWnJ",
     "code": "AIM248-S",
-    "title": "The 3-step blueprint for scaling AI with a modern enterprise core (sponsored by IBM)",
+    "title": "3-step blueprint for scaling AI with a modern enterprise core",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -3429,7 +3390,7 @@
   {
     "id": "1780441487523001GnAq",
     "code": "AIM259-S",
-    "title": "Don’t blame the model, it’s a context problem (sponsored by Confluent)",
+    "title": "Agents demand context. Build them a Streamhouse.",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -3449,7 +3410,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your agents can't act on yesterday's data. In this session, learn how Confluent and IBM connect streaming events, governed data, and agent orchestration into one production-ready AI pattern on AWS. Confluent Intelligence brings streaming decisions into the flow of business, Granite TS predicts what comes next, and watsonx Orchestrate routes actions through the right agent—all grounded in fresh, governed business context. You'll leave with practical patterns for moving from brittle data pipelines to streaming-native AI, built for speed, trust, and scale. This presentation is brought to you by Confluent, an AWS Partner.",
+    "abstract": "Your agents can't act on yesterday's data. In this session, see how to connect streaming events, governed data, and agent orchestration into one production-ready streamhouse architecture on AWS. Learn how to build a complete, performant, and open streamhouse that delivers real-time context, elastic scale, and mission-critical reliability across every cloud and private environment without data silos. You'll leave with practical patterns for moving from brittle data pipelines to AI built on data streams, designed for speed, trust, and scale. ",
     "times": [
       {
         "id": "1790025506330001C5X7",
@@ -17924,7 +17885,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AI value does not come from more agents—it comes from agents that can complete real work across enterprise systems without creating new risk. In this session, learn how IBM is helping teams build agentic workflows that connect software delivery, automation and governance across AWS environments. Learn how a connected approach to software development, orchestration and governance helps agents modernize applications, coordinate work and act across the enterprise with the visibility and control needed to scale. This presentation is brought to you by IBM, an AWS Partner.",
+    "abstract": "AI value doesn’t come from creating more agents. It comes from putting agents to work—securely, reliably, and across the systems where business gets done. In this session, see how IBM Bob helps developers build and modernize applications with agentic AI, while watsonx Orchestrate coordinates agents, tools, and workflows across the enterprise. Discover how IBM helps teams move from code and intent to governed action—with the visibility and control needed to scale.​",
     "times": [
       {
         "id": "1790033120285001qCPS",
@@ -27023,7 +26984,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Teams managing their Kubernetes fleet carry the full weight of the cluster: control plane, node lifecycle, add-on upgrades, and the operational toil. This session shows how to move that undifferentiated work to Amazon EKS Auto Mode, and how AI accelerates the migration itself. See how agentic tooling analyzes your existing clusters, translates manifests and add-on configurations, and flags what needs to change before you cut over. Learn the patterns for migrating workloads with minimal disruption, from node pools to networking to storage. Discover how teams reach a managed, self-scaling cluster in a fraction of the time manual migration takes.",
+    "abstract": "Most teams start with one or two Amazon EKS clusters and grow into a fleet. AWS manages the control plane, but on standard EKS your team still owns version upgrades, add-ons, node lifecycle, and operational efforts. This session shows how to move that undifferentiated work to Amazon EKS Auto Mode, and how AI accelerates the migration itself. See how agentic tooling inventories your EKS clusters, translates node and add-on configuration, and flags what must change before you cut over. Learn patterns for enabling EKS Auto Mode with minimal disruption, then scaling the migration across your fleet in a fraction of the time manual work takes.",
     "times": [
       {
         "id": "1790025520509001Cl61",
@@ -38826,7 +38787,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "While most workloads can be migrated to the cloud, some remain on-premises or at the edge due to low latency, local data processing, or data residency needs. AWS services like AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories extend AWS infrastructure, services, APIs, and tools wherever you need them, from metro areas to on-premises data centers and the far edge. Explore how these infrastructure services power a broad range of hybrid cloud and edge computing use cases such as financial trading, real-time threat detection, robotic control, and local processing of personally identifiable information (PII). Learn how AWS can help you meet digital sovereignty needs, run generative AI applications with on-premises and edge data, and accelerate migration and modernization with on-premises dependencies.",
+    "abstract": "While most workloads can be migrated to the cloud, some remain on-premises or at the edge due to low latency, local data processing, or data residency needs. AWS services like AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories extend AWS infrastructure, services, APIs, and tools wherever you need them, from metro areas to on-premises data centers and the far edge. Explore how these infrastructure services power a broad range of hybrid cloud and edge computing use cases such as  financial trading, robotic control, and manufacturing. Learn how AWS can help you meet digital sovereignty needs, run generative AI applications with on-premises and edge data, and accelerate migration and modernization of virtualized, containerized, and bare-metal workloads with on-premises dependencies.",
     "times": [
       {
         "id": "1790025525646001Cejx",
@@ -39467,7 +39428,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Gemini, a NASDAQ-listed crypto exchange, serves trading clients with diverse latency and infrastructure needs. Using AWS Outposts at its NY5 colocation facility, Gemini provides sub-millisecond connectivity via cross-connects. With AWS Local Zones in NYC, cloud-native traders achieve sub-2ms latency through VPC Peering—an 80% improvement—with provisioning in minutes instead of months. The AWS Region offers a fully managed API for customers prioritizing simplicity, including agentic trading systems connecting via MCP. Hear how Gemini architected a tiered connectivity model that meets customers where they are, from HFT firms to AI-driven agents to university traders onboarded in days.",
+    "abstract": "Gemini, a NASDAQ-listed crypto exchange, serves trading clients with diverse latency needs. For the most latency-sensitive workloads, AWS Outposts at Gemini's NY5 facility runs matching-engine-adjacent with sub-millisecond connectivity via cross-connects. For cloud-native traders, AWS Local Zones in NYC deliver sub-2ms latency through VPC Peering: bringing compute into the New York area cut round-trip latency roughly 80%, with provisioning in minutes rather than months. For customers prioritizing simplicity, the Region offers a fully managed API, including agentic trading systems connecting via MCP. Hear how Gemini's tiered model turns compute placement into a competitive lever you can apply to your own location-sensitive workloads.",
     "times": [
       {
         "id": "1790360375852001Alz1",
@@ -40134,7 +40095,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Dive deep into strategies for modernizing distributed applications with Amazon EKS across AWS Regions, AWS Local Zones, and AWS Outposts. This chalk talk demonstrates how EKS delivers a consistent experience across these deployment options, minimizing latency and enabling data residency. Through a real-world scenario, we'll deploy an application to an EKS cluster, showcasing seamless integration across distributed environments while maintaining a unified control plane. By exploring practical use cases and best practices, you'll gain actionable insights into architecting resilient and scalable applications. This session follows AWS Well-Architected Framework principles, helping you optimize your AWS deployments for consistency and security.",
+    "abstract": "This chalk talk covers strategies for modernizing distributed applications with Amazon EKS across AWS Regions, AWS Local Zones, and AWS Outposts. It demonstrates how EKS delivers a consistent experience across these deployment options, minimizing latency and enabling data residency. Through a real-world scenario, the session deploys an application to an EKS cluster across distributed environments while maintaining a unified control plane. It covers practical use cases, best practices, and patterns for architecting resilient and scalable applications, following AWS Well-Architected Framework principles for consistency and security.",
     "times": [
       {
         "id": "1790025515698001CbWC",
@@ -40187,7 +40148,7 @@
   {
     "id": "1780441500339001GuHM",
     "code": "HMC407",
-    "title": "FanDuel: What we learned running containers on hundreds of AWS Outposts",
+    "title": "What FanDuel learned running containers on hundreds of AWS Outposts ",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -40202,7 +40163,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Running containerized workloads across dozens of AWS Local Zones and hundreds of AWS Outposts demands operational patterns that hold up at fleet scale. In this session, learn how FanDuel operates Amazon EKS across a massive hybrid edge fleet with a focus on high availability, patching, observability, service-disruption handling, and autoscaling. We dive into how workloads respond gracefully to service-link and hardware disruptions, and how autoscaling behaves when capacity is constrained to physical racks. Discover the operational model that keeps a large edge fleet healthy without growing the platform team at the same rate. ",
+    "abstract": "Running containerized workloads across dozens of AWS Local Zones and hundreds of AWS Outposts demands operational patterns that hold up at fleet scale. In this session, learn how FanDuel operates Amazon EKS across a huge hybrid edge fleet with a focus on high availability, patching, observability, service disruption handling, and autoscaling. The session digs into how workloads respond gracefully to service link and hardware disruptions, and how autoscaling behaves when compute is fixed and on-rack. Discover the operational model that keeps a large edge fleet healthy without growing the platform team at the same rate.",
     "times": [
       {
         "id": "1790025528146001CRlO",
@@ -40236,7 +40197,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Discover why Rivian chose AWS Outposts to support mission-critical manufacturing applications that produce vehicles at their Normal, IL plant. Explore how Rivian architected highly redundant infrastructure across multiple Outpost racks, leveraging fast EC2 provisioning and scaling to meet production line demands. We cover Multi-AZ deployment for high availability, RDS read replicas across racks for database resilience, and AWS Unified Operations for proactive observability across their hybrid environment. Learn how Rivian plans to scale this model into their 9 million square-foot mega factory in Georgia.",
+    "abstract": "Discover why Rivian chose AWS Outposts to support mission-critical manufacturing applications that produce vehicles at their Normal, IL plant. Explore how Rivian architected highly redundant infrastructure across multiple Outpost racks, using fast Amazon EC2 provisioning and scaling to meet production line demands. This session covers Multi-Availablity Zone deployment for high availability, Amazon RDS read replicas across racks for database resilience, and AWS Unified Operations for proactive observability across their hybrid environment. Learn how Rivian plans to scale this model into their 9 million square-foot mega factory in Georgia.",
     "times": [
       {
         "id": "1790033110199001qBLf",
@@ -48969,7 +48930,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Most organizations don't get years to plan a large-scale migration. Licensing changes, compliance requirements, or rising hardware costs can compress your timeline fast. This session covers how to build readiness quickly so your team can move hundreds of workloads with confidence. Learn how to assess your environment, build team capability, and match the right migration pathway to each workload. Hear from a customer who moved hundreds of applications under real pressure with zero critical outages. Walk away with a practical framework for getting your organization ready to move at any speed.",
+    "abstract": "Most organizations don't get years to plan a large-scale migration. Licensing changes, compliance requirements, or rising hardware costs can compress your timeline fast. This session covers how to build readiness quickly so your team can move hundreds of workloads with confidence. Learn how to assess your environment, build team capability, and match the right migration pathway to each workload. Hear Vanguard who moved hundreds of applications under real pressure with zero critical outages. Walk away with a practical framework for getting your organization ready to move at any speed.",
     "times": [
       {
         "id": "1790025509889001CN5r",
@@ -52316,7 +52277,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Modernizing Microsoft workloads means tackling .NET and SQL Server together, not as separate projects. In this workshop, you'll use AWS Transform to compress what typically takes months into a single sprint while targeting 30% cost reduction. Through hands-on modules, you'll containerize .NET applications, use AI-powered agents to reduce technical debt, adopt DevOps practices for .NET workloads, and execute end-to-end SQL Server migrations. You'll leave with a proven approach to transform your full .NET and SQL Server stack into a scalable, cloud-native architecture. Laptop required.",
+    "abstract": "Modernizing Microsoft workloads means tackling .NET and SQL Server together, not as separate projects. In this workshop, you'll use AWS Transform to compress this effort into a single sprint and reduce operating costs by up to 70% by moving off costly licenses. Working from a legacy app, you'll port .NET Framework code to modern, cross-platform .NET, migrate SQL Server to Amazon Aurora PostgreSQL, then containerize and deploy to Amazon ECS or EKS. You'll leave with a proven approach to transform your full stack into a scalable, cloud-native architecture. Come ready with your personal GitHub account. Laptop required.",
     "times": [
       {
         "id": "1790025520069001CIby",
@@ -58044,6 +58005,45 @@
         "endTimeFormatted": "01:20 PM",
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780442268190001cIjA",
+    "code": "SEC107-S",
+    "title": "Ring's Security Evolution: From Doorbell to Enterprise Platform (sponsored by Ring LLC)",
+    "type": "Lightning talk",
+    "level": "100 - Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Identity & Access Management",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Business Executive",
+      "Data Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Ring started with a simple mission: make neighborhoods safer with a video doorbell. That mission has scaled — from 100M+ residential cameras to SMB storefronts and jobsites with mobile security towers, to an AI-powered Appstore unlocking entirely new use cases across elder care, workforce analytics, and beyond. Now, Ring is making its boldest leap yet: a cloud-native enterprise platform built on AWS, combining video management, intelligent alerting, third-party camera ingestion, and access control. Join this lightning round to trace Ring's evolution and see what's next for enterprise security. This presentation is brought to you by Ring LLC, an AWS Partner.",
+    "times": [
+      {
+        "id": "1790033119449001q60T",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:30",
+        "endTime": "13:50",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "01:50 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
         "venue": "Venetian"
       }
     ]
