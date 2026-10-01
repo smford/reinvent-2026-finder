@@ -2042,6 +2042,54 @@
     ]
   },
   {
+    "id": "1780441486451001GEWm",
+    "code": "AIM2212-S",
+    "title": "DevEx 2026: The AI Era (sponsored by Atlassian)",
+    "type": "Breakout session",
+    "level": "200 - Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "DevOps",
+      "Workforce Development"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "The hype machine says AI makes developers faster. This was true in 2025, when 68% of devs said they were saving 10 hours per week, but we’re not in 2025. Our 2026 data shows only 26% of devs are still saving 10 hours per week, but are facing more bottlenecks with increasing levels of cognitive load. The role of a developer has shifted, with organisations moving from AI adoption to looking for impact. This is presenting developers with new opportunities and challenges. What are the organisations and developers who are moving faster, and delivering at a higher quality point doing differently to those still looking for impact? In this session, we’ll explore the results from the latest State of DevEx report, diving into how developer roles have changed, and how you can unlock the transformational power of AI.",
+    "times": []
+  },
+  {
+    "id": "1780442221732001cY2H",
+    "code": "AIM2213",
+    "title": "How leading AI builders push the frontier with AWS Trainium",
+    "type": "Breakout session",
+    "level": "200 - Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Hear from four AI leaders building experiences that didn't exist a year ago: real-time video generation, world models, physical AI, and LLMs for drug discovery. These breakthroughs demand both performance and cost efficiency at scale, and without either, they wouldn't work. AWS Trainium helped turn that future into production reality. Each panelist shares their use case, the challenges they faced, and how Trainium helped them deliver what was once impossible.",
+    "times": []
+  },
+  {
     "id": "1780442285389001cIeO",
     "code": "AIM222-S",
     "title": "Hands-On Workshop: Build & Deploy AI Agents with Cloudera Agent Studio (sponsored by Cloudera)",
@@ -2755,7 +2803,7 @@
   {
     "id": "1780441482005001Gzm0",
     "code": "AIM241-S",
-    "title": "4 foundations for building the agentic enterprises on AWS​",
+    "title": "4 foundations for building the agentic enterprises on AWS​ (sponsored by IBM)",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -3011,7 +3059,7 @@
   {
     "id": "1780441484362001GWnJ",
     "code": "AIM248-S",
-    "title": "3-step blueprint for scaling AI with a modern enterprise core",
+    "title": "3-step blueprint for scaling AI with a modern enterprise core (sponsored by IBM)",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -3390,7 +3438,7 @@
   {
     "id": "1780441487523001GnAq",
     "code": "AIM259-S",
-    "title": "Agents demand context. Build them a Streamhouse.",
+    "title": "Agents demand context. Build them a Streamhouse. (sponsored by Confluent)",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -4140,7 +4188,7 @@
   {
     "id": "1780441487864001GgSt",
     "code": "AIM282-S",
-    "title": "Elasticsearch - the Search database for Context Engineering and AI",
+    "title": "Elasticsearch - the Search database for Context Engineering and AI (sponsored by Elastic)",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -6408,8 +6456,92 @@
     ]
   },
   {
+    "id": "1780442235409001cUp6",
+    "code": "AIM3310-R",
+    "title": "Stop the bleed: control and optimize agent costs on AgentCore",
+    "type": "Chalk talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Your agent cost $0.02 per session in testing. In production it's $0.14 and climbing. Token consumption grows unpredictably as agents retry, loop, and fan out across tools, and most teams have no visibility into where the money goes. This chalk talk breaks down where agent costs actually hide and how to control them on AgentCore: per-session budgets that kill runaway loops, model routing that drops to cheaper models for simple subtasks, cost attribution at the team and workload level, prompt caching strategies, and how to measure the tradeoff between cost and quality with evaluations.",
+    "times": [
+      {
+        "id": "1790025516881001CsIx",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 309",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442253925001cfrR",
+    "code": "AIM3311",
+    "title": "See where every AI dollar goes on Amazon Bedrock",
+    "type": "Code talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI spend scales fast, and you can't optimize what you can't attribute. In this code talk, build Bedrock cost visibility live: combine CloudWatch metrics and supported invocation logs for timely usage signals with Cost Explorer and CUR 2.0 for billing reporting. Add attribution by IAM principal and cost-allocation tags, then assemble a dashboard that maps spend to teams, workloads, and models while accounting for each source's freshness and granularity. Turn that visibility into action: match steady workloads to Reserved Tier, choose models for price-performance, and set budgets and alerts. Leave with working code and a repeatable, finance-ready cost view.",
+    "times": [
+      {
+        "id": "1790033115427001qeNr",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1788568014278001At0w",
+    "code": "AIM3312",
+    "title": "Accelerate Apache Spark data processing with GPUs at lower cost ",
+    "type": "Breakout session",
+    "level": "300 - Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence",
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Data-intensive workloads like feature engineering, large-scale ETL, and real-time analytics push CPU-based clusters to their limits. In this session, learn how Amazon EMR with NVIDIA RAPIDS Accelerator for Apache Spark runs Spark workloads up to 3.7x faster on Amazon EC2 G7 instances—with no code changes. We share benchmarking results, walk through architecture and tuning patterns, and show how finishing jobs faster lowers the cost per run, even at a higher hourly rate.",
+    "times": []
+  },
+  {
     "id": "1780442234456001cCxU",
-    "code": "AIM332",
+    "code": "AIM332-R",
     "title": "Agentic fairness: Practical methods to detect bias in AI-driven decisions",
     "type": "Chalk talk",
     "level": "300 - Advanced",
@@ -10124,35 +10256,6 @@
     ]
   },
   {
-    "id": "1780442235409001cUp6",
-    "code": "AIM445-R",
-    "title": "Stop the bleed: control and optimize agent costs on AgentCore",
-    "type": "Chalk talk",
-    "level": "300 - Advanced",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Your agent cost $0.02 per session in testing. In production it's $0.14 and climbing. Token consumption grows unpredictably as agents retry, loop, and fan out across tools, and most teams have no visibility into where the money goes. This chalk talk breaks down where agent costs actually hide and how to control them on AgentCore: per-session budgets that kill runaway loops, model routing that drops to cheaper models for simple subtasks, cost attribution at the team and workload level, prompt caching strategies, and how to measure the tradeoff between cost and quality with evaluations.",
-    "times": [
-      {
-        "id": "1790025516881001CsIx",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
-        "duration": 60,
-        "room": "MGM Grand | Level 3 | Premier 309",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
     "id": "1790358225135001iv1E",
     "code": "AIM445-R1",
     "title": "Stop the bleed: control and optimize agent costs on AgentCore",
@@ -10438,35 +10541,6 @@
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Boulevard 159",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1780442253925001cfrR",
-    "code": "AIM455",
-    "title": "See where every AI dollar goes on Amazon Bedrock",
-    "type": "Code talk",
-    "level": "300 - Advanced",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "AI spend scales fast, and you can't optimize what you can't attribute. In this code talk, build Bedrock cost visibility live: combine CloudWatch metrics and supported invocation logs for timely usage signals with Cost Explorer and CUR 2.0 for billing reporting. Add attribution by IAM principal and cost-allocation tags, then assemble a dashboard that maps spend to teams, workloads, and models while accounting for each source's freshness and granularity. Turn that visibility into action: match steady workloads to Reserved Tier, choose models for price-performance, and set budgets and alerts. Leave with working code and a repeatable, finance-ready cost view.",
-    "times": [
-      {
-        "id": "1790033115427001qeNr",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
-        "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
         "venue": "MGM Grand"
       }
     ]
@@ -11154,7 +11228,7 @@
   {
     "id": "1780442270736001cpwg",
     "code": "ANT203-S",
-    "title": "Accelerating Data Processing: GPU Accelerated Amazon EMR at the Enterprise Scale",
+    "title": "Accelerating Data Processing: GPU Accelerated Amazon EMR at the Enterprise Scale (sponsored by NVIDIA)",
     "type": "Lightning talk",
     "level": "200 - Intermediate",
     "topics": [
@@ -16976,6 +17050,32 @@
     ]
   },
   {
+    "id": "1780441483600001GEca",
+    "code": "ARC338-S",
+    "title": "Thousands of Databases, $250 a Month: Operating an Agentic Database Estate on AWS (sponsored by CockroachDB)",
+    "type": "Breakout session",
+    "level": "300 - Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Databases"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "What if ~1,000 production-grade databases cost $250/month? Most teams pay more to keep a few clusters idle, each sized for peak load, running at 85–95% unused capacity and provisioned ticket by ticket. That model is breaking. AI agents create databases faster than platform teams can provision, secure or retire them. One engineering group grew from 13 databases to 392 in four months. At 1,000, managing one cluster at a time stops working. This session shifts focus to the estate with three architectural changes on AWS: Separate storage from compute, eliminating upfront capacity. Run isolated virtual clusters on shared hosts without creating sprawl. Use agentic operations to observe the estate and recommend actions your team approves. See live demos, a reference architecture and cost model behind the numbers. Bring your hardest questions about running stateful workloads at agent speed.",
+    "times": []
+  },
+  {
     "id": "1780442223639001cP8a",
     "code": "ARC402",
     "title": "Close the loop: From guardrail blocks into layered defense",
@@ -18056,7 +18156,7 @@
   {
     "id": "1780441482581001GJV7",
     "code": "BIZ208-S",
-    "title": "Keep sleeping at 3am: Elastic watches your Prometheus metrics so you don't have to",
+    "title": "Keep sleeping at 3am: Elastic watches your Prometheus metrics so you don't have to (sponsored by Elastic)",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -23356,6 +23456,26 @@
     "times": []
   },
   {
+    "id": "1780442262906001cXw5",
+    "code": "COM202",
+    "title": "Rebuilding a Platform's Foundation on DynamoDB Streams and Lambda",
+    "type": "Lightning talk",
+    "level": "200 - Intermediate",
+    "topics": [
+      "Architecture"
+    ],
+    "areasOfInterest": [
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Our platform had single points of failure baked into its original design. In this session, I walk through how we closed those gaps across all five AWS Well-Architected pillars: moving event-driven workloads onto DynamoDB Streams and Lambda, cutting costs through smarter data tiering, and building the observability needed to trust the new design under real operational pressure.",
+    "times": []
+  },
+  {
     "id": "1780441466962001Gdzl",
     "code": "COM301",
     "title": "Context Over Code: Making AI-Native Development Work at Scale",
@@ -24120,7 +24240,7 @@
     ],
     "venue": "TBD",
     "campus": "Other / Virtual",
-    "abstract": "The demo shipped. The agent went live. Then someone pulled it back. 74% of enterprises have rolled back a deployed AI agent, and the organizations that invested in governance roll back more often, not less. 88% of pilots never reach production. The infrastructure that gets an agent from demo to production is where the gap lives. We'll walk through the failure patterns that cause rollbacks: agents that fail silently, prompts treated as safety boundaries, and monitoring blind to non-deterministic failures. You'll leave with the patterns that prevent them: infrastructure-level guardrails, blast radius containment, and observability built for probabilistic systems.",
+    "abstract": "The demo shipped. The agent went live. Then someone pulled it back. 74% of organizations that have deployed an AI agent have rolled it back or shut it down, and the rate rises to 81% among those reporting fully mature guardrails. Getting agents into production got easier. Keeping them there without hurting customers did not. We'll walk through the failure patterns behind rollbacks: agents that fail silently, prompts treated as safety boundaries, and monitoring blind to non-deterministic failures. You'll leave with the patterns that prevent them: infrastructure-level guardrails, blast radius containment, and observability built for probabilistic systems.",
     "times": []
   },
   {
@@ -24488,7 +24608,7 @@
   {
     "id": "1780442254916001cDlq",
     "code": "COM327",
-    "title": "Make your Connect data talk: 10x faster answers with Quick",
+    "title": "Answering CX questions 10x faster with Amazon Connect Customer and Amazon Quick",
     "type": "Code talk",
     "level": "300 - Advanced",
     "topics": [
@@ -24506,7 +24626,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your Amazon Connect contact center knows why handle time spiked yesterday. The hard part is making it confess. The old way: ask another team, wait for the next report, lose hours. We made it self-serve with Amazon Quick Suite. First we tried the obvious path, exporting Connect's raw records to S3, and spent days fighting data that still came out wrong. Then we pivoted to the Connect analytics data lake: contact records, Contact Lens, and sentiment, accurate, zero ETL. The one catch was cross-account Connect Lake Formation. Now anyone asks Quick in plain language and reshapes queries on the fly. 10x faster to answer.",
+    "abstract": "Amazon Connect Customer generates a deep set of signals from every customer interaction. Sentiment, intent, conversation analytics, resolution outcomes. It's all there and Connect Customer gives you built-in tools to explore it. But we wanted to go further. We wanted anyone in the organization to ask questions about customer interactions in plain language and get answers instantly. So we paired Connect Customer's analytics data lake with Amazon Quick. In this session, we walk through how we did it, including how we handled cross-account Lake Formation access, and show how our broader team now asks questions and reshapes queries on the fly. 10x faster from question to action.",
     "times": [
       {
         "id": "1790025550462001CuNw",
@@ -24849,6 +24969,53 @@
     "venue": "TBD",
     "campus": "Other / Virtual",
     "abstract": "I spent years advocating for serverless, but as a CTO, I could not always see a viable path to bring it into certain business scenarios. In this talk, I share what has changed with the new AWS capabilities, why this can change the game for larger companies, and, along the way, I explore the concepts and how these services work in more depth to help us think about architecture with more clarity.",
+    "times": []
+  },
+  {
+    "id": "1780442262960001cjOu",
+    "code": "COM345",
+    "title": "Designing for Operability: Catching Performance Gaps Before Scale",
+    "type": "Lightning talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Innovation & Transformation",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Data Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "A training workload had plenty of GPU capacity, yet utilization remained low and training time kept increasing. The GPUs were healthy. The real bottleneck was upstream: the data pipeline could not feed them fast enough, leaving expensive accelerators waiting for work.\n\nThis talk walks through how we traced that utilization gap, found where throughput was being lost, and identified the signals that could have exposed the problem earlier. Through this production experience, we’ll look at what it means to design for operability before scale, when performance, utilization, and cost problems are still easier to fix.",
+    "times": []
+  },
+  {
+    "id": "1780442263016001cU90",
+    "code": "COM346",
+    "title": "Architecting Enterprise Agents on Bedrock",
+    "type": "Lightning talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Enterprise agents on Amazon Bedrock are complex distributed systems, combining models, tools, memory, and orchestration into something that has to behave predictably in production. In this session, I walk through practical architecture patterns for building enterprise-grade agents: multi-agent coordination, tool routing, session management, and hybrid workflows using AWS Step Functions and AWS Lambda. Drawing from real production systems, I cover the trade-offs that matter most when moving agents from prototype to production, where reliability and scale actually get tested. Walk away with concrete patterns you can bring back to your own agent architecture.",
     "times": []
   },
   {
@@ -36188,6 +36355,31 @@
     ]
   },
   {
+    "id": "1780441488262001Gib8",
+    "code": "DVT223-S",
+    "title": "Who Checks the Agents? Quality and Governance for the Agentic SDLC (sponsored by Qodo)",
+    "type": "Breakout session",
+    "level": "200 - Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Agents now plan work, write code, generate tests and open PRs—sometimes without human review before production. Yet most teams rely on a trust model built for a slower SDLC: one reviewer, one merge gate and one chance to catch what went wrong. That model fails when agents operate at every stage and final review can’t reveal what happened upstream. This session treats trust as a property of the pipeline, not a final checkpoint. We’ll explore why the system generating code shouldn’t also verify it, how to turn tribal standards into enforceable, auditable controls, and where independent review belongs between spec and deploy. Key takeaways: Why end-stage review fails in an agent-driven SDLC. How to enforce and trace standards across teams, repos and AI tools. How to decide what can merge automatically, what needs human review and how to document that decision for auditors.",
+    "times": []
+  },
+  {
     "id": "1780442227105001cOHv",
     "code": "DVT301-R",
     "title": "Bring your tech debt: build a custom transformation that fixes it",
@@ -37066,7 +37258,7 @@
   },
   {
     "id": "1780442240727001c5VP",
-    "code": "DVT323",
+    "code": "DVT323-R",
     "title": "Tech debt anonymous: bring your worst code to this chalk talk",
     "type": "Chalk talk",
     "level": "300 - Advanced",
@@ -37983,7 +38175,7 @@
   },
   {
     "id": "1785256471958001doP6",
-    "code": "GHJ201",
+    "code": "GHJ201-R",
     "title": "Cloud Migration Journey Tabletop Experience",
     "type": "Gamified learning",
     "level": "200 - Intermediate",
@@ -38006,7 +38198,7 @@
   },
   {
     "id": "1785256472094001dcYg",
-    "code": "GHJ203",
+    "code": "GHJ203-R",
     "title": "Post-Quantum Cryptography Tabletop Experience",
     "type": "Gamified learning",
     "level": "200 - Intermediate",
@@ -38030,7 +38222,7 @@
   },
   {
     "id": "1785256472207001dntP",
-    "code": "GHJ205",
+    "code": "GHJ205-R",
     "title": "3rd Party Risk Management Tabletop Experience",
     "type": "Gamified learning",
     "level": "200 - Intermediate",
@@ -38054,7 +38246,7 @@
   },
   {
     "id": "1785256472325001dIu1",
-    "code": "GHJ207",
+    "code": "GHJ207-R",
     "title": "Agentic AI Governance Tabletop Experience",
     "type": "Gamified learning",
     "level": "200 - Intermediate",
@@ -38079,7 +38271,7 @@
   },
   {
     "id": "1785256472510001dOCs",
-    "code": "GHJ210",
+    "code": "GHJ210-R",
     "title": "Incident Response Tabletop: Supply Chain",
     "type": "Gamified learning",
     "level": "200 - Intermediate",
@@ -38417,7 +38609,7 @@
   },
   {
     "id": "1780441504229001Gmvx",
-    "code": "GHJ308-S",
+    "code": "GHJ308-S-R",
     "title": "Agentic AI Jam - Sponsored by Nvidia",
     "type": "Gamified learning",
     "level": "300 - Advanced",
@@ -38704,7 +38896,7 @@
   },
   {
     "id": "1780441504140001GNd7",
-    "code": "GHJ318",
+    "code": "GHJ318-R",
     "title": "re:Architecture Rodeo: Designing Agentic AI Applications ",
     "type": "Gamified learning",
     "level": "300 - Advanced",
@@ -38722,7 +38914,7 @@
   },
   {
     "id": "1780442258468001cyLY",
-    "code": "GHJ319",
+    "code": "GHJ319-R",
     "title": "re:Architecture Rodeo: Architecting AI Governance & Security at Scale",
     "type": "Gamified learning",
     "level": "300 - Advanced",
@@ -44027,6 +44219,30 @@
     "times": []
   },
   {
+    "id": "1780441472222001Gi6z",
+    "code": "IND3350",
+    "title": "Visa: Building autonomous defense for payments security in the agentic AI era",
+    "type": "Breakout session",
+    "level": "300 - Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "Threat Detection & Incident Response",
+      "Zero Trust"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Visa secures one of the world's largest payment ecosystems, processing over $14 trillion across 300+ billion transactions annually. As AI-powered threats evolve, Visa is reimagining cybersecurity through hybrid-cloud architecture with 70+ controls framework, AI-driven operations, and an agentic control plane designed for autonomous defense. Built on an Agentic harness with Zero-Trust principles and AWS capabilities, such as Amazon GuardDuty and AWS Nitro Enclaves, and cloud-agnostic security controls, Visa continuously detects and mitigates risk across its cloud environment. Discover how Visa is building a security foundation for the agentic AI era, protecting today's payments ecosystem while enabling AI-powered applications and autonomous workloads.",
+    "times": []
+  },
+  {
     "id": "1780441477646001GG1s",
     "code": "IND344",
     "title": "How Chamberlain and Daikin power smart product innovation with AWS",
@@ -46077,14 +46293,13 @@
   {
     "id": "1780441477373001GAn3",
     "code": "IND384",
-    "title": "Transforming from a Connectivity  Provider to an AI Delivery Channel",
+    "title": "Inside T-Mobile's Kinetic Edge: Real-Time Physical AI at Scale",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
       "Industry Solutions"
     ],
     "areasOfInterest": [
-      "Customer Enablement",
       "Innovation & Transformation"
     ],
     "roles": [
@@ -46094,7 +46309,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Explore how a leading carrier built an AI delivery channel embedding intelligence directly into voice networks for real-time, contextual services. Discover their ultra-low-jitter wireless network enabling Physical AI workloads at scale using Bedrock and SageMaker across AWS Regions, Local Zones, and Outposts.",
+    "abstract": "In a Physical AI world, tokens traveling across a telecom network must trigger real-world actions with sub-millisecond latency. Learn how T-Mobile built its Kinetic Edge Platform using AWS Outposts, Amazon SageMaker, and Amazon Bedrock AgentCore, delivering deterministic performance, ultra-low latency, and precise synchronization on a network serving 130M+ customers. We'll cover how to assess Physical AI network requirements and map them to AWS infrastructure options. You'll leave knowing how to build AI into the network edge and where it creates the most value.",
     "times": [
       {
         "id": "1790025533567001Crbl",
@@ -46318,44 +46533,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1780441477042001GnzR",
-    "code": "IND393",
-    "title": "Real-world AI: How a state agency transformed its contact center",
-    "type": "Breakout session",
-    "level": "400 - Expert",
-    "topics": [
-      "Artificial Intelligence",
-      "Industry Solutions"
-    ],
-    "areasOfInterest": [
-      "Generative AI",
-      "Innovation & Transformation",
-      "Tech for Impact"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "When the Georgia Department of Community Supervision needed to modernize their contact center, they turned to Amazon Connect and AI. In this session, hear firsthand how AI-powered call analysis, real-time transcription, automated case notes, and intelligent agent assistance are transforming how state agencies serve constituents. We share lessons learned from discovery through implementation, including how to prioritize high-impact AI use cases, build stakeholder alignment, and deliver measurable outcomes. Leave with actionable strategies to bring AI-driven contact center innovation to your organization.",
-    "times": [
-      {
-        "id": "1790025552525001CWvS",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
-        "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -47498,6 +47675,44 @@
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
         "room": "Wynn/Encore | Convention Promenade | La Tache 2",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780441477042001GnzR",
+    "code": "IND424",
+    "title": "Real-world AI: How a state agency transformed its contact center",
+    "type": "Breakout session",
+    "level": "400 - Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Innovation & Transformation",
+      "Tech for Impact"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "When the Georgia Department of Community Supervision needed to modernize their contact center, they turned to Amazon Connect and AI. In this session, hear firsthand how AI-powered call analysis, real-time transcription, automated case notes, and intelligent agent assistance are transforming how state agencies serve constituents. We share lessons learned from discovery through implementation, including how to prioritize high-impact AI use cases, build stakeholder alignment, and deliver measurable outcomes. Leave with actionable strategies to bring AI-driven contact center innovation to your organization.",
+    "times": [
+      {
+        "id": "1790025552525001CWvS",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -48809,6 +49024,24 @@
     ]
   },
   {
+    "id": "1780441495052001GeWQ",
+    "code": "INV530",
+    "title": "EC2 at 20: Rebuilding the control plane while it is running",
+    "type": "Chalk talk",
+    "level": "500 - Distinguished",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Amazon EC2 launched in 2006 as four services backed by a single MySQL database. Twenty years later, it is one of the largest distributed systems ever built — and most of that original architecture had to be replaced while serving production traffic, with no maintenance window and no change to the API contract customers depend on. In this session, EC2 engineers dive deep on two of the hardest migrations: making the control plane Availability Zone independent so a single-AZ event cannot escalate into a regional one, and moving EC2 metadata off MySQL. We walk through the failure modes that forced each decision, how correctness was verified before every cutover, how we proved a single-AZ failure stays in a single AZ, and the things we got wrong along the way. You will leave with migration and isolation patterns you can apply to your own systems at any scale.",
+    "times": []
+  },
+  {
     "id": "1780441487120001GgdE",
     "code": "MAM101-S",
     "title": "Aflac’s Modernization journey to a resilient and innovative future (sponsored by Kyndryl)",
@@ -49859,6 +50092,42 @@
         "duration": 60,
         "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1786823307680001leci",
+    "code": "MAM226",
+    "title": "Multicloud-to-AWS transformation: HealthEdge migrating 8,700 servers",
+    "type": "Breakout session",
+    "level": "200 - Intermediate",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Running workloads across multiple clouds and on-premises data centers creates compounding complexity: inconsistent tooling, duplicated licensing costs, and operational overhead that slows everything down. HealthEdge faced exactly this across Azure, GCP, and three data centers while serving 115 health plans that depend on their systems daily. In this session, hear how they're consolidating 8,700 servers, 1,600 databases, and thousands of cloud services onto AWS on a 2-year roadmap. Learn how they evaluated providers, built a strategy around rightsizing and licensing optimization, and are executing without disrupting the health plans that depend on them.",
+    "times": [
+      {
+        "id": "1790025505627001CBJ2",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Roman I",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -51827,7 +52096,7 @@
   {
     "id": "1780442236771001cB9S",
     "code": "MAM343",
-    "title": "Let AI agents see and operate your desktop apps on WorkSpaces",
+    "title": "Govern and optimize AI agents for desktop work on WorkSpaces",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -51844,7 +52113,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Enterprises run critical processes on desktop applications that are too costly to modernize and too important to abandon. Amazon WorkSpaces now lets AI agents operate those same applications the way humans do, seeing the screen and executing workflows without requiring custom integrations or application changes. In this chalk talk, we'll dig into how agents inherit the same identity controls, network isolation, and compliance boundaries as human users. We'll walk through MCP tool forwarding, real-time session control, and domain-joined fleet support. Bring your architecture questions.",
+    "abstract": "Your most valuable business processes often run inside desktop applications and mainframes that expose no APIs for AI agents to call. In this session, learn how to use Amazon WorkSpaces to give agents a governed desktop where they operate these applications directly, just as an employee would. In this chalk talk, we'll dig into scoping what agents are permitted to do, auditing agent actions, and configuring agent identity. We'll walk through strategies for agent optimization:  how to choose the right agent tools, select the right model for your workflow, and build reusable agent skills. Applied together, these techniques cut task time, lower cost, and increase the accuracy of your agent workflows.",
     "times": [
       {
         "id": "1790025480740001Ce7q",
@@ -51894,42 +52163,6 @@
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Blue Theater",
-        "venue": "Caesars Palace"
-      }
-    ]
-  },
-  {
-    "id": "1786823307680001leci",
-    "code": "MAM345",
-    "title": "Multicloud-to-AWS transformation: HealthEdge migrating 8,700 servers",
-    "type": "Breakout session",
-    "level": "200 - Intermediate",
-    "topics": [
-      "Migration & Modernization"
-    ],
-    "areasOfInterest": [
-      "Global Infrastructure",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "IT Professional / Technical Manager"
-    ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
-    "abstract": "Running workloads across multiple clouds and on-premises data centers creates compounding complexity: inconsistent tooling, duplicated licensing costs, and operational overhead that slows everything down. HealthEdge faced exactly this across Azure, GCP, and three data centers while serving 115 health plans that depend on their systems daily. In this session, hear how they're consolidating 8,700 servers, 1,600 databases, and thousands of cloud services onto AWS on a 2-year roadmap. Learn how they evaluated providers, built a strategy around rightsizing and licensing optimization, and are executing without disrupting the health plans that depend on them.",
-    "times": [
-      {
-        "id": "1790025505627001CBJ2",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "02:30 PM",
-        "duration": 60,
-        "room": "Caesars Palace | Promenade Level | Roman I",
         "venue": "Caesars Palace"
       }
     ]
@@ -54960,10 +55193,23 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Your cloud network doesn't have to end where fiber does. In this interactive whiteboard session, you'll design hybrid network architectures that combine Amazon Leo's low-earth orbit satellite connectivity with AWS networking services including VPN, Transit Gateway, and Cloud WAN. We'll start with Leo's real-world performance characteristics: latency, throughput, and availability. Then, we'll work through three architecture patterns: first-day connectivity for new sites, primary connectivity for remote locations, and satellite-based redundancy for existing terrestrial links. You'll leave with reference architectures you can adapt to your environment and a clear understanding of how the constellation fits in your network design.",
-    "times": []
+    "times": [
+      {
+        "id": "1790807213038001fytC",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 353",
+        "venue": "MGM Grand"
+      }
+    ]
   },
   {
     "id": "1780441479257001GWPL",
@@ -55154,6 +55400,31 @@
         "venue": "Caesars Forum"
       }
     ]
+  },
+  {
+    "id": "1780442221452001ckfr",
+    "code": "NET407",
+    "title": "EFA deep dive: Architecture, evolution, and scaling with OpenAI",
+    "type": "Breakout session",
+    "level": "400 - Expert",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Global Infrastructure",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "We built EFA to deliver multi-tenant, elastic, high-performance networking with portability across every instance type and accelerator through Libfabric. The architecture that followed — multipath packet spraying, out-of-order delivery, and encryption of every byte in transit — has scaled from HPC workloads to the backbone of today's largest AI training clusters. Now it's evolving again to support disaggregated inference and expert parallelism. OpenAI joins to share how they adapted their production inference stack to EFA on EC2 UltraServers, covering Reliable Datagram semantics for GPU-to-GPU collectives, NCCL tuning, and topology-aware communication patterns that unlock new performance.",
+    "times": []
   },
   {
     "id": "1780442270175001cA3E",
@@ -57383,7 +57654,7 @@
   {
     "id": "1780441480128001G45f",
     "code": "PEX308",
-    "title": "From Manual to Autonomous: AI-Driven AWS Partner Ops with Quick & MCP",
+    "title": "From Manual to Autonomous: Agentic AWS Partner Growth via Quick & MCP",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -57400,7 +57671,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "38% of partners cite SA access as their #1 GenAI need; 42% cite technical complexity as the implementation barrier. Expertise locked in SMEs doesn't scale, the answer is architectural. This session shows how Amazon Quick, the Partner Central MCP Server, and Marketplace AI Listing Experience  automate end-to-end partner operations — co-sell, technical validation, MP listings optimized via SEO/GEO, Express Private Offers, and demand generation. We cover MCP protocol integration, agent orchestration across Partner Central and Marketplace, cross-system auth, and extensibility patterns. Leave ready to build your own MCP-based workflows automating specialist-knowledge access and pipeline at scale.",
+    "abstract": "Expertise locked in SMEs doesn't scale, and manual partner operations are expensive. The answer is architectural. Amazon Quick, Partner Central MCP Server, and Marketplace AI experiences cut three costs. Cost of sales: AI Listing Experiences, prospecting and co-sell PC agents, demand generation, Funding Agents, and Express Private Offers. Cost of customer operations: Tools to manage customers at scale, auto-renewals, adoption-nudging and reporting agents. Cost of partnerships: automated AWS Specializations, onboarding and journey agents, and Partner revenue telemetry. We cover real-time SME guidance, MCP integration, and orchestration across Partner Central and Marketplace. Leave ready to build your own workflows at scale.",
     "times": [
       {
         "id": "1790025518281001CGr8",
@@ -57837,6 +58108,29 @@
         "venue": "Caesars Forum"
       }
     ]
+  },
+  {
+    "id": "1788565601350001cywj",
+    "code": "PEX322",
+    "title": "Composable Agentic AI: Build Your Partner Offerings for Enterprises",
+    "type": "Workshop",
+    "level": "300 - Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Enterprises deploying agents in production are converging on a common pattern: distributed systems with stable layer contracts, bounded autonomy, and security and observability built in from day one. That raises a concrete question for AWS partners - does your product plug into the architecture your customers are already standardizing on? In this hands-on workshop for ISVs and consulting partners, you'll learn the composable Enterprise Agentic AI Reference Architecture, see exactly where your product fits at each layer, and build alongside AWS GenAI services, that compose into a single coherent production system. You'll leave with working reference code for an enterprise-ready agentic architecture and a playbook for co-building on the AWS agentic stack.",
+    "times": []
   },
   {
     "id": "1780442230086001cwgM",
@@ -58361,7 +58655,7 @@
   },
   {
     "id": "1780441502162001Gb4I",
-    "code": "SEC201",
+    "code": "SEC201-R",
     "title": "Turn PQC readiness into the trust story your board needs",
     "type": "Chalk talk",
     "level": "200 - Intermediate",
@@ -59622,7 +59916,7 @@
   },
   {
     "id": "1780441502105001GNF9",
-    "code": "SEC301",
+    "code": "SEC301-R",
     "title": "AWS detection and response innovations: security at machine speed",
     "type": "Chalk talk",
     "level": "300 - Advanced",
@@ -59879,7 +60173,7 @@
   },
   {
     "id": "1780442230879001cE7i",
-    "code": "SEC308",
+    "code": "SEC308-R",
     "title": "Build a KMS key lifecycle dashboard with usage and cost insights",
     "type": "Builders' session",
     "level": "300 - Advanced",
@@ -60180,7 +60474,7 @@
   },
   {
     "id": "1780442284434001c6tZ",
-    "code": "SEC318",
+    "code": "SEC318-R",
     "title": "Cryptographic computing on AWS: homomorphic encryption in practice",
     "type": "Workshop",
     "level": "300 - Advanced",
@@ -60379,7 +60673,7 @@
   },
   {
     "id": "1780442284605001chVc",
-    "code": "SEC323",
+    "code": "SEC323-R",
     "title": "Assume Breach, Prove Recovery: A ransomware resilience workshop",
     "type": "Workshop",
     "level": "300 - Advanced",
@@ -60637,6 +60931,22 @@
         "venue": "Wynn/Encore"
       }
     ]
+  },
+  {
+    "id": "1780442257587001ccZV",
+    "code": "SEC3303",
+    "title": "Conquer Suricata: Simplify Rule Writing on AWS Network Firewall",
+    "type": "Code talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Writing and maintaining firewall rules at scale can be complex. In this code talk, join AWS Network Security experts as they walk through practical techniques, and new capabilities, to simplify rule-writing experience with AWS Network Firewall. Through live examples, learn to structure rule groups to meet common use cases and deploy according to best practices. This session will dive deep to  keep policy writing easy to manage as your environment grows. Walk away with hands-on patterns you can apply immediately to tame rule complexity and ship changes with confidence.",
+    "times": []
   },
   {
     "id": "1780441481404001Gz3D",
@@ -60942,7 +61252,7 @@
   },
   {
     "id": "1780442257822001cP5I",
-    "code": "SEC338",
+    "code": "SEC338-R",
     "title": "Automated memory forensics at scale with generative AI",
     "type": "Code talk",
     "level": "300 - Advanced",
@@ -61282,7 +61592,7 @@
   },
   {
     "id": "1780441502219001GmKT",
-    "code": "SEC350",
+    "code": "SEC350-R",
     "title": "Shared Judgment: Security Culture for the Agentic Era",
     "type": "Chalk talk",
     "level": "300 - Advanced",
@@ -61346,7 +61656,7 @@
   },
   {
     "id": "1780442230824001c1Jk",
-    "code": "SEC352",
+    "code": "SEC352-R",
     "title": "Build a security boundary for AI agents with WAF and Network Firewall",
     "type": "Builders' session",
     "level": "300 - Advanced",
@@ -62113,6 +62423,22 @@
     ]
   },
   {
+    "id": "1780442265339001c4R2",
+    "code": "SEC377",
+    "title": "Protect EKS and ECS Workloads Without Chasing Pod IPs",
+    "type": "Lightning talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Pod IPs in Kubernetes change constantly as containers scale and restart, making IP-based firewall rules brittle and hard to maintain. In this lightning talk, learn how container attribute-based rules in AWS Network Firewall let you write policy using native attributes like namespaces, cluster names, and labels instead of ephemeral IPs. We'll show how a container association auto-discovers matching pods, refreshes IP mappings in near real-time, and enriches alert logs with container context for faster troubleshooting and audit. Bring the same Layer 7 inspection, FQDN filtering, and managed IDS/IPS protections you already trust to your Amazon EKS and ECS workloads.",
+    "times": []
+  },
+  {
     "id": "1780441489175001Gjf8",
     "code": "SEC378-S",
     "title": "Take Voice and Image AI into Production with OpenAI and Amazon Bedrock (sponsored by OpenAI)",
@@ -62499,6 +62825,27 @@
     "times": []
   },
   {
+    "id": "1788995765129001YOxf",
+    "code": "SEC392-S",
+    "title": "Your Agent Is in Production. Can You Explain What It Did? (sponsored by Datadog)",
+    "type": "Lightning talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "Culture of Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Your team shipped an agent to production last quarter. It works, mostly. When it doesn't, nobody can explain why. This session covers what changes when non-deterministic systems enter your stack: which signals actually matter for agentic workloads, how to trace a multi-step agent across tools and models, and where AI agents can safely take action in your own operations. Live examples from Datadog LLM Observability, the Agent Console, AI Guard, and Bits AI. You'll leave with an instrumentation checklist. This presentation is brought to you by Datadog, an AWS Partner.",
+    "times": []
+  },
+  {
     "id": "1780441480925001G42o",
     "code": "SEC393",
     "title": "How Badger Meter unified customer identity for critical infrastructure",
@@ -62682,7 +63029,7 @@
   },
   {
     "id": "1780442284490001cSC1",
-    "code": "SEC407",
+    "code": "SEC407-R",
     "title": "Implement governance guardrails for autonomous AI agents at scale",
     "type": "Workshop",
     "level": "400 - Expert",
@@ -62715,7 +63062,7 @@
   },
   {
     "id": "1780442231149001cSe5",
-    "code": "SEC408",
+    "code": "SEC408-R",
     "title": "Build a container pipeline that blocks tampered images at the gate",
     "type": "Builders' session",
     "level": "400 - Expert",
@@ -63578,6 +63925,22 @@
         "venue": "Wynn/Encore"
       }
     ]
+  },
+  {
+    "id": "1780442249770001cmHP",
+    "code": "SEC435",
+    "title": "Tokenomics of Attacks: How AWS Defends You from AI-Powered Threats",
+    "type": "Chalk talk",
+    "level": "400 - Expert",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "AI isn't just transforming how we build, it's transforming how attackers exploit. In this session, AWS threat researchers share the intelligence they observe in real time: the prompts adversaries feed into AI systems, the tokenomics that make AI-powered attacks devastatingly scalable, and the shrinking window between vulnerability disclosure and weaponized exploitation. We'll share first-hand threat intel from MadPot, AWS's globally distributed honeypot network, and show how AWS protects AI-based workloads. You'll learn how AWS Active Threat Defense capabilities proactively block malicious infrastructure before it reaches your workloads, so you can innovate with AI confidently while staying ahead of emerging threats.",
+    "times": []
   },
   {
     "id": "1780442221009001cooY",
@@ -65320,7 +65683,7 @@
   {
     "id": "1780442231841001cArp",
     "code": "STG335-R",
-    "title": "Build an AI-powered AWS Backup posture analyst with AgentCore",
+    "title": "Migrating petabytes of data: Real-world strategies with AWS DataSync",
     "type": "Builders' session",
     "level": "300 - Advanced",
     "topics": [
@@ -65840,6 +66203,31 @@
         "venue": "MGM Grand"
       }
     ]
+  },
+  {
+    "id": "1780441491135001GByi",
+    "code": "STG346",
+    "title": "What's new with Amazon S3... and now files!",
+    "type": "Breakout session",
+    "level": "300 - Advanced",
+    "topics": [
+      "Analytics",
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Twenty years of redefining storage, and Amazon S3 continues to evolve beyond objects to serve you wherever you are and however you work with data. This session highlights that evolution, led by the convergence of object and file storage with the launch of S3 Files, delivering full file system access to your S3 data without sacrificing scalability or economics you expect from S3. We also explore S3 Vectors for AI workloads, S3 Metadata for richer data discovery, and S3 Tables for managed Apache Iceberg data lakes. Come see what’s launched, what’s next, and how to put it all to work. ",
+    "times": []
   },
   {
     "id": "1780441491191001G4gT",
@@ -66888,7 +67276,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "When ransomware compromises your account, your backups are the last line of defense. The question is whether they're isolated, verified, and accessible when you need them most. In this workshop, you'll build ransomware recovery capabilities using AWS Backup logically air-gapped vaults, restore testing, and Backup Audit Manager. Working through a simulated account compromise scenario, you'll implement protection across three pillars: immutability with isolation, integrity validation, and predictable availability. Configure vault isolation policies, validate backup integrity, orchestrate recovery when primary credentials are compromised, and walk away with a tested recovery playbook. Participants must bring a laptop for this session.",
+    "abstract": "When ransomware compromises your account, your backups are the last line of defense. The question is whether they're isolated, verified, and accessible when you need them most. In this workshop, you'll work through a simulated account compromise using AWS Backup logically air-gapped vaults. You'll configure vault isolation policies to put backups out of reach, validate their integrity through restore testing, and orchestrate recovery when primary credentials are compromised. Backup Audit Manager ties it together with compliance monitoring to prove your posture holds. You'll finish with a tested recovery playbook built against a live compromise scenario. Participants must bring a laptop.",
     "times": [
       {
         "id": "1790025508846001CFBK",
@@ -67204,7 +67592,7 @@
   {
     "id": "1780442252223001cnCR",
     "code": "STG417-R",
-    "title": "AWS Backup at scale: centralizing enterprise data protection",
+    "title": "Protecting hundreds of accounts from one place with AWS Backup",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -67280,7 +67668,7 @@
   {
     "id": "1780442252282001cSbh",
     "code": "STG418-R",
-    "title": "AWS Transfer Family: From SFTP to Agentic AI Workflows",
+    "title": "AWS Transfer Family: SFTP meets agentic AI workflows",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -67298,7 +67686,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Learn how to build enterprise-grade file transfer solutions using AWS Transfer Family and extend them into agentic AI workflows. In this chalk talk, we'll walk through building secure SFTP servers, integrating with enterprise identity providers like Okta and Azure AD, and automating file processing using Terraform. We'll explore how event-driven architectures handle malware scanning with GuardDuty, and how AI agents via Amazon Bedrock AgentCore take over downstream tasks like data extraction and fraud detection. Bring your questions. You'll walk away with practical patterns for evolving traditional managed file transfer into intelligent, agentic processing pipelines.",
+    "abstract": "Learn how to build enterprise-grade file transfer solutions using AWS Transfer Family and extend them into agentic AI workflows. In this chalk talk, we'll walk through building secure SFTP servers, integrating with enterprise identity providers like Okta and Azure AD, and automating file processing using Terraform. We'll explore how event-driven architectures handle malware scanning with GuardDuty, and how AI agents via Amazon Bedrock AgentCore take over downstream tasks like data extraction and fraud detection. Bring your questions. We'll dig into how each layer connects so you can extend your own Transfer Family deployment the same way.",
     "times": [
       {
         "id": "1790025544325001C4SU",
@@ -70608,7 +70996,7 @@
   },
   {
     "id": "1784231859928001EbaL",
-    "code": "TNC201",
+    "code": "TNC201-R",
     "title": "Spec-Driven AI Development with Kiro ",
     "type": "Bootcamp",
     "level": "200 - Intermediate",
@@ -70679,7 +71067,7 @@
   },
   {
     "id": "1784231859985001EJ3y",
-    "code": "TNC209",
+    "code": "TNC209-R",
     "title": "AI Powered Business Intelligence with Amazon Quick",
     "type": "Bootcamp",
     "level": "200 - Intermediate",
@@ -70711,7 +71099,7 @@
   },
   {
     "id": "1784231860228001E81Y",
-    "code": "TNC210",
+    "code": "TNC210-R",
     "title": "AWS Partner: Govern AI agents by hacking one first",
     "type": "Bootcamp",
     "level": "200 - Intermediate",
@@ -70781,7 +71169,7 @@
   },
   {
     "id": "1784231860459001EpGt",
-    "code": "TNC212",
+    "code": "TNC212-R",
     "title": "AWS Partner: Build the AgentCore agent your demo pretends to be",
     "type": "Bootcamp",
     "level": "200 - Intermediate",
@@ -70816,7 +71204,7 @@
   },
   {
     "id": "1784231861361001EGiX",
-    "code": "TNC213",
+    "code": "TNC213-R",
     "title": "AWS Escape Room: Exam Prep for AWS Certified AI Practitioner",
     "type": "Exam prep",
     "level": "200 - Intermediate",
@@ -70849,7 +71237,7 @@
   },
   {
     "id": "1784231861418001EErf",
-    "code": "TNC214",
+    "code": "TNC214-R",
     "title": "AWS Escape Room: Exam Prep for AWS Certified Cloud Practitioner",
     "type": "Exam prep",
     "level": "200 - Intermediate",
@@ -71024,7 +71412,7 @@
   },
   {
     "id": "1784231862994001E6DV",
-    "code": "TNC220",
+    "code": "TNC220-R",
     "title": "Go from Code to Deployed Agent with AgentCore CLI ",
     "type": "Lab",
     "level": "200 - Intermediate",
@@ -71059,7 +71447,7 @@
   },
   {
     "id": "1784231863051001EOxV",
-    "code": "TNC221",
+    "code": "TNC221-R",
     "title": "Evaluate Enterprise AI Agents with an Eval-First Approach",
     "type": "Lab",
     "level": "200 - Intermediate",
@@ -71094,7 +71482,7 @@
   },
   {
     "id": "1784231860116001EAsq",
-    "code": "TNC302",
+    "code": "TNC302-R",
     "title": "Agentic Powered AWS Frontier Agents",
     "type": "Bootcamp",
     "level": "300 - Advanced",
@@ -71165,7 +71553,7 @@
   },
   {
     "id": "1784231861476001EDfT",
-    "code": "TNC306",
+    "code": "TNC306-R",
     "title": "AWS Escape Room: Exam Prep for AWS Certified Solutions Architect - Associate",
     "type": "Exam prep",
     "level": "300 - Advanced",
@@ -71198,7 +71586,7 @@
   },
   {
     "id": "1784231861534001Ezau",
-    "code": "TNC307",
+    "code": "TNC307-R",
     "title": "Validate your hands-on AWS skills & earn a Microcredential ",
     "type": "Exam prep",
     "level": "300 - Advanced",
@@ -71230,7 +71618,7 @@
   },
   {
     "id": "1784231862095001E6Pk",
-    "code": "TNC311",
+    "code": "TNC311-R",
     "title": "Enhance Production Applications with AI-Assisted Development in Kiro ",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71268,7 +71656,7 @@
   },
   {
     "id": "1784231862157001EKUp",
-    "code": "TNC312",
+    "code": "TNC312-R",
     "title": "Build Reliable AI Agents on AWS with Amazon SageMaker AI and Amazon Bedrock ",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71304,7 +71692,7 @@
   },
   {
     "id": "1784231862334001EC9a",
-    "code": "TNC315",
+    "code": "TNC315-R",
     "title": "Modernize .NET Applications with AWS Transform and Kiro",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71374,7 +71762,7 @@
   },
   {
     "id": "1784231862506001E8PK",
-    "code": "TNC318",
+    "code": "TNC318-R",
     "title": "Orchestrate AI Agents with AgentCore Runtime",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71409,7 +71797,7 @@
   },
   {
     "id": "1784231862813001EFnW",
-    "code": "TNC322",
+    "code": "TNC322-R",
     "title": "Build Wealth Advisor Agents with Full-Stack Agent Architecture",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71446,7 +71834,7 @@
   },
   {
     "id": "1784231862873001EgaR",
-    "code": "TNC323",
+    "code": "TNC323-R",
     "title": "Spec-to-Agent Fitness App Deployment with Kiro and Bedrock AgentCore",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71482,7 +71870,7 @@
   },
   {
     "id": "1784231859855001E5oW",
-    "code": "TNC324",
+    "code": "TNC324-R",
     "title": "Build AI-Powered Contact Center Agents with Amazon Connect",
     "type": "Bootcamp",
     "level": "300 - Advanced",
@@ -71518,7 +71906,7 @@
   },
   {
     "id": "1784231860172001EiTz",
-    "code": "TNC325",
+    "code": "TNC325-R",
     "title": "Building Advanced Agentic AI Systems on AWS",
     "type": "Bootcamp",
     "level": "300 - Advanced",
@@ -71553,7 +71941,7 @@
   },
   {
     "id": "1784231860402001E8zF",
-    "code": "TNC326",
+    "code": "TNC326-R",
     "title": "AWS Partner: Ship an AI agent without crossing your fingers",
     "type": "Bootcamp",
     "level": "300 - Advanced",
@@ -71625,7 +72013,7 @@
   },
   {
     "id": "1784231862033001E0JY",
-    "code": "TNC329",
+    "code": "TNC329-R",
     "title": "Integrate Agents with MCP Servers and Tools using AgentCore Gateway",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71697,7 +72085,7 @@
   },
   {
     "id": "1784231862275001EyFb",
-    "code": "TNC331",
+    "code": "TNC331-R",
     "title": "Ship AI Agents Faster with AgentCore Harness",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71769,7 +72157,7 @@
   },
   {
     "id": "1784231862567001E4dY",
-    "code": "TNC333",
+    "code": "TNC333-R",
     "title": "Spec-to-App Development with Kiro",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71804,7 +72192,7 @@
   },
   {
     "id": "1784231862630001EwND",
-    "code": "TNC334",
+    "code": "TNC334-R",
     "title": "Streamline Claims Processing with Amazon Quick",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71840,7 +72228,7 @@
   },
   {
     "id": "1784231862756001EVcY",
-    "code": "TNC335",
+    "code": "TNC335-R",
     "title": "Network Security for AI Agents on AgentCore",
     "type": "Lab",
     "level": "300 - Advanced",
@@ -71878,7 +72266,7 @@
   },
   {
     "id": "1784231860585001Ea32",
-    "code": "TNC336",
+    "code": "TNC336-R",
     "title": "AI-Driven Development Lifecycle (AI-DLC) ",
     "type": "Bootcamp",
     "level": "300 - Advanced",
@@ -71983,7 +72371,7 @@
   },
   {
     "id": "1784231861232001EXVp",
-    "code": "TNC339",
+    "code": "TNC339-R",
     "title": "AWS Partner: Your agent can wait. Go fix the app it depends on.",
     "type": "Bootcamp",
     "level": "300 - Advanced",
@@ -72017,7 +72405,7 @@
   },
   {
     "id": "1784231863107001EDTW",
-    "code": "TNC340",
+    "code": "TNC340-R",
     "title": "Resolve and Prevent Production Incidents with AWS DevOps Agent",
     "type": "Lab",
     "level": "300 - Advanced",
