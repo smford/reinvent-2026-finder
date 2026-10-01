@@ -80,7 +80,7 @@
   {
     "id": "1780442271231001c5p8",
     "code": "AIM103-S",
-    "title": "Edge-to-Action: Streaming On-Prem Data to Power Agentic AI (sponsored by Cloudera)",
+    "title": "Small Startup. Big Data. Rare Hopes.",
     "type": "Lightning talk",
     "level": "100 - Foundational",
     "topics": [
@@ -96,7 +96,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "To build production-ready autonomous agents, AI requires continuous, real-time context. Deploying Cloudera’s services directly on-premises unlocks critical edge streaming telemetry, ingesting high-frequency data into Apache Iceberg tables on Cloudera’s Open Data Lakehouse on AWS. Learn how grounding generative AI models with streaming telemetry and dynamic operational context enables real-time anomaly detection. Discover how autonomous multi-agent workflows leverage streaming RAG and Model Context Protocol tools to execute closed-loop business actions from alerting operational teams to dispatching automated remediations without creating processing bottlenecks on primary databases. This presentation is brought to you by Cloudera, an AWS Partner.",
+    "abstract": "Making a big impact always starts small - a dream, an idea, a hope.  Brian Martin - co-founder of Rare Hopes NFP and CTO of Applied AI at Cloudera - will share the story of the non-profit he and industry colleagues founded with the support of AWS, Cloudera, and other companies to deliver a multi-million dollar equivalent platform supporting drug repurposing for rare disease hypothesis generation.  Illustrating the concept and components necessary to deliver this advanced graph analytical approach to transforming knowledge into insights, the story demonstrates the power and potential that AI brings allowing companies to work with knowledge - not just data.",
     "times": [
       {
         "id": "1790033121545001qPrK",
@@ -7227,20 +7227,7 @@
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
     "abstract": "Disaggregated inference separates prefill and decode onto independent GPU pools, eliminating the interference that lets one long prompt stall every active generation — and letting each phase scale on its own terms. It isn't free: KV cache must cross the network, and a well-cached unified deployment can still win. The difference is your traffic. In this hands-on builders session, you run both architectures on NVIDIA GPU-based Amazon EC2 instances, move KV cache between pools over Elastic Fabric Adapter, and benchmark them against realistic agentic traffic. Learn the decision framework — input length, prefix reuse, latency SLO — and leave with runnable configurations.",
-    "times": [
-      {
-        "id": "1790025512075001CM6L",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
-        "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
-        "venue": "MGM Grand"
-      }
-    ]
+    "times": []
   },
   {
     "id": "1780442234745001cUk8",
@@ -10774,7 +10761,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "AI agents running on AWS are transforming how Amazon teams build, ship, and operate at unprecedented velocity and scale. Discover how autonomous agents write, test, and deploy code around the clock through spec-driven development, while always-on agents process millions of transactions, unify fragmented data, and deliver measurable cost savings without human intervention. Leaders from multiple Amazon business units share the architectures, patterns, and governance models powering this shift, from AI-native development that eliminates idle time to agentic systems that compound value in production on AWS. Leave with a playbook for sustained transformation through autonomous AI.",
+    "abstract": "AI agents on AWS are transforming how Amazon teams build, ship, and operate at velocity and scale. Discover how Amazon Finance Operations, supporting 6,000+ analysts across nine global service centers, deploys GenAI and AI agents to resolve millions of contacts and hundreds of thousands of cases annually, automating low-value tasks and running autonomous workflows in a high-stakes finance environment. Explore how, 1.5-million-associate scale, Amazon's WISE engine lets floor managers run, manage, and adjust labor and flow across more than 1,200 facilities. When a gap in a tool, process, or service appears, it spins up autonomous coding agents on Bedrock AgentCore to build, test, and deploy solutions or mechanisms to close the gaps. Leaders will share the governance behind these innovations, and how to stop operating systems and start orchestrating them.",
     "times": [
       {
         "id": "1790025522173001Ca1A",
@@ -10809,7 +10796,7 @@
   {
     "id": "1780441477810001GE8k",
     "code": "AMZ301",
-    "title": "The Art of the Impossible: How Amazon Shapes What's Possible with AWS",
+    "title": "The Art of the Impossible: How Amazon Builds on AWS",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -10821,7 +10808,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Across Amazon, teams are solving challenges once considered impossible: from deploying AI agents that autonomously resolve millions of customer interactions, to creating viewing experiences that transcend the limitations of the physical world, to delivering real-time insights in milliseconds. In this session, hear from a variety of Amazon businesses as they share how AWS services like Amazon Bedrock, Amazon AgentCore, and Amazon SageMaker transform ambitious ideas into production-ready solutions at unprecedented scale. Learn the architectural patterns and AI-native practices that enable Amazon builders to achieve what was previously unimaginable, and how you can too.",
+    "abstract": "Across Amazon, teams are solving challenges once considered impossible. From AI agents that autonomously resolve millions of customer interactions to viewing experiences that transcend the physical world. Prime Video reveals how they built a live sports Digital Twin of NBA games, using generative AI to create virtual cameras, on an architecture spanning Bedrock, Kiro, and EKS, that delivers physically impossible viewing angles and camera placement. Then hear how Amazon Pharmacy autonomously resolves 78% of monthly contacts via a multi-agent architecture on Bedrock Agents and Connect, maintaining HIPAA compliance and 60% positive sentiment. Learn the AI-native patterns that let builders achieve the unimaginable, and how you can too.",
     "times": [
       {
         "id": "1790025518150001CxO1",
@@ -11515,7 +11502,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your metadata is scattered across warehouses, lakes, ML pipelines, and BI tools. In this session, learn how AWS Glue Data Catalog serves as a single metadata hub that connects all your data assets, enforces consistent governance, and makes every table, model, and feature discoverable across engines and teams. See how to register, enrich, and share metadata at scale, enable cross-account discovery, and give AI agents the context they need to query your data accurately.",
+    "abstract": "Your data is scattered across warehouses, lakes, databases, and streams. In this session, learn how AWS Glue Data Catalog serves as a single metadata hub that connects all of your data, enforces consistent governance across it, and makes it discoverable across engines and teams. See how to enrich, curate, and share metadata at scale, and give AI agents the context they need to get work done accurately and efficiently. Ideal for data engineers, architects, and platform teams.",
     "times": [
       {
         "id": "1790025525061001CHhR",
@@ -12610,7 +12597,7 @@
   {
     "id": "1790358220934001i4Lq",
     "code": "ANT417-R1",
-    "title": "Master Apache Iceberg migration on AWS [REPEAT]",
+    "title": "A practical guide to Apache Iceberg migration on AWS",
     "type": "Workshop",
     "level": "400 - Expert",
     "topics": [
@@ -12900,7 +12887,7 @@
   {
     "id": "1780442232783001claK",
     "code": "ANT425",
-    "title": "Fine-grained access control across engines with AWS Glue Data Catalog",
+    "title": "Governance across engines with AWS Glue Data Catalog",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -12910,7 +12897,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your data lives in a catalog but is queried from many engines. How do you enforce consistent access policies without duplicating rules everywhere? In this chalk talk, we explore how AWS Glue Data Catalog centralizes fine-grained access control so that permissions defined once are enforced uniformly whether users query from Redshift, Athena, EMR, or Spark. We'll work through patterns for column and row-level security, tag-based policies, cross-account sharing with least-privilege grants, and how to audit who accessed what. Bring your multi-engine governance challenges.",
+    "abstract": "Your data lives in a catalog but is queried from many engines. How do you enforce consistent access policies without duplicating rules everywhere? In this chalk talk, we explore how AWS Glue Data Catalog centralizes governance so that permissions defined once are enforced uniformly. We'll work through patterns for column and row-level security, tag-based policies, cross-account sharing with least-privilege grants, and how to audit who accessed what. Bring your multi-engine governance challenges.",
     "times": [
       {
         "id": "1790025526405001CD92",
@@ -13277,7 +13264,7 @@
   {
     "id": "1780442222987001cwRQ",
     "code": "ANT441",
-    "title": "Build a well-governed natural language-to-SQL agentic pipeline for Amazon Redshift",
+    "title": "Build a well-governed natural language-to-SQL agentic solution for Amazon Redshift",
     "type": "Builders' session",
     "level": "400 - Expert",
     "topics": [
@@ -13287,7 +13274,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "The Amazon Redshift MCP Server enables AI agents to generate and execute SQL using natural language—but going from demo to production means answering critical security questions on preventing query hallucination, prompt injection, unbounded scans, and inadvertent PII exposure by the LLM. In this session, you will build a well-governed text-to-SQL agentic pipeline for Amazon Redshift with security gates that validate every AI-generated query before execution including schema allow-listing to constraining LLM context, authorized tables, columns and rows, SQL AST validation and enforced read-only access.",
+    "abstract": "The Amazon Redshift MCP Server enables AI agents to generate and execute SQL using natural language, but going from demo to production means answering critical security questions on preventing query hallucination, prompt injection, unbounded scans, and inadvertent PII exposure by the LLM. In this session, you will build a well-governed text-to-SQL agentic solution for Amazon Redshift with security gates that validate every AI-generated query before execution including schema allow-listing to constraining LLM context, authorized tables, columns and rows, SQL AST validation and enforced read-only access.",
     "times": [
       {
         "id": "1790025506748001CbDf",
@@ -17496,7 +17483,7 @@
   {
     "id": "1780441465437001Gk4A",
     "code": "BIZ102",
-    "title": "From Cost Center to Revenue Driver: AI-Powered, Proactive CX ",
+    "title": "Agentic CX with Connect Customer: Make Every Interaction Feel Special",
     "type": "Breakout session",
     "level": "100 - Foundational",
     "topics": [
@@ -17506,7 +17493,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "You've cut handle time. You've increased deflection. You've optimized every metric designed to make customer interactions cheaper. And your customers still leave. The metrics you optimized for were built for a world where every interaction was a cost. This session flips the script - stop measuring what you avoided, start measuring what you created, and turn service into a growth lever and not a cost center.",
+    "abstract": "This is a can't-miss session! The old model was built to handle customers. Agentic customer experience is built to make every one of them feel special, like they're your only customer. That shift, from managing volume to earning devotion, is the biggest change in how brands serve people in a generation. In this keynote, Pasquale DeMaio, VP of Amazon Connect Customer, shows what becomes possible when customer experience is AI-first by design. Your brand knows each customer and shows up before they ask. Anyone can shape an experience by describing it in plain language, while advanced builders go deeper without limits. Every person who serves your customer walks in already knowing them. This isn't a faster version of what came before. It's what replaces it. If you own the customer relationship, this is the one session you can't afford to miss.  ",
     "times": [
       {
         "id": "1790025510652001CNha",
@@ -29529,7 +29516,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Tracking patch compliance across hundreds of accounts is manual, slow, and hard to prove to auditors. In this hands-on builder's session, you automate patching and continuous compliance across Linux and Windows, then let AI do the heavy lifting: generate a multi-account compliance dashboard with spec-driven development and answer compliance questions with natural language instead of hand-building reports. You define patch baselines, maintenance windows, and exception rules, then reason through the trade-offs, rather than running pre-made scripts.",
+    "abstract": "Tracking patch compliance across hundreds of accounts is manual, slow, and hard to prove to auditors. In this hands-on builders' session, you automate patching and continuous compliance in your environment, then let AI do the heavy lifting: generate a multi-account compliance dashboard with Apps in Amazon Quick and answer compliance questions with natural language instead of hand-building reports. By the end, you'll know how to turn raw patch data into audit-ready answers on demand.",
     "times": [
       {
         "id": "1790025486157001CjOf",
@@ -29567,7 +29554,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Tracking patch compliance across hundreds of accounts is manual, slow, and hard to prove to auditors. In this hands-on builder's session, you automate patching and continuous compliance across Linux and Windows, then let AI do the heavy lifting: generate a multi-account compliance dashboard with spec-driven development and answer compliance questions with natural language instead of hand-building reports. You define patch baselines, maintenance windows, and exception rules, then reason through the trade-offs, rather than running pre-made scripts.",
+    "abstract": "Tracking patch compliance across hundreds of accounts is manual, slow, and hard to prove to auditors. In this hands-on builders' session, you automate patching and continuous compliance in your environment, then let AI do the heavy lifting: generate a multi-account compliance dashboard with Apps in Amazon Quick and answer compliance questions with natural language instead of hand-building reports. By the end, you'll know how to turn raw patch data into audit-ready answers on demand.",
     "times": [
       {
         "id": "1790360364245001ALwM",
@@ -33646,7 +33633,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "To overcome the performance and scale limitations of relational databases, AWS built Amazon DynamoDB to deliver consistent single-digit millisecond performance at any scale for the most demanding applications on the planet. In this session, learn about the architecture choices for Amazon DynamoDB. Gain a better understanding of when to use DynamoDB and why DynamoDB is used by over one million AWS customers, and powers hundreds of applications that exceed half a million requests per second. Leave with a new perspective on how to design your own applications.",
+    "abstract": "To overcome the performance and scale limitations of relational databases, AWS built Amazon DynamoDB to deliver single-digit millisecond performance at any scale - whether your application has tens of thousands or hundreds of millions of simultaneous users - for the most demanding applications on the planet. In this session, learn how some basic data structure decisions led to these characteristics. And how those same decisions provide immutable, point-in-time restore. Leave with a better understanding of why DynamoDB can operate at the scale it does, and a framework on how to use it for decisions in your own applications.",
     "times": [
       {
         "id": "1790025514255001COvk",
@@ -35018,7 +35005,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Databases and generative AI workloads are high-value targets that demand continuous adversarial testing. In this session, learn how AWS red team engineers use AI to discover innovative ways to strengthen Amazon Aurora and other cloud-native database services against modern threats. Explore how red team findings shape architectural decisions that contain blast radius by design, and how AI-augmented detection and response mechanisms close the loop at machine speed. Walk away with a practical framework for red teaming cloud environments and AI systems, designing for assumed breach, and building response capabilities that match the velocity of modern threats.",
+    "abstract": "Databases and generative AI workloads are high-value targets that demand continuous adversarial testing. In this session, learn how AWS red team engineers use AI to discover innovative ways to strengthen Amazon Aurora and other cloud-native database services against modern threats. Explore how red team findings shape architectural decisions that contain blast radius by design, and how AI-augmented detection and response mechanisms close the loop at machine speed. Learn a practical framework for red teaming cloud environments and AI systems, designing for assumed breach, and building response capabilities that match the velocity of modern threats.",
     "times": [
       {
         "id": "1790025514333001Cl0D",
@@ -35560,7 +35547,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "In this session, explore the migration playbook and lessons learned from moving some of Netflix's largest workloads from a self-managed, distributed PostgreSQL-compatible database on Amazon EC2 to Aurora. Discover how PostgreSQL compatibility minimized code changes while the shared storage architecture of Aurora eliminated cross-node coordination overhead, delivering up to 75% lower, more predictable latency and up to 28% cost savings. Learn about workload selection and sequencing, near-zero downtime cutovers with data consistency validation and rollback planning, and post-migration operational lessons including vacuum debt, connection management, and query plan stability. Walk away with a reusable framework for your own migrations.",
+    "abstract": "In this session, explore the migration playbook and lessons learned from moving some of Netflix's largest workloads from a self-managed, distributed PostgreSQL-compatible database on Amazon EC2 to Aurora. Discover how PostgreSQL compatibility minimized code changes while the shared storage architecture of Aurora eliminated cross-node coordination overhead, delivering up to 75% lower, more predictable latency and up to 28% cost savings. Learn about workload selection and sequencing, near-zero downtime cutovers with data consistency validation and rollback planning, and post-migration operational lessons including vacuum debt, connection management, and query plan stability.",
     "times": [
       {
         "id": "1790025542303001C9bK",
@@ -57633,21 +57620,21 @@
       "Innovation & Transformation"
     ],
     "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "MSPs managing hundreds of customer environments can no longer rely on manual, reactive workflows. In this hands-on workshop, MSP teams will deploy a multi-agent system on Amazon Bedrock AgentCore — using natural language to monitor, diagnose, and remediate issues across accounts in real time. Participants will trigger live incidents, orchestrate autonomous fixes with DevOps, FinOps, and Security agents, and explore how Kiro and AWS Transform accelerate development and modernization. The session covers agent-to-agent coordination, cross-account operations, and MCP-based tool access. MSPs will leave with a production-ready blueprint to transform operations from reactive to agentic. Laptops required — everyone builds live.",
     "times": [
       {
-        "id": "1790360392031001AJR9",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "10:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "10:30 AM",
+        "id": "1790890530055001zt8q",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 120,
-        "room": "Wynn/Encore | Convention Promenade | Margaux 2",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 1 | Grand 113",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -58299,21 +58286,21 @@
     "roles": [
       "Solution / Systems Architect"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Discover how new AWS Marketplace capabilities can help turn your solutions into scalable commercial offerings including AI-powered and multi-product offerings. In this interactive workshop, explore key decisions across architecture, packaging, deployment, pricing, and launch readiness. Connect directly with AWS Marketplace subject-matter experts to evaluate approaches for your business, validate your listing strategy, and identify opportunities to simplify the customer experience. Leave with practical guidance and an actionable plan to accelerate launch, drive recurring revenue, and improve customer retention.",
     "times": [
       {
         "id": "1790025541610001Cs4N",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "12:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
         "duration": 120,
-        "room": "MGM Grand | Level 1 | Grand 113",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Convention Promenade | Margaux 2",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -58466,7 +58453,7 @@
   {
     "id": "1780442389888001NPVg",
     "code": "SEC103-S",
-    "title": "AI-First SecOps: The Future of Cloud Security on AWS​ (sponsored by Splunk, a Cisco Company)",
+    "title": "Turn AWS Security Signals into Action with AI-First SecOps",
     "type": "Breakout session",
     "level": "100 - Foundational",
     "topics": [
@@ -58485,7 +58472,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Security operations are entering a new era where analysts give intent, agents do the heavy lifting, and humans stay in control. Join Splunk for a look at the latest in AI-first security and agentic SecOps for AWS-centered teams. We’ll explore how cloud-native telemetry, federated investigation, streaming detections, AI-guided triage, and human-approved response can help SOC teams move from finding to action faster. See what’s next for integrated security operations on AWS, with a preview of emerging capabilities designed to reduce friction, accelerate detection, and strengthen resilience.​ This presentation is brought to you by Splunk, a Cisco Company, an AWS Partner.",
+    "abstract": "Security teams operating on AWS need a faster path from signals to action without adding more operational complexity. In this session, Splunk and AWS will explore a new approach to cloud and AI-native security operations designed for faster onboarding, earlier detection, and more efficient investigation and response. You’ll leave with practical insights into AI-first SecOps and how AWS-centered security teams can improve outcomes, regardless of the size or maturity of their security operations. ",
     "times": [
       {
         "id": "1790025539741001C00m",
@@ -61302,7 +61289,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "How do you secure that which has no network? AWS services such as S3, SQS, and DynamoDB help teams build and scale faster but come with a different set of security implications than services that live in your VPC. In this session, you'll learn about best practices and architural patterns for building secure networks on AWS using network features like DNS firewall, and Network firewall and layering them with AWS IAM policies like VPC endpoint policy, and Resource Control Policy to help ensure that your resources that live outside of your network behave like they are in your network.",
+    "abstract": "How do you secure that which has no network? AWS services such as S3, SQS, and DynamoDB help teams build and scale faster but come with a different set of security implications than services that live in your VPC. In this session, you'll learn about best practices and architectural patterns for building secure networks on AWS using network features like DNS firewall, and Network firewall and layering them with AWS IAM policies like VPC endpoint policy, and Resource Control Policy to help ensure that your resources that live outside of your network behave like they are in your network.",
     "times": [
       {
         "id": "1790033111786001qzkC",
@@ -61773,7 +61760,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": " Your identity provider handles authentication, but how do you design the authorization model that follows? In this chalk talk, learn how to use OIDC token claims from providers, including Amazon Cognito, with a Cedar-based authorization model. We'll walk through implementing RBAC, ReBAC, and ABAC patterns locally or in Amazon Verified Permissions, and show how to use AI coding agents (Kiro, Claude) to generate your schema and policies. Bring your use case for this interactive session. You'll leave with a repeatable approach to designing fine-grained authorization from scratch.",
+    "abstract": "Your identity provider handles authentication, but how do you design the authorization model that follows? In this chalk talk, learn how to use OIDC token claims from providers, including Amazon Cognito, with a Cedar-based authorization model. We'll walk through implementing RBAC, ReBAC, and ABAC patterns locally or in Amazon Verified Permissions, and show how to use AI coding agents (Kiro, Claude) to generate your schema and policies. Bring your use case for this interactive session. You'll leave with a repeatable approach to designing fine-grained authorization from scratch.",
     "times": [
       {
         "id": "1790025531525001CFPn",
@@ -63044,7 +63031,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Your AI agents need permissions to be useful, but unconstrained permissions can lead to unintended consequences. In this workshop, you will build a defense-in-depth governance framework for agentic workloads. You will create scoped IAM execution roles with permissions boundaries, enforce mandatory Bedrock Guardrails via IAM policy-based enforcement, validate agent policies with IAM Access Analyzer, and implement Cedar-based deterministic enforcement in AgentCore. You will leave with a deployable pattern that constrains agent behavior without blocking legitimate actions.",
+    "abstract": "Your AI agents need permissions to realize and support you in your tasks, but unconstrained permissions can lead to unintended consequences. In this workshop, you build a defense-in-depth governance framework around autonomous AI agents using IAM permission boundaries, runtime enforcement. By testing escalation paths, monitoring for policy violations, and verifying that agents stay within their sanctioned scope you protect them against adversarial prompts.",
     "times": [
       {
         "id": "1790033113748001qPX5",
@@ -63405,7 +63392,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Truly resilient workforce access stays available even when an entire Region or identity provider goes down. In this session, explore how to architect layered workforce access resilience across four tiers: IAM Identity Center multi-region replication for external IdP customers, ADFS direct IAM federation as an emergency path for Active Directory environments, regional STS endpoints to remove hidden dependencies, and break-glass IAM users as a last resort. Learn which layers an environment needs, how to sequence failover across them, and how to validate resilience without disrupting production.",
+    "abstract": "Most AWS workforce access hinges on a single Region and a single identity provider. When either one goes down, everyone who signs in is affected—developers can't ship, DevOps engineers can't deploy, and administrators may be locked out just when they need access most. This session applies defense in depth across four layers: IAM Identity Center multi-Region replication, direct IAM federation through AD FS, Regional AWS STS endpoints, and break-glass IAM users. You learn how to decide which layers your environment needs, the order to fail over in, and how to test the full path without disrupting production.",
     "times": [
       {
         "id": "1790025552076001CVx8",
@@ -65331,15 +65318,15 @@
     "abstract": "Managing production workloads across multiple regions while weighing cost and risk requires optimal strategy. With block storage, operating at scale can mean different things, including delivering high IOPS or I/O bandwidth to applications, managing and monitoring millions of volumes, or protecting petabytes of data with stringent RPO and RTO requirements. In this talk, learn best practices for scaling and managing your Amazon EBS environment, including automation, monitoring at scale, and cost-optimization techniques using cloud-native tools to meet your business needs. ",
     "times": [
       {
-        "id": "1790025536043001CG8a",
+        "id": "1790890905891001iukX",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 1 | Boulevard 167",
+        "room": "MGM Grand | Level 1 | Boulevard 165",
         "venue": "MGM Grand"
       }
     ]
@@ -65683,7 +65670,7 @@
   {
     "id": "1780442231841001cArp",
     "code": "STG335-R",
-    "title": "Migrating petabytes of data: Real-world strategies with AWS DataSync",
+    "title": "Build an AI-powered AWS Backup posture analyst with AgentCore",
     "type": "Builders' session",
     "level": "300 - Advanced",
     "topics": [
@@ -66589,7 +66576,7 @@
   {
     "id": "1780442252333001cSFa",
     "code": "STG355",
-    "title": "Migrating petabytes at scale: Real-world strategies with AWS DataSync",
+    "title": "Migrating petabytes of data: Real-world strategies with AWS DataSync",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -67428,12 +67415,12 @@
         "id": "1790025542082001Cs4a",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 1 | Boulevard 165",
+        "room": "MGM Grand | Level 1 | Boulevard 167",
         "venue": "MGM Grand"
       }
     ]

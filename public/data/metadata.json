@@ -1,8 +1,8 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-01T12:00:13Z",
+  "lastUpdated": "2026-10-01T22:05:59Z",
   "totalSessions": 2068,
-  "scheduledTimeSlots": 2007,
+  "scheduledTimeSlots": 2006,
   "campuses": {
     "Caesars Campus": 646,
     "MGM Grand Campus": 609,
@@ -34,14 +34,14 @@
     "Lightning talk": 213,
     "Builders' session": 243,
     "Workshop": 291,
-    "Bootcamp": 16,
     "Code talk": 119,
     "Exam prep": 4,
+    "Bootcamp": 16,
     "Lab": 31
   },
   "days": {
     "Monday": 541,
-    "Wednesday": 529,
+    "Wednesday": 528,
     "Tuesday": 395,
     "Thursday": 498,
     "Friday": 44
