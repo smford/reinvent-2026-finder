@@ -2,7 +2,7 @@
   {
     "id": "1780441488667001GjOD",
     "code": "AIM101-S",
-    "title": "From Event Streams to Enterprise AI with Cloudera Anywhere Cloud (sponsored by Cloudera)",
+    "title": "Edge-to-Action: Powering Agentic AI via Cloudera's Anywhere Cloud",
     "type": "Breakout session",
     "level": "100 - Foundational",
     "topics": [
@@ -22,7 +22,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Distributed edge assets, remote sensors, and transactional systems often leave operational data isolated from enterprise AI platforms. This session demonstrates how global organizations break down these operational boundaries using Cloudera Anywhere Cloud. Discover an event-driven architectural blueprint that standardizes real-time streaming, unifies hybrid pipelines, and routes live activity directly into downstream analytics and AI agents. Learn how a single operational standard across hybrid environments simplifies data sovereignty and enables real-time enterprise automation. This presentation is brought to you by Cloudera, an AWS Partner.",
+    "abstract": "Distributed edge assets, remote sensors, and transactional systems often leave operational data isolated from cloud AI platforms. This session demonstrates how to break down these boundaries using Cloudera Anywhere Cloud. Discover an event-driven architectural blueprint that standardizes real-time streaming on-premises, unifies hybrid pipelines, and lands telemetry directly into Cloudera’s Open Data Lakehouse on AWS. Learn how grounding autonomous AI agents on AWS with continuous edge context simplifies data sovereignty, eliminates bottlenecks, and enables real-time, closed-loop enterprise automation.",
     "times": [
       {
         "id": "1790034534132001pFNk",
@@ -17454,7 +17454,7 @@
   {
     "id": "1780441465382001G9uE",
     "code": "BIZ101",
-    "title": "The AI-Native Advantage: Deploying Agentic CX in Weeks, Not Months",
+    "title": "How Southwest Airlines migrated 4,500 agents in just 2.5 weeks",
     "type": "Breakout session",
     "level": "100 - Foundational",
     "topics": [
@@ -17464,7 +17464,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Enterprises have long accepted months of integration work and vendor complexity as the cost of delivering connected customer experiences. This session challenges that assumption. Hear how one enterprise replaced fragile, multi-vendor architectures with an AI-native solution and deployed agentic customer experiences in weeks - not months - with no compromises on speed, scale, or results. If your CX roadmap is still dictated by what your stack can stitch together, this is what becomes possible when you build on a foundation designed for the future.",
+    "abstract": "In just 2.5 weeks from decision to go-live, Southwest migrated 4,500 agents across 17 business units to Amazon Connect Customer without losing a single call. Join this session to hear their key lessons learned from the migration, and how the move unlocked more comprehensive analytics capabilities, giving leadership real-time visibility into previously hidden metrics. Discover what’s next for Southwest, including how they’re implementing agentic AI throughout the customer experience.",
     "times": [
       {
         "id": "1790025476423001CLHA",
@@ -17667,7 +17667,7 @@
   {
     "id": "1780441465715001GHij",
     "code": "BIZ108",
-    "title": "How Enterprises Are Eliminating Phone Menu Trees with Agentic AI ",
+    "title": "Trust, built in seconds: AI-powered banking at scale",
     "type": "Breakout session",
     "level": "100 - Foundational",
     "topics": [
@@ -17677,7 +17677,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Large enterprises run very complex corporate hotlines. Thousands of daily calls in multiple languages spanning diverse business units and product lines. To ensure calls are properly routed to the correct team, forward-thinking companies are replacing their legacy interactive voice response (IVR) systems with multilingual AI agents from Amazon Connect Customer, achieving high autonomous call handling rates. No more menu trees. No more language barriers. Join this session to learn a practical approach to scaling agentic AI enterprise-wide, including lessons learned and future expansion.",
+    "abstract": "In financial services, trust is earned in seconds: the lost card, the emergency funds, the vulnerable customer who nearly gave up. Those seconds demand that you know who the customer is, understand their need, and resolve it on the spot. Hear how one of the UK's largest banks reimagined customer experience on Amazon Connect Customer, reaching 96% first-point-of-contact resolution across millions of calls monthly. Trace a multi-year journey: real-time AI that helps agents act in seconds, analytics and self-service at scale, and an active-active, multi-region architecture that keeps service running under strict European regulatory and data-residency requirements.",
     "times": [
       {
         "id": "1790025534878001C3Sl",
@@ -17696,7 +17696,7 @@
   {
     "id": "1780441465771001GPVt",
     "code": "BIZ109",
-    "title": "How FSI brands are navigating conversational AI for customer engagement ",
+    "title": "Citizens Bank: Building AI-Native CX from Vision to Production",
     "type": "Breakout session",
     "level": "100 - Foundational",
     "topics": [
@@ -17706,7 +17706,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Financial services customers expect fast, personalized service but compliance, security, and regulatory requirements make automation a high-stakes challenge. Discover how Amazon Connect Customer enables financial institutions to deploy agentic AI self-service that blends autonomous reasoning with deterministic guardrails for identity verification, fraud checks, and regulatory disclosures. Learn how to automate complex interactions like account servicing, disputes, and payments while maintaining full compliance and governance. See how leading institutions are going live in weeks, reducing call volumes, improving containment, and elevating CSAT without compromising trust.",
+    "abstract": "Financial services customers expect fast, personalized service, but compliance, security, and regulatory requirements make automation a high-stakes challenge. Discover how Amazon Connect Customer enables financial institutions to design agentic customer experiences, where AI self-service blends autonomous reasoning with deterministic guardrails for identity verification, fraud checks, and regulatory disclosures. Learn how business teams, not only engineers, build and refine these experiences, automating complex interactions like account servicing, disputes, and payments while maintaining full compliance and governance. See how Citizens Bank lifted containment by 30 points, elevated CSAT, and transformed their contact center without compromising trust.",
     "times": [
       {
         "id": "1790025548529001ClSo",
@@ -17850,6 +17850,39 @@
         "duration": 60,
         "room": "Venetian | Level 2 | Ballroom F | Content Hub | Blue Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780441471338001Gp4a",
+    "code": "BIZ114",
+    "title": "What's New in Amazon Connect Customer",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Your customers don't experience departments — they experience one journey. But siloed systems, fragmented data, and manual processes between teams create gaps they absolutely feel. This session introduces new Amazon Connect Customer capabilities that close those gaps end to end. Come see how these capabilities work together to deliver the seamless experience your customers expect and the certainty your business demands.",
+    "times": [
+      {
+        "id": "1790963622403001Qdh9",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 318",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -18579,7 +18612,7 @@
   {
     "id": "1780442236121001cr4i",
     "code": "BIZ303",
-    "title": "Connecting to Enterprise Data to Amazon Quick and Surfacing It Everywhere",
+    "title": "One Context Layer, Every Surface: Enterprise Knowledge for Agents That Work Anywhere",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -18608,7 +18641,7 @@
   {
     "id": "1780442236172001cIVj",
     "code": "BIZ304",
-    "title": "Connecting Amazon Quick to enterprise databases with MCP & AgentCore",
+    "title": "Building & Governing Apps on Quick",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -18618,7 +18651,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Amazon Quick is a powerful AI assistant, but its real value unlocks when connected to your enterprise data. In this session, we demonstrate how to expose time series databases and other enterprise data stores to Amazon Quick using MCP servers and Amazon Bedrock AgentCore Gateway. Starting from a production implementation querying 20M market trade records via natural language, we show how the same pattern extends to different databases. We cover building custom MCP tool servers, securing access with Cognito and AgentCore Gateway, and enabling business users to query complex data conversationally through Amazon Quick.",
+    "abstract": "Anyone can generate apps from a sentence - the hard part is governing them and getting them in front of the right users. This chalk talk whiteboards the full lifecycle of Amazon Quick Apps: building them from natural language with no separate hosting, wiring in data and actions through MCP, and the three sharing paths - private, public URLs, and enterprise sharing gated behind admin approval workflows. ",
     "times": [
       {
         "id": "1790025496515001CdyH",
@@ -18695,7 +18728,7 @@
   {
     "id": "1780442236341001c13t",
     "code": "BIZ307",
-    "title": "Architect AI-powered analytics with Amazon Quick and Snowflake",
+    "title": "Architect AI-powered analytics with Amazon Quick across your data platforms",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -18705,7 +18738,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "As organizations adopt AI-powered analytics, they need architectures that connect BI and conversational AI experiences across their data platforms. Explore how Amazon Quick and Snowflake work together to solve this challenge. We'll diagram architectural patterns for connecting Snowflake as a data source, enabling BI dashboards, embedded analytics, and text-to-SQL through dataset Q&A so business users can query and visualize data using natural language. We'll also explore connecting Quick to Snowflake Cortex Agents via MCP for live, agentic workflows. Together we'll tackle real-world integration challenges including authentication, performance optimization, and governance. This session is ideal for architects and technical leaders looking to build AI-powered analytics across their data platforms.",
+    "abstract": "As organizations adopt AI-powered analytics, they need architectures that connect BI and conversational AI experiences to their existing data platforms. In this session we'll diagram architectural patterns for connecting Amazon Quick to structured data sources and integrating with third-party catalogs and semantic layers. We'll compare the available connectivity approaches, including data sources and MCP-based action connectors, and discuss when to use each. Considerations will span production use cases like BI dashboards, embedded analytics, text-to-SQL Q&A, and agentic workflows. Together we'll tackle real-world integration challenges including authentication, performance optimization, and governance. This session is ideal for architects and technical leaders looking to build AI-powered analytics across their data platforms.",
     "times": [
       {
         "id": "1790025482780001C3Ka",
@@ -19109,21 +19142,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Creating AI-powered self-service shouldn't require prompt engineering expertise - and in this hands-on workshop, you'll prove it. Go from a blank canvas to a deployed, production-ready AI agent in under two hours using Amazon Connect Customer’s agentic CX designer. Design conversational flows on the visual canvas, blending generative AI responses with deterministic business logic for scenarios like payment processing and identity verification. Connect your agent to external data sources, pass context seamlessly across conversation turns, then test and evaluate your agent's performance using built-in analytics and simulation tools. You'll leave with a working multi-channel AI agent, a repeatable design pattern you can apply to your own use cases, and confidence that your team can build and validate self-service experiences without specialized AI skills - no coding required.",
     "times": [
       {
-        "id": "1790025507011001CJx9",
-        "date": "2026-12-01",
-        "day": "Tuesday",
+        "id": "1790955862855001lMfa",
+        "date": "2026-11-30",
+        "day": "Monday",
         "startTime": "15:00",
         "endTime": "17:00",
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "05:00 PM",
         "duration": 120,
-        "room": "Caesars Palace | Promenade Level | Milano I",
-        "venue": "Caesars Palace"
+        "room": "MGM Grand | Level 3 | Premier 317",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -19196,21 +19229,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "Every organization is building AI agents for inbound, but who's automating outreach? In this workshop, you become a carrier responding to a device safety recall. Instead of posting a notice and waiting for calls, you build a system that identifies affected customers, prioritizes them by risk and value, and deploys an AI agent to reach them by voice before they ever pick up the phone. Walk away with a working proactive outreach engine and the architecture to deploy anticipatory engagement at scale.",
     "times": [
       {
         "id": "1790360399740001ApIK",
-        "date": "2026-11-30",
-        "day": "Monday",
+        "date": "2026-12-01",
+        "day": "Tuesday",
         "startTime": "15:00",
         "endTime": "17:00",
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "05:00 PM",
         "duration": 120,
-        "room": "MGM Grand | Level 3 | Premier 317",
-        "venue": "MGM Grand"
+        "room": "Caesars Palace | Promenade Level | Milano I",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -19708,6 +19741,140 @@
     ]
   },
   {
+    "id": "1780442241479001cVUQ",
+    "code": "BIZ332",
+    "title": "​​Every Candidate, Every Time: AI-Led Structured Interviews at Scale ",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Business Executive"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "​​Who you hire is the most important decision you make, and the hardest to get right at scale. What if AI agents could run structured interviews grounded in Amazon’s hiring science and evaluate every candidate the same way? In this chalk talk, we show how role requirements become evaluation criteria and questions, how AI agents hold a natural conversation while covering each competency and gathering evidence, and how responses are scored against a rubric tied to specific evidence. See a single job posting become a scored, evidence-backed evaluation. Leave knowing how to tell hiring science from gut feel, and why that shows up in better hires and a fairer experience for every candidate.",
+    "times": [
+      {
+        "id": "1790963621402001QOO3",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442279896001ce9P",
+    "code": "BIZ333",
+    "title": "Design, Simulate, Ship: End-to-End AI Agents on Connect Customer",
+    "type": "Workshop",
+    "level": "",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Most AI agent projects stall between pilot and production. In this workshop, you go from an idea to a production-ready agentic customer experience in a single session using Amazon Connect Customer. No months-long timeline.",
+    "times": [
+      {
+        "id": "1790963621287001Qzje",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
+        "room": "MGM Grand | Level 1 | Grand 113",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442279528001cKTV",
+    "code": "BIZ334",
+    "title": "Building Smarter Self-Service Experiences with AI",
+    "type": "Builders' session",
+    "level": "",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Automation"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Great customer self-service starts with the knowledge your team already has, but getting it into customers' hands can be a challenge. In this builder session, explore how AI can help you transform existing resources into live self-service experiences quickly and easily. Learn how teams are reducing time-to-launch without heavy engineering lifts.",
+    "times": [
+      {
+        "id": "1790963621504001Q22d",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442227400001cvV4",
+    "code": "BIZ335",
+    "title": "Build an AI agent that understands customer intent",
+    "type": "Builders' session",
+    "level": "",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Today's AI agents start every session cold. They don't know what the customer was just browsing, whether they're frustrated or exploring, or whether this is a service moment or a buying moment. So they waste the first few turns asking what your data already knows. In this hands-on builders' session, you close that gap. You unify customer data into Profiles, then turn it into real-time signals about what each customer needs. You wire those signals into an AI agent with calculated attributes and event triggers, so when the customer makes contact the agent already understands why they're there and responds with the right answer and the right offer. You leave with a working prototype ready for your own environment.",
+    "times": [
+      {
+        "id": "1790963623421001QzAo",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442276660001cnQV",
     "code": "BIZ402",
     "title": "Configure Security & Governance Controls for Amazon Quick",
@@ -20059,6 +20226,43 @@
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 103",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442241765001ciwG",
+    "code": "CMP252",
+    "title": "Running larger, higher-fidelity quantum experiments on Amazon Braket",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "Management & Governance"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Amazon Braket offers access to the latest trapped-ion quantum hardware alongside advanced error mitigation techniques, unlocking the largest, highest-fidelity quantum workloads on the platform. In this chalk talk, we demonstrate how error mitigation combines noise-aware transpilation and error suppression to expand usable circuit volume, and how trapped-ion connectivity enables deeper, more complex circuits. We will whiteboard a real workload to estimate cost, runtime, and expected fidelity gains.",
+    "times": [
+      {
+        "id": "1790963621708001QIrw",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 414",
         "venue": "Caesars Forum"
       }
     ]
@@ -22857,6 +23061,79 @@
     ]
   },
   {
+    "id": "1780441471682001GwUd",
+    "code": "CMP358",
+    "title": "Graviton5 for data workloads",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Data workloads are bottlenecked by how fast they can access and process information — whether that data lives on local storage, in memory, or behind a lightweight service. New Graviton5 instance families are purpose-built for each tier.",
+    "times": [
+      {
+        "id": "1790963622801001QAQw",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 318",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442241818001cusZ",
+    "code": "CMP359",
+    "title": "Simplifying how you use AWS: automating common patterns on your behalf",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Getting the most out of AWS often means manually setting up the same optimizations, integrations, and best-practice patterns across your applications. What if AWS could handle more of that for you - automatically and securely - so you benefit from AWS capabilities without the setup overhead? In this chalk talk, we explore emerging approaches for running AWS-authored logic in isolated, secure-by-default environments alongside your applications, implementing common patterns on your behalf and simplifying how you consume AWS services. We'll whiteboard how this model works, where it fits in your architecture, and how it changes the effort required to adopt AWS best practices.",
+    "times": [
+      {
+        "id": "1790963622500001Q2Qv",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 320",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442238221001chq2",
     "code": "CMP401-R",
     "title": "Everything you've wanted to know about performance on EC2 instances",
@@ -25482,6 +25759,40 @@
     ]
   },
   {
+    "id": "1780442260783001cQnv",
+    "code": "CON207",
+    "title": "Simplify ingress networking for applications on Amazon ECS",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Containers",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Exposing containerized applications on Amazon ECS often requires networking expertise, with every team creating target groups, writing routing rules, and managing listeners for each service. This slows teams down, inflates cost, and makes consistent networking standards hard to enforce. In this session, learn how Amazon ECS removes that complexity so you can run highly available web applications with minimal configuration and lower cost while keeping full visibility into the resources in your account. Join us to see where ingress networking on Amazon ECS is headed.",
+    "times": [
+      {
+        "id": "1790963621803001QIhN",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "12:20",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:20 PM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442278065001cWYU",
     "code": "CON301-R",
     "title": "Running compute-efficient workloads on Amazon EKS Auto Mode",
@@ -27801,6 +28112,140 @@
     ]
   },
   {
+    "id": "1780442241871001cCVl",
+    "code": "CON345",
+    "title": "Eliminate wasted compute capacity with Amazon ECS",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Compute",
+      "Containers"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Running containers on Amazon EC2 often means paying for capacity you never use, from idle instances to fleets that drift out of shape as workloads change. This chalk talk shows how Amazon ECS Managed Instances tackles that waste through consolidation and infrastructure optimization, automatically right sizing instances to real demand and repacking workloads off underutilized capacity. Work through practical scenarios on the whiteboard to see how these decisions play out and how instance selection and capacity provider design shape your monthly bill. Bring the cost and utilization challenges from your own clusters, because this session is driven by group discussion.",
+    "times": [
+      {
+        "id": "1790963622695001QpSh",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 417",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441471802001GuEb",
+    "code": "CON346",
+    "title": "Enhanced container image access & distribution with Amazon ECR ",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Containers"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Amazon ECR is trusted by millions to store and serve container images, but the way teams discover, trust, and consume container software is evolving fast. In this session, the ECR product team shares where container distribution on AWS is heading: making it easier to find the software you need, trust what you run, acquire it simply, and pull it privately and securely inside your own environment. Through practical examples, we'll explore new capabilities that help publishers reach customers at scale and help organizations govern and consume containers with confidence. Whether you publish container software or run it in production, you'll leave with a clear picture of how ECR is becoming the center of the container software supply chain. ",
+    "times": [
+      {
+        "id": "1790963621993001QbHT",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 318",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441471859001GlhT",
+    "code": "CON347",
+    "title": "Intelligent, right-sized compute on Amazon EKS",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Compute",
+      "Containers"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Running Kubernetes at scale is a constant trade-off between performance, availability, and cost. This session covers the year's advances in Amazon EKS compute: faster node provisioning and consolidation, finer control over how and when your data plane changes, and new capabilities that match capacity to what workloads actually use rather than what they request. Whether you run Karpenter directly or fully managed EKS Auto Mode, you will see how to cut waste, raise utilization, and get more predictable efficiency for demanding CPU, GPU, and AI/ML workloads. Expect practical patterns and live demos you can apply to your own clusters.",
+    "times": [
+      {
+        "id": "1790963621609001QQll",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 318",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442256070001cJKF",
+    "code": "CON348",
+    "title": "Defense-in-Depth for Containers on Amazon EKS: A Layering Story",
+    "type": "Code talk",
+    "level": "",
+    "topics": [
+      "Containers",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer",
+      "IT Administrator"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "On a default Amazon EKS cluster, a single pod is a compromise away from the whole cluster - shared node credentials, flat networking, implicit trust, open egress. In this code-first session we start there, then trace how EKS security grew layer by layer as the threat model matured. We rebuild an over-privileged workload live, adding one control at a time: scoped pod identity, admin and DNS network policies, and private certificate trust with zero-downtime CA rotation. We finish by running a lateral-movement attempt against the hardened workload and watching it fail at multiple layers — the whole point of defense-in-depth.",
+    "times": [
+      {
+        "id": "1790963622094001QjCF",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 159",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442278007001cQwB",
     "code": "CON401-R",
     "title": "Accelerate platform engineering on Amazon EKS",
@@ -30000,21 +30445,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "When an application slows down, the cause can hide anywhere from the frontend to the database, and siloed tools make teams guess. In this workshop, you will build full-stack observability across application, infrastructure, and database layers, bringing RDS and Aurora signals and database logs into one store and correlating them with audit activity. You decide what to trace and build the dashboards that connect a symptom to its root cause. Leave with skills to trace any slowdown across layers in a single pane.",
     "times": [
       {
-        "id": "1790033109470001qljU",
+        "id": "1790951438260001HQr3",
         "date": "2026-11-30",
         "day": "Monday",
-        "startTime": "08:30",
-        "endTime": "10:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "10:30 AM",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 120,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 7",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 1 | Grand 120",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -30149,21 +30594,21 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Embed FinOps as an operational discipline using AI-powered cost optimization. This hands-on workshop demonstrates how to shift left on cloud financial management by integrating cost discipline throughout development. Explore AWS services for automated optimizations, rightsizing, and savings plans. Gain experience with AI/ML and container workload cost allocation, multi-cloud reporting, and AI-powered spend analysis. Implement automated strategies using real workload data. Laptop required",
     "times": [
       {
         "id": "1790025482872001CTnR",
         "date": "2026-11-30",
         "day": "Monday",
-        "startTime": "12:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
         "duration": 120,
-        "room": "MGM Grand | Level 1 | Grand 120",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 7",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -31058,8 +31503,8 @@
     "times": [
       {
         "id": "1790033110139001qldT",
-        "date": "2026-11-30",
-        "day": "Monday",
+        "date": "2026-12-02",
+        "day": "Wednesday",
         "startTime": "14:30",
         "endTime": "14:50",
         "startTimeFormatted": "02:30 PM",
@@ -31310,10 +31755,23 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Infor (a Koch Industries company) runs one of the largest enterprise footprints on AWS. As that footprint grew, manual release gates, incident investigations, and periodic security assessments couldn't keep pace. Hear how Infor is adopting AWS agentic AI to reshape operations: DevOps Agent for incident triage and release readiness, Continuum for continuous security validation, and the Well-Architected Agentic AI Lens for production guardrails. Leave with a blueprint for agentic AI at scale.",
-    "times": []
+    "times": [
+      {
+        "id": "1790971616926001TlMN",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:30",
+        "endTime": "14:50",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "02:50 PM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1786406739138001L1xq",
@@ -31350,21 +31808,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Multi-agent systems fail in ways your dashboards cannot show: one agent hands off bad context, another retries, and the API still returns 200. In this live coding session, start with a multi-agent app on LangGraph, Strands, and CrewAI, and instrument it with OpenTelemetry and OpenInference. Trace it from the first prototype run, evaluate agents on demand with LLM-as-judge evaluators, A/B test prompt and model variants before promoting to production, pull production traces into a versioned dataset, reproduce the failure locally, and ship the fix. All from your IDE, without switching tools.",
     "times": [
       {
         "id": "1790025488268001CpYY",
         "date": "2026-11-30",
         "day": "Monday",
-        "startTime": "13:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Convention Promenade | Margaux 1",
-        "venue": "Wynn/Encore"
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Code Talk",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -31830,21 +32288,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Diagnosing latency across a high-scale Amazon EKS environment is complex when pods scale dynamically and trace context fails to propagate across service boundaries. In this code talk, we instrument containerized microservices with OpenTelemetry, propagate context across service hops, and correlate spans, metrics, and logs in Amazon CloudWatch. Live coding shows how a single slow request reveals the exact container and code path responsible for degradation, using targeted span attributes and exemplars to make Kubernetes-scale traces navigable. You'll also see the trade-offs behind sampling strategies and collector deployment topologies that affect overhead, fidelity, and cost at production scale.",
     "times": [
       {
-        "id": "1790033114254001qUxc",
+        "id": "1790959184889001vQXj",
         "date": "2026-11-30",
         "day": "Monday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Code Talk",
-        "venue": "Caesars Forum"
+        "room": "Wynn/Encore | Convention Promenade | Margaux 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -35564,6 +36022,76 @@
     ]
   },
   {
+    "id": "1780441471969001GwDJ",
+    "code": "DAT452",
+    "title": "[NEW LAUNCH] Coming soon!",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Databases"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Check back soon for more details about this session.",
+    "times": [
+      {
+        "id": "1790963623627001QcJZ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 115",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441471915001GDKZ",
+    "code": "DAT453",
+    "title": "[NEW LAUNCH] Coming soon!",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Databases"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Check back soon for more details about this session.",
+    "times": [
+      {
+        "id": "1790963623833001QL6Z",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441483545001GJMW",
     "code": "DVT101-S",
     "title": "Built by Agents: Rethinking Reliability for AI-Native Companies (sponsored by Traversal)",
@@ -35607,7 +36135,7 @@
     "code": "DVT201",
     "title": "Continuous integration and continuous delivery (CI/CD) on AWS",
     "type": "Breakout session",
-    "level": "200 - Intermediate",
+    "level": "300 - Advanced",
     "topics": [
       "Cloud Operations",
       "Developer Tools"
@@ -36379,7 +36907,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Microsoft & .NET"
+      "DevOps"
     ],
     "roles": [
       "DevOps Engineer",
@@ -36416,7 +36944,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Microsoft & .NET"
+      "DevOps"
     ],
     "roles": [
       "DevOps Engineer",
@@ -38597,7 +39125,7 @@
   {
     "id": "1780441504229001Gmvx",
     "code": "GHJ308-S-R",
-    "title": "Agentic AI Jam - Sponsored by Nvidia",
+    "title": "Agentic AI Jam - sponsored by Nvidia",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38612,7 +39140,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Solve real-world Gen AI and Agentic AI scenarios using Amazon Bedrock, SageMaker AI & Kiro — including a sponsored challenge from NVIDIA to build and optimize GenAI workloads using NVIDIA's accelerated computing and AI inference stack on AWS. Challenges suit all skill levels, with AWS experts and helpful clues throughout. All you need: a laptop, curiosity, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Solve real-world Gen AI and Agentic AI scenarios using Amazon Bedrock, SageMaker AI & Kiro - including a sponsored challenge from NVIDIA to build and optimize GenAI workloads using NVIDIA's accelerated computing and AI inference stack on AWS. Challenges suit all skill levels, with AWS experts and helpful clues throughout. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790015012967001orSD",
@@ -38631,7 +39159,7 @@
   {
     "id": "1780441504291001GHKc",
     "code": "GHJ309-S",
-    "title": "DevOps and Modernization Jam – Sponsored by LaunchDarkly",
+    "title": "DevOps and Modernization Jam – sponsored by LaunchDarkly",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38648,7 +39176,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle hands-on DevOps scenarios to modernize architectures and implement best practices — including a sponsored challenge from LaunchDarkly to ship safely with feature flags and progressive delivery. Whether you're new to AWS or a seasoned Cloud Ninja, guided exercises and AWS experts support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle hands-on DevOps scenarios to modernize architectures and implement best practices - including a sponsored challenge from LaunchDarkly to ship safely with feature flags and progressive delivery. Whether you're new to AWS or a seasoned Cloud Ninja, guided exercises and AWS experts support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790020028137001K98K",
@@ -38667,7 +39195,7 @@
   {
     "id": "1780441504367001GwC3",
     "code": "GHJ310-S",
-    "title": "Security Jam - Sponsored by Fortinet",
+    "title": "Security Jam - sponsored by Fortinet",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38685,7 +39213,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Work through simulated incident response scenarios — including a sponsored challenge from Fortinet to test your skills securing cloud workloads with Fortinet's network and cloud security platform. Can you find the breach and prevent the next one? AWS experts and guided exercises support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Work through simulated incident response scenarios - including a sponsored challenge from Fortinet to test your skills securing cloud workloads with Fortinet's network and cloud security platform. Can you find the breach and prevent the next one? AWS experts and guided exercises support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790014921282001ocbP",
@@ -38777,7 +39305,7 @@
   {
     "id": "1780442258703001cqxr",
     "code": "GHJ313-S",
-    "title": "Security Jam - Sponsored by Semgrep",
+    "title": "Security Jam - sponsored by Semgrep",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38795,7 +39323,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Work through simulated incident response scenarios — including a sponsored challenge from Semgrep to find and fix code vulnerabilities early using Semgrep's static analysis and code security scanning. Can you find the breach and prevent the next one? AWS experts and guided exercises support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Work through simulated incident response scenarios - including a sponsored challenge from Semgrep to find and fix code vulnerabilities early using Semgrep's static analysis and code security scanning. Can you find the breach and prevent the next one? AWS experts and guided exercises support all levels. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790020771163001OA4w",
@@ -38846,7 +39374,7 @@
   {
     "id": "1780442258818001colI",
     "code": "GHJ317-S",
-    "title": "AWS Jam: All-in Builder Showdown - Sponsored by Vonage ",
+    "title": "AWS Jam: All-in Builder Showdown - sponsored by Vonage ",
     "type": "Gamified learning",
     "level": "300 - Advanced",
     "topics": [
@@ -38865,7 +39393,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle AI, DevOps, and security scenarios across AWS services — including a sponsored challenge from Vonage to add real-time voice, video, and messaging to applications using Vonage communications APIs. Challenges suit all skill levels, with AWS expert guidance and helpful clues throughout. All you need: a laptop, curiosity, and a competitive spirit.",
+    "abstract": "Come with your team of 2 or join one on the spot. Compete head-to-head, race the leaderboard, and win prizes. Tackle AI, DevOps, and security scenarios across AWS services - including a sponsored challenge from Vonage to add real-time voice, video, and messaging to applications using Vonage communications APIs. Challenges suit all skill levels, with AWS expert guidance and helpful clues throughout. All you need: a laptop, curiosity, and a competitive spirit.",
     "times": [
       {
         "id": "1790023812973001VLnP",
@@ -41944,15 +42472,15 @@
     "abstract": "Financial institutions face stringent regulatory requirements for operational resilience, demanding reliable disaster recovery with tight RTO/RPO targets across complex application portfolios. Yet failover procedures often remain manual and prone to error under pressure. In this chalk talk, we explore how to design a multi-agent system on Amazon Bedrock AgentCore that orchestrates end-to-end disaster recovery automation for regulated workloads. We’ll walk through how a coordination agent delegates to specialized sub-agents for readiness verification, infrastructure operations, Terraform code generation, Git operations, and deployment validation—each with human-in-the-loop approval gates.",
     "times": [
       {
-        "id": "1790360398400001A7N2",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
+        "id": "1790954954307001VJxt",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
+        "room": "Wynn/Encore | Level 1 | Chopin 2",
         "venue": "Wynn/Encore"
       }
     ]
@@ -42896,14 +43424,14 @@
     "times": [
       {
         "id": "1790360394943001AZNP",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Chopin 2",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
         "venue": "Wynn/Encore"
       }
     ]
@@ -43091,7 +43619,7 @@
   {
     "id": "1780441476549001GRl4",
     "code": "IND3316",
-    "title": "Build hybrid data planes for government GenAI pipelines",
+    "title": "Tackling a $30M fraud crisis with ML: California Community Colleges",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -43108,7 +43636,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "The California Community Colleges—the largest higher education system in the U.S., serving 1 in 4 community college students nationally—lost $30M+ to financial aid fraud since 2024. Ghost students consumed class seats and financial aid meant for real learners. As the first layer of defense, machine learning on Amazon SageMaker screens applicants centrally, driving a 64% decrease in attempted fraud year over year. Campus-level detection tools add additional layers, catching 2x more scammers than human staff alone. This session covers the end-to-end fraud defense—ML architecture, campus integration, intelligence sharing—and how it directly improved the student experience.",
+    "abstract": "The California Community Colleges is the largest U.S. higher education system, serving 1 in 4 students nationally. Since 2024 it has faced a fraud crisis targeting over $30M, as stolen-identity breaches and generative AI made ghost-student attempts cheaper and harder to catch. This session covers the mechanisms and process: a layered defense pairing ML on Amazon SageMaker with a rules layer, a move to behavioral signals, plus the MLOps and visibility that keep it adapting. Attendees gain practical knowledge for implementing a multi-layered defense and iterating it in the evolving battle between fraudsters and institutions, and how it directly improved the student experience.",
     "times": [
       {
         "id": "1790025522040001CI0j",
@@ -50798,21 +51326,21 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Not every app needs the same migration path, and figuring out which ones to rehost versus containerize is where teams get stuck. In this workshop, you'll use AWS Transform to plan a combined migration and modernization across your application portfolio, then execute a mix of container and rehost migrations deploying to Amazon ECS or EKS. You'll work through the full lifecycle. Learn how to order waves and coordinate cutover across a mixed portfolio. Leave with a realistic multi-wave plan you can apply to your own environment. Laptop required.",
     "times": [
       {
-        "id": "1790025512954001CmwO",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "10:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "10:30 AM",
+        "id": "1790972111688001iyCJ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 120,
-        "room": "Caesars Palace | Promenade Level | Milano IV",
-        "venue": "Caesars Palace"
+        "room": "MGM Grand | Level 3 | Premier 313",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -50835,21 +51363,21 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "Not every app needs the same migration path, and figuring out which ones to rehost versus containerize is where teams get stuck. In this workshop, you'll use AWS Transform to plan a combined migration and modernization across your application portfolio, then execute a mix of container and rehost migrations deploying to Amazon ECS or EKS. You'll work through the full lifecycle. Learn how to order waves and coordinate cutover across a mixed portfolio. Leave with a realistic multi-wave plan you can apply to your own environment. Laptop required.",
     "times": [
       {
-        "id": "1790360378476001A8QN",
+        "id": "1790972156869001Tfhe",
         "date": "2026-11-30",
         "day": "Monday",
-        "startTime": "15:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "03:30 PM",
-        "endTimeFormatted": "05:30 PM",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 120,
-        "room": "MGM Grand | Level 1 | Grand 116",
-        "venue": "MGM Grand"
+        "room": "Caesars Palace | Promenade Level | Pompeian IV",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -52399,13 +52927,13 @@
     "abstract": "Forward-looking organizations aren't just migrating to AWS — they're using migration to transform their entire security posture. In this workshop, your workloads have just landed on AWS and you'll immediately secure them using sandbox accounts. You'll use Amazon GuardDuty to detect runtime-level threats and malware, Amazon Inspector to prioritize software vulnerabilities, and AWS Security Hub to correlate findings into actionable exposures. You'll finish by building an automated remediation pipeline that isolates compromised resources without human intervention. Leave with a repeatable Day 1 security playbook for any migrated workload. Laptop required.",
     "times": [
       {
-        "id": "1790025520656001CudH",
+        "id": "1790972029738001iOpB",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "12:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "12:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
         "duration": 120,
         "room": "Caesars Palace | Promenade Level | Milano IV",
         "venue": "Caesars Palace"
@@ -52437,15 +52965,15 @@
     "abstract": "Forward-looking organizations aren't just migrating to AWS — they're using migration to transform their entire security posture. In this workshop, your workloads have just landed on AWS and you'll immediately secure them using sandbox accounts. You'll use Amazon GuardDuty to detect runtime-level threats and malware, Amazon Inspector to prioritize software vulnerabilities, and AWS Security Hub to correlate findings into actionable exposures. You'll finish by building an automated remediation pipeline that isolates compromised resources without human intervention. Leave with a repeatable Day 1 security playbook for any migrated workload. Laptop required.",
     "times": [
       {
-        "id": "1790360384346001AldH",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "12:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "12:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "id": "1790971988214001A627",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "03:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 120,
-        "room": "MGM Grand | Level 3 | Premier 313",
+        "room": "MGM Grand | Level 1 | Grand 116",
         "venue": "MGM Grand"
       }
     ]
@@ -52477,14 +53005,14 @@
     "times": [
       {
         "id": "1790025493697001CHFQ",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "15:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "05:00 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 120,
-        "room": "Caesars Palace | Promenade Level | Pompeian IV",
+        "room": "Caesars Palace | Promenade Level | Milano IV",
         "venue": "Caesars Palace"
       }
     ]
@@ -52977,6 +53505,43 @@
     ]
   },
   {
+    "id": "1780441472395001Gj5P",
+    "code": "NET101",
+    "title": "What's new in eero networking ",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Network & Infrastructure Security",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Join us to learn about the latest innovations in eero networking. This session covers new capabilities in AI-powered network analytics, simplified connectivity, centralized security, and multi-WAN resilience - all built cloud-native and designed to scale.",
+    "times": [
+      {
+        "id": "1790963624216001QFYP",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Blue Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442282858001cJvp",
     "code": "NET202-R",
     "title": "Your network, your rules: Global routing policies with AWS Cloud WAN",
@@ -52996,7 +53561,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As global networks scale, they demand deterministic traffic paths—not best-effort routing. In this workshop, gain granular control over traffic flows between Regions, VPCs, and on-premises locations using AWS Cloud WAN routing policies across a multi-Region network. Through hands-on labs, configure route filtering to control reachability, summarize prefixes to reduce routing table complexity, and influence preferred paths with BGP attributes. Leave with practical skills to design scalable, policy-driven connectivity architectures. Bring your laptop.",
+    "abstract": "As global networks scale, they demand deterministic traffic paths, not best-effort routing. In this workshop, gain granular control over traffic flows between Regions, VPCs, and on-premises locations using AWS Cloud WAN routing policies across a multi-Region network. Through hands-on labs, configure route filtering to control reachability, summarize prefixes to reduce routing table complexity, and influence preferred paths with BGP attributes. Leave with practical skills to design scalable, policy-driven connectivity architectures. Bring your laptop.",
     "times": [
       {
         "id": "1790025541471001CEhe",
@@ -53032,7 +53597,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As global networks scale, they demand deterministic traffic paths—not best-effort routing. In this workshop, gain granular control over traffic flows between Regions, VPCs, and on-premises locations using AWS Cloud WAN routing policies across a multi-Region network. Through hands-on labs, configure route filtering to control reachability, summarize prefixes to reduce routing table complexity, and influence preferred paths with BGP attributes. Leave with practical skills to design scalable, policy-driven connectivity architectures. Bring your laptop.",
+    "abstract": "As global networks scale, they demand deterministic traffic paths, not best-effort routing. In this workshop, gain granular control over traffic flows between Regions, VPCs, and on-premises locations using AWS Cloud WAN routing policies across a multi-Region network. Through hands-on labs, configure route filtering to control reachability, summarize prefixes to reduce routing table complexity, and influence preferred paths with BGP attributes. Leave with practical skills to design scalable, policy-driven connectivity architectures. Bring your laptop.",
     "times": [
       {
         "id": "1790360379041001AMd8",
@@ -53067,7 +53632,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your enterprise runs workloads across multiple Amazon VPCs while maintaining connectivity to on-premises data centers—and DNS is the glue holding it all together. In this workshop, build a realistic hybrid DNS architecture using the latest Amazon Route 53 capabilities. Participants will learn how to centralize DNS configurations with Route 53 Profiles, replace conditional forwarding rules with native delegation using Resolver Delegation Endpoints, detect and block DNS-based threats with DNS Firewall, and enable secure authenticated resolution for distributed clients with Route 53 Global Resolver. Bring your laptop and resolve hybrid DNS once and for all.",
+    "abstract": "Your enterprise runs workloads across multiple Amazon VPCs while maintaining connectivity to on-premises data centers, and DNS is the glue holding it all together. In this workshop, build a realistic hybrid DNS architecture using the latest Amazon Route 53 capabilities. Participants will learn how to centralize DNS configurations with Route 53 Profiles, replace conditional forwarding rules with native delegation using Resolver Delegation Endpoints, detect and block DNS-based threats with DNS Firewall, and enable secure authenticated resolution for distributed clients with Route 53 Global Resolver. Bring your laptop and resolve hybrid DNS once and for all.",
     "times": [
       {
         "id": "1790025508626001Cf05",
@@ -53102,7 +53667,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your enterprise runs workloads across multiple Amazon VPCs while maintaining connectivity to on-premises data centers—and DNS is the glue holding it all together. In this workshop, build a realistic hybrid DNS architecture using the latest Amazon Route 53 capabilities. Participants will learn how to centralize DNS configurations with Route 53 Profiles, replace conditional forwarding rules with native delegation using Resolver Delegation Endpoints, detect and block DNS-based threats with DNS Firewall, and enable secure authenticated resolution for distributed clients with Route 53 Global Resolver. Bring your laptop and resolve hybrid DNS once and for all.",
+    "abstract": "Your enterprise runs workloads across multiple Amazon VPCs while maintaining connectivity to on-premises data centers, and DNS is the glue holding it all together. In this workshop, build a realistic hybrid DNS architecture using the latest Amazon Route 53 capabilities. Participants will learn how to centralize DNS configurations with Route 53 Profiles, replace conditional forwarding rules with native delegation using Resolver Delegation Endpoints, detect and block DNS-based threats with DNS Firewall, and enable secure authenticated resolution for distributed clients with Route 53 Global Resolver. Bring your laptop and resolve hybrid DNS once and for all.",
     "times": [
       {
         "id": "1790360384255001AUFs",
@@ -53140,7 +53705,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations scaling across multiple AWS accounts need AWS PrivateLink endpoints in every VPC, driving up costs and fragmenting access controls. In this session, construct a centralized endpoint architecture in a shared services VPC and expose endpoints to consumers through Amazon VPC Lattice. Configure resource gateways to front endpoints and custom domain names to simplify DNS management—eliminating Amazon Route 53 Profiles or manual records. Learn how to layer in fine-grained access controls that scale with your environment. Walk away with a deployable pattern for endpoint consolidation at scale.",
+    "abstract": "Organizations scaling across multiple AWS accounts need AWS PrivateLink endpoints in every VPC, driving up costs and fragmenting access controls. In this session, construct a centralized endpoint architecture in a shared services VPC and expose endpoints to consumers through Amazon VPC Lattice. Configure resource gateways to front endpoints and custom domain names to simplify DNS management, which eliminates Amazon Route 53 Profiles or manual records. Learn how to layer in fine-grained access controls that scale with your environment. Walk away with a deployable pattern for endpoint consolidation at scale.",
     "times": [
       {
         "id": "1790025498757001CHPA",
@@ -53178,7 +53743,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations scaling across multiple AWS accounts need AWS PrivateLink endpoints in every VPC, driving up costs and fragmenting access controls. In this session, construct a centralized endpoint architecture in a shared services VPC and expose endpoints to consumers through Amazon VPC Lattice. Configure resource gateways to front endpoints and custom domain names to simplify DNS management—eliminating Amazon Route 53 Profiles or manual records. Learn how to layer in fine-grained access controls that scale with your environment. Walk away with a deployable pattern for endpoint consolidation at scale.",
+    "abstract": "Organizations scaling across multiple AWS accounts need AWS PrivateLink endpoints in every VPC, driving up costs and fragmenting access controls. In this session, construct a centralized endpoint architecture in a shared services VPC and expose endpoints to consumers through Amazon VPC Lattice. Configure resource gateways to front endpoints and custom domain names to simplify DNS management, which eliminates Amazon Route 53 Profiles or manual records. Learn how to layer in fine-grained access controls that scale with your environment. Walk away with a deployable pattern for endpoint consolidation at scale.",
     "times": [
       {
         "id": "1790360386735001AfHL",
@@ -53216,7 +53781,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AWS offers a growing range of connectivity services—AWS Direct Connect, AWS Interconnect (multicloud and last mile), AWS Transit Gateway, and AWS Cloud WAN—but when should you use one over another? In this chalk talk, evaluate your connectivity options and avoid over-engineering your network design. Walk through real-world scenarios and a structured decision framework to understand which service aligns with your requirements. Leave with clear guidance and practical decision tools for selecting the right service for your scenario. Come prepared with your questions.",
+    "abstract": "AWS offers a growing range of connectivity services, including AWS Direct Connect, AWS Interconnect (multicloud and last mile), AWS Transit Gateway, and AWS Cloud WAN. But when should you use one over another? In this chalk talk, evaluate your connectivity options and avoid over-engineering your network design. Walk through real-world scenarios and a structured decision framework to understand which service aligns with your requirements. Attendees gain clear guidance and discover practical decision tools for selecting the right service for your scenario. Come prepared with your questions.",
     "times": [
       {
         "id": "1790025473240001Cxlm",
@@ -53254,7 +53819,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AWS offers a growing range of connectivity services—AWS Direct Connect, AWS Interconnect (multicloud and last mile), AWS Transit Gateway, and AWS Cloud WAN—but when should you use one over another? In this chalk talk, evaluate your connectivity options and avoid over-engineering your network design. Walk through real-world scenarios and a structured decision framework to understand which service aligns with your requirements. Leave with clear guidance and practical decision tools for selecting the right service for your scenario. Come prepared with your questions.",
+    "abstract": "AWS offers a growing range of connectivity services, including AWS Direct Connect, AWS Interconnect (multicloud and last mile), AWS Transit Gateway, and AWS Cloud WAN. But when should you use one over another? In this chalk talk, evaluate your connectivity options and avoid over-engineering your network design. Walk through real-world scenarios and a structured decision framework to understand which service aligns with your requirements. Attendees gain clear guidance and discover practical decision tools for selecting the right service for your scenario. Come prepared with your questions.",
     "times": [
       {
         "id": "1790360374411001AfmC",
@@ -53292,7 +53857,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You're collecting Amazon VPC Flow Logs and Amazon CloudWatch metrics—but still can't answer \"why can't this instance reach the internet?\" In this chalk talk, explore practical approaches to network observability on AWS, no deep expertise required. Cover the key logs and metrics that actually matter, how to read them, and how to set up simple dashboards and alerts that tell you something is wrong before your users do. Bring your monitoring questions—we'll discuss real scenarios and help you build observability that works for your team.",
+    "abstract": "You're collecting Amazon VPC Flow Logs and Amazon CloudWatch metrics, but still can't answer \"why can't this instance reach the internet?\" In this chalk talk, explore practical approaches to network observability on AWS, no deep expertise required. Cover the key logs and metrics that actually matter, how to read them, and how to set up simple dashboards and alerts that tell you something is wrong before your users do. Bring your monitoring questions, and we'll discuss real scenarios to help you build observability that works for your team.",
     "times": [
       {
         "id": "1790025545662001C3Gw",
@@ -53330,7 +53895,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You're collecting Amazon VPC Flow Logs and Amazon CloudWatch metrics—but still can't answer \"why can't this instance reach the internet?\" In this chalk talk, explore practical approaches to network observability on AWS, no deep expertise required. Cover the key logs and metrics that actually matter, how to read them, and how to set up simple dashboards and alerts that tell you something is wrong before your users do. Bring your monitoring questions—we'll discuss real scenarios and help you build observability that works for your team.",
+    "abstract": "You're collecting Amazon VPC Flow Logs and Amazon CloudWatch metrics, but still can't answer \"why can't this instance reach the internet?\" In this chalk talk, explore practical approaches to network observability on AWS, no deep expertise required. Cover the key logs and metrics that actually matter, how to read them, and how to set up simple dashboards and alerts that tell you something is wrong before your users do. Bring your monitoring questions, and we'll discuss real scenarios to help you build observability that works for your team.",
     "times": [
       {
         "id": "1790360376412001ANva",
@@ -53368,7 +53933,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Great health checks tell you exactly how your application is really performing - not just that a port is open. In this chalk talk we whiteboard meaningful health check patterns across ELB, Amazon Global Accelerator, and Amazon Route 53 - covering how to validate database readiness, confirm replica currency, and verify end-to-end request success. We'll explore thresholds, timing configurations, and graceful failover strategies. Bring your architectures - diagrams, napkin sketches, or draw live on the whiteboard - and we'll design your health strategy together. Leave with actionable patterns that reflect true application liveness.",
+    "abstract": "Great health checks tell you exactly how your application is really performing, not just that a port is open. In this chalk talk, we whiteboard meaningful health check patterns across ELB, Amazon Global Accelerator, and Amazon Route 53 that covers how to validate database readiness, confirm replica currency, and verify end-to-end request success. We'll explore thresholds, timing configurations, and graceful failover strategies. Bring your architectures, including diagrams, napkin sketches, or draw live on the whiteboard, and we'll design your health strategy together. Leave with actionable patterns that reflect true application liveness.",
     "times": [
       {
         "id": "1790025477737001Cu3V",
@@ -53406,7 +53971,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Great health checks tell you exactly how your application is really performing - not just that a port is open. In this chalk talk we whiteboard meaningful health check patterns across ELB, Amazon Global Accelerator, and Amazon Route 53 - covering how to validate database readiness, confirm replica currency, and verify end-to-end request success. We'll explore thresholds, timing configurations, and graceful failover strategies. Bring your architectures - diagrams, napkin sketches, or draw live on the whiteboard - and we'll design your health strategy together. Leave with actionable patterns that reflect true application liveness.",
+    "abstract": "Great health checks tell you exactly how your application is really performing, not just that a port is open. In this chalk talk, we whiteboard meaningful health check patterns across ELB, Amazon Global Accelerator, and Amazon Route 53 that covers how to validate database readiness, confirm replica currency, and verify end-to-end request success. We'll explore thresholds, timing configurations, and graceful failover strategies. Bring your architectures, including diagrams, napkin sketches, or draw live on the whiteboard, and we'll design your health strategy together. Leave with actionable patterns that reflect true application liveness.",
     "times": [
       {
         "id": "1790360368185001AkPe",
@@ -53441,7 +54006,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You started with a single Amazon VPC - and it worked. But as your organization grows, so does your network complexity. In this chalk talk, we'll work through the decision points of scaling from one VPC to many. When should you split workloads? How do you connect VPCs - peering, hub-and-spoke, or mesh? How do you segment traffic, centralize inspection and egress, plan IP addressing at scale, and integrate hybrid connectivity? Bring your architecture challenges - we'll draw through solutions together on the whiteboard.",
+    "abstract": "You started with a single Amazon VPC, and it worked. But as your organization grows, so does your network complexity. In this chalk talk, we'll work through the decision points of scaling from one VPC to many. When should you split workloads? How do you connect VPCs - peering, hub-and-spoke, or mesh? How do you segment traffic, centralize inspection and egress, plan IP addressing at scale, and integrate hybrid connectivity? Bring your architecture challenges, and we'll draw through solutions together on the whiteboard.",
     "times": [
       {
         "id": "1790025537541001CYX9",
@@ -53476,7 +54041,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You started with a single Amazon VPC - and it worked. But as your organization grows, so does your network complexity. In this chalk talk, we'll work through the decision points of scaling from one VPC to many. When should you split workloads? How do you connect VPCs - peering, hub-and-spoke, or mesh? How do you segment traffic, centralize inspection and egress, plan IP addressing at scale, and integrate hybrid connectivity? Bring your architecture challenges - we'll draw through solutions together on the whiteboard.",
+    "abstract": "You started with a single Amazon VPC, and it worked. But as your organization grows, so does your network complexity. In this chalk talk, we'll work through the decision points of scaling from one VPC to many. When should you split workloads? How do you connect VPCs - peering, hub-and-spoke, or mesh? How do you segment traffic, centralize inspection and egress, plan IP addressing at scale, and integrate hybrid connectivity? Bring your architecture challenges, and we'll draw through solutions together on the whiteboard.",
     "times": [
       {
         "id": "1790360385335001AfVN",
@@ -53511,7 +54076,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Your AI agents need to call private MCP servers, internal REST APIs, and OAuth providers — but those backends must never touch the public internet. In this lightning talk, we demo how Amazon Bedrock AgentCore Gateway uses managed Amazon VPC Lattice endpoints to route agent traffic privately into your VPC. We'll configure a private MCP server target, show traffic staying on the AWS backbone, and cover key patterns including intermediate domain routing, private certificate workarounds with ALB, and cross-account connectivity. Walk away with a repeatable pattern for secure, zero-public-internet agentic workloads.",
+    "abstract": "Your AI agents need to call private MCP servers, internal REST APIs, and OAuth providers, but those backends must never touch the public internet. In this lightning talk, we demo how Amazon Bedrock AgentCore Gateway uses managed Amazon VPC Lattice endpoints to route agent traffic privately into your VPC. We'll configure a private MCP server target, show traffic staying on the AWS backbone, and cover key patterns including intermediate domain routing, private certificate workarounds with ALB, and cross-account connectivity. Walk away with a repeatable pattern for secure, zero-public-internet agentic workloads.",
     "times": [
       {
         "id": "1790033110026001qtA1",
@@ -53660,7 +54225,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we're here to break the \"WAF does that?\" moments together.",
+    "abstract": "Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases, from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences, we're here to discover the \"AWS WAF does that?\" moments together.",
     "times": [
       {
         "id": "1790025475320001Cyys",
@@ -53697,7 +54262,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we're here to break the \"WAF does that?\" moments together.",
+    "abstract": "Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases, from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences, we're here to discover the \"AWS WAF does that?\" moments together.",
     "times": [
       {
         "id": "1790360365723001ACQw",
@@ -53846,7 +54411,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Some workloads need the public IP the world sees to live directly on the Amazon EC2 instances—no translation in the path. Email gateways rotating sender IPs, VPN concentrators assigning a dedicated address per client, or security appliances terminating traffic on the exact advertised address need the instance to own those public IPs. In this live-coding talk, we build that model end-to-end on AWS: writing CloudFormation for BYOIP pools and Bring Your Own ASN, coding NAT-free ingress routing so traffic arrives untranslated, and configuring BGP peering with Amazon VPC Route Server for high availability. Walk away with a reusable stack.",
+    "abstract": "Some workloads need the public IP the world sees to live directly on the Amazon EC2 instances, with no translation in the path. Email gateways rotating sender IPs, VPN concentrators assigning a dedicated address per client, or security appliances terminating traffic on the exact advertised address need the instance to own those public IPs. In this live-coding talk, we build that model end-to-end on AWS: writing CloudFormation for BYOIP pools and Bring Your Own ASN, coding NAT-free ingress routing so traffic arrives untranslated, and configuring BGP peering with Amazon VPC Route Server for high availability. ",
     "times": [
       {
         "id": "1790025491364001Cfhw",
@@ -53954,7 +54519,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Deploying workloads across AWS accounts - whether across an organization, between business units, or alongside acquired entities - creates connectivity complexity that traditional networking options don't cleanly solve. You face IP coordination headaches, overly broad network surface exposure, and heavy per-resource infrastructure just to share a service privately. Bidirectional sharing doubles the problem. In this session, build a private service fabric—a federated architecture where multiple organizations share services privately and bidirectionally with independent governance. Combine Amazon VPC Lattice, resource gateways, AWS PrivateLink, and AWS Resource Access Manager into a cross-organization platform covering bidirectional topologies and federated governance.",
+    "abstract": "Deploying workloads across AWS accounts, whether across an organization, between business units, or alongside acquired entities, creates connectivity complexity that traditional networking options don't cleanly solve. You face IP coordination headaches, overly broad network surface exposure, and heavy per-resource infrastructure just to share a service privately. Bidirectional sharing doubles the problem. In this session, build a private service fabric, a federated architecture where multiple organizations share services privately and bidirectionally with independent governance. Combine Amazon VPC Lattice, resource gateways, AWS PrivateLink, and AWS Resource Access Manager into a cross-organization platform covering bidirectional topologies and federated governance.",
     "times": [
       {
         "id": "1790025502323001Cfzb",
@@ -53992,7 +54557,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your enterprise WAN was built for a world where applications lived in data centers. That world is gone—but you're still paying for MPLS circuits and waiting weeks for new sites. What if you could replace that backbone entirely? AWS offers the largest global infrastructure footprint of any provider: resilient, agile, low-latency, and encrypted. In this chalk talk, we will whiteboard how to connect your SD-WAN to AWS Cloud WAN, maintain segmentation from branch to VPC, and pay only for what you use—no long-term contracts. Bring your WAN architecture and we'll show you what it looks like without the middlemen.",
+    "abstract": "Your enterprise WAN was built for a world where applications lived in data centers. That world is gone, but you're still paying for MPLS circuits and waiting weeks for new sites. What if you could replace that backbone entirely? AWS offers the largest global infrastructure footprint of any provider: resilient, agile, low-latency, and encrypted. In this chalk talk, we will whiteboard how to connect your SD-WAN to AWS Cloud WAN, maintain segmentation from branch to VPC, and pay only for what you use—no long-term contracts. Bring your WAN architecture and we'll show you what it looks like without the middlemen.",
     "times": [
       {
         "id": "1790025550749001CVFo",
@@ -54030,7 +54595,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Your enterprise WAN was built for a world where applications lived in data centers. That world is gone—but you're still paying for MPLS circuits and waiting weeks for new sites. What if you could replace that backbone entirely? AWS offers the largest global infrastructure footprint of any provider: resilient, agile, low-latency, and encrypted. In this chalk talk, we will whiteboard how to connect your SD-WAN to AWS Cloud WAN, maintain segmentation from branch to VPC, and pay only for what you use—no long-term contracts. Bring your WAN architecture and we'll show you what it looks like without the middlemen.",
+    "abstract": "Your enterprise WAN was built for a world where applications lived in data centers. That world is gone, but you're still paying for MPLS circuits and waiting weeks for new sites. What if you could replace that backbone entirely? AWS offers the largest global infrastructure footprint of any provider: resilient, agile, low-latency, and encrypted. In this chalk talk, we will whiteboard how to connect your SD-WAN to AWS Cloud WAN, maintain segmentation from branch to VPC, and pay only for what you use—no long-term contracts. Bring your WAN architecture and we'll show you what it looks like without the middlemen.",
     "times": [
       {
         "id": "1790360395690001AX39",
@@ -54068,7 +54633,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As ISVs scale their SaaS platforms, network architecture becomes a critical decision: balancing tenant isolation, compliance, and operational efficiency. In this chalk talk, examine proven connectivity patterns using AWS PrivateLink, AWS Transit Gateway, and Amazon VPC Lattice for multi-tenant environments. Explore how to enforce strong tenant boundaries at the network layer, handle cross-account connectivity at scale, and reduce operational complexity as your business grows. Whether building a new multi-tenant platform or evolving an existing one, leave with actionable architecture blueprints ready for production.",
+    "abstract": "As ISVs scale their SaaS platforms, network architecture becomes a critical decision: balancing tenant isolation, compliance, and operational efficiency. In this chalk talk, examine proven connectivity patterns using AWS PrivateLink, AWS Transit Gateway, and Amazon VPC Lattice for multi-tenant environments. Explore how to enforce strong tenant boundaries at the network layer, handle cross-account connectivity at scale, and reduce operational complexity as your business grows. Whether building a new multi-tenant platform or evolving an existing one, leave with architecture blueprints ready for production.",
     "times": [
       {
         "id": "1790025524180001CbTA",
@@ -54105,7 +54670,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Most enterprises don't run just one website — they run many: corporate sites, regional or sub-brand sites, internal portals, plus full environment tiers (Dev, QA, Staging, Prod) for each. Managing TLS certificates, WAF rules, and cache behavior separately creates configuration drift, inconsistent security posture, and operational overhead that scales with your site count. In this workshop, you'll use Amazon CloudFront to define a single reusable baseline configuration and apply it consistently across many website profiles — whether they represent different brands, business units, or environment tiers — while still allowing targeted overrides where a site genuinely needs to differ. You'll leave with a working reference architecture and a decision framework for what belongs in the baseline vs. the override.",
+    "abstract": "Most enterprises don't run just one website. They run many: a corporate site, regional or sub-brand sites, internal portals, plus full environment tiers (Dev, QA, Staging, Prod) for each. Managing TLS certificates, WAF rules, and cache behavior separately for each creates configuration drift, inconsistent security, and operational overhead that scales with site count. In this workshop, you'll use Amazon CloudFront to define a single reusable baseline configuration and apply it consistently across many website profiles. Whether they represent different brands, business units, or environment tiers, you'll learn how to allow targeted overrides where a site genuinely needs to differ (stricter WAF on production, relaxed caching on QA, a custom origin for a sub-brand). You'll leave with a working reference architecture and a decision framework for what belongs in the baseline vs. the override.",
     "times": [
       {
         "id": "1790025533858001CAVa",
@@ -54216,7 +54781,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Modern streaming demands instant revocation, concurrent stream limits, device-bound sessions, and per-user policy decisions at the edge. In this chalk talk, whiteboard the full decision space with us. We'll map the trade-offs between signed URLs, signed cookies, and emerging token approaches like Content Access Tokens (CAT) built on CBOR Web Tokens, then diagram the architecture patterns behind them: embedding custom claims and evaluating them in CloudFront Functions, using CloudFront KeyValueStore for real-time revocation without key rotation, and chaining tokens across HLS/DASH segments. Bring your hardest content protection scenarios - credential sharing, restreaming, geo abuse - and we'll work through them together at the board, leaving you with a framework for matching protection mechanisms to your security and business requirements.",
+    "abstract": "Modern streaming demands instant revocation, concurrent stream limits, device-bound sessions, and per-user policy decisions at the edge. In this chalk talk, whiteboard the full decision space with us. We'll map the trade-offs between signed URLs, signed cookies, and emerging token approaches like Content Access Tokens (CAT) built on CBOR Web Tokens, then diagram the architecture patterns behind them: embedding custom claims and evaluating them in CloudFront Functions, using CloudFront KeyValueStore for real-time revocation without key rotation, and chaining tokens across HLS/DASH segments. Bring your hardest content protection scenarios, such as credential sharing, restreaming, geo abuse. We'll work through them together at the board, leaving you with a framework for matching protection mechanisms to your security and business requirements.",
     "times": [
       {
         "id": "1790025547165001Cak2",
@@ -54252,7 +54817,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Edge compute is a practical way to build faster, smarter applications. In this interactive chalk talk, we’ll dive into how Amazon CloudFront empowers developers to run custom logic at the edge using CloudFront Functions, Lambda@Edge, and the Key Value Store. We’ll explore real-world use cases, architectural patterns, and recent feature launches that unlock powerful personalization, performance optimization, and cost efficiency. Come ready to whiteboard, ask questions, and discover how to push intelligence closer to your users.",
+    "abstract": "Edge compute is a practical way to build faster, smarter applications. In this interactive chalk talk, we'll dive into how Amazon CloudFront empowers developers to run custom logic at the edge using CloudFront Functions, Lambda@Edge, and the Key Value Store. We'll explore real-world use cases, architectural patterns, and recent feature launches that unlock powerful personalization, performance optimization, and cost efficiency. Come ready to whiteboard, ask questions, and discover how to push intelligence closer to your users.",
     "times": [
       {
         "id": "1790025514683001CK28",
@@ -54288,7 +54853,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Edge compute is a practical way to build faster, smarter applications. In this interactive chalk talk, we’ll dive into how Amazon CloudFront empowers developers to run custom logic at the edge using CloudFront Functions, Lambda@Edge, and the Key Value Store. We’ll explore real-world use cases, architectural patterns, and recent feature launches that unlock powerful personalization, performance optimization, and cost efficiency. Come ready to whiteboard, ask questions, and discover how to push intelligence closer to your users.",
+    "abstract": "Edge compute is a practical way to build faster, smarter applications. In this interactive chalk talk, we'll dive into how Amazon CloudFront empowers developers to run custom logic at the edge using CloudFront Functions, Lambda@Edge, and the Key Value Store. We'll explore real-world use cases, architectural patterns, and recent feature launches that unlock powerful personalization, performance optimization, and cost efficiency. Come ready to whiteboard, ask questions, and discover how to push intelligence closer to your users.",
     "times": [
       {
         "id": "1790360371016001A20o",
@@ -54307,7 +54872,7 @@
   {
     "id": "1780442283059001cYzD",
     "code": "NET320-R",
-    "title": "Exploit a software vulnerability, then stop it - From code to containment",
+    "title": "Exploit a software vulnerability, then stop it: From code to containment",
     "type": "Workshop",
     "level": "300 - Advanced",
     "topics": [
@@ -54325,7 +54890,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with Amazon Inspector Code Security to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall — proving that layered defenses hold even against unpatched vulnerabilities.",
+    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with Amazon Inspector Code Security to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall, proving that layered defenses hold even against unpatched vulnerabilities.",
     "times": [
       {
         "id": "1790025483821001Cxr0",
@@ -54344,7 +54909,7 @@
   {
     "id": "1790358227351001i2pu",
     "code": "NET320-R1",
-    "title": "Exploit a software vulnerability, then stop it - From code to containment",
+    "title": "Exploit a software vulnerability, then stop it: From code to containment",
     "type": "Workshop",
     "level": "300 - Advanced",
     "topics": [
@@ -54362,7 +54927,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with Amazon Inspector Code Security to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall — proving that layered defenses hold even against unpatched vulnerabilities.",
+    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with Amazon Inspector Code Security to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall, proving that layered defenses hold even against unpatched vulnerabilities.",
     "times": [
       {
         "id": "1790360378659001ATxE",
@@ -54401,7 +54966,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement — not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC interface endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll build an agent that pulls signals from AWS WAF and autonomously remediates threats, generating a plain-English incident summary.",
+    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement, not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC Interface Endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the Gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll build an agent that pulls signals from AWS WAF, and autonomously remediates threats and generating a plain-English incident summary.",
     "times": [
       {
         "id": "1790025508930001CCxU",
@@ -54440,7 +55005,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement — not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC interface endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll build an agent that pulls signals from AWS WAF and autonomously remediates threats, generating a plain-English incident summary.",
+    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement, not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC Interface Endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the Gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll build an agent that pulls signals from AWS WAF, and autonomously remediates threats and generating a plain-English incident summary.",
     "times": [
       {
         "id": "1790360384884001AF3R",
@@ -54477,7 +55042,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Product drops, ticket on-sales, and viral promotions can spike traffic 50x in seconds - and origin infrastructure is the wrong place to absorb it. In this workshop, build a complete launch-day control plane using Amazon CloudFront Functions and CloudFront KeyValueStore. Implement a launch gate with VIP early access, a percentage-based throttle that dials traffic to your purchase origin in real time, sticky A/B testing for product pages, and a global kill switch - all controlled by KeyValueStore updates that propagate worldwide in seconds, with zero deployments and zero origin changes. Along the way, use edge location metadata for geo-staggered launches and trace every gate decision with CloudFront Functions access logging. Leave with patterns you can apply to any high-demand launch event. Attendees must bring a laptop.",
+    "abstract": "Product drops, ticket on-sales, and viral promotions can spike traffic 50x in seconds. Origin infrastructure is the wrong place to absorb it. In this workshop, build a complete launch-day control plane using Amazon CloudFront Functions and CloudFront KeyValueStore. Implement a launch gate with VIP early access, a percentage-based throttle that dials traffic to your purchase origin in real time, sticky A/B testing for product pages, and a global kill switch - all controlled by KeyValueStore updates that propagate worldwide in seconds, with zero deployments and zero origin changes. Along the way, use edge location metadata for geo-staggered launches and trace every gate decision with CloudFront Functions access logging. Leave with patterns you can apply to any high-demand launch event. Attendees must bring a laptop.",
     "times": [
       {
         "id": "1790025483687001CMGR",
@@ -54627,7 +55192,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Establishing resilient private connectivity from data centers and branch offices to AWS has traditionally required weeks of partner coordination, physical cross-connects, and manual resilience configurations—yet true resilience demands more than provisioning a second connection. In this chalk talk, we will whiteboard how AWS Direct Connect and AWS Interconnect each address location diversity, device diversity, BGP routing policy, and failover validation. Compare dedicated links with full routing control to fully managed connections with built-in redundancy, explore integration with AWS Transit Gateway and AWS Cloud WAN, and evaluate maximum versus high resiliency models. Bring your hybrid connectivity challenges.",
+    "abstract": "Establishing resilient private connectivity from data centers and branch offices to AWS has traditionally required weeks of partner coordination, physical cross-connects, and manual resilience configurations. Yet true resilience demands more than provisioning a second connection. In this chalk talk, we will whiteboard how AWS Direct Connect and AWS Interconnect each address location diversity, device diversity, BGP routing policy, and failover validation. Compare dedicated links with full routing control to fully managed connections with built-in redundancy, explore integration with AWS Transit Gateway and AWS Cloud WAN, and evaluate maximum versus high resiliency models. Bring your hybrid connectivity challenges.",
     "times": [
       {
         "id": "1790025547233001CUe2",
@@ -54663,7 +55228,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Establishing resilient private connectivity from data centers and branch offices to AWS has traditionally required weeks of partner coordination, physical cross-connects, and manual resilience configurations—yet true resilience demands more than provisioning a second connection. In this chalk talk, we will whiteboard how AWS Direct Connect and AWS Interconnect each address location diversity, device diversity, BGP routing policy, and failover validation. Compare dedicated links with full routing control to fully managed connections with built-in redundancy, explore integration with AWS Transit Gateway and AWS Cloud WAN, and evaluate maximum versus high resiliency models. Bring your hybrid connectivity challenges.",
+    "abstract": "Establishing resilient private connectivity from data centers and branch offices to AWS has traditionally required weeks of partner coordination, physical cross-connects, and manual resilience configurations. Yet true resilience demands more than provisioning a second connection. In this chalk talk, we will whiteboard how AWS Direct Connect and AWS Interconnect each address location diversity, device diversity, BGP routing policy, and failover validation. Compare dedicated links with full routing control to fully managed connections with built-in redundancy, explore integration with AWS Transit Gateway and AWS Cloud WAN, and evaluate maximum versus high resiliency models. Bring your hybrid connectivity challenges.",
     "times": [
       {
         "id": "1790360397228001A0tI",
@@ -54701,7 +55266,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Architect high-performance, resilient network infrastructure using Network Load Balancer and Gateway Load Balancer. This deep dive covers advanced load balancing, multi-protocol support, and security appliance integration at scale. In this session, we explore NLB source IP preservation, GWLB transparent inspection architecture, and deployment patterns. Topics include performance optimization, troubleshooting methodologies, QUIC support, and resilience capabilities including Zonal Shift and Zonal Autoshift. Walk away with practical blueprints for designing architectures that deliver high availability and predictable performance while maintaining inline security inspection and compliance—whether you're running financial trading platforms, gaming backends, or large-scale SaaS.",
+    "abstract": "Architect high-performance, resilient network infrastructure using Network Load Balancer and Gateway Load Balancer. This deep dive covers advanced load balancing, multi-protocol support, and security appliance integration at scale. In this session, we explore NLB source IP preservation, GWLB transparent inspection architecture, and deployment patterns. Topics include performance optimization, troubleshooting methodologies, QUIC support, and resilience capabilities including Zonal Shift and Zonal Autoshift. Whether you're running financial trading platforms, gaming backends, or large-scale SaaS, learn practical blueprints for designing architectures that deliver high availability and predictable performance while maintaining inline security inspection and compliance. ",
     "times": [
       {
         "id": "1790025486727001CcPh",
@@ -54738,7 +55303,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations increasingly operate across AWS commercial, GovCloud, European Sovereign Cloud, and China Regions to satisfy regulatory, data residency, and national security requirements—but connecting them introduces networking challenges that go well beyond standard multi-Region design. In this session, learn cross-partition connectivity patterns using AWS Site-to-Site VPN, AWS Direct Connect, and application-layer proxies alongside DNS resolution strategies, compliance boundary enforcement, and operational trade-offs. We walk through architectural blueprints for securely linking partitions while preserving the isolation guarantees they exist to enforce, and share lessons learned from customers navigating ITAR, GDPR, and national sovereignty mandates at scale.",
+    "abstract": "Organizations increasingly operate across AWS commercial, GovCloud, Sovereign Cloud, and China Regions to satisfy regulatory, data residency, and national security requirements. But connecting them introduces networking challenges that go well beyond standard multi-Region design. In this session, learn cross-partition connectivity patterns using AWS Site-to-Site VPN, AWS Direct Connect, and application-layer proxies alongside DNS resolution strategies, compliance boundary enforcement, and operational trade-offs. We walk through architectural blueprints for securely linking partitions while preserving the isolation guarantees they exist to enforce, and share lessons learned from customers navigating ITAR, GDPR, and national sovereignty mandates at scale.",
     "times": [
       {
         "id": "1790025527207001C5Us",
@@ -54812,7 +55377,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "MCP servers are becoming essential infrastructure in enterprise AI environments, and running them in production demands both scalability and security. Join this chalk talk to explore patterns for scaling and securing your MCP servers using AWS native services. We'll cover how to configure Application Load Balancer for MCP traffic characteristics, implement health checks and routing policies, scale horizontally across availability zones, and enforce security controls with AWS WAF - including request filtering, rate limiting, and tool-level access policies. Whether you're running a handful of MCP servers or deploying at enterprise scale, you'll leave with actionable architectures for production-ready deployments.",
+    "abstract": "MCP servers are becoming essential infrastructure in enterprise AI environments, and running them in production demands both scalability and security. Join this chalk talk to explore patterns for scaling and securing your MCP servers using AWS native services. We'll cover how to configure Application Load Balancer for MCP traffic characteristics, implement health checks and routing policies, and scale horizontally across availability zones. We'll also cover how to enforce security controls with AWS WAF, including request filtering, rate limiting, and tool-level access policies. Whether you're running a handful of MCP servers or deploying at enterprise scale, you'll leave with actionable architectures for production-ready deployments.",
     "times": [
       {
         "id": "1790025516126001C1h3",
@@ -54848,7 +55413,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "MCP servers are becoming essential infrastructure in enterprise AI environments, and running them in production demands both scalability and security. Join this chalk talk to explore patterns for scaling and securing your MCP servers using AWS native services. We'll cover how to configure Application Load Balancer for MCP traffic characteristics, implement health checks and routing policies, scale horizontally across availability zones, and enforce security controls with AWS WAF - including request filtering, rate limiting, and tool-level access policies. Whether you're running a handful of MCP servers or deploying at enterprise scale, you'll leave with actionable architectures for production-ready deployments.",
+    "abstract": "MCP servers are becoming essential infrastructure in enterprise AI environments, and running them in production demands both scalability and security. Join this chalk talk to explore patterns for scaling and securing your MCP servers using AWS native services. We'll cover how to configure Application Load Balancer for MCP traffic characteristics, implement health checks and routing policies, and scale horizontally across availability zones. We'll also cover how to enforce security controls with AWS WAF, including request filtering, rate limiting, and tool-level access policies. Whether you're running a handful of MCP servers or deploying at enterprise scale, you'll leave with actionable architectures for production-ready deployments.",
     "times": [
       {
         "id": "1790360383997001AU4Q",
@@ -54883,7 +55448,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your Load Balancer scales automatically for most traffic - and now you can prepare it for predictable spikes before they arrive. Product launches, flash sales, live events, and Monday-morning market opens deserve a load balancer that's ready instantly. Load Balancer Capacity Unit (LCU) Reservation pre-provisions a capacity floor so your infrastructure is never caught cold. In this session we introduce new capacity management capabilities across ALB, NLB, and GLB that turn reservation planning into a data-driven workflow. Learn how to analyze historical patterns, set the right capacity floor, and release reservations with confidence.",
+    "abstract": "Your Load Balancer scales automatically for most traffic, and now you can prepare it for predictable spikes before they arrive. Product launches, flash sales, live events, and Monday-morning market opens deserve a load balancer that's ready instantly. Load Balancer Capacity Unit (LCU) Reservation pre-provisions a capacity floor so your infrastructure is never caught cold. In this session, we introduce new capacity management capabilities across ALB, NLB, and GLB that turn reservation planning into a data-driven workflow. Learn how to analyze historical patterns, set the right capacity floor, and release reservations with confidence.",
     "times": [
       {
         "id": "1790025550678001C0MO",
@@ -54921,7 +55486,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Peak retail traffic is no longer just more shoppers - AI shopping agents, scrapers, and personalized experiences now collide on the same edge. In this session, learn advanced Amazon CloudFront patterns to handle all three. See how to classify and verify agentic traffic using CloudFront Functions, Amazon CloudFront KeyValueStore, and AWS WAF Bot Control, then serve tiered responses without touching origin. Hear how you can serve AI-powered personalization on every page in about a millisecond by encoding decision-tree models in KeyValueStore, fed by an Amazon Bedrock pipeline. Leave with battle-tested patterns for your next cyber week.",
+    "abstract": "Peak retail traffic is no longer just more shoppers. AI shopping agents, scrapers, and personalized experiences now collide on the same edge. In this session, learn advanced Amazon CloudFront patterns to handle all three. See how to classify and verify agentic traffic using CloudFront Functions, Amazon CloudFront KeyValueStore, and AWS WAF Bot Control, then serve tiered responses without touching origin. Hear how you can serve AI-powered personalization on every page in about a millisecond by encoding decision-tree models in KeyValueStore, fed by an Amazon Bedrock pipeline. Discover battle-tested patterns for your next cyber week.",
     "times": [
       {
         "id": "1790025514617001C2aY",
@@ -54958,7 +55523,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "In this session, we'll dive into advanced bot mitigation using the AWS WAF SDK and label evaluations. Learn how to go beyond basic rule-based blocking to implement dynamic, data-driven defenses that adapt to evolving threats. We'll explore programmatically managing WAF rules, leveraging labels for granular request inspection, and integrating SDK workflows to automate threat response - across mobile app, JavaScript, and API traffic integrations. Through real-world scenarios, you'll see how to distinguish legitimate traffic from sophisticated bots, reduce false positives, and maintain application performance across surfaces. Bring your questions and learn how to implement scalable, intelligent bot protection at the edge.",
+    "abstract": "In this session, we'll dive into advanced bot mitigation using the AWS WAF SDK and label evaluations. Learn how to go beyond basic rule-based blocking to implement dynamic, data-driven defenses that adapt to evolving threats. We'll explore programmatically managing WAF rules, leveraging labels for granular request inspection, and integrating SDK workflows to automate threat response across mobile app, JavaScript, and API traffic integrations. Through real-world scenarios, you'll see how to distinguish legitimate traffic from sophisticated bots, reduce false positives, and maintain application performance across surfaces. Bring your questions and learn how to implement scalable, intelligent bot protection at the edge.",
     "times": [
       {
         "id": "1790025511197001CaEe",
@@ -55032,7 +55597,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI agents are the new web visitors - but how do you protect your content while unlocking new revenue? In this code talk, we deploy a Single Page Application on CloudFront, S3, API Gateway, Lambda, and Bedrock, then progressively secure and monetize AI agent traffic. We integrate AWS WAF Bot Control to identify agents via the WBA protocol, implement intelligent routing in CloudFront Functions to serve optimized content per visitor type, and enforce rate limits by bot identity and actual resource consumption. Finally, we enable AI Traffic Monetization in WAF and demonstrate end-to-end paid content access using the x402 payment protocol with a Bedrock AgentCore.",
+    "abstract": "AI agents are the new web visitors, but how do you protect your content while unlocking new revenue? In this code talk, we deploy a Single Page Application on CloudFront, S3, API Gateway, Lambda, and Bedrock, then progressively secure and monetize AI agent traffic. We integrate AWS WAF Bot Control to identify agents via the WBA protocol, implement intelligent routing in CloudFront Functions to serve optimized content per visitor type, and enforce rate limits by bot identity and actual resource consumption. Finally, we enable AI Traffic Monetization in WAF and demonstrate end-to-end paid content access using the x402 payment protocol with a Bedrock AgentCore.",
     "times": [
       {
         "id": "1790033115813001qkMi",
@@ -55070,7 +55635,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI agents are the new web visitors - but how do you protect your content while unlocking new revenue? In this code talk, we deploy a Single Page Application on CloudFront, S3, API Gateway, Lambda, and Bedrock, then progressively secure and monetize AI agent traffic. We integrate AWS WAF Bot Control to identify agents via the WBA protocol, implement intelligent routing in CloudFront Functions to serve optimized content per visitor type, and enforce rate limits by bot identity and actual resource consumption. Finally, we enable AI Traffic Monetization in WAF and demonstrate end-to-end paid content access using the x402 payment protocol with a Bedrock AgentCore.",
+    "abstract": "AI agents are the new web visitors, but how do you protect your content while unlocking new revenue? In this code talk, we deploy a Single Page Application on CloudFront, S3, API Gateway, Lambda, and Bedrock, then progressively secure and monetize AI agent traffic. We integrate AWS WAF Bot Control to identify agents via the WBA protocol, implement intelligent routing in CloudFront Functions to serve optimized content per visitor type, and enforce rate limits by bot identity and actual resource consumption. Finally, we enable AI Traffic Monetization in WAF and demonstrate end-to-end paid content access using the x402 payment protocol with a Bedrock AgentCore.",
     "times": [
       {
         "id": "1790360376223001AfVI",
@@ -55106,7 +55671,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Live sports fans no longer watch one feed and wait for the recap - they expect every angle live and every key play instantly findable. In this session, see how you turn live sports into searchable fan moments on AWS. Using AWS Elemental inference, the platform generates highlight clips in real time and pairs them with conversational AI powered by Amazon Bedrock, so fans can ask for \"the catch in the third quarter\" and get it in seconds instead of hours. Then go deeper into the delivery workflow: composing multi-view experiences so viewers follow simultaneous matches and camera angles, enriching clips with AI-generated titles and captions, and delivering live feeds and clips globally through a single Amazon CloudFront architecture.  ",
+    "abstract": "Live sports fans no longer watch one feed and wait for the recap. They expect every angle live and every key play instantly findable. In this session, see how you turn live sports into searchable fan moments on AWS. Using AWS Elemental inference, the platform generates highlight clips in real time and pairs them with conversational AI powered by Amazon Bedrock, so fans can ask for \"the catch in the third quarter\" and get it in seconds instead of hours. Then go deeper into the delivery workflow: composing multi-view experiences so viewers follow simultaneous matches and camera angles, enriching clips with AI-generated titles and captions, and delivering live feeds and clips globally through a single Amazon CloudFront architecture.  ",
     "times": [
       {
         "id": "1790025497180001CllZ",
@@ -55199,6 +55764,306 @@
     ]
   },
   {
+    "id": "1780441472515001GiTw",
+    "code": "NET338",
+    "title": "Innovations in Elastic Load Balancing and application networking",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Global Infrastructure",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Discover the latest innovations in application networking. This session covers new capabilities in Elastic Load Balancing (ELB) and simplified application delivery across all compute environments. Learn how new approaches to application networking help you save time and money. Whether you're building microservices, modern application architectures, or AI agent workloads, see what's next for application networking on AWS.",
+    "times": [
+      {
+        "id": "1790963621896001QE0x",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441472451001GXrN",
+    "code": "NET339",
+    "title": "AI innovations across network monitoring and operations",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Global Infrastructure",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Join us to explore how AI is transforming network monitoring and observability. This session dives into new capabilities for traffic analysis, network health monitoring, and faster issue resolution that shows how intelligent, automated tooling helps you move from reactive troubleshooting to proactive insight. Whether you want to cut time-to-resolution or get a clearer, real-time pulse on your network's health, come see what's new and what's on the horizon.",
+    "times": [
+      {
+        "id": "1790963624525001Qw39",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441472571001Gt4N",
+    "code": "NET340",
+    "title": "Innovations in Secure Service Edge architectures on AWS",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Network & Infrastructure Security",
+      "Zero Trust"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Join us to learn about the latest innovations and capabilities in Secure Service Edge (SSE) and cloud networking.  Whether you're simplifying your security stack or scaling secure connectivity, see what's new across SSE architectures.",
+    "times": [
+      {
+        "id": "1790963624018001Q6QO",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442261303001cWFw",
+    "code": "NET341",
+    "title": "Building hybrid satellite and cloud networks with Amazon Leo",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Learn how low-earth orbit (LEO) satellite connectivity is changing the way organizations build hybrid networks. This session explores how Amazon Leo satellite constellations integrate with AWS networking services to extend cloud connectivity to remote and hard-to-reach locations. We cover new innovations in space-based networking, including how to add network resiliency and architect hybrid satellite-cloud networks. Whether you're looking to improve coverage for distributed operations or exploring new connectivity options, come learn how satellite networking fits into your cloud network strategy.",
+    "times": [
+      {
+        "id": "1790963623531001QiEL",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:30",
+        "endTime": "15:50",
+        "startTimeFormatted": "03:30 PM",
+        "endTimeFormatted": "03:50 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780442242182001c7VA",
+    "code": "NET342",
+    "title": "Innovations in DNS and Amazon Route 53",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Join us to learn about the latest innovations in Domain Name Systems (DNS) and Amazon Route 53. This session covers new capabilities in DNS resolution and new approaches to private and public domain resolution. Join us for architecture patterns and best practices that simplify DNS at scale.",
+    "times": [
+      {
+        "id": "1790963622199001Q3dW",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 165",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442242124001cRNJ",
+    "code": "NET343",
+    "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management",
+      "Network & Infrastructure Security",
+      "Zero Trust"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Join us to explore architecture patterns for DDI  - DNS, DHCP, and IP Address Management (IPAM). This session covers approaches for resolving DNS across hybrid and multicloud environments, managing private and public domains, and unifying address management for consistent governance and visibility. Walk away with best practices that simplify DDI operations at scale.",
+    "times": [
+      {
+        "id": "1790963623732001Q6fo",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442261114001clV7",
+    "code": "NET344",
+    "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management",
+      "Network & Infrastructure Security",
+      "Zero Trust"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Join us to explore architecture patterns for DDI  - DNS, DHCP, and IP Address Management (IPAM). This session covers approaches for resolving DNS across hybrid and multicloud environments, managing private and public domains, and unifying address management for consistent governance and visibility. Walk away with best practices that simplify DDI operations at scale.",
+    "times": [
+      {
+        "id": "1790963623220001QpDo",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:20",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:20 PM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442261172001cEhp",
+    "code": "NET345",
+    "title": "Innovations in DNS and Amazon Route 53",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Join us to learn about the latest innovations in Domain Name Systems (DNS) and Amazon Route 53. This session covers new capabilities in DNS resolution and new approaches to private and public domain resolution. Join us for architecture patterns and best practices that simplify DNS at scale.",
+    "times": [
+      {
+        "id": "1790963623012001Qi4p",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "12:20",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:20 PM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441479257001GWPL",
     "code": "NET403",
     "title": "Owning atoms to bits: How AWS accelerates network innovation at scale",
@@ -55220,7 +56085,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "At AWS, we design everything within our infrastructure networks—from buildings to fiber, routers to protocols. This atoms-to-bits ownership lets us move at breakneck speed: the moment we spot an opportunity to improve customer performance or resilience, we drive it into production. In this talk, Senior Principal Engineers cover how they applied this pattern to develop the random graph fabrics reshaping data center topologies and highly available systems for machine learning at planet scale. Learn what it takes to continually refresh, upgrade, and re-architect live infrastructure without ever interrupting a single customer workload.",
+    "abstract": "At AWS, we design everything within our infrastructure networks, from buildings to fiber, routers to protocols. This atoms-to-bits ownership lets us move at breakneck speed: the moment we spot an opportunity to improve customer performance or resilience, we drive it into production. In this talk, Senior Principal Engineers cover how they applied this pattern to develop the random graph fabrics reshaping data center topologies and highly available systems for machine learning at planet scale. Learn what it takes to continually refresh, upgrade, and re-architect live infrastructure without ever interrupting a single customer workload.",
     "times": [
       {
         "id": "1790025543759001CglM",
@@ -55258,7 +56123,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Point solutions don't scale globally—and stitching together and managing dozens of them creates blind spots. In this session, discover what's new in AWS Cloud WAN and AWS Direct Connect: simplified hybrid connectivity, smarter segmentation, and real-time visibility across global traffic. See how AWS Cloud WAN's policy engine and AWS Direct Connect's latest capabilities combine to deliver seamless connectivity from anywhere to anywhere. Walk away with patterns to build a borderless, resilient global network.",
+    "abstract": "Point solutions don't scale globally. Stitching together and managing dozens of them creates blind spots. In this session, discover what's new in AWS Cloud WAN and AWS Direct Connect: simplified hybrid connectivity, smarter segmentation, and real-time visibility across global traffic. See how AWS Cloud WAN's policy engine and AWS Direct Connect's latest capabilities combine to deliver seamless connectivity from anywhere to anywhere. Discover patterns to build a borderless, resilient global network.",
     "times": [
       {
         "id": "1790025473035001CMRV",
@@ -55296,7 +56161,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your application works perfectly in the lab—but what happens with 45ms latency and 0.1% packet loss? In this session, deploy a transparent network fault simulator using AWS Gateway Load Balancer and Linux Traffic Control (TC) on Amazon EC2. Inject delay, jitter, packet loss, and bandwidth constraints into live traffic, then observe how a tightly coupled application degrades in real time. Use the results to set SLA thresholds, validate AWS Direct Connect failover behavior, and justify architectural decisions. Leave with a reusable, parameterized emulator pattern deployable via AWS Systems Manager.",
+    "abstract": "Your application works perfectly in the lab, but what happens with 45ms latency and 0.1% packet loss? In this session, deploy a transparent network fault simulator using AWS Gateway Load Balancer and Linux Traffic Control (TC) on Amazon EC2. Inject delay, jitter, packet loss, and bandwidth constraints into live traffic, then observe how a tightly coupled application degrades in real time. Use the results to set SLA thresholds, validate AWS Direct Connect failover behavior, and justify architectural decisions. Leave with a reusable, parameterized emulator pattern deployable via AWS Systems Manager.",
     "times": [
       {
         "id": "1790025475252001C3ZZ",
@@ -55334,7 +56199,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your application works perfectly in the lab—but what happens with 45ms latency and 0.1% packet loss? In this session, deploy a transparent network fault simulator using AWS Gateway Load Balancer and Linux Traffic Control (TC) on Amazon EC2. Inject delay, jitter, packet loss, and bandwidth constraints into live traffic, then observe how a tightly coupled application degrades in real time. Use the results to set SLA thresholds, validate AWS Direct Connect failover behavior, and justify architectural decisions. Leave with a reusable, parameterized emulator pattern deployable via AWS Systems Manager.",
+    "abstract": "Your application works perfectly in the lab, but what happens with 45ms latency and 0.1% packet loss? In this session, deploy a transparent network fault simulator using AWS Gateway Load Balancer and Linux Traffic Control (TC) on Amazon EC2. Inject delay, jitter, packet loss, and bandwidth constraints into live traffic, then observe how a tightly coupled application degrades in real time. Use the results to set SLA thresholds, validate AWS Direct Connect failover behavior, and justify architectural decisions. Leave with a reusable, parameterized emulator pattern deployable via AWS Systems Manager.",
     "times": [
       {
         "id": "1790360382046001AqPf",
@@ -55353,7 +56218,7 @@
   {
     "id": "1780441479561001GfXl",
     "code": "NET406",
-    "title": "Managing and Monitoring AWS Direct Connect at Scale: Customer Lessons",
+    "title": "Managing and monitoring AWS Direct Connect at scale: customer lessons",
     "type": "Breakout session",
     "level": "400 - Expert",
     "topics": [
@@ -55372,7 +56237,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "AWS shares customer best practices for managing and monitoring AWS Direct Connect at hyperscale. Network teams discusses how they operate one of the world's largest Direct Connect footprints — spanning multiple regions and supporting AI training workloads that serve billions of users. We deep-dive into new monitoring capabilities: Amazon CloudWatch metrics for BGP session health and prefix counts, VIF rate limiters that prevent bandwidth contention across shared connections, and Network Synthetic Monitor for proactive path-level health diagnostics. Leave with actionable strategies for alerting, capacity planning, and building unified dashboards for cross-Region network visibility.",
+    "abstract": "AWS shares customer best practices for managing and monitoring AWS Direct Connect at hyperscale. Network teams discusses how they operate one of the world's largest Direct Connect footprints, spanning multiple regions and supporting AI training workloads that serve billions of users. We deep-dive into new monitoring capabilities: Amazon CloudWatch metrics for BGP session health and prefix counts, VIF rate limiters that prevent bandwidth contention across shared connections, and Network Synthetic Monitor for proactive path-level health diagnostics. Attendees will learn strategies for alerting, capacity planning, and building unified dashboards for cross-Region network visibility.",
     "times": [
       {
         "id": "1790025491288001CaXi",
@@ -55410,8 +56275,45 @@
     ],
     "venue": "TBD",
     "campus": "Other / Virtual",
-    "abstract": "We built EFA to deliver multi-tenant, elastic, high-performance networking with portability across every instance type and accelerator through Libfabric. The architecture that followed — multipath packet spraying, out-of-order delivery, and encryption of every byte in transit — has scaled from HPC workloads to the backbone of today's largest AI training clusters. Now it's evolving again to support disaggregated inference and expert parallelism. OpenAI joins to share how they adapted their production inference stack to EFA on EC2 UltraServers, covering Reliable Datagram semantics for GPU-to-GPU collectives, NCCL tuning, and topology-aware communication patterns that unlock new performance.",
+    "abstract": "We built EFA to deliver multi-tenant, elastic, high-performance networking with portability across every instance type and accelerator through Libfabric. The architecture that followed, such as multipath packet spraying, out-of-order delivery, and encryption of every byte in transit, has scaled from HPC workloads to the backbone of today's largest AI training clusters. Now it's evolving again to support disaggregated inference and expert parallelism. OpenAI joins to share how they adapted their production inference stack to EFA on EC2 UltraServers, covering Reliable Datagram semantics for GPU-to-GPU collectives, NCCL tuning, and topology-aware communication patterns that unlock new performance.",
     "times": []
+  },
+  {
+    "id": "1780442261056001c8FF",
+    "code": "NET408",
+    "title": "Innovations across the AWS Backbone",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "In this session, we explore how AWS innovates on the backbone and improves the customer experience. We cover new capabilities that help deliver higher performance and reliability for mission-critical workloads. Learn about the challenges and innovations throughout this multi-year journey to improve network availability across the AWS backbone. ",
+    "times": [
+      {
+        "id": "1790963624618001QndM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:30",
+        "endTime": "15:50",
+        "startTimeFormatted": "03:30 PM",
+        "endTimeFormatted": "03:50 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
+        "venue": "Venetian"
+      }
+    ]
   },
   {
     "id": "1780442270175001cA3E",
@@ -58114,10 +59016,23 @@
       "IT Executive",
       "Solution / Systems Architect"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "Enterprises deploying agents in production are converging on a common pattern: distributed systems with stable layer contracts, bounded autonomy, and security and observability built in from day one. That raises a concrete question for AWS partners - does your product plug into the architecture your customers are already standardizing on? In this hands-on workshop for ISVs and consulting partners, you'll learn the composable Enterprise Agentic AI Reference Architecture, see exactly where your product fits at each layer, and build alongside AWS GenAI services, that compose into a single coherent production system. You'll leave with working reference code for an enterprise-ready agentic architecture and a playbook for co-building on the AWS agentic stack.",
-    "times": []
+    "times": [
+      {
+        "id": "1790967119193001mgT2",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
+        "room": "Caesars Palace | Promenade Level | Milano I",
+        "venue": "Caesars Palace"
+      }
+    ]
   },
   {
     "id": "1780442230086001cwgM",
@@ -59997,7 +60912,7 @@
   {
     "id": "1780442231040001cvXa",
     "code": "SEC304",
-    "title": "From Commit to Secure: Catch Vulnerabilities at Machine Speed with AWS Security Agent",
+    "title": "From Commit to Secure: Catch vulnerabilities at machine speed with AWS Continuum",
     "type": "Builders' session",
     "level": "300 - Advanced",
     "topics": [
@@ -60014,7 +60929,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Organizations struggle to detect vulnerabilities before code reaches production. This session demonstrates how to integrate AWS Continuum for code scanning and AWS Continuum for penetration testing (capabilities are delivered through AWS Security Agent) directly into your CI/CD pipeline. Learn how to shift security left, catch vulnerabilities at commit and build stages, surface actionable remediation guidance that prevents vulnerable code from reaching production, and accelerate secure software delivery without slowing developer velocity.",
+    "abstract": "Organizations struggle to detect vulnerabilities before code reaches production. This session demonstrates how to use AWS Continuum (formerly known as AWS Security Agent) directly into your CI/CD pipeline. Learn how to shift security left, catch vulnerabilities at commit and build stages, surface actionable remediation guidance that prevents vulnerable code from reaching production, and accelerate secure software delivery without slowing developer velocity.",
     "times": [
       {
         "id": "1790025511333001CEQZ",
@@ -62273,7 +63188,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "When you manage hundreds of AWS accounts, governance can fall behind. Drift accumulates, controls take days to propagate, and problems go undetected until something breaks. We demonstrate Landing Zone Accelerator 2.0 with built-in AI allowing operators to use natural language to apply organizational changes in seconds. We deploy org-wide security controls, provision accounts, and enforce encryption via a Bedrock-powered interface supporting CloudFormation and Terraform. Attendees learn how we built our governance agents with MCP, and how to design pre-deployment previews for multi-account ops.",
+    "abstract": "When you manage hundreds of AWS accounts, governance can fall behind. Drift accumulates, controls take days to propagate, and problems go undetected until something breaks. We demonstrate Landing Zone Accelerator 2.0 with built-in AI that lets operators use natural language to apply organizational changes in minutes, if not seconds. We deploy org-wide security controls, provision accounts, and enforce encryption through a Bedrock-powered interface supporting CloudFormation and Terraform. An AI agent generates each change plan, and before anything is applied, an org-wide preview catches conflicts and policy violations. Issues are surfaced up front instead of discovered after a break. Attendees learn how we built LZA 2.0 with Kiro spec-driven development and Rust, and how to design pre-deployment previews that keep multi-account operations safe.",
     "times": [
       {
         "id": "1790033113011001qrsx",
@@ -63546,7 +64461,7 @@
   {
     "id": "1780442249290001csBt",
     "code": "SEC426",
-    "title": "From Design to Deployment: Embedding Security into Every Phase of the SDLC",
+    "title": "How AWS Continuum validates security findings across the SDLC",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -63563,7 +64478,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AWS Continuum embeds security expertise at every stage of the software development lifecycle: AWS Continuum for threat modeling for architecture documents, AWS Continuum for code scanning for pull requests and full repositories, and AWS Continuum for penetration testing for deployed applications. In this chalk talk, we dive deep into how AWS Continuum coordinates multiple analysis passes with built-in safety guardrails and multi-step validation to deliver high-confidence findings. Bring your questions about integrating security into CI/CD pipelines and scaling AppSec across multiple teams.",
+    "abstract": "AWS Continuum embeds security expertise at every stage of the software development lifecycle: AWS Continuum reviews architecture documents, AWS Continuum scans pull requests and full repositories, and AWS Continuum can pentest deployed applications. In this chalk talk, we dive deep into how AWS Continuum coordinates multiple analysis passes with built-in safety guardrails and multi-step validation to deliver high-confidence findings. Bring your questions about integrating security into CI/CD pipelines and scaling AppSec across multiple teams.",
     "times": [
       {
         "id": "1790025547514001C80U",
@@ -63599,7 +64514,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Agentic development is accelerating, but how do you threat model a workflow where AI makes decisions autonomously? In this Code Talk, walk through an end-to-end process: from threat modeling a user story with AWS Continuum for threat modeling (capabilities are delivered through AWS Security Agent), through the developer workflow, to deployment. See how ThreatForest - an agentic tool built on the Strands framework - autonomously generates attack trees and MITRE ATT&CK mappings, and how to build a reusable mitigations catalogue that scales across your organization. Leave with working patterns and hard-won lessons from real-world implementations, including where traditional threat modeling assumptions break down for agentic systems.",
+    "abstract": "\"Threat modeling the agentic SDLC with ThreatForest\t\nAgentic development is speeding up, and traditional threat modeling assumes a person makes the decisions. In this code talk, you follow one process end to end. You threat model a user story with the autonomous threat modeling built into AWS Continuum, carry it through the developer workflow, and take it to deployment. You see how ThreatForest, an agentic tool built on the Strands framework, generates attack trees and MITRE ATT&CK mappings on its own, and how to build a mitigations catalog your organization can reuse. We also show where traditional threat modeling can be used for agentic systems.\"",
     "times": [
       {
         "id": "1790025483956001CjEi",
@@ -64533,6 +65448,43 @@
     ]
   },
   {
+    "id": "1780442261604001cIIK",
+    "code": "STG101",
+    "title": "Running SAN workloads on Amazon EBS",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Innovation & Transformation",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Amazon EBS delivers the performance, durability, and enterprise features that mission-critical SAN workloads depend on. In this session, learn how the latest EBS capabilities map to what you run on premises today, which workloads are the best fit, and how customers are moving databases and enterprise applications off storage arrays and onto EBS. Leave with practical guidance to get started.",
+    "times": [
+      {
+        "id": "1790963624847001QuTE",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "09:00",
+        "endTime": "09:20",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:20 AM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441490628001GCvg",
     "code": "STG201",
     "title": "Persistent memory, shared context, instant discovery. Solving storage for AI agents",
@@ -64683,6 +65635,80 @@
     "campus": "Other / Virtual",
     "abstract": "Bayer's genomics and research teams relied on a patchwork of workarounds to support specialized software, user scripts, and ad-hoc analysis on cloud-stored data. AWS DataSync and Storage Gateway handle high-throughput data uploads to S3, but downstream access meant managing multiple data copies, manual downloads, and unstable FUSE mounts, adding cost and operational overhead. Bayer shares how adding S3 Files to their architecture eliminated these access workarounds by providing a simple, mountable file interface directly on their S3 data. Learn how their team reduced data duplication and gave researchers access to petabyte-scale genomics datasets without changing their existing tools or workflows.",
     "times": []
+  },
+  {
+    "id": "1780441473084001GD8s",
+    "code": "STG205",
+    "title": "Cost optimization techniques for Amazon EBS ",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Learn about the latest Amazon EBS capabilities and how they help you optimize your storage volumes. We cover new features, use cases, and guidance for getting started.",
+    "times": [
+      {
+        "id": "1790963624421001QH01",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441473149001GtIW",
+    "code": "STG206",
+    "title": "Design for resiliency in Amazon EBS ",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Disaster Response & Recovery",
+      "Innovation & Transformation",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Learn about new Amazon EBS capabilities and how they help you build resilient architectures. We cover new capabilities, relevant use cases, and guidance for getting started.",
+    "times": [
+      {
+        "id": "1790963624114001Q4DD",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
   },
   {
     "id": "1780441490286001Grtw",
@@ -67080,6 +68106,119 @@
     "times": []
   },
   {
+    "id": "1780441473214001GAn2",
+    "code": "STG368",
+    "title": "Deep dive into recent Amazon S3 launches",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Analytics",
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Innovation & Transformation",
+      "Open Data"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "IT Executive"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Join this session to learn about the latest storage and AI innovations from Amazon S3, why they matter, and how to get started.",
+    "times": [
+      {
+        "id": "1790963622593001QfVj",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Roman I",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1780442242545001cSLr",
+    "code": "STG369",
+    "title": "AWS Backup: Architecture deep dive",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Data Protection",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Administrator",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Dive into AWS Backup architecture with AWS experts, including how new capabilities fit into your design. We work through deployment strategies, backup storage options, restore scenarios, and security posture. Bring your questions, leave with a plan.",
+    "times": [
+      {
+        "id": "1790963623929001Qad4",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 417",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441473028001GFlX",
+    "code": "STG370",
+    "title": "What's new with AWS Backup",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Security & Identity",
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Data Protection",
+      "Disaster Response & Recovery",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Administrator",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Learn about the latest AWS Backup capabilities and how they can help you simplify and strengthen your data protection strategy. We cover new features, use cases, and guidance for getting started.",
+    "times": [
+      {
+        "id": "1790963624323001Qzf8",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 117",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441490572001GHYg",
     "code": "STG401",
     "title": "Building resilience against ransomware using AWS Backup  ",
@@ -67634,21 +68773,21 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Protecting a single workload is straightforward. But when every team owns their own accounts, organizations need a centralized approach to enforce consistent data protection across all of them. We'll dig into how to build backup architectures that scale across your entire AWS estate, covering Organizations backup policies to enforce protection standards across accounts, cross-account and cross-region copy strategies, and Backup Audit Manager for compliance monitoring and audit evidence. Whether you're onboarding new accounts or tightening controls on existing ones, we'll walk through patterns for centralized data protection you can prove.",
     "times": [
       {
         "id": "1790360374503001AzQE",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 9",
-        "venue": "Caesars Palace"
+        "room": "Wynn/Encore | Convention Promenade | La Tache 2",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -67887,6 +69026,43 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Room 353",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442242598001cOr5",
+    "code": "STG422",
+    "title": "Dive deep into resilience architectures for Amazon EBS",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Disaster Response & Recovery",
+      "Innovation & Transformation",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Learn about new Amazon EBS capabilities for resilient architectures and how they work. We cover how to plan your approach and optimize your block storage. Bring your questions.",
+    "times": [
+      {
+        "id": "1790963624737001Q2sl",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -68142,6 +69318,40 @@
         "endTime": "16:20",
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "04:20 PM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442261524001cGsq",
+    "code": "SVS209",
+    "title": "Everything your web app needs in one place",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Developer Tools",
+      "Serverless"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Your coding agent builds fast but builds across providers. The result: a multi-vendor stack you didn't design, limits you can't grow past, and costs you can't predict. In this lightning talk, see a live demo: one prompt to go from code to a full-stack web application, integrated and ready in seconds. One account, one bill, spending caps you set. Built on open source, runs on AWS. Easy to start, built to last.",
+    "times": [
+      {
+        "id": "1790963623118001QFnk",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:30",
+        "endTime": "12:50",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "12:50 PM",
         "duration": 20,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
         "venue": "Wynn/Encore"
@@ -70555,6 +71765,117 @@
     ]
   },
   {
+    "id": "1780442242486001cXqQ",
+    "code": "SVS349",
+    "title": "Managing Lambda Runtimes at Scale for Platform Teams",
+    "type": "Chalk talk",
+    "level": "",
+    "topics": [
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "DNU - Serverless",
+      "Lambda-Based Applications"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Lambda's managed runtimes work until your platform team needs a pinned language version, a pre-loaded monitoring agent, or an SDK that every function must use. Today that means managing custom layers, coordinating updates across teams, and hoping nobody is running a version you deprecated last quarter. In this chalk talk, we whiteboard strategies for taking control of your Lambda runtime layer. Bring your runtime requirements and the constraints you're working around today.",
+    "times": [
+      {
+        "id": "1790963622907001QNbp",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441472915001GpE6",
+    "code": "SVS350",
+    "title": "Building Interactive Web Applications on AWS Lambda",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "DNU - Serverless",
+      "Front-End Web & Mobile",
+      "Lambda-Based Applications"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "If you're running Express, Hono, or Fastify on traditional serverless compute today, you're wrapping your HTTP server in an event-handler adapter and working around single-concurrency execution. In this session, see how AWS Lambda is evolving to support web workloads natively. Come see what's next for web developers on serverless.",
+    "times": [
+      {
+        "id": "1790963623322001Q4Qz",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Roman I",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1780441472974001GsNm",
+    "code": "SVS351",
+    "title": "Lambda Managed Instances: EC2 Power with Serverless Simplicity",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Compute",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "DNU - Serverless",
+      "Lambda-Based Applications"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AWS Lambda Managed Instances enables you to run Lambda functions on your choice of EC2 compute. With Lambda Managed Instances, you can optimize the performance and cost efficiency of your functions by utilizing specialized EC2 instance types and EC2 pricing benefits, while maintaining the familiar Serverless programming model and benefits like automatic patching, scaling, and 200+ AWS services integration for event-driven workloads. This session will provide an in-depth overview of how to get started with Lambda Managed Instances, recent launches like 90-minute function timeout, enhanced observability, and a behind-the-scenes look at how Lambda manages and scales your instances to ensure a seamless serverless experience.",
+    "times": [
+      {
+        "id": "1790963622303001QowZ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442285083001c01f",
     "code": "SVS401-R",
     "title": "Orchestrating agentic applications with Lambda durable functions",
@@ -71294,7 +72615,7 @@
   {
     "id": "1784231862687001EPPA",
     "code": "TNC216",
-    "title": "Build an AI Travel Assistant with AgentCore Gateway",
+    "title": "Building an AI Travel Assistant with AgentCore Gateway",
     "type": "Lab",
     "level": "200 - Intermediate",
     "topics": [
@@ -71363,7 +72684,7 @@
   {
     "id": "1784231862929001E1QG",
     "code": "TNC219",
-    "title": "Organize Enterprise Knowledge and Secure Data with Amazon Quick",
+    "title": "Organizing Enterprise Knowledge and Securing Data with Amazon Quick",
     "type": "Lab",
     "level": "200 - Intermediate",
     "topics": [
@@ -71715,7 +73036,7 @@
   {
     "id": "1784231862448001Er4q",
     "code": "TNC317",
-    "title": "Context-Aware Agents with Amazon Bedrock AgentCore Memory ",
+    "title": "Building Context-Aware Agents with AgentCore Memory",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -71750,7 +73071,7 @@
   {
     "id": "1784231862506001E8PK",
     "code": "TNC318-R",
-    "title": "Orchestrate AI Agents with AgentCore Runtime",
+    "title": "Orchestrating AI Agents with AgentCore Runtime",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -71785,7 +73106,7 @@
   {
     "id": "1784231862813001EFnW",
     "code": "TNC322-R",
-    "title": "Build Wealth Advisor Agents with Full-Stack Agent Architecture",
+    "title": "Building Wealth Advisor Agents with Full Stack Architecture",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -71822,7 +73143,7 @@
   {
     "id": "1784231862873001EgaR",
     "code": "TNC323-R",
-    "title": "Spec-to-Agent Fitness App Deployment with Kiro and Bedrock AgentCore",
+    "title": "Deploying a Fitness App from Specs with Kiro and AgentCore",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -72145,7 +73466,7 @@
   {
     "id": "1784231862567001E4dY",
     "code": "TNC333-R",
-    "title": "Spec-to-App Development with Kiro",
+    "title": "Developing Apps from Specs with Kiro ",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -72180,7 +73501,7 @@
   {
     "id": "1784231862630001EwND",
     "code": "TNC334-R",
-    "title": "Streamline Claims Processing with Amazon Quick",
+    "title": "Streamlining Claims Processing with Amazon Quick",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -72216,7 +73537,7 @@
   {
     "id": "1784231862756001EVcY",
     "code": "TNC335-R",
-    "title": "Network Security for AI Agents on AgentCore",
+    "title": "Securing AI Agents on AgentCore",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
@@ -72393,7 +73714,7 @@
   {
     "id": "1784231863107001EDTW",
     "code": "TNC340-R",
-    "title": "Resolve and Prevent Production Incidents with AWS DevOps Agent",
+    "title": "Resolving and Preventing Production Incidents with AWS DevOps Agent",
     "type": "Lab",
     "level": "300 - Advanced",
     "topics": [
