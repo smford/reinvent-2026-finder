@@ -1469,7 +1469,7 @@
   {
     "id": "1780441464202001GhWU",
     "code": "AIM214",
-    "title": "The age of vertical models: training to deployment on SageMaker AI",
+    "title": "Maximizing GPU utilization for inference at scale on Amazon SageMaker HyperPod",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -1479,7 +1479,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Purpose-built domain models are delivering breakthrough results. Intercom's Fin AI agent resolves over 2 million customer issues per week, powered by vertical foundation models that achieve superior accuracy at a fraction of the cost and latency of general-purpose alternatives. Learn how Intercom's ML team trained, evaluated, and deployed domain-specific models on Amazon SageMaker HyperPod, and how vertical models are unlocking new levels of performance on real production workloads. Walk away with a blueprint for building and serving your own vertical FM at scale.",
+    "abstract": "In this session, infrastructure architects will learn how to build scalable systems with GPUs that maximize utilization and turn shared infrastructure into a profitable, multi-tenant service. Multiverse Computing will demonstrate how they scaled GPU utilization from 30% to over 80% across 1,000+ H200 and B300 GPUs on Amazon SageMaker HyperPod. We'll dive into the architecture decisions -  tenant isolation, fair-share scheduling with Kueue, GPU partitioning with MIG, per-customer quotas - and the operational patterns that make it possible to serve diverse customer workloads from a single cluster in a true SaaS model.",
     "times": [
       {
         "id": "1790025546675001CfvL",
@@ -58568,7 +58568,7 @@
   {
     "id": "1780442265869001crXW",
     "code": "SEC106-S",
-    "title": "Unit 42: Defending Against Real World Frontier AI Threats (sponsored by Palo Alto Networks)",
+    "title": "AI Under Fire: How to Stop AI-Powered Attacks and Secure AI Coding",
     "type": "Lightning talk",
     "level": "100 - Foundational",
     "topics": [
@@ -58585,7 +58585,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Frontier AI is transforming cyber threats, acting as a force multiplier across the kill chain. Adversaries leverage AI to scale social engineering, accelerate vulnerability discovery, and iterate malicious code. In this 20-minute lightning session, Unit 42 shares practical insights into the evolving AI threat landscape. We will highlight Palo Alto Networks’ approach to securing the frontier by combining AI-powered Next-Generation Firewalls (NGFW) to stop advanced attacks with identity-centric controls for prevention. Attendees will learn how threat intelligence and proactive defense work together to outpace machine scale adversaries. This presentation is brought to you by Palo Alto Networks, an AWS Partner.",
+    "abstract": "Frontier AI is transforming cyber threats, acting as a force multiplier across the kill chain. Adversaries leverage AI to scale social engineering, accelerate vulnerability discovery, and iterate malicious code. In this session, we highlight Palo Alto Networks’ approach to securing the frontier, by combining AI-powered Next-Generation Firewalls (NGFW) and Frontier Virtual Patching (FPV) to preemptively block zero days, alongside identity controls and Secure AI Coding to protect developer workflows. Attendees will learn how threat intelligence and proactive defense outpace machine scale adversaries.",
     "times": [
       {
         "id": "1790033121003001qR0Y",
