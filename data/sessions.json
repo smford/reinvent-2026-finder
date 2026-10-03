@@ -32880,7 +32880,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Leave with reusable patterns for governed, real-time agentic systems.",
+    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Build with tested patterns for governed, real-time agentic systems.",
     "times": [
       {
         "id": "1790025518005001CfNF",
@@ -32917,7 +32917,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Leave with reusable patterns for governed, real-time agentic systems.",
+    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Build with tested patterns for governed, real-time agentic systems.",
     "times": [
       {
         "id": "1790360389406001AwR6",
@@ -32954,7 +32954,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Leave with reusable patterns for governed, real-time agentic systems.",
+    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Build with tested patterns for governed, real-time agentic systems.",
     "times": [
       {
         "id": "1790360396604001Axqi",
@@ -33064,7 +33064,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Dedicated Exadata infrastructure inside AWS data centers gives Oracle workloads full feature compatibility alongside cloud native flexibility, but architecting for resiliency at scale demands deliberate design choices. In this session, explore architecture patterns for primary and disaster recovery deployments on Oracle Database@AWS, including strategies for multi-terabyte migration and managing petabyte-scale Oracle estates. Join a live whiteboarding discussion where AWS experts cover ODB@AWS deployment options, DR configurations, and operational design choices. Leave with actionable best practices drawn from real customer deployments at scale.",
+    "abstract": "Dedicated Exadata infrastructure inside AWS data centers gives Oracle workloads full feature compatibility alongside cloud native flexibility, but architecting for resiliency at scale demands deliberate design choices. In this session, explore architecture patterns for primary and disaster recovery deployments on Oracle Database@AWS, including strategies for multi-terabyte migration and managing petabyte-scale Oracle estates. Join a live whiteboarding discussion where AWS experts cover ODB@AWS deployment options, DR configurations, and operational design choices. Architect with validated best practices drawn from real customer deployments.",
     "times": [
       {
         "id": "1790025472246001C6gR",
@@ -33139,7 +33139,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Managing ride-hailing demand across 1,100+ cities and 8+ million daily transactions in real time requires scalable, resilient, sub-millisecond in-memory data operations. In this session, learn how inDrive evolved from a monolithic on-premises Redis OSS cluster to over 400 distributed Amazon ElastiCache clusters spanning 8 AWS Regions, executing 1.3 trillion operations daily. Discover how inDrive eliminated bottlenecks in single-CPU utilization, network saturation, and hotspot shards, and how a zero-downtime migration to the Valkey engine on ElastiCache improved performance and reduced costs. Attendees leave with a production-tested blueprint for scaling data-intensive systems across multiple AWS Regions.",
+    "abstract": "Managing ride-hailing demand across 1,100+ cities and 8+ million daily transactions in real time requires scalable, resilient, sub-millisecond in-memory data operations. In this session, learn how inDrive evolved from a monolithic on-premises Redis OSS cluster to over 400 distributed Amazon ElastiCache clusters spanning 8 AWS Regions, executing 1.3 trillion operations daily. Discover how inDrive eliminated bottlenecks in single-CPU utilization, network saturation, and hotspot shards, and how a zero-downtime migration to the Valkey engine on ElastiCache improved performance and reduced costs. Learn a production-tested blueprint for scaling data-intensive systems across multiple AWS Regions.",
     "times": [
       {
         "id": "1790033120114001qX46",
@@ -34199,7 +34199,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Production agentic AI applications demand strong governance, precise retrieval, and consistent policy enforcement across every agent interaction. In this session, explore a retail shopping scenario where a Strands SDK dispatcher routes shoppers to specialist agents. Aurora powers hybrid search with PostgreSQL full-text search, pgvector for semantic retrieval, and Cohere Rerank for relevance ranking, while managing inventory, orders, customer records, and a queryable JSONB audit ledger. Amazon Bedrock AgentCore Runtime, Memory, Gateway, and Policy orchestrate agents, preserve context, expose tools, and apply Cedar authorization to sensitive actions. Build your own governed agentic AI search application and leave with reusable patterns. Bring your laptop to participate.",
+    "abstract": "Production agentic AI applications demand strong governance, precise retrieval, and consistent policy enforcement across every agent interaction. In this session, explore a retail shopping scenario where a Strands SDK dispatcher routes shoppers to specialist agents. Aurora powers hybrid search with PostgreSQL full-text search, pgvector for semantic retrieval, and Cohere Rerank for relevance ranking, while managing inventory, orders, customer records, and a queryable JSONB audit ledger. Amazon Bedrock AgentCore Runtime, Memory, Gateway, and Policy orchestrate agents, preserve context, expose tools, and apply Cedar authorization to sensitive actions. Build your own governed agentic AI search application and get proven patterns for production deployment. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790025471109001CBNV",
@@ -34237,7 +34237,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Production agentic AI applications demand strong governance, precise retrieval, and consistent policy enforcement across every agent interaction. In this session, explore a retail shopping scenario where a Strands SDK dispatcher routes shoppers to specialist agents. Aurora powers hybrid search with PostgreSQL full-text search, pgvector for semantic retrieval, and Cohere Rerank for relevance ranking, while managing inventory, orders, customer records, and a queryable JSONB audit ledger. Amazon Bedrock AgentCore Runtime, Memory, Gateway, and Policy orchestrate agents, preserve context, expose tools, and apply Cedar authorization to sensitive actions. Build your own governed agentic AI search application and leave with reusable patterns. Bring your laptop to participate.",
+    "abstract": "Production agentic AI applications demand strong governance, precise retrieval, and consistent policy enforcement across every agent interaction. In this session, explore a retail shopping scenario where a Strands SDK dispatcher routes shoppers to specialist agents. Aurora powers hybrid search with PostgreSQL full-text search, pgvector for semantic retrieval, and Cohere Rerank for relevance ranking, while managing inventory, orders, customer records, and a queryable JSONB audit ledger. Amazon Bedrock AgentCore Runtime, Memory, Gateway, and Policy orchestrate agents, preserve context, expose tools, and apply Cedar authorization to sensitive actions. Build your own governed agentic AI search application and get proven patterns for production deployment. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790360381026001Afxl",
@@ -35138,7 +35138,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "In this session, learn patterns for executing fast, safe, cost-aware bulk operations in Amazon DynamoDB using AWS Glue, Spark SQL, and open source tooling that hides the complexity. Discover how to find, filter, diff, load, and update billions of items in parallel. Explore how lightweight AI can make bulk work more powerful and user-friendly. Attendees leave with reusable patterns, real-world workload insights, and tools that simplify DynamoDB bulk processing.",
+    "abstract": "In this session, learn patterns for executing fast, safe, cost-aware bulk operations in Amazon DynamoDB using AWS Glue, Spark SQL, and open source tooling that hides the complexity. Discover how to find, filter, diff, load, and update billions of items in parallel. Explore how lightweight AI can make bulk work more powerful and user-friendly. Learn proven patterns, real-world workload insights, and tools that simplify DynamoDB bulk processing.",
     "times": [
       {
         "id": "1790025521750001CHA9",
@@ -35174,7 +35174,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In this session, learn patterns for executing fast, safe, cost-aware bulk operations in Amazon DynamoDB using AWS Glue, Spark SQL, and open source tooling that hides the complexity. Discover how to find, filter, diff, load, and update billions of items in parallel. Explore how lightweight AI can make bulk work more powerful and user-friendly. Attendees leave with reusable patterns, real-world workload insights, and tools that simplify DynamoDB bulk processing.",
+    "abstract": "In this session, learn patterns for executing fast, safe, cost-aware bulk operations in Amazon DynamoDB using AWS Glue, Spark SQL, and open source tooling that hides the complexity. Discover how to find, filter, diff, load, and update billions of items in parallel. Explore how lightweight AI can make bulk work more powerful and user-friendly. Learn proven patterns, real-world workload insights, and tools that simplify DynamoDB bulk processing.",
     "times": [
       {
         "id": "1790360398302001AjBG",
@@ -35640,7 +35640,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "An agent's context window is a finite attention budget, and database-backed agents must keep that context current, selective, and traceable. In this session, architect solutions to trace a task as it builds context using  Amazon Aurora PostgreSQL, Amazon ElastiCache for Valkey, Amazon Neptune, and Amazon Bedrock AgentCore. Examine how agents cache hot state, retrieve operational rows, apply SQL filters, maintain vector and full-text indexes, refresh stale records, traverse knowledge-graph relationships, load skills, and discover MCP tools. Explore freshness policies, invalidation, provenance ledgers, access boundaries, and compaction patterns for production-grade agentic applications. Leave with practical patterns for production-grade agents.",
+    "abstract": "An agent's context window is a finite attention budget, and database-backed agents must keep that context current, selective, and traceable. In this session, architect solutions to trace a task as it builds context using  Amazon Aurora PostgreSQL, Amazon ElastiCache for Valkey, Amazon Neptune, and Amazon Bedrock AgentCore. Examine how agents cache hot state, retrieve operational rows, apply SQL filters, maintain vector and full-text indexes, refresh stale records, traverse knowledge-graph relationships, load skills, and discover MCP tools. Explore freshness policies, invalidation, provenance ledgers, access boundaries, and compaction patterns for production-grade agentic applications.",
     "times": [
       {
         "id": "1790025474346001Cs7a",
@@ -35676,7 +35676,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "An agent's context window is a finite attention budget, and database-backed agents must keep that context current, selective, and traceable. In this session, architect solutions to trace a task as it builds context using  Amazon Aurora PostgreSQL, Amazon ElastiCache for Valkey, Amazon Neptune, and Amazon Bedrock AgentCore. Examine how agents cache hot state, retrieve operational rows, apply SQL filters, maintain vector and full-text indexes, refresh stale records, traverse knowledge-graph relationships, load skills, and discover MCP tools. Explore freshness policies, invalidation, provenance ledgers, access boundaries, and compaction patterns for production-grade agentic applications. Leave with practical patterns for production-grade agents.",
+    "abstract": "An agent's context window is a finite attention budget, and database-backed agents must keep that context current, selective, and traceable. In this session, architect solutions to trace a task as it builds context using  Amazon Aurora PostgreSQL, Amazon ElastiCache for Valkey, Amazon Neptune, and Amazon Bedrock AgentCore. Examine how agents cache hot state, retrieve operational rows, apply SQL filters, maintain vector and full-text indexes, refresh stale records, traverse knowledge-graph relationships, load skills, and discover MCP tools. Explore freshness policies, invalidation, provenance ledgers, access boundaries, and compaction patterns for production-grade agentic applications.",
     "times": [
       {
         "id": "1790360365903001AqWa",
@@ -35712,7 +35712,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "An agent's context window is a finite attention budget, and database-backed agents must keep that context current, selective, and traceable. In this session, architect solutions to trace a task as it builds context using  Amazon Aurora PostgreSQL, Amazon ElastiCache for Valkey, Amazon Neptune, and Amazon Bedrock AgentCore. Examine how agents cache hot state, retrieve operational rows, apply SQL filters, maintain vector and full-text indexes, refresh stale records, traverse knowledge-graph relationships, load skills, and discover MCP tools. Explore freshness policies, invalidation, provenance ledgers, access boundaries, and compaction patterns for production-grade agentic applications. Leave with practical patterns for production-grade agents.",
+    "abstract": "An agent's context window is a finite attention budget, and database-backed agents must keep that context current, selective, and traceable. In this session, architect solutions to trace a task as it builds context using  Amazon Aurora PostgreSQL, Amazon ElastiCache for Valkey, Amazon Neptune, and Amazon Bedrock AgentCore. Examine how agents cache hot state, retrieve operational rows, apply SQL filters, maintain vector and full-text indexes, refresh stale records, traverse knowledge-graph relationships, load skills, and discover MCP tools. Explore freshness policies, invalidation, provenance ledgers, access boundaries, and compaction patterns for production-grade agentic applications.",
     "times": [
       {
         "id": "1790360370105001A6F2",
@@ -35747,7 +35747,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Running self-managed document databases at scale introduces significant operational burden, version lock-in, and rising infrastructure costs. Amazon DocumentDB (with MongoDB compatibility) addresses these challenges with a fully managed, highly available service. In this session, examine compatibility features that simplify migration from existing document database environments, and work through architecture decisions affecting performance, cost, and reliability. Discover how enhancements in version 8.0 deliver up to 5x compression and 7x query performance improvement. Discuss common migration blockers, schema transformation approaches, and newest compatibility additions that reduce friction during cutover. Leave with a framework for planning and executing document database migrations on AWS.",
+    "abstract": "Running self-managed document databases at scale introduces significant operational burden, version lock-in, and rising infrastructure costs. Amazon DocumentDB (with MongoDB compatibility) addresses these challenges with a fully managed, highly available service. In this session, examine compatibility features that simplify migration from existing document database environments, and work through architecture decisions affecting performance, cost, and reliability. Discover how enhancements in version 8.0 deliver up to 5x compression and 7x query performance improvement. Discuss common migration blockers, schema transformation approaches, and newest compatibility additions that reduce friction during cutover. Learn a framework for planning and executing document database migrations on AWS.",
     "times": [
       {
         "id": "1790025537134001C37b",
@@ -43772,7 +43772,7 @@
   {
     "id": "1780441477099001GHEi",
     "code": "IND3319",
-    "title": "Governed AI agents for regulated financial services at FINRA",
+    "title": "How FINRA Brings Governed Agentic AI to Its Member Firms on AWS",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -44646,7 +44646,7 @@
   {
     "id": "1780441473816001GBHJ",
     "code": "IND3346",
-    "title": "Data mesh to agentic AI: Building an AI-ready enterprise on AWS",
+    "title": "Data Mesh to Agentic AI: Building an AI-Ready Enterprise on AWS",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -44664,7 +44664,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "How do you make a trillion-dollar investment engine faster, smarter, and AI-ready without compromising governance? CPP Investments answered that question. Facing the reality that fragmented data was constraining investment decisions, their CTO led a deliberate shift: a governed, AI-ready enterprise data platform on AWS using data mesh, decentralized ownership, and low-code platform engineering to deliver scale with guardrails. The result? Trusted, near real-time data at the fingertips of every investment team, and a foundation accelerating Agentic AI and conversational data experiences at institutional scale. This is the playbook for turning data infrastructure into competitive advantage.",
+    "abstract": "How do you build an AI-ready data foundation in a global investment organization without compromising trust, governance, or speed? CPP Investments—manager of one of the world’s largest pension funds—is evolving from fragmented data toward a governed enterprise data platform on AWS, using data mesh principles, federated ownership, and platform engineering to scale with guardrails. Join their CTO for a look inside the architecture, operating model, and critical trade-offs shaping this evolution, and how it brings trusted data closer to investment decisions while laying the foundation for conversational data experiences and agentic AI.",
     "times": [
       {
         "id": "1790025474625001CbJ6",
@@ -45134,7 +45134,7 @@
   {
     "id": "1780442228613001cY2D",
     "code": "IND352-R",
-    "title": "Autonomous Swarms, Human Command: Building Trusted AI Teammates on AWS",
+    "title": "Gotta detect 'em all: finding rogue devices with Amazon Bedrock",
     "type": "Builders' session",
     "level": "300 - Advanced",
     "topics": [
@@ -45153,7 +45153,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Simulate commanding autonomous drone fleets for search-and-rescue using Amazon Bedrock Agents, IoT Greengrass, and SageMaker. We demo a Human-Machine Teaming architecture where AI operates autonomously within trust boundaries, escalating to humans via configurable confidence thresholds.",
+    "abstract": "Participants build and command autonomous drone fleets to identify rogue devices using Amazon Bedrock AgentCore, Amazon Bedrock Knowledge Bases, AWS IoT Greengrass, and Strands Agents. This gamified scenario showcases a Human-Machine Teaming architecture in which AI operates autonomously within defined trust boundaries, with human-in-the-loop escalation at configurable confidence thresholds.",
     "times": [
       {
         "id": "1790025481240001CKI2",
@@ -47902,7 +47902,7 @@
   {
     "id": "1780442245724001crrE",
     "code": "IND418-R",
-    "title": "Agentic AI for Mission Readiness: Accelerating Federal Operations",
+    "title": "From documents to decisions: Agentic AI for federal operations",
     "type": "Chalk talk",
     "level": "400 - Expert",
     "topics": [
@@ -47921,7 +47921,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "A federal agency achieved 3x faster document analysis using Agentic AI with autonomous reasoning. This chalk talk explores how AI agents orchestrate mission-critical tasks in high-side environments while meeting IL4/IL5 compliance and zero-trust requirements.",
+    "abstract": "Accelerate mission-critical federal operations with agentic AI—from public-information analysis to sensitive document workflows. This expert chalk talk explores patterns for document review, supply chain optimization and classified medical health records backed by real-world implementations. Whiteboard multi-agent orchestration with Amazon Bedrock, including least-privilege tool access, human approval, auditability, and failure recovery. Compare Amazon Bedrock AgentCore for eligible workloads such as regulatory review, grants, and benefits processing with FEDRAMP (Class C and D). Further explore container-based agent architectures for IL4/IL5 environments using authorized AWS services and models. ",
     "times": [
       {
         "id": "1790025511123001Cgcj",
@@ -59656,7 +59656,7 @@
   {
     "id": "1780442222761001cmMF",
     "code": "SEC204",
-    "title": "How to plan a post-quantum migration strategy",
+    "title": "Leading a post-quantum migration ahead of CNSA 2.0 deadlines",
     "type": "Breakout session",
     "level": "200 - Intermediate",
     "topics": [
@@ -59666,7 +59666,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Post-quantum migrations can succeed when both the technical and organizational paths are clear. This session delivers a governance-first framework for CISOs and senior technology leaders to drive an organization-wide post-quantum migration. You'll learn how to build executive alignment, establish migration governance, set priorities across business units, and create accountability structures that scale. Learn how AWS is deploying PQ algorithms across our services and how the shared responsibility model applies to this transition. Walk away with a leadership playbook to position your organization ahead of NIST and CNSA 2.0 regulatory timelines.",
+    "abstract": "Post-quantum migrations succeed when the technical path and the organizational path are both clear. This session gives CISOs and senior technology leaders a governance-first approach to running a post-quantum migration across the organization. You learn how to build executive alignment, set up migration governance, prioritize across business units, and assign accountability. We also cover how AWS is deploying post-quantum algorithms across its services and how the shared responsibility model applies, so you can map your plan to NIST and CNSA 2.0 timelines.",
     "times": [
       {
         "id": "1790025553205001CWdF",
@@ -60852,9 +60852,44 @@
     ]
   },
   {
+    "id": "1790875374536001azPY",
+    "code": "SEC301-R1",
+    "title": "AWS detection and response innovations: security at machine speed",
+    "type": "Chalk talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "Automation",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Discover how the latest AWS detection and response capabilities can help secure your environment more effectively - and faster than ever. We'll cover enhanced threat detection, automated vulnerability management, and how AI-powered security operations can close the gap between finding a risk and resolving it. Walk away with actionable insights for integrating AWS security services to strengthen and simplify security across your multicloud environment.",
+    "times": [
+      {
+        "id": "1790875594219001X453",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 11",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442222121001c2uu",
     "code": "SEC302",
-    "title": "AI governance: from foundations to agentic speed ",
+    "title": "AI governance for autonomous agents with AWS Control Tower and ISO 42001",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -60864,7 +60899,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "As organizations move from experimental AI to production agentic workloads, governance has to keep up without slowing teams down. In this session, learn how to build a governance foundation for AI using AWS Control Tower, AWS Config, AWS Organizations, and automatic evidence collection, then extend it to govern autonomous agents operating at machine speed. See how to implement preventive and detective controls for Amazon Bedrock and Amazon SageMaker, automate compliance evidence collection, and map controls to frameworks like ISO 42001. Leave with a practical approach to govern AI workloads from first model invocation to fully autonomous agents.",
+    "abstract": "Agentic workloads are reaching production, and governance has to keep up without slowing teams down. This session shows how to build a governance foundation for AI with AWS Control Tower, AWS Config, AWS Organizations, and automatic evidence collection, then extend it to autonomous agents. You apply preventive and detective controls to Amazon Bedrock and Amazon SageMaker, automate compliance evidence, and map controls to frameworks such as ISO 42001. The same controls hold whether the workload is a single model call or a fleet of agents acting on their own.",
     "times": [
       {
         "id": "1790025477809001Cayu",
@@ -61404,6 +61439,35 @@
     ]
   },
   {
+    "id": "1790876688758001g8VH",
+    "code": "SEC318-R1",
+    "title": "Cryptographic computing on AWS: homomorphic encryption in practice",
+    "type": "Workshop",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "What if your customers' data needs to stay invisible even to you? Cryptographic computing makes computation on encrypted data without decrypting it possible. Fully homomorphic encryption (FHE) has become practical for ML inference. In this session, learn what FHE is, why it now works at scale on AWS, and how to get started. We will walk through two examples: encrypted ML inference on medical images and financial transactions, and encrypted ETL that aggregates records without exposing individual values. Leave with a deployment blueprint built for regulated industries.",
+    "times": [
+      {
+        "id": "1790876833698001wQlB",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442230935001c3x9",
     "code": "SEC319-R",
     "title": "Preventing unintended access: a practical guide to data perimeter controls",
@@ -61605,6 +61669,42 @@
         "endTimeFormatted": "05:30 PM",
         "duration": 120,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 3",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1790877000123001NOUA",
+    "code": "SEC323-R1",
+    "title": "Assume Breach, Prove Recovery: A ransomware resilience workshop",
+    "type": "Workshop",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management",
+      "Resilience",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Most organizations have backups. Few can prove clean recovery after ransomware, and regulators now demand exactly that proof. In this hands-on workshop, you configure a resilient backup architecture on AWS using vaults and immutable storage. You then experience a simulated ransomware event, validate that your recovery infrastructure held, restore to an isolated clean room environment, and scan recovered resources for attacker persistence using GuardDuty Malware Protection. You leave with a recovery validation approach and an understanding of why least privilege, vault lock, and validation are non-negotiable.",
+    "times": [
+      {
+        "id": "1790877173729001dFsm",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -62189,6 +62289,42 @@
     ]
   },
   {
+    "id": "1790876026219001ItGq",
+    "code": "SEC338-R1",
+    "title": "Automated memory forensics at scale with generative AI",
+    "type": "Code talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Kubernetes",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Data Engineer"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.",
+    "times": [
+      {
+        "id": "1790876225375001dvAd",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Convention Promenade | Margaux 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442265628001cVxN",
     "code": "SEC340",
     "title": "Good Fences Make Good Neighbours: A Network perimeter approach to data perimeters",
@@ -62528,6 +62664,41 @@
     ]
   },
   {
+    "id": "1790875693688001I7vi",
+    "code": "SEC350-R1",
+    "title": "Shared Judgment: Security Culture for the Agentic Era",
+    "type": "Chalk talk",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "DevSecOps"
+    ],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Your agents are reviewing PRs, shipping code, and answering messages. They communicate on your behalf, surfacing every weak relationship in your org. Soft skills have never mattered more. Shift Left and Shift Down brought security in as automation to build trust in systems. Agents have moved the question to trust between humans. Security teams have historically operated at a remove: by org chart, tooling, and reputation. That distance becomes a liability when agents reduce the time between decision and consequence. This session is about building a security function whose core output is shared judgment with the engineers it serves.",
+    "times": [
+      {
+        "id": "1790875909409001w2B3",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Chopin 2",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442222288001c9x3",
     "code": "SEC351",
     "title": "Centralized governance for multicloud environments ",
@@ -62582,6 +62753,35 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Builders' Session 1",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1790871965922001gRAH",
+    "code": "SEC352-R1",
+    "title": "Build a security boundary for AI agents with WAF and Network Firewall",
+    "type": "Builders' session",
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI agents built on Amazon Bedrock AgentCore accept untrusted input and make outbound API calls, creating both ingress and egress attack surfaces. In this session, learn how to defend both paths using AWS WAF and AWS Network Firewall. See how WAF authenticates callers, enforces rate limits, and blocks prompt-injection payloads before they reach your agent, while Network Firewall applies managed threat-intelligence categories to drop egress traffic to malicious destinations without maintaining custom deny lists. Walk away with a deployable defense-in-depth boundary pattern for your agentic AI workloads.",
+    "times": [
+      {
+        "id": "1790872433780001dAst",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Room 104",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -62917,7 +63117,7 @@
   {
     "id": "1780442222364001cL5a",
     "code": "SEC364",
-    "title": "Securing Software & AI Supply Chains with Network Firewall at Coupang",
+    "title": "Securing software and AI supply chains with Network Firewall at Coupang",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -62927,7 +63127,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Coupang, South Korea's largest e-commerce platform, runs millions of daily transactions on AWS. At that scale, every open-source library, container base image, and AI model weight pulled from the internet is a supply chain risk. Dive deep into AWS Network Firewall's architecture and latest capabilities, including centralized management and container-aware egress inspection. See how Coupang built cloud-native egress control that scales automatically across a container-first fleet, automates allowlist management, and mitigates rogue AI dependencies and dynamic payloads. Walk away with battle-tested patterns to lock down your software and AI supply chains without sacrificing developer velocity.",
+    "abstract": "Coupang, South Korea's largest e-commerce platform, runs millions of daily transactions on AWS. At that volume, each open source library, container base image, and AI model weight pulled from the internet is a supply chain risk. This session goes deep on the AWS Network Firewall architecture and its newer capabilities, including centralized management and container-aware egress inspection. Coupang shows how it built egress control that scales automatically across a container-first fleet, automates allowlist management, and limits exposure to rogue AI dependencies and dynamic payloads without slowing developers down.",
     "times": [
       {
         "id": "1790025504053001C6Bm",
@@ -62946,7 +63146,7 @@
   {
     "id": "1780442222420001coic",
     "code": "SEC365",
-    "title": "Control What Goes Out: Egress Security for AI Workloads",
+    "title": "Control what goes out: egress security for AI workloads",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -62956,7 +63156,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Most AWS workloads rely on two fundamental outbound mechanisms—DNS queries and network connections—both of which can be abused for data exfiltration. Learn how to lock down both. We'll cover DNS Firewall enhancements to secure the DNS path, Network Firewall improvements for outbound connection control, and how integrating DNSFW with NFW delivers advanced, unified DNS security. We'll also explore URL and domain categories, managed threat intelligence, and extending egress protections to containerized and AI workloads—helping you achieve compliance and simplified operations at scale.",
+    "abstract": "Most AWS workloads send traffic out in two ways, DNS queries and network connections, and attackers can abuse both to exfiltrate data. This session shows how to lock down both paths. We cover DNS Firewall enhancements for the DNS path, Network Firewall improvements for outbound connection control, and how running DNS Firewall and Network Firewall together gives you one view of DNS security. We also cover URL and domain categories, managed threat intelligence, and extending egress protection to containerized and AI workloads.",
     "times": [
       {
         "id": "1790025516434001C4yw",
@@ -63062,7 +63262,7 @@
   {
     "id": "1780442249891001cYp6",
     "code": "SEC369",
-    "title": "Turning migration security from afterthought into advantage",
+    "title": "Land migrated workloads with controls already in place",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
@@ -63072,7 +63272,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "You migrate workloads to AWS but governance controls typically follow after landing, creating rework. This chalk talk explores how to embed guardrails directly into your AWS Transform migration workflow using AWS Organizations, IAM Identity Center, AWS Config, and AWS Security Hub so workloads arrive with controls already in place. Bring your migration challenges and leave with a practical design for secure-by-default landing that integrates governance into agentic AI-driven migration from discovery through execution.",
+    "abstract": "Most migrations add governance controls after workloads land on AWS, and that creates rework. This chalk talk shows how to build guardrails into your AWS Transform migration workflow with AWS Organizations, IAM Identity Center, AWS Config, and AWS Security Hub so workloads arrive with controls in place. Bring your migration challenges, and we design a secure-by-default landing together that carries governance through each phase of the migration.",
     "times": [
       {
         "id": "1790025500921001CUm7",
@@ -63476,7 +63676,7 @@
   {
     "id": "1780442222532001cvRt",
     "code": "SEC383",
-    "title": "Network policy at scale: orchestrate security across organization",
+    "title": "Network policy across hundreds of accounts with AWS Network Security Manager",
     "type": "Breakout session",
     "level": "300 - Advanced",
     "topics": [
@@ -63486,7 +63686,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "As AI workloads multiply and organizations scale to hundreds of accounts, managing network security policies manually becomes a liability. AWS Firewall Manager deploys WAF, Shield, and Network Firewall across your entire multi-account environment from a single policy definition. This session covers best practices for defense-in-depth using Firewall Manager, whether you are rolling out AWS WAF, Route 53 Resolver DNS Firewall, or AWS Network Firewall at scale. Leave with an actionable deployment blueprint for centralized network security orchestration.",
+    "abstract": "Once an organization grows to hundreds of accounts, managing network security policies by hand becomes a liability. AWS Network Security Manager deploys AWS WAF, AWS Shield, and soon to come AWS Network Firewall across a multi-account environment from a single policy definition. This session covers how to build defense in depth with Network Security Manager, and how to keep centralized network security manageable as you add accounts.",
     "times": [
       {
         "id": "1790025552598001C6ZC",
@@ -63963,6 +64163,39 @@
     ]
   },
   {
+    "id": "1790877263309001T2f1",
+    "code": "SEC407-R1",
+    "title": "Implement governance guardrails for autonomous AI agents at scale",
+    "type": "Workshop",
+    "level": "400 - Expert",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Identity & Access Management"
+    ],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Your AI agents need permissions to be useful, but unconstrained permissions can lead to unintended consequences. In this workshop, you will build a defense-in-depth governance framework for agentic workloads. You will create scoped IAM execution roles with permissions boundaries, enforce mandatory Bedrock Guardrails via IAM policy-based enforcement, validate agent policies with IAM Access Analyzer, and implement Cedar-based deterministic enforcement in AgentCore. You will leave with a deployable pattern that constrains agent behavior without blocking legitimate actions.",
+    "times": [
+      {
+        "id": "1790877410150001XlHJ",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Caesars Forum | Level 1 | Alliance 307",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442231149001cSe5",
     "code": "SEC408-R",
     "title": "Build a container pipeline that blocks tampered images at the gate",
@@ -63994,6 +64227,41 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Builders' Session 1",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1790873637672001JSD3",
+    "code": "SEC408-R1",
+    "title": "Build a container pipeline that blocks tampered images at the gate",
+    "type": "Builders' session",
+    "level": "400 - Expert",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "DevSecOps"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "What if you want to prove cryptographically that every container in your environment is untampered and fully inventoried? In this builders' session, you build exactly that. Dive deep into the AWS Signer cryptographic model: KMS-backed keys, ECDSA P-256, COSE_Sign1 envelopes, and notation trust policies. Implement ECR managed signing, generate SBOMs with Amazon Inspector, slim images to reduce attack surface, and enforce admission on EKS with Kyverno. Then stress test it with attack simulations against the pipeline you just built.",
+    "times": [
+      {
+        "id": "1790873920285001aLbP",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
+        "venue": "MGM Grand"
       }
     ]
   },
