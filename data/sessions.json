@@ -59778,8 +59778,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "IT Administrator",
+      "IT Executive"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "With so many security best practices available, knowing what to do first is a challenge. In this session, you learn how to use the AWS Security Maturity Model to systematically identify and prioritize security improvements for your AWS workloads through a phased approach. You discover how to extend your governance capabilities to manage security consistently across multi-cloud environments. Finally, you see how automatic evidence collection helps you continuously demonstrate compliance to auditors, turning security posture into provable assurance.",
@@ -60809,8 +60816,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Data Protection",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
     "venue": "TBD",
     "campus": "Other / Virtual",
     "abstract": "As organizations deploy AI and agents in production, leaders need confidence that their cloud provider is secure by design. This session explores why AWS is designed to be the most secure foundation for AI. We detail how AWS foundational security extends into AI services, examine the AI security differentiators that build on this foundation, and walk through the security capabilities customers can use to protect their most critical AI workloads. You will leave with a clear picture of why organizations trust AWS for AI.",
@@ -60895,8 +60909,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Agentic workloads are reaching production, and governance has to keep up without slowing teams down. This session shows how to build a governance foundation for AI with AWS Control Tower, AWS Config, AWS Organizations, and automatic evidence collection, then extend it to autonomous agents. You apply preventive and detective controls to Amazon Bedrock and Amazon SageMaker, automate compliance evidence, and map controls to frameworks such as ISO 42001. The same controls hold whether the workload is a single model call or a fleet of agents acting on their own.",
@@ -61025,8 +61046,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Governance, Risk & Compliance",
+      "Identity & Access Management",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "AWS Organizations policies drive governance through native service integrations. In this session, explore service control policies and resource control policies for data perimeters. Use declarative policies to enforce resource configurations, such as Amazon S3 public access restrictions, and centralize AWS Security Hub settings org-wide. Deploy AWS Config organizational rules and conformance packs for continuous compliance, leverage multi-party approval, enforce best practices via the AWS Control Tower controls catalog, and explore automated compliance assessments. Leave with a governance architecture driven by policy integrations.",
@@ -61054,8 +61082,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Governance, Risk & Compliance",
+      "Identity & Access Management",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "AWS Organizations policies drive governance through native service integrations. In this session, explore service control policies and resource control policies for data perimeters. Use declarative policies to enforce resource configurations, such as Amazon S3 public access restrictions, and centralize AWS Security Hub settings org-wide. Deploy AWS Config organizational rules and conformance packs for continuous compliance, leverage multi-party approval, enforce best practices via the AWS Control Tower controls catalog, and explore automated compliance assessments. Leave with a governance architecture driven by policy integrations.",
@@ -61791,8 +61826,14 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Multi-agent systems create  a larger attack surface than single-agent deployments: prompt injections that propagate across agent boundaries, identity spoofing, tool-chain escalation, and data exfiltration through natural-language covert channels. In this chalk talk, we threat-model this risk using the OWASP Agentic AI Top 10, then whiteboard defense-in-depth patterns for validating inter-agent messages, enforcing least-privilege orchestration, and detecting anomalous behavior before it cascades. Leave with a set of recommendations and architectures that demonstrate how to layer security controls in a multi-agent system.",
@@ -61820,8 +61861,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Generative AI",
+      "Governance, Risk & Compliance",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "When a cloud-native energy company needed to build security operations from scratch, they faced a choice: hire a SOC team or find a smarter way to triage threats. In this talk, the AWS Customer Incident Response Team walks through how customers go from manual CloudTrail analysis to AI-assisted triage, and why that matters now that adversaries are using AI to accelerate their own attacks.",
@@ -61849,8 +61897,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Generative AI",
+      "Governance, Risk & Compliance",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
     "abstract": "When a cloud-native energy company needed to build security operations from scratch, they faced a choice: hire a SOC team or find a smarter way to triage threats. In this talk, the AWS Customer Incident Response Team walks through how customers go from manual CloudTrail analysis to AI-assisted triage, and why that matters now that adversaries are using AI to accelerate their own attacks.",
@@ -61878,8 +61933,14 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Culture of Security",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "AI investment is no longer just an engineering decision. It's a security decision. AI velocity and security velocity compound together to produce enterprise value. The same velocity AI gives your developers is now available to your adversaries. The asymmetry that protected enterprises for decades is shifting. This session covers the operating model shift that compounds enterprise value rather than erodes it. We show how engineers paired with frontier agents, carrying application context across design, code, and pen testing, produce security leverage for your organization.",
@@ -62162,8 +62223,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "\"Living off the land\" (LOTL) attacks use native OS tools to evade detection. In 2026, techniques evolved to \"Living off the Agent\" (LOTA), compromising enterprise AI agents through subtle prompt injections to exfiltrate data, escalate privileges, and move laterally. Red team studies identified vulnerabilities in production AI agents with distinct LOTA patterns. This chalk talk explores the LOTA taxonomy, detection strategies, and architectural containment patterns. Bring your architecture diagrams, and we'll whiteboard defenses together.",
@@ -62365,8 +62433,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Attendees build a defense-in-depth security architecture for an AI agent. You start with a pre-deployed Amazon Bedrock AgentCore Gateway with Lambda tools, then run adversarial test scenarios to observe how gateway and tools respond without controls. You layer defenses from Bedrock Guardrails for prompt-attack detection, through AgentCore Policy Engine with Cedar policies-based tool authorization, including Dogwood temporal policies, and finally native rate limits paired with CloudWatch anomaly detection. By progressing through each scenario again, you verify how each protection aligns with a layered security pattern you can apply to your agentic workload.",
@@ -62430,8 +62505,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "MCP is becoming the standard for connecting AI agents to tools, but MCP servers are packages that present supply chain risk. In this builders session, you will observe a live MCP tool poisoning attack, then build three defense layers hands-on: gateway validation with Amazon Bedrock AgentCore Policy to restrict tool actions, a pre-deployment integrity scanner that detects silent tool definition changes, and runtime monitoring that flags anomalous tool behavior. Leave with a working understanding of how MCP supply chain attacks work and how to defend against them.",
@@ -62548,10 +62630,16 @@
     "type": "Lightning talk",
     "level": "300 - Advanced",
     "topics": [
-      "Industry Solutions"
+      "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "When a security event hits a customer account, every minute counts. Learn how AWS CIRT built an agentic AI system using Amazon Kiro that performs investigation workflows autonomously: ingesting case data, baselining environments, analyzing indicators, and producing triage assessments. We cover architecture decisions for AI agents with live AWS API access, evaluation frameworks measuring accuracy against expert answer keys, and guardrails keeping humans in the loop. Leave with patterns for applying agentic AI to operational workflows where accuracy is non-negotiable.",
@@ -62579,8 +62667,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "DevSecOps",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "When agents and automated pipelines deploy at machine speed, manual sign-off can't keep up, so the proof has to be built into the pipeline itself. Developers want to ship fast, governance teams want controls enforced, and compliance teams want evidence. In this builder session, you'll build a CI/CD pipeline that satisfies all three: cfn-guard validation against policy rules, CloudFormation deployment, Config evaluation after deployment, and a compliance report generated as a pipeline artifact. The full policy-to-proof loop in one pipeline. You leave with a working pipeline where every deployment validates governance rules and produces audit evidence on its own.",
@@ -62608,8 +62703,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Your teams are building more agents at a scale that can't be governed manually, and this creates not just a visibility problem but an operational and security risk. In this workshop, you build a layered controls stack for an agent fleet: enforce content and business-logic boundaries with Amazon Bedrock Guardrails, apply an evaluator pattern for policy validation, and track compliance posture with AWS Config conformance packs. You wire these into an operating model that approves the routine automatically and routes only the ambiguous to a human. You leave with a clear framework and hands-on practices to deploy more agents, confidently, than your team could review individually.",
@@ -62707,8 +62809,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Culture of Security",
+      "Governance, Risk & Compliance",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Cloud Security Specialist"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "When AI agents and automated pipelines ship changes across AWS, Azure, and other providers in minutes, governance that runs on separate toolchains can't keep pace. You end up with disparate security findings along with mis-aligned operational metrics, and a team that spends its time reconciling dashboards instead of actually reducing risk. In this session, see how to collapse multicloud governance into a single operating model across AWS and Azure, leveraging Amazon CloudWatch unified telemetry for centralized observability and AWS Security Hub for aggregated findings into a single surface.You'll walk through a deployable architecture that gives one analyst a unified view across clouds, so your governance moves at the same speed your engineering teams already do. ",
@@ -63032,8 +63141,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "AI agents and automated pipelines now change your infrastructure faster than any review can keep up, and not every change comes through CloudFormation. In this workshop, you'll close the compliance loop end to end: author a CloudFormation Hook that enforces encryption and tagging before deployment, then extend the same logic into an AWS Config custom rule with CloudFormation Guard so out-of-band changes get caught continuously. You'll build auto-remediation with SSM Automation, package it into a Conformance Pack for org-wide reach, and use Resource Timeline to trace drift. You leave able to keep compliance closed however fast change arrives.",
@@ -63181,8 +63297,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Culture of Security",
+      "Governance, Risk & Compliance",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "AWS gives you flexibility to design your multi-account environment, but customer needs guidance choosing the right security services to deploy, where, and how to validate the deployment against AWS best practices. This session shows how the AWS Security Reference Architecture provides a prescriptive security blueprint you layer on top of your account governance foundation. Using whiteboarding, you cover OU design, service prioritization, centralized vs. distributed placement, design considerations, validation with SRA Verify, and deployment acceleration. You leave with a tailored governance model ready for implementation.",
@@ -63210,8 +63333,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "Data Protection",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Cloud Security Specialist"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Regulatory frameworks like SOC 2, ISO 27001, PCI DSS, and the EU AI Act each demand separate assessments, yet a significant portion of their requirements overlap. You spend time collecting duplicate evidence for controls you already have. This chalk talk introduces the control inheritance approach and shows how a single AWS Config rule or organizational policy can satisfy requirements across multiple frameworks. You walk through real examples of framework overlap, automation patterns that eliminate duplicate evidence collection, and a governance approach you can implement immediately.",
@@ -63268,8 +63398,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Most migrations add governance controls after workloads land on AWS, and that creates rework. This chalk talk shows how to build guardrails into your AWS Transform migration workflow with AWS Organizations, IAM Identity Center, AWS Config, and AWS Security Hub so workloads arrive with controls in place. Bring your migration challenges, and we design a secure-by-default landing together that carries governance through each phase of the migration.",
@@ -63297,8 +63434,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Enterprises go through mergers, face divestitures, and inherit multiple AWS Organizations, each with its own structure and identity provider. Consolidating or separating these environments is complex. This interactive session covers patterns for merging AWS organizations, managing multiple organizations in parallel, and splitting organizations cleanly. You dive into the identity challenge of migrating between Microsoft Entra ID, Google, and Okta when each entity brings its own IdP to AWS. You leave with practical patterns and lessons learned engagements with customers like you.",
@@ -63384,8 +63528,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "When you manage hundreds of AWS accounts, governance can fall behind. Drift accumulates, controls take days to propagate, and problems go undetected until something breaks. We demonstrate Landing Zone Accelerator 2.0 with built-in AI that lets operators use natural language to apply organizational changes in minutes, if not seconds. We deploy org-wide security controls, provision accounts, and enforce encryption through a Bedrock-powered interface supporting CloudFormation and Terraform. An AI agent generates each change plan, and before anything is applied, an org-wide preview catches conflicts and policy violations. Issues are surfaced up front instead of discovered after a break. Attendees learn how we built LZA 2.0 with Kiro spec-driven development and Rust, and how to design pre-deployment previews that keep multi-account operations safe.",
@@ -63446,8 +63597,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "DevSecOps",
+      "Generative AI",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Business Executive",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Organizations struggle to translate compliance requirements like GDPR or NIS2 into enforceable controls without manual policy authoring. This session features Moeve and their Governance Control AI Assistant powered by Amazon Bedrock. You see how engineers ask natural language questions and the system translates intent into SCPs, hooks, and AWS Config rules assigned at OU and account scope, validated through CI/CD and GitOps. You leave with architecture patterns, production lessons, and a practical model for AI-assisted governance at scale. ",
@@ -63475,8 +63633,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "Generative AI",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Auditors want evidence, not promises. Learn how to always keep your AWS environment audit-ready; continuously producing the proof auditors need, without manual intervention. Across services such as AWS Config, AWS CloudTrail, AWS Security Hub and more, we walk through an architecture that automatically collects evidence, maps it to your control frameworks, checks whether the collected evidence meets control requirements, identifies gaps and delivers prescriptive remediation guidance on how to close. We close by exploring how AI is reshaping continuous compliance and audit readiness.",
@@ -63624,8 +63789,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Your compliance team spends weeks collecting evidence manually before every audit. Automated evidence collection eliminates that burden from day one. In this builders' session, you'll learn how to leverage AWS GRC services, including AWS Config, AWS Organizations, AWS CloudTrail, and Control Catalog, to configure automated evidence collection, map controls to your target framework, use the AI compliance agent to validate both technical controls and procedural policies, and build continuous drift detection that alerts you before your next audit finds the gap.",
@@ -63653,8 +63825,14 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Prompt injection works because LLM outputs are unconstrained. Structured outputs in Amazon Bedrock compiles a JSON Schema into a grammar and enforces it during decoding so every token the model emits is a valid position in the schema. In this code talk, we live-code defense schemas for sentiment analysis, intent classification, and SQL validation, then attack them with real injection payloads. We cover provider differences between Claude and open-weight models, strict tool use for agentic workflows, and how to combine grammar enforcement with input validation for defense in depth.",
@@ -63777,8 +63955,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Administrator"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Your AI agents pass the demo but struggle in production because of limited accountability and controls. In this chalk talk, we will whiteboard a governance framework that closes the loop. You get governed agent accounts with AWS Control Tower, hard API boundaries with AWS Organizations policies, and runtime tool-access controls and behavior scoring in Amazon Bedrock AgentCore. AWS Config detects drift from policy and triggers automated rollback. You leave with a repeatable, observe-score-remediate pattern for keeping AI agents operating within your policies.\"",
@@ -63806,8 +63991,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "IT Administrator",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "You maintain internal security policies but turning them into implemented, risk-prioritized controls could be manual and slow. This lightning talk demonstrates how to use Kiro to develop and deploy controls at scale across three layers. Preventive controls that block non-compliant actions, detective controls that identify violations and trigger remediation, and proactive controls that validate configurations before deployment. You leave with a practical approach to using AI to accelerate the entire control lifecycle from policy to enforcement.",
@@ -64434,8 +64626,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevSecOps",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "IT Administrator",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "AWS Config rules detect missing tags, but what about resources where the correct tag value isn't obvious? In this builder session, you'll create an AI agent using AgentCore that goes beyond detection to intelligent remediation. Your agent analyzes resource context, account ownership, VPC placement, creator identity, naming patterns to infer correct tag values, and handles ambiguous cases by requesting human input. Start where Config rules end: not just \"is it tagged?\" but \"what should the tag be?\"",
@@ -64807,8 +65006,15 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "DevSecOps",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "You remediate a finding today and detect the same class of finding next week. This chalk talk explains how to break that cycle. You take a real AWS Security Hub finding category and explore all four control layers. An SCP that prevents the misconfiguration, a Guard rule that catches it before deployment, an AWS Config rule that detects existing violations, and AI-generated auto-remediation that corrects drift. You leave with a repeatable framework that turns every remediation into permanent prevention at scale",
