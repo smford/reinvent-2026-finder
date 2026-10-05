@@ -49515,7 +49515,8 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Cryptography and Post-Quantum"
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
     ],
     "roles": [
       "Academic / Researcher"
@@ -60945,7 +60946,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -60981,7 +60985,7 @@
     ],
     "roles": [
       "Cloud Security Specialist",
-      "DevOps Engineer"
+      "Developer / Engineer"
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61012,7 +61016,7 @@
     ],
     "areasOfInterest": [
       "Automation",
-      "DevOps",
+      "DevSecOps",
       "Threat Detection & Incident Response"
     ],
     "roles": [
@@ -61181,7 +61185,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61206,9 +61213,14 @@
     "code": "SEC309-R1",
     "title": "Network firewall deployment without the guesswork: codify, deploy, done",
     "type": "Builders' session",
-    "level": "",
-    "topics": [],
-    "areasOfInterest": [],
+    "level": "300 - Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61337,7 +61349,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Automation",
+      "Culture of Security",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61366,7 +61382,9 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Threat Detection & Incident Response"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61395,7 +61413,9 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Threat Detection & Incident Response"
+    ],
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
@@ -61751,19 +61771,14 @@
     "type": "Workshop",
     "level": "300 - Advanced",
     "topics": [
-      "Architecture",
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Customer Enablement",
-      "Edge Computing",
-      "Generative AI"
+      "Agentic AI",
+      "Application Security",
+      "Edge Computing"
     ],
-    "roles": [
-      "Cloud Security Specialist",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
+    "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Today's edge traffic is a mix of customers, AI agents, scrapers, and bad actors — and treating them all the same costs you either security or revenue. This session shows how to turn AWS WAF into a decision layer that classifies traffic in real time and routes it intelligently: legitimate users get a fast lane, suspicious traffic gets diverted into deception environments that waste attackers' time and reveal their intent, and AI agents get differentiated treatment that opens the door to new monetization models — all without touching your origin logic. You'll leave with a practical blueprint for classification-driven traffic control, deception-based threat response, and monitoring patterns you can put into production right away.",
@@ -62060,6 +62075,7 @@
       "Cryptography and Post-Quantum"
     ],
     "roles": [
+      "Cloud Security Specialist",
       "Solution / Systems Architect"
     ],
     "venue": "Wynn/Encore",
@@ -62336,7 +62352,7 @@
     ],
     "roles": [
       "Cloud Security Specialist",
-      "Data Engineer"
+      "Developer / Engineer"
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -62372,7 +62388,7 @@
     ],
     "roles": [
       "Cloud Security Specialist",
-      "Data Engineer"
+      "Developer / Engineer"
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -62471,8 +62487,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Application Security",
-      "Culture of Security"
+      "Application Security"
     ],
     "roles": [
       "Cloud Security Specialist",
@@ -62845,7 +62860,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Edge Computing"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -62874,7 +62892,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Edge Computing"
+    ],
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
@@ -63148,7 +63169,7 @@
     ],
     "roles": [
       "Cloud Security Specialist",
-      "Developer / Engineer"
+      "DevOps Engineer"
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63210,7 +63231,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Application Security",
+      "Edge Computing"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63239,8 +63263,14 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Automation",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Coupang, South Korea's largest e-commerce platform, runs millions of daily transactions on AWS. At that volume, each open source library, container base image, and AI model weight pulled from the internet is a supply chain risk. This session goes deep on the AWS Network Firewall architecture and its newer capabilities, including centralized management and container-aware egress inspection. Coupang shows how it built egress control that scales automatically across a container-first fleet, automates allowlist management, and limits exposure to rogue AI dependencies and dynamic payloads without slowing developers down.",
@@ -63268,7 +63298,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Innovation & Transformation",
+      "Kubernetes"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63369,7 +63402,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Well-Architected Framework"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63669,7 +63706,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Data Protection",
+      "Governance, Risk & Compliance",
+      "Threat Detection & Incident Response"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63860,7 +63901,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance",
+      "Management & Governance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -64164,7 +64209,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Edge Computing",
+      "Resilience",
+      "Threat Detection & Incident Response"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -64565,10 +64614,12 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
+      "Monitoring & Observability",
       "Threat Detection & Incident Response"
     ],
     "roles": [
-      "Cloud Security Specialist"
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -65044,11 +65095,10 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Identity & Access Management",
-      "SaaS"
+      "Generative AI",
+      "Identity & Access Management"
     ],
     "roles": [
-      "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "Wynn/Encore",
@@ -65080,11 +65130,10 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Identity & Access Management",
-      "SaaS"
+      "Generative AI",
+      "Identity & Access Management"
     ],
     "roles": [
-      "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "Caesars Palace",
@@ -65115,12 +65164,9 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Data Protection",
-      "Identity & Access Management",
-      "SaaS"
+      "Identity & Access Management"
     ],
     "roles": [
-      "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "Wynn/Encore",
@@ -65151,12 +65197,9 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Data Protection",
-      "Identity & Access Management",
-      "SaaS"
+      "Identity & Access Management"
     ],
     "roles": [
-      "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "MGM Grand",
@@ -65186,7 +65229,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Culture of Security",
+      "Global Infrastructure",
+      "Well-Architected Framework"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -65253,7 +65300,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Automation",
+      "Management & Governance",
+      "Well-Architected Framework"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -66319,7 +66370,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Data unavailability is costly, and the threats driving it are only growing in frequency and severity. Recovering well means recovering deliberately, not reactively, with a strategy built for the unpredictability of what can go wrong. In this session, you'll learn how the 3-2-1-1-0 defense-in-depth framework provides that structure, guiding you from failure scenario analysis through recovery objective planning to layered protection across local, cross-region, and immutable isolated copies. You'll see how AWS storage services bring each layer to life, from native replication and disaster recovery for availability to centralized backup with immutable isolated vaults for cyber recovery.",
+    "abstract": "Risks to data availability are intensifying, and the cost of getting recovery wrong is rising. Recovering well means recovering deliberately, not reactively, with a strategy built for the unpredictability of what can go wrong. In this session, you'll learn how the 3-2-1-1-0 defense-in-depth framework provides that structure, guiding you from failure scenario analysis through recovery objective planning to layered protection across local, cross-region, and immutable isolated copies. The result is a playbook for how AWS storage services bring each layer to life, from native replication and disaster recovery to centralized backup with immutable isolated vaults for cyber recovery.",
     "times": [
       {
         "id": "1790025511398001CHw7",
@@ -67787,7 +67838,7 @@
   {
     "id": "1790358250601001ih4N",
     "code": "STG348-R1",
-    "title": "Designing cost-efficient Iceberg data lakes on Amazon S3 Tables",
+    "title": "Designing performant and cost-effective data lakes on Amazon S3 Tables",
     "type": "Chalk talk",
     "level": "300 - Advanced",
     "topics": [
