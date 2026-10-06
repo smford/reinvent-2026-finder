@@ -9208,7 +9208,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "What if an agent could design reward functions, launch reinforcement learning, evaluate policies in simulated environments, and iterate autonomously until convergence? This session demonstrates a Strands agent orchestrating the full RL loop on SageMaker: generating rewards from a natural language objective, evaluating against quantitative success criteria, diagnosing failure modes, adjusting hyperparameters, and repeating without human intervention. We cover tool interfaces for each pipeline stage, how the agent decides when to iterate vs. stop, evaluation design for automated pass/fail, and how this pattern extends to any domain requiring iterative experimentation from robots to game playing and control systems.",
+    "abstract": "Can an AI agent teach itself to land a spacecraft? In this hands-on Builders' session you hand a Strands agent one goal: land the lunar lander gently. Then you watch it write its own reward, run reinforcement learning, and grade the result, looping until it sticks the landing. You'll catch it cheating, then watch it diagnose and fix its reward. When a run stalls, you fan out parallel agents and let a sealed judge crown the winner before shipping it to Amazon Bedrock AgentCore. Give an agent a goal and a judge it can't game, and it trains itself.",
     "times": [
       {
         "id": "1790025471579001Cb61",
@@ -9238,7 +9238,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "What if an agent could design reward functions, launch reinforcement learning, evaluate policies in simulated environments, and iterate autonomously until convergence? This session demonstrates a Strands agent orchestrating the full RL loop on SageMaker: generating rewards from a natural language objective, evaluating against quantitative success criteria, diagnosing failure modes, adjusting hyperparameters, and repeating without human intervention. We cover tool interfaces for each pipeline stage, how the agent decides when to iterate vs. stop, evaluation design for automated pass/fail, and how this pattern extends to any domain requiring iterative experimentation from robots to game playing and control systems.",
+    "abstract": "Can an AI agent teach itself to land a spacecraft? In this hands-on Builders' session you hand a Strands agent one goal: land the lunar lander gently. Then you watch it write its own reward, run reinforcement learning, and grade the result, looping until it sticks the landing. You'll catch it cheating, then watch it diagnose and fix its reward. When a run stalls, you fan out parallel agents and let a sealed judge crown the winner before shipping it to Amazon Bedrock AgentCore. Give an agent a goal and a judge it can't game, and it trains itself.",
     "times": [
       {
         "id": "1790360400710001AE4h",
@@ -12530,7 +12530,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Join this session to experience the magic of agentic AI and Apache Iceberg coming together on AWS to build a self-correcting data pipeline. We will dive in to an agentic architecture for an Iceberg-based data pipeline where critical telemetry signals such as data loss, schema drift, cost spikes are not only detected and diagnosed but also remediated and verified - all in real time. Attendees will walk away with a blueprint on how to unify DataOps, MLOps, and FinOps for their data pipelines.",
+    "abstract": "Join this session to experience the power of agentic AI and Apache Iceberg coming together on AWS to build a self-correcting data pipeline. We will dive in to an agentic architecture for an Iceberg-based data pipeline - governed end-to-end through AWS Glue Data Catalog - where critical telemetry signals such as data loss, schema drift, cost spikes are not only detected and diagnosed but also remediated and verified - all in real time. Attendees will walk away with a blueprint on how to unify DataOps, MLOps, and FinOps for their data pipelines, with Glue Data Catalog as the metadata backbone tying governance, lineage, and discovery together across the pipeline.",
     "times": [
       {
         "id": "1790025495708001CZ0h",
@@ -12559,7 +12559,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Join this session to experience the magic of agentic AI and Apache Iceberg coming together on AWS to build a self-correcting data pipeline. We will dive into an agentic architecture for an Iceberg-based data pipeline where critical telemetry signals such as data loss, schema drift, cost spikes, are not only detected and diagnosed but also remediated and verified - all in real time. Attendees will walk away with a blueprint on how to unify DataOps, MLOps, and FinOps for their data pipelines.",
+    "abstract": "Join this session to experience the power of agentic AI and Apache Iceberg coming together on AWS to build a self-correcting data pipeline. We will dive in to an agentic architecture for an Iceberg-based data pipeline - governed end-to-end through AWS Glue Data Catalog - where critical telemetry signals such as data loss, schema drift, cost spikes are not only detected and diagnosed but also remediated and verified - all in real time. Attendees will walk away with a blueprint on how to unify DataOps, MLOps, and FinOps for their data pipelines, with Glue Data Catalog as the metadata backbone tying governance, lineage, and discovery together across the pipeline.",
     "times": [
       {
         "id": "1790360370023001AwlT",
@@ -12870,7 +12870,7 @@
     "code": "ANT421",
     "title": "Cost-effective serverless data integrations and workflows for AI-ready data",
     "type": "Breakout session",
-    "level": "400 – Expert",
+    "level": "300 – Advanced",
     "topics": [
       "Analytics"
     ],
@@ -12897,7 +12897,7 @@
   {
     "id": "1780441462170001GiHB",
     "code": "ANT422",
-    "title": "Accelerating Apache Spark 4.0 workloads with AWS Analytics",
+    "title": "Accelerating Apache Spark 4.1 workloads with AWS Analytics",
     "type": "Breakout session",
     "level": "400 – Expert",
     "topics": [
@@ -12907,7 +12907,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Apache Spark 4.0 is the latest engine upgrade, and AWS is the best place to run it. Learn best practices for building high-performing Spark 4.0 applications using Amazon EMR. Explore what's new, from the ANSI-compliant type system and Variant data type to Spark Connect and Python-first APIs, and how the AWS performance-optimized runtime amplifies these improvements at scale. See how the Spark Troubleshooting and Upgrade agent accelerates migration by automatically identifying deprecated APIs and recommending code fixes, and how AWS Glue and Apache Iceberg integrations simplify pipelines with open table formats.",
+    "abstract": "Apache Spark 4.1 is the latest engine upgrade, and AWS is the best place to run it. Learn best practices for building high-performing Spark 4.1 applications using Amazon EMR. Explore what's new, from the ANSI-compliant type system and Variant data type to Spark Connect and Python-first APIs, and how the AWS performance-optimized runtime amplifies these improvements at scale. See how the Spark Troubleshooting and Upgrade agent accelerates migration by automatically identifying deprecated APIs and recommending code fixes, and how AWS Glue and Apache Iceberg integrations simplify pipelines with open table formats.",
     "times": [
       {
         "id": "1790025476073001CVMi",
@@ -17997,7 +17997,7 @@
     "code": "BIZ114",
     "title": "What's New in Amazon Connect Customer",
     "type": "Breakout session",
-    "level": "",
+    "level": "100 – Foundational",
     "topics": [
       "Business Agents"
     ],
@@ -19884,7 +19884,7 @@
     "code": "BIZ332",
     "title": "​​Every Candidate, Every Time: AI-Led Structured Interviews at Scale ",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Business Agents"
     ],
@@ -19917,7 +19917,7 @@
     "code": "BIZ333",
     "title": "Design, Simulate, Ship: End-to-End AI Agents on Connect Customer",
     "type": "Workshop",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Business Agents"
     ],
@@ -19950,7 +19950,7 @@
     "code": "BIZ334",
     "title": "Building Smarter Self-Service Experiences with AI",
     "type": "Builders' session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Business Agents"
     ],
@@ -19985,7 +19985,7 @@
     "code": "BIZ335",
     "title": "Build an AI agent that understands customer intent",
     "type": "Builders' session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Business Agents"
     ],
@@ -20192,7 +20192,7 @@
     "code": "CMP101",
     "title": "Cutting manual accounts payable work",
     "type": "Breakout session",
-    "level": "",
+    "level": "100 – Foundational",
     "topics": [
       "Cloud Operations"
     ],
@@ -20207,7 +20207,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Enterprise customers pay for cloud services across dozens of payer accounts and countries through procurement/accounts payable platforms like SAP Ariba and Coupa â€” and track it all in spreadsheets and email threads. Purchase orders run out unnoticed. Payments land on the wrong invoices. Disputes take months. In this session, see how a new first-party application gives Accounts Payable teams one live view of purchase orders, invoices and payments matched against billing records â€” no console login required.",
+    "abstract": "Enterprise customers pay for cloud services across dozens of payer accounts and countries through procurement/accounts payable platforms like SAP Ariba and Coupa and track it all in spreadsheets and email threads. Purchase orders run out unnoticed. Payments land on the wrong invoices. Disputes take months. In this session, see how a new first-party application gives Accounts Payable teams one live view of purchase orders, invoices and payments matched against billing records no console login required.",
     "times": [
       {
         "id": "1791224280902001tQbO",
@@ -20410,7 +20410,7 @@
     "code": "CMP252",
     "title": "Running larger, higher-fidelity quantum experiments on Amazon Braket",
     "type": "Chalk talk",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Compute"
     ],
@@ -23240,7 +23240,7 @@
     "code": "CMP358",
     "title": "Graviton5 for data workloads",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Compute"
     ],
@@ -23276,7 +23276,7 @@
     "code": "CMP359",
     "title": "Simplifying how you use AWS: automating common patterns on your behalf",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Compute"
     ],
@@ -26096,7 +26096,7 @@
     "code": "CON207",
     "title": "Simplify ingress networking for applications on Amazon ECS",
     "type": "Lightning talk",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Containers",
       "Networking & Content Delivery"
@@ -27452,7 +27452,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Amazon ECS Managed Instances let you run workloads on specialized EC2 hardware without managing the infrastructure underneath. In this workshop, deploy accelerated workloads across Graviton and ML accelerators on fully managed compute. Configure capacity providers, select instance types, and optimize costs through multi-task placement and Spot instances. Observe performance using CloudWatch Container Insights. Walk away with a working configuration you can adapt for your own accelerated workloads. Bring your laptop to participate.",
+    "abstract": "Amazon ECS Managed Instances let you run workloads on specialized EC2 hardware without managing the infrastructure underneath. In this workshop, deploy accelerated workloads across ML accelerators on fully managed compute. Dive deep into ECS capacity providers, learn how to optimize costs and horizontally scale accelerated workloads. Finally, we’ll monitor accelerators through CloudWatch Container Insights. Walk away with a working configuration you can adapt for your own accelerated workloads. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790025550022001CmVm",
@@ -27490,7 +27490,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Amazon ECS Managed Instances let you run workloads on specialized EC2 hardware without managing the infrastructure underneath. In this workshop, deploy accelerated workloads across Graviton and ML accelerators on fully managed compute. Configure capacity providers, select instance types, and optimize costs through multi-task placement and Spot instances. Observe performance using CloudWatch Container Insights. Walk away with a working configuration you can adapt for your own accelerated workloads. Bring your laptop to participate.",
+    "abstract": "Amazon ECS Managed Instances let you run workloads on specialized EC2 hardware without managing the infrastructure underneath. In this workshop, deploy accelerated workloads across ML accelerators on fully managed compute. Dive deep into ECS capacity providers, learn how to optimize costs and horizontally scale accelerated workloads. Finally, we’ll monitor accelerators through CloudWatch Container Insights. Walk away with a working configuration you can adapt for your own accelerated workloads. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790360393693001A9NX",
@@ -28449,7 +28449,7 @@
     "code": "CON345",
     "title": "Eliminate wasted compute capacity with Amazon ECS",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Compute",
       "Containers"
@@ -28483,7 +28483,7 @@
     "code": "CON346",
     "title": "Enhanced container image access & distribution with Amazon ECR ",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Containers"
     ],
@@ -28515,7 +28515,7 @@
     "code": "CON347",
     "title": "Intelligent, right-sized compute on Amazon EKS",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Compute",
       "Containers"
@@ -28549,7 +28549,7 @@
     "code": "CON348",
     "title": "Defense-in-Depth for Containers on Amazon EKS: A Layering Story",
     "type": "Code talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Containers",
       "Security & Identity"
@@ -32140,7 +32140,7 @@
     "code": "COP353",
     "title": "Take Action on Operational Issues with AWS DevOps Agent",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32175,7 +32175,7 @@
     "code": "COP354",
     "title": "Diagnose Complex Workloads with AWS DevOps Agent",
     "type": "Code talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32210,7 +32210,7 @@
     "code": "COP355",
     "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
     "type": "Builders' session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32245,7 +32245,7 @@
     "code": "COP357",
     "title": "Monitor AI workloads and agents end to end ",
     "type": "Workshop",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32281,7 +32281,7 @@
     "code": "COP360",
     "title": "Monetizing your applications with AWS",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32318,7 +32318,7 @@
     "code": "COP361",
     "title": "Find the waste hiding in your accelerator fleetÂ ",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32355,7 +32355,7 @@
     "code": "COP362",
     "title": "Troubleshoot Workloads End to End with AWS DevOps Agent",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32390,7 +32390,7 @@
     "code": "COP363",
     "title": "Investigate Incidents Across Teams with AWS DevOps Agent",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32427,7 +32427,7 @@
     "code": "COP366",
     "title": "Take control of how AWS credits are allocated across your accounts",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32462,7 +32462,7 @@
     "code": "COP367",
     "title": "End-to-end resilience for your cloud workloads",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -32497,7 +32497,7 @@
     "code": "COP368",
     "title": "Recovering AWS Graviton workloads with orchestrated DR",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
@@ -36792,7 +36792,7 @@
     "code": "DAT452",
     "title": "[NEW LAUNCH] Coming soon!",
     "type": "Breakout session",
-    "level": "",
+    "level": "400 – Expert",
     "topics": [
       "Databases"
     ],
@@ -36827,7 +36827,7 @@
     "code": "DAT453",
     "title": "[NEW LAUNCH] Coming soon!",
     "type": "Breakout session",
-    "level": "",
+    "level": "400 – Expert",
     "topics": [
       "Databases"
     ],
@@ -37075,6 +37075,41 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1786043770443001qaGn",
+    "code": "DVT207-R2",
+    "title": "Learn new AI development skills with Kiro",
+    "type": "Builders' session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Discover Kiro, the IDE for structured agentic development. In this builder’s session, explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution – all while maintaining complete control throughout the development process. You must bring a laptop to participate in this session.",
+    "times": [
+      {
+        "id": "1791305897137001TZ9O",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Room 104",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -37720,6 +37755,42 @@
         "duration": 60,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Builders' Session",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1786342064337001PfA1",
+    "code": "DVT301-R2",
+    "title": "Bring your tech debt: build a custom transformation that fixes it",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Microsoft & .NET"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Every codebase has that annoying pattern: the deprecated internal library, the logging convention nobody follows, the framework migration that keeps getting deferred. In this small-group builder session, you'll tackle yours. Bring a real modernization problem from your own code and build a custom transformation in AWS Transform custom that solves it—defining the transformation in natural language, running it against a repository, and refining it until it holds up. No fixed curriculum and no slides: this is open-ended, hands-on time. Stuck for an idea? We'll have a few ready-made problems on hand. You must bring your laptop to participate.",
+    "times": [
+      {
+        "id": "1791306071665001bNmU",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 1",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -38563,6 +38634,42 @@
     ]
   },
   {
+    "id": "1780442240963001c3jc",
+    "code": "DVT323-R1",
+    "title": "Tech debt anonymous: bring your worst code to this chalk talk",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Microsoft & .NET"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "We all have it: the monolith nobody wants to touch, and the pile of small apps and Lambda functions racking up end-of-life notices. This chalk talk is your support group. Bring your real modernization headaches and we'll discuss how AWS Transform tackles the whole spectrum. On one side, Transform custom handles the big, complex jobs: decomposing Java and .NET monoliths, translating languages, upgrading frameworks at scale. On the other, continuous modernization autonomously scans thousands of repositories, prioritizes what's drifting, and opens remediation pull requests on a schedule. Bring questions about your own portfolio and leave with a plan of attack.",
+    "times": [
+      {
+        "id": "1791306172939001Zd0K",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 114",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442255779001clk0",
     "code": "DVT326",
     "title": "Learn faster: Experimentation in an AI world",
@@ -38805,6 +38912,40 @@
         "duration": 60,
         "room": "Caesars Palace | Promenade Level | Trevi",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1780442240909001czLs",
+    "code": "DVT332-R2",
+    "title": "Under the hood of Kiro Crew: orchestration, memory, and safe autonomy",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Handing real work to a crew of agents raises real questions: How does it coordinate parallel subagents without losing the thread? How does memory save across sessions so agents don't start cold? How do you give agents access to your code and CI while staying safe? In this chalk talk, we'll dig into how Kiro Crew works: observable multi-agent orchestration over Agent Client Protocol, self-evolving memory and skills you can inspect and edit, scheduled and webhook-triggered jobs, and defense-in-depth security with sandboxing, denied-by-default commands, and signed audit logs. Bring your architecture and security questions and we'll whiteboard through them.",
+    "times": [
+      {
+        "id": "1791306285353001ohBh",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 350",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -39174,9 +39315,9 @@
   {
     "id": "1780442241998001cWqa",
     "code": "DVT343",
-    "title": "From code to production in seconds â€” building web apps that last",
+    "title": "From code to production in seconds — building web apps that last",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Developer Tools",
       "Serverless"
@@ -39210,7 +39351,7 @@
     "code": "DVT344",
     "title": "Ship web apps that just work",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Developer Tools",
       "Serverless"
@@ -39348,6 +39489,41 @@
     ]
   },
   {
+    "id": "1780442279450001c31n",
+    "code": "DVT406-R1",
+    "title": "Make the agent code while you sleep",
+    "type": "Workshop",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Anyone can prompt an agent. The hard part is getting it to work the way you want—for hours, unattended, without going off the rails. This advanced workshop digs into orchestration. You'll build a custom agent, then set a goal so strong the agent can't redefine it or declare victory early. You'll decompose work across subagents, use directives like /goal to keep execution on track, and design guardrails that let an agent run long and autonomously while landing where you intended. We'll use Kiro, but these patterns transfer to any agentic system. You must bring your laptop to participate.",
+    "times": [
+      {
+        "id": "1791306374994001TdKu",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 120,
+        "room": "Caesars Forum | Level 1 | Alliance 307",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442279389001c6ai",
     "code": "DVT409-R",
     "title": "Build your own crew: hands-on with Kiro Crew",
@@ -39416,6 +39592,42 @@
         "duration": 120,
         "room": "Wynn/Encore | Convention Promenade | Mouton 2",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1786342064587001PPUz",
+    "code": "DVT409-R2",
+    "title": "Build your own crew: hands-on with Kiro Crew",
+    "type": "Workshop",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro Crew is an open-source, multi-agent workspace you can bend to your own workflows. In this hands-on workshop, you'll put it to work. Hand your crew a real task and watching it plan, spawn parallel subagents, and gate each action for your approval. Then personalize: wire in the tools you already use over MCP, set up scheduled and webhook-triggered jobs so work keeps moving while you're away, and shape memory and reusable skills so agents don't start cold. Finally, assemble a purpose-built App to run a workflow end-to-end, from intake through review. You must bring your laptop to participate.",
+    "times": [
+      {
+        "id": "1791306485198001Ojzy",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "Caesars Forum | Level 1 | Forum 101",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -39494,6 +39706,43 @@
     ]
   },
   {
+    "id": "1780442241069001cFGR",
+    "code": "DVT413-R2",
+    "title": "Apply Amazon's frontier team playbook to your organization",
+    "type": "Chalk talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Architecture",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Learning from Amazon"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI coding agents sped up code generation, but not how fast it reaches customers. Teams seeing 4.5x to 10x gains aren't just adopting tools. They've redesigned how they work. In this chalk talk, learn what these \"frontier teams\" do differently: investing in agent context and steering files, making intent explicit before code is written, feeding agents well-scoped work instead of babysitting them, shifting testing left so agents self-correct before they reach the pipeline. We'll unpack real examples from teams across Amazon and talk through how to run your own pilot. Bring your questions about making AI work in your organization.",
+    "times": [
+      {
+        "id": "1791306558955001hPDm",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 103",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442240789001c1o3",
     "code": "DVT415-R",
     "title": "Mastering agentic development: skills, custom agents, and steering",
@@ -39562,6 +39811,40 @@
     ]
   },
   {
+    "id": "1780442241015001cUmF",
+    "code": "DVT415-R2",
+    "title": "Mastering agentic development: skills, custom agents, and steering",
+    "type": "Chalk talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The best results from agentic AI don't come from clever one-off prompts, but from shaping how agents work. In this session, go beyond prompting to learn techniques that apply to any agentic coding tool. Craft reusable skills that encode your team's know-how, build custom agents tuned to specific jobs, and use steering files to carry your conventions and architecture across sessions. We'll cover how to set goals the agent will actually follow, when to let it run autonomously, and how to tell a skill that's useful versus noise. We'll demo live in Kiro, but the principles transfer wherever you work.",
+    "times": [
+      {
+        "id": "1791306625504001bXOX",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 114",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1785256471958001doP6",
     "code": "GHJ201-R",
     "title": "Cloud Migration Journey Tabletop Experience",
@@ -39579,10 +39862,59 @@
       "Entrepreneur (Founder/Co-Founder)",
       "IT Executive"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Experience a dynamic simulation of leading a digital transformation initiative. Navigate cloud migration, security automation, and operational excellence challenges. Architect secure cloud environments while balancing stakeholder needs and compliance. Compete to optimize speed, security, and innovation amid real-world obstacles. Gain actionable insights into cloud security governance and risk-aligned architecture.",
-    "times": []
+    "times": [
+      {
+        "id": "1791311023190001OnlK",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1785256472034001dim0",
+    "code": "GHJ201-R1",
+    "title": "Cloud Migration Journey Tabletop Experience",
+    "type": "Gamified learning",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Migration & Modernization",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Experience a dynamic simulation of leading a digital transformation initiative. Navigate cloud migration, security automation, and operational excellence challenges. Architect secure cloud environments while balancing stakeholder needs and compliance. Compete to optimize speed, security, and innovation amid real-world obstacles. Gain actionable insights into cloud security governance and risk-aligned architecture.",
+    "times": [
+      {
+        "id": "1791311199111001NuKV",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1785256472094001dcYg",
@@ -39603,10 +39935,60 @@
       "Entrepreneur (Founder/Co-Founder)",
       "IT Executive"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Quantum computing is advancing—is your cryptographic infrastructure ready? In this immersive tabletop, executives will confront the urgent reality that current public-key cryptographic standards face obsolescence. Make high-stakes decisions on migration timelines, technology selection, and stakeholder coordination as quantum threats loom over customer data, transaction systems, and competitive intelligence. Balance budget constraints against discovery, risk prioritization, and implementation speed while navigating regulatory requirements and operational continuity. Compete to build quantum-resistant infrastructure before adversaries exploit today's vulnerabilities. Leave with actionable strategies for leading a post-quantum cryptography migration that protects trust and secures competitive advantage.",
-    "times": []
+    "times": [
+      {
+        "id": "1791311264122001ADZq",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1785256472150001dakc",
+    "code": "GHJ203-R1",
+    "title": "Post-Quantum Cryptography Tabletop Experience",
+    "type": "Gamified learning",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Migration & Modernization",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Governance, Risk & Compliance",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Quantum computing is advancing—is your cryptographic infrastructure ready? In this immersive tabletop, executives will confront the urgent reality that current public-key cryptographic standards face obsolescence. Make high-stakes decisions on migration timelines, technology selection, and stakeholder coordination as quantum threats loom over customer data, transaction systems, and competitive intelligence. Balance budget constraints against discovery, risk prioritization, and implementation speed while navigating regulatory requirements and operational continuity. Compete to build quantum-resistant infrastructure before adversaries exploit today's vulnerabilities. Leave with actionable strategies for leading a post-quantum cryptography migration that protects trust and secures competitive advantage.",
+    "times": [
+      {
+        "id": "1791311405748001b0rx",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1785256472207001dntP",
@@ -39627,10 +40009,60 @@
       "Entrepreneur (Founder/Co-Founder)",
       "IT Executive"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Embark on \"Third Party Risk Management,\" an engaging tabletop designed to challenge and refine your approach to managing external partnerships and vendor relationships. In this immersive experience, leaders are thrust into a high-stakes environment where they must navigate complex scenarios involving third-party risks. This tabletop not only enhances your ability to manage third-party risks effectively but also equips you with practical insights and strategies to safeguard your organization’s interests and strengthen its external partnerships. Join us to elevate your risk management acumen and drive resilient, forward-thinking approaches in an interconnected business landscape.",
-    "times": []
+    "times": [
+      {
+        "id": "1791311510114001O5em",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1785256472267001d5Xo",
+    "code": "GHJ205-R1",
+    "title": "3rd Party Risk Management Tabletop Experience",
+    "type": "Gamified learning",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Governance, Risk & Compliance",
+      "Innovation & Transformation",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Embark on \"Third Party Risk Management,\" an engaging tabletop designed to challenge and refine your approach to managing external partnerships and vendor relationships. In this immersive experience, leaders are thrust into a high-stakes environment where they must navigate complex scenarios involving third-party risks. This tabletop not only enhances your ability to manage third-party risks effectively but also equips you with practical insights and strategies to safeguard your organization’s interests and strengthen its external partnerships. Join us to elevate your risk management acumen and drive resilient, forward-thinking approaches in an interconnected business landscape.",
+    "times": [
+      {
+        "id": "1791311554623001On6J",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1785256472325001dIu1",
@@ -39652,10 +40084,99 @@
       "Entrepreneur (Founder/Co-Founder)",
       "IT Executive"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Navigate AI-driven security threats as they escalate in real time. In this immersive executive tabletop, participants allocate a constrained governance budget, then respond to live crisis events scored across six dimensions. Practice navigating high-stakes scenarios including autonomous AI deployment failures, third-party security incidents, and emerging regulatory obligations. Confront real attack techniques, compliance frameworks, and enterprise liability exposure while aligning cross-functional teams under pressure. This experience sharpens governance instincts and crisis fluency—equipping leaders to govern Agentic AI risks, enforce accountability, and make decisive resource allocation calls before a real crisis demands it.",
-    "times": []
+    "times": [
+      {
+        "id": "1791311600343001ofSI",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1785256472386001dAeH",
+    "code": "GHJ207-R1",
+    "title": "Agentic AI Governance Tabletop Experience",
+    "type": "Gamified learning",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Navigate AI-driven security threats as they escalate in real time. In this immersive executive tabletop, participants allocate a constrained governance budget, then respond to live crisis events scored across six dimensions. Practice navigating high-stakes scenarios including autonomous AI deployment failures, third-party security incidents, and emerging regulatory obligations. Confront real attack techniques, compliance frameworks, and enterprise liability exposure while aligning cross-functional teams under pressure. This experience sharpens governance instincts and crisis fluency—equipping leaders to govern Agentic AI risks, enforce accountability, and make decisive resource allocation calls before a real crisis demands it.",
+    "times": [
+      {
+        "id": "1791311635812001PdQT",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1785256472446001d2QS",
+    "code": "GHJ207-R2",
+    "title": "Agentic AI Governance Tabletop Experience",
+    "type": "Gamified learning",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Navigate AI-driven security threats as they escalate in real time. In this immersive executive tabletop, participants allocate a constrained governance budget, then respond to live crisis events scored across six dimensions. Practice navigating high-stakes scenarios including autonomous AI deployment failures, third-party security incidents, and emerging regulatory obligations. Confront real attack techniques, compliance frameworks, and enterprise liability exposure while aligning cross-functional teams under pressure. This experience sharpens governance instincts and crisis fluency—equipping leaders to govern Agentic AI risks, enforce accountability, and make decisive resource allocation calls before a real crisis demands it.",
+    "times": [
+      {
+        "id": "1791311669506001TjM9",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1785256472510001dOCs",
@@ -39676,10 +40197,60 @@
       "Entrepreneur (Founder/Co-Founder)",
       "IT Executive"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Join the \"Supply Chain Incident Response\" tabletop exercise, where executive leaders tackle supply chain disruptions in a realistic, interactive simulation. Collaborate to develop and execute strategies for managing crises, explore decision-making and risk assessment, and enhance communication skills. This exercise strengthens your organization's preparedness and resilience, helping you safeguard operations and improve response capabilities. Build robust strategies to handle and recover from supply chain disruptions effectively.",
-    "times": []
+    "times": [
+      {
+        "id": "1791311712335001OIlI",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1785256472584001dZBT",
+    "code": "GHJ210-R1",
+    "title": "Incident Response Tabletop: Supply Chain",
+    "type": "Gamified learning",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Disaster Response & Recovery",
+      "Governance, Risk & Compliance",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Join the \"Supply Chain Incident Response\" tabletop exercise, where executive leaders tackle supply chain disruptions in a realistic, interactive simulation. Collaborate to develop and execute strategies for managing crises, explore decision-making and risk assessment, and enhance communication skills. This exercise strengthens your organization's preparedness and resilience, helping you safeguard operations and improve response capabilities. Build robust strategies to handle and recover from supply chain disruptions effectively.",
+    "times": [
+      {
+        "id": "1791311745153001T6hb",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Bollinger",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1780441503992001GYn9",
@@ -39692,10 +40263,23 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Coordinating agents is where multi agent systems break. They duplicate work, drop handoffs, and burn tokens. In this workshop, build and deploy five autonomous agents on Amazon Bedrock AgentCore using Kiro and the Strands Agents SDK, then field them five versus five in live Agentic Football matches. Write the tools your agents call, orchestrate multi turn reasoning across a maze like arena, and solve coordination problems that decide the match. Tune prompts, roles, and tactics between rounds and watch your score climb a live leaderboard. Leave with working code, production ready multi agent patterns, and a shot at the Finale.",
-    "times": []
+    "times": [
+      {
+        "id": "1791308229189001hexR",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 120,
+        "room": "Caesars Forum | Level 1 | Forum 110",
+        "venue": "Caesars Forum"
+      }
+    ]
   },
   {
     "id": "1780442220953001cPpJ",
@@ -40030,6 +40614,40 @@
     ]
   },
   {
+    "id": "1780442258762001cLQZ",
+    "code": "GHJ308-S-R1",
+    "title": "Agentic AI Jam - sponsored by Nvidia",
+    "type": "Gamified learning",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Come with your team of four or join a team and meet new friends in the session. Are you ready to build and deploy agentic AI solutions on AWS? We provide hands-on environments where you can architect intelligent and production-ready agents. How do you orchestrate multi-step agent reasoning with tool use? How can you design agents that plan, act, and self-correct autonomously? Whether you are new to AWS or a seasoned Cloud Ninja, this Jam is your chance to demonstrate your skills and learn new ones. Structured for all experience levels, our sessions include guided exercises, helpful clues, and support from AWS experts to accelerate your agentic AI expertise. Team up, compete with others, climb the leaderboard, and win prizes based on speed and accuracy. With expert guidance every step of the way, all you need is a computer, a desire to learn, and a competitive spirit.",
+    "times": [
+      {
+        "id": "1790020732141001fwfN",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "12:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 180,
+        "room": "Caesars Palace | Emperors Level | Palace Ballroom I",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1780441504291001GHKc",
     "code": "GHJ309-S",
     "title": "DevOps and Modernization Jam – sponsored by LaunchDarkly",
@@ -40223,10 +40841,23 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Turn a generic model into one that wins on your task, and prove it with data. In this hands-on workshop, you customize a foundation model on Amazon SageMaker AI using supervised fine-tuning and reinforcement learning with verifiable rewards (RLVR), with no infrastructure to manage. Then you build an agent on Amazon Bedrock AgentCore that orchestrates the model end to end: preparing datasets, triggering training, registering models, evaluating with LLM-as-a-Judge, and deploying to a real-time endpoint. Your score posts to a live leaderboard, and you tune between rounds to climb it. You walk away knowing when customization beats a strong prompt.",
-    "times": []
+    "times": [
+      {
+        "id": "1791308176510001MNmo",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
+        "room": "Caesars Forum | Level 1 | Forum 110",
+        "venue": "Caesars Forum"
+      }
+    ]
   },
   {
     "id": "1780441504060001Giqt",
@@ -40239,10 +40870,23 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "In this hands-on workshop you’ll compete head-to-head with other builders to build your own domain specific AI. You’ll tackle real-world challenges as you generate synthetic datasets, experiment with model customization, and fine-tune models to improve accuracy, clarity, and relevance. You’ll learn just how accessible and cost-effective AI customization can be. Whether you’re chasing the championship or simply sharpening your AI expertise, this session delivers practical techniques you can apply immediately. You must bring your laptop to participate",
-    "times": []
+    "times": [
+      {
+        "id": "1791308260657001qduy",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
+        "room": "Caesars Forum | Level 1 | Forum 110",
+        "venue": "Caesars Forum"
+      }
+    ]
   },
   {
     "id": "1780442258818001colI",
@@ -41486,14 +42130,13 @@
     "code": "HMC320",
     "title": "Right workload on the right cloud - multicloud workload placement",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Cloud Operations",
       "Hybrid Cloud & Multicloud"
     ],
     "areasOfInterest": [
-      "DNU - Containers",
       "DevOps",
       "Governance, Risk & Compliance"
     ],
@@ -45551,7 +46194,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "The Trade Desk operates a real-time advertising platform on AWS, where infrastructure must handle massive scale while making bidding decisions in milliseconds. At that scale, cloud cost optimization isn't a one-time exercise, it's a continuous discipline with one constraint: improve efficiency without compromising business-critical performance. In this breakout, The Trade Desk shares how it evolved from traditional cost audits to an AI-assisted, agentic approach. Learn how the team built an internal MCP server that enables AI agents to investigate cost and usage data, uncover savings across services like S3, NAT Gateway, EBS, and Graviton, and build a repeatable framework for continuously optimizing cloud workloads.",
+    "abstract": "The Trade Desk operates a real-time advertising platform on AWS, where infrastructure must handle massive scale while making bidding decisions in milliseconds. At that volume, cloud cost optimization is a continuous discipline, not a one-time audit. In this breakout, The Trade Desk shares how it moved from manual cost audits to an AI-assisted approach: an internal MCP server that lets AI agents investigate cost and usage data, surface savings across services like S3, NAT Gateway, EBS, and Graviton, and apply a repeatable method for optimizing workloads over time. You'll see how the team structured the agents, what they found, and where the approach is headed.",
     "times": [
       {
         "id": "1791225914247001S3Ct",
@@ -45937,7 +46580,7 @@
     "code": "IND3349",
     "title": "From Generic to Industry Expert: The Next Era of AI",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
       "Business Agents",
@@ -45955,7 +46598,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "No abstract revision necessary.",
+    "abstract": "AI assistants handle calendars and inboxes but fall short on domain-specific workflows. What if AI could understand your industry's systems, standards, and compliance requirements? In this session, we explore how pre-configured agents, skills, knowledge bases, and ISV connectors can address industry-specific use cases while giving customers the flexibility to extend and customize their enterprise workflows. Learn how AI assistants can go beyond a general-purpose productivity tool into a domain expert for your industry.",
     "times": [
       {
         "id": "1791224280169001tPnQ",
@@ -46362,7 +47005,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this hands-on builder session, construct a multi-agent AI system that automates the full marketing lifecycle—plan, launch, and optimize. Build specialized agents on Amazon Bedrock (planner, media buyer, analyst, and creative) that turn campaign parameters into data-driven recommendations: audience targeting, budget allocation, performance forecasts, and localized creative assets grounded in your brand guidelines and historical data. Activate campaigns through Amazon Ads DSP, then deploy an optimizer agent with human-in-the-loop approvals to reallocate budget across channels as performance shifts. Leave with a working blueprint for agentic marketing workflows using Amazon Bedrock and AWS Marketplace solutions—and become the marketeer of the future.",
+    "abstract": "In this hands-on builder session, construct a multi-agent AI system that automates campaign planning, activation, and optimization. Build four specialized agents on Amazon Bedrock including a planner, media buyer, analyst, and creative generator that turns campaign parameters into audience targeting, budget allocation, performance forecasts, and localized creative grounded in your brand guidelines and historical data. Activate campaigns through Amazon Ads DSP, then add an optimizer agent with human-in-the-loop approvals that reallocates budget across channels as performance shifts. You'll build a running multi-agent workflow and take away the Bedrock agent definitions to adapt for your own campaigns.",
     "times": [
       {
         "id": "1790025509626001CUUm",
@@ -46702,7 +47345,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Healthcare and life sciences teams face pressure to apply generative AI but struggle moving from proof-of-concept to prototype. In this hands-on workshop, you use Kiro IDE and spec-driven development to build a functional AI agent—progressing through requirements, design, implementation, and live demo. Choose from four use cases: extract data from handwritten GMP batch records, orchestrate single-cell RNA-seq pipelines on AWS HealthOmics, identify clinical trial candidates using biomarker analysis, or build a patient access agent on Amazon Connect Health. You'll leave with a deployable agent, reusable specs, and a repeatable methodology for rapid AI development in regulated environments.",
+    "abstract": "Healthcare and life sciences teams face pressure to apply generative AI, but they struggle to move from proof-of-concept to prototype. In this hands-on workshop, you’ll use Kiro IDE and spec-driven development to build a functional AI agent, progressing through requirements, design, implementation, and live demo. Choose from four use cases: extract data from handwritten GMP batch records, orchestrate single-cell RNA-seq pipelines on AWS HealthOmics, identify clinical trial candidates using biomarker analysis, or build a patient access agent on Amazon Connect Health. You'll create a deployable agent, reusable specs, and a repeatable methodology for rapid AI development in regulated environments. ",
     "times": [
       {
         "id": "1790025508412001CcGP",
@@ -46738,7 +47381,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Healthcare and life sciences teams face pressure to apply generative AI but struggle moving from proof-of-concept to prototype. In this hands-on workshop, you use Kiro IDE and spec-driven development to build a functional AI agent—progressing through requirements, design, implementation, and live demo. Choose from four use cases: extract data from handwritten GMP batch records, orchestrate single-cell RNA-seq pipelines on AWS HealthOmics, identify clinical trial candidates using biomarker analysis, or build a patient access agent on Amazon Connect Health. You'll leave with a deployable agent, reusable specs, and a repeatable methodology for rapid AI development in regulated environments.",
+    "abstract": "Healthcare and life sciences teams face pressure to apply generative AI, but they struggle to move from proof-of-concept to prototype. In this hands-on workshop, you’ll use Kiro IDE and spec-driven development to build a functional AI agent, progressing through requirements, design, implementation, and live demo. Choose from four use cases: extract data from handwritten GMP batch records, orchestrate single-cell RNA-seq pipelines on AWS HealthOmics, identify clinical trial candidates using biomarker analysis, or build a patient access agent on Amazon Connect Health. You'll create a deployable agent, reusable specs, and a repeatable methodology for rapid AI development in regulated environments. ",
     "times": [
       {
         "id": "1790360393857001A5HT",
@@ -47648,7 +48291,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn how to build your own co-scientist with Amazon Quick. In this builder session, you'll gain hands-on experience with loading life sciences domain skills directly into Amazon Quick, and work through your own scientific questions with guidance from AWS's life sciences experts. You'll leave with firsthand experience on bringing expert-level reasoning to everyday research workflows. ",
+    "abstract": "Learn how to build your own co-scientist with Amazon Quick. In this builder session, you'll gain hands-on experience with loading life sciences domain skills directly into Amazon Quick, and work through your own scientific questions with guidance from AWS's life sciences experts. Learn how to bring expert-level reasoning to everyday research workflows. ",
     "times": [
       {
         "id": "1790025549006001Ch54",
@@ -47869,7 +48512,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Natera, a global leader in cell-free DNA testing for oncology, women's health, and organ health, built reusable agentic infrastructure on Amazon Bedrock and AgentCore to power multiple internal platforms from a single framework. Natera's VP of Engineering shares the technical decisions behind this infrastructure and provides a blueprint for building once and scaling across your organization. See a live demo of one platform built on this foundation for revenue cycle management, cutting prior-authorization denial rates 6x, reducing touchpoints by 5x, and enabling new use cases to go live in under a week.",
+    "abstract": "Natera, a global leader in cell-free DNA testing for oncology, women's health, and organ health, built reusable agentic infrastructure on Amazon Bedrock and Amazon Bedrock AgentCore to power multiple internal platforms from a single framework. Natera's VP of Engineering will share the technical decisions behind this infrastructure and provides a blueprint for building once and scaling across your organization. See a live demo of one platform built on this foundation for revenue cycle management, cutting prior-authorization denial rates 6x, reducing touchpoints by 5x, and enabling new use cases to go live in less than a week. ",
     "times": [
       {
         "id": "1790025488996001Cnyv",
@@ -47906,7 +48549,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Natera, a global leader in cell-free DNA testing for oncology, women's health, and organ health, built reusable agentic infrastructure on Amazon Bedrock and AgentCore to power multiple internal platforms from a single framework. Natera's VP of Engineering shares the technical decisions behind this infrastructure and provides a blueprint for building once and scaling across your organization. See a live demo of one platform built on this foundation for revenue cycle management, cutting prior-authorization denial rates 6x, reducing touchpoints by 5x, and enabling new use cases to go live in under a week.",
+    "abstract": "Natera, a global leader in cell-free DNA testing for oncology, women's health, and organ health, built reusable agentic infrastructure on Amazon Bedrock and Amazon Bedrock AgentCore to power multiple internal platforms from a single framework. Natera's VP of Engineering will share the technical decisions behind this infrastructure and provides a blueprint for building once and scaling across your organization. See a live demo of one platform built on this foundation for revenue cycle management, cutting prior-authorization denial rates 6x, reducing touchpoints by 5x, and enabling new use cases to go live in less than a week. ",
     "times": [
       {
         "id": "1791228922718001omou",
@@ -48337,7 +48980,7 @@
   {
     "id": "1780442245909001cxe7",
     "code": "IND391",
-    "title": "How Bayer designed 50K proteins on Amazon Bio Discovery",
+    "title": "How Bayer Designed 50K Proteins on Amazon Bio Discovery",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -48353,7 +48996,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "This chalk talk explores how to architect agentic AI workflows for generative protein design at enterprise scale. Using Bayer's oncology nanobody campaign as the reference implementation, we walk through the technical and scientific decisions behind a pipeline that generated 50,000 candidates and 3,000 prioritized candidates in weeks using Amazon Bio Discovery. Topics include: model orchestration patterns for generative and predictive models, designing scoring functions that encode biological mechanism (not just binding affinity), iterative feedback loops between computation and wet-lab validation, and scaling considerations for enterprise drug discovery programs. Attendees will leave with a reusable architectural blueprint for building agentic biomolecule design workflows on AWS.",
+    "abstract": "This chalk talk explores how to architect agentic AI workflows for generative protein design at enterprise scale. Using Bayer's oncology nanobody campaign as the reference implementation, we walk through the technical and scientific decisions behind a pipeline that generated 50,000 candidates and 3,000 prioritized candidates in weeks using Amazon Bio Discovery. Topics include: model orchestration patterns for generative and predictive models, designing scoring functions that encode biological mechanism (not just binding affinity), iterative feedback loops between computation and wet-lab validation, and scaling considerations for enterprise drug discovery programs. Attendees will leave this session with a reusable architectural blueprint for building agentic biomolecule design workflows on AWS. ",
     "times": [
       {
         "id": "1790025477513001C6Db",
@@ -49136,7 +49779,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this hands-on workshop, learn to build Agentic Real-Time Framework (ARTF)-compliant agents that operate inside the bidstream and simulate auction scenarios using the Agents for Advertising framework on Amazon Bedrock. Construct an agent container that accepts bid requests and returns pricing decisions following the ARTF specification. Orchestrate multi-agent pipelines to simulate adversarial auction environments, test bidding strategies, and evaluate outcomes that feed back into model improvement. Run interactive simulations that generate learning signals, and gain hands-on experience applying your own bidding models—plus a practical understanding of how bidstream agents and agentic workflows connect end to end.",
+    "abstract": "In this hands-on workshop, build Agentic Real-Time Framework (ARTF)-compliant agents that operate inside the bidstream, using the Agents for Advertising framework on Amazon Bedrock. You'll construct an agent container that accepts bid requests and returns pricing decisions to the ARTF specification, then orchestrate a multi-agent pipeline that simulates adversarial auction scenarios and scores your bidding strategy against the outcomes. Run interactive simulations that generate learning signals, and plug in your own bidding model to see how it performs. You'll leave with a working ARTF container and auction-simulation harness you can point at your own models.",
     "times": [
       {
         "id": "1791230492710001CxcN",
@@ -49350,7 +49993,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "AI bots now drive more than half of web traffic, consuming content built for human eyes while sending little value back to publishers. This hands-on workshop tackles both sides of the agent-first internet. First, you'll build a pipeline that transforms any media — images, video, audio — into concise, agent-friendly Markdown summaries using media contextual analysis, interpreting objects, scenes, speech, and meaning while preserving the original for humans. Then you'll monetize that traffic with AWS WAF's new AI traffic monetization capability, setting per-request pricing by bot verification tier and collecting payment via the x402 protocol. Leave with a reusable dual-audience, dual-revenue architecture.",
+    "abstract": "More than half of web traffic now comes from AI bots that consume content built for humans while returning little value to publishers. This hands-on workshop tackles both the content and the monetization side. First, you'll build a pipeline that converts images, video, and audio into concise, agent-friendly markdown summaries including interpreting what's shown, said, and meant, while preserving the originals for human readers. Then you'll monetize bot traffic with AWS WAF AI traffic monetization, setting per-request pricing by bot verification tier and collecting payment via the x402 protocol. You'll build a working dual-audience pipeline and WAF pricing configuration you can deploy against your own media.",
     "times": [
       {
         "id": "1790025472815001Cmfa",
@@ -49819,11 +50462,12 @@
     "level": "No Level",
     "topics": [
       "Artificial Intelligence",
-      "Business Agents",
       "Developer Tools"
     ],
     "areasOfInterest": [
-      "Agentic AI"
+      "Agentic AI",
+      "DevOps",
+      "Generative AI"
     ],
     "roles": [
       "Developer / Engineer",
@@ -51947,7 +52591,7 @@
     "code": "MAM225",
     "title": "What's new with AWS Transform for migrations",
     "type": "Breakout session",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
       "Compute",
@@ -54095,7 +54739,7 @@
     "code": "MAM347",
     "title": "Meet Your AI Teammate for WorkSpaces Administration",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Business Agents",
       "Migration & Modernization"
@@ -54133,7 +54777,7 @@
     "code": "MAM348",
     "title": "Provision Desktops for Builders Faster with WorkSpaces",
     "type": "Builders' session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
       "Developer Tools"
@@ -54170,7 +54814,7 @@
     "code": "MAM349",
     "title": "Scaling legacy app modernization with autonomous agents",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
       "Developer Tools",
@@ -54209,7 +54853,7 @@
     "code": "MAM350",
     "title": "Faster tech debt remediation without the setup overhead",
     "type": "Code talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
       "Migration & Modernization"
@@ -55027,7 +55671,7 @@
     "code": "NET101",
     "title": "What's new in eero networking ",
     "type": "Breakout session",
-    "level": "",
+    "level": "100 – Foundational",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57286,7 +57930,7 @@
     "code": "NET338",
     "title": "Innovations in Elastic Load Balancing and application networking",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57324,7 +57968,7 @@
     "code": "NET339",
     "title": "AI innovations across network monitoring and operations",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57362,7 +58006,7 @@
     "code": "NET340",
     "title": "Innovations in Secure Service Edge architectures on AWS",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57399,7 +58043,7 @@
     "code": "NET341",
     "title": "Building hybrid satellite and cloud networks with Amazon Leo",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57436,7 +58080,7 @@
     "code": "NET342",
     "title": "Innovations in DNS and Amazon Route 53",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57473,7 +58117,7 @@
     "code": "NET343",
     "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57511,7 +58155,7 @@
     "code": "NET344",
     "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57549,7 +58193,7 @@
     "code": "NET345",
     "title": "Innovations in DNS and Amazon Route 53",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -57814,7 +58458,7 @@
     "code": "NET408",
     "title": "Innovations across the AWS Backbone",
     "type": "Lightning talk",
-    "level": "",
+    "level": "400 – Expert",
     "topics": [
       "Architecture",
       "Networking & Content Delivery"
@@ -59746,7 +60390,7 @@
     "code": "PEX216",
     "title": "Co-Sell to Co-Marketing: An AI-powered, end-to-end partner motion.",
     "type": "Lightning talk",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence"
     ],
@@ -59780,7 +60424,7 @@
     "code": "PEX217",
     "title": "Sell to AI agents through AWS Marketplace",
     "type": "Breakout session",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
       "Business Agents"
@@ -59795,7 +60439,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Today, buyers are using autonomous AI agents for digital purchases on their behalf. AWS Marketplace has built a way for AI agents to transact securely and meet your customer's enterprise governance controls. As a seller in AWS Marketplace, learn how to sell products that support agentic procurement and capture this new market.",
+    "abstract": "Today, buyers are using autonomous AI agents for discovery and digital purchases on their behalf. AWS Marketplace enables buyers' agents to discover partner solutions, transact securely, and meet their enterprise governance controls. As a seller in AWS Marketplace, learn how to sell products that support agentic discovery and procurement to position your offerings for this new frontier.",
     "times": [
       {
         "id": "1791224280614001tICh",
@@ -60604,7 +61248,7 @@
     "code": "PEX320",
     "title": "AI-Powered Migrations: AWS Transform Across the Lifecycle",
     "type": "Builders' session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
       "Migration & Modernization"
@@ -60642,7 +61286,7 @@
     "code": "PEX321",
     "title": "Connecting sellers with their AWS Marketplace buyers",
     "type": "Lightning talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Architecture"
     ],
@@ -61155,7 +61799,7 @@
   {
     "id": "1780442265869001crXW",
     "code": "SEC106-S",
-    "title": "AI Under Fire: How to Stop AI-Powered Attacks and Secure AI Coding (sponsored by Palo Alto Networks)",
+    "title": "AI Under Fire: How to Stop AI-Powered Attacks and Secure AI Coding ",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -61172,7 +61816,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Frontier AI is transforming cyber threats, acting as a force multiplier across the kill chain. Adversaries leverage AI to scale social engineering, accelerate vulnerability discovery, and iterate malicious code. In this session, we highlight Palo Alto Networks’ approach to securing the frontier, by combining AI-powered Next-Generation Firewalls (NGFW) and Frontier Virtual Patching (FPV) to preemptively block zero days, alongside identity controls and Secure AI Coding to protect developer workflows. Attendees will learn how threat intelligence and proactive defense outpace machine scale adversaries. This presentation is brought to you by Palo Alto Networks, an AWS Partner.",
+    "abstract": "Frontier AI is transforming cyber threats, acting as a force multiplier across the kill chain. Adversaries leverage AI to scale social engineering, accelerate vulnerability discovery, and iterate malicious code. In this session, we highlight Palo Alto Networks’ approach to securing the frontier, by combining AI-powered Next-Generation Firewalls (NGFW) and Frontier Virtual Patching (FVP) to preemptively block zero days, alongside identity controls and Secure AI Coding to protect developer workflows. Attendees will learn how threat intelligence and proactive defense outpace machine scale adversaries. This presentation is brought to you by Palo Alto Networks, an AWS Partner.",
     "times": [
       {
         "id": "1790033121003001qR0Y",
@@ -61236,7 +61880,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61265,7 +61912,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61288,7 +61938,7 @@
   {
     "id": "1780442265568001cgp5",
     "code": "SEC202",
-    "title": "Track Cross-Domain Attack Vectors with AWS Security Hub Extended",
+    "title": "Track cross-domain attack vectors with AWS Security Hub extended",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -61363,8 +62013,13 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "IT Executive"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Post-quantum migrations succeed when the technical path and the organizational path are both clear. This session gives CISOs and senior technology leaders a governance-first approach to running a post-quantum migration across the organization. You learn how to build executive alignment, set up migration governance, prioritize across business units, and assign accountability. We also cover how AWS is deploying post-quantum algorithms across its services and how the shared responsibility model applies, so you can map your plan to NIST and CNSA 2.0 timelines.",
@@ -61386,13 +62041,16 @@
   {
     "id": "1780442248993001cBwW",
     "code": "SEC205",
-    "title": "Journey to Post Quantum (PQ) Authentication in AWS",
+    "title": "Journey to post-quantum (PQ) authentication in AWS",
     "type": "Chalk talk",
     "level": "200 – Intermediate",
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Cryptography and Post-Quantum",
+      "Identity & Access Management"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61421,7 +62079,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Digital Sovereignty",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -61450,7 +62111,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -62415,7 +63079,7 @@
   {
     "id": "1780442265696001ct2H",
     "code": "SEC234",
-    "title": "EU Operational Autonomy in Action: AWS European Sovereign Cloud",
+    "title": "EU operational autonomy in action: AWS European Sovereign Cloud",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -62653,7 +63317,7 @@
   {
     "id": "1780442222173001cKka",
     "code": "SEC303",
-    "title": "Network Security Innovations for Agentic Workloads ",
+    "title": "Network security innovations for agentic workloads",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -62685,7 +63349,7 @@
   {
     "id": "1780442231040001cvXa",
     "code": "SEC304",
-    "title": "From Commit to Secure: Catch vulnerabilities at machine speed with AWS Continuum",
+    "title": "From commit to secure: catch vulnerabilities at machine speed with AWS Continuum",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -62869,7 +63533,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Business Intelligence",
+      "Cost Optimization",
+      "Monitoring & Observability"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -62985,7 +63653,7 @@
   {
     "id": "1780442257414001cncX",
     "code": "SEC310",
-    "title": "Building Production-Ready Agents Securely: Lessons from AWS at Scale",
+    "title": "Building production-ready agents securely: lessons from AWS at scale",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -63021,7 +63689,7 @@
   {
     "id": "1780442230596001cI43",
     "code": "SEC311",
-    "title": "Closing the Loop: Using Frontier Agents for Continuous Governance",
+    "title": "Closing the loop: using frontier agents for continuous governance",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -63118,7 +63786,7 @@
   {
     "id": "1780442284370001cNj2",
     "code": "SEC315-R",
-    "title": "Advanced AWS Network Security: Defending Against Emerging Threats",
+    "title": "Advanced AWS network security: defending against emerging threats",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -63149,7 +63817,7 @@
   {
     "id": "1790358243580001i5PH",
     "code": "SEC315-R1",
-    "title": "Advanced AWS Network Security: Defending Against Emerging Threats",
+    "title": "Advanced AWS network security: defending against emerging threats",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -63180,13 +63848,16 @@
   {
     "id": "1780442230366001c67e",
     "code": "SEC316",
-    "title": "Crypto Escape Room: Race to migrate to quantum resistance",
+    "title": "Crypto escape room: race to migrate to quantum resistance",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Automation",
+      "Cryptography and Post-Quantum"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63331,7 +64002,7 @@
   {
     "id": "1780442249832001ch8t",
     "code": "SEC321-R",
-    "title": "Securing AI Coding Agents: Defense in Depth Across the Development Lifecycle",
+    "title": "Securing AI coding agents: defense in depth across the development lifecycle",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -63367,7 +64038,7 @@
   {
     "id": "1790358246558001iY0C",
     "code": "SEC321-R1",
-    "title": "Securing AI Coding Agents: Defense in Depth Across the Development Lifecycle",
+    "title": "Securing AI coding agents: defense in depth across the development lifecycle",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -63403,7 +64074,7 @@
   {
     "id": "1780442283775001cNHk",
     "code": "SEC322",
-    "title": "Investigating AI Threats: Extending IR to the Generative AI Layer",
+    "title": "Investigating AI threats: extending IR to the generative AI layer",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -63437,7 +64108,7 @@
   {
     "id": "1780442284605001chVc",
     "code": "SEC323-R",
-    "title": "Assume Breach, Prove Recovery: A ransomware resilience workshop",
+    "title": "Assume breach, prove recovery: a ransomware resilience workshop",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -63473,7 +64144,7 @@
   {
     "id": "1790877000123001NOUA",
     "code": "SEC323-R1",
-    "title": "Assume Breach, Prove Recovery: A ransomware resilience workshop",
+    "title": "Assume breach, prove recovery: A ransomware resilience workshop",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -63755,7 +64426,7 @@
   {
     "id": "1780442257587001ccZV",
     "code": "SEC3303",
-    "title": "Conquer Suricata: Simplify Rule Writing on AWS Network Firewall",
+    "title": "Conquer Suricata: simplify rule writing on AWS Network Firewall",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -63888,7 +64559,7 @@
   {
     "id": "1780442249221001cyUn",
     "code": "SEC334",
-    "title": "Threat Technique Catalog for AWS: Practical Controls for Real TTPs",
+    "title": "Threat technique catalog for AWS: practical controls for real TTPs",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -63922,7 +64593,7 @@
   {
     "id": "1780442250286001cl5A",
     "code": "SEC335-R",
-    "title": "AI-Assisted Incident Response: Preparing for AI-Assisted Offensive",
+    "title": "AI-assisted incident response: preparing for AI-assisted offensive",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -63955,7 +64626,7 @@
   {
     "id": "1790358224584001iSbC",
     "code": "SEC335-R1",
-    "title": "AI-Assisted Incident Response: Preparing for AI-Assisted Offensive",
+    "title": "AI-assisted incident response: preparing for AI-assisted offensive",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -64166,7 +64837,7 @@
   {
     "id": "1780442265628001cVxN",
     "code": "SEC340",
-    "title": "Good Fences Make Good Neighbours: A Network perimeter approach to data perimeters",
+    "title": "Good fences make good neighbors: a network perimeter approach to data perimeters",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -64503,7 +65174,7 @@
   {
     "id": "1780441502219001GmKT",
     "code": "SEC350-R",
-    "title": "Shared Judgment: Security Culture for the Agentic Era",
+    "title": "Shared judgment: security culture for the agentic era",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -64538,7 +65209,7 @@
   {
     "id": "1790875693688001I7vi",
     "code": "SEC350-R1",
-    "title": "Shared Judgment: Security Culture for the Agentic Era",
+    "title": "Shared judgment: security culture for the agentic era",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -64779,7 +65450,7 @@
   {
     "id": "1780442284055001c934",
     "code": "SEC357",
-    "title": "Quantum-Proof Your IoT Fleet: Migrate Devices to Post-Quantum Cryptography OTA",
+    "title": "Quantum-proof your IoT fleet: migrate devices to Post-quantum cryptography OTA",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -64878,7 +65549,7 @@
   {
     "id": "1780441481349001Gx7S",
     "code": "SEC360",
-    "title": "Innovation in Identity Security: How We Protect the Cloud & Help You Do It Too",
+    "title": "Innovation in identity security: how we protect the cloud & help you do it too",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -65314,7 +65985,7 @@
   {
     "id": "1780442257930001cFqN",
     "code": "SEC372",
-    "title": "Governing Hundreds of Accounts in Seconds: Agentic AI Meets Landing Zone Operations",
+    "title": "Governing hundreds of accounts in seconds: agentic AI meets Landing Zone operations",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -65488,7 +66159,7 @@
   {
     "id": "1780442265339001c4R2",
     "code": "SEC377",
-    "title": "Protect EKS and ECS Workloads Without Chasing Pod IPs",
+    "title": "Protect EKS and ECS workloads without chasing pod IPs",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -65592,7 +66263,7 @@
   {
     "id": "1787185292347001XNJT",
     "code": "SEC381",
-    "title": "Automated Compliance Evidence from Day One",
+    "title": "Automated compliance evidence from day one",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -65931,7 +66602,7 @@
   {
     "id": "1788294137064001mZqq",
     "code": "SEC391",
-    "title": "Securing Your AI-Accelerated Software Supply Chain with AWS Well-Architected",
+    "title": "Securing your AI-accelerated software supply chain with AWS Well-Architected",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -66056,7 +66727,7 @@
   {
     "id": "1780442283716001c7a8",
     "code": "SEC403",
-    "title": "Red Team CTF: When Auth and Guardrails Aren't Enough",
+    "title": "Red team CTF: when auth and guardrails aren't enough",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -66089,7 +66760,7 @@
   {
     "id": "1780442230419001cZLA",
     "code": "SEC404",
-    "title": "Ship Permissions Faster: IAM Policy Tools in Your CI/CD Pipeline",
+    "title": "Ship permissions faster: IAM policy tools in your CI/CD pipeline",
     "type": "Builders' session",
     "level": "400 – Expert",
     "topics": [
@@ -66159,7 +66830,7 @@
   {
     "id": "1780442230533001cMnA",
     "code": "SEC406",
-    "title": "Navigating the Inter-workings of an Agentic SOC & Threat Hunting Analyst",
+    "title": "Navigating the inter-workings of an agentic SOC & threat hunting analyst",
     "type": "Builders' session",
     "level": "400 – Expert",
     "topics": [
@@ -66329,7 +67000,7 @@
   {
     "id": "1780442283885001cNQT",
     "code": "SEC409",
-    "title": "Threat Detection and IR in AgentCore Workloads",
+    "title": "Threat detection and IR in AgentCore workloads",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -66427,7 +67098,7 @@
   {
     "id": "1780442249114001cK1l",
     "code": "SEC412",
-    "title": "Crossing the kill chain: IR when attackers pivot between clouds.",
+    "title": "Crossing the kill chain: IR when attackers pivot between clouds",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -66527,7 +67198,7 @@
   {
     "id": "1780442284727001cd1E",
     "code": "SEC416",
-    "title": "Orchestrating AI Agents for Continuous Code Security Hardening",
+    "title": "Orchestrating AI agents for continuous code security hardening",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -66666,7 +67337,7 @@
     "code": "SEC423-R",
     "title": "Faster root cause analysis for IAM access denied errors ",
     "type": "Chalk talk",
-    "level": "400 – Expert",
+    "level": "300 – Advanced",
     "topics": [
       "Security & Identity"
     ],
@@ -66763,7 +67434,7 @@
   {
     "id": "1780442222644001ceqg",
     "code": "SEC425",
-    "title": "From Proofs to Production: Neurosymbolic AI and Provable Security",
+    "title": "From proofs to production: Neurosymbolic AI and provable security",
     "type": "Breakout session",
     "level": "400 – Expert",
     "topics": [
@@ -66835,7 +67506,7 @@
   {
     "id": "1780442258053001cweq",
     "code": "SEC427",
-    "title": "Threat Modeling the Agentic SDLC: From User Story to Deployment",
+    "title": "Threat modeling the agentic SDLC: from user story to deployment",
     "type": "Code talk",
     "level": "400 – Expert",
     "topics": [
@@ -67176,7 +67847,7 @@
   {
     "id": "1780442249770001cmHP",
     "code": "SEC435",
-    "title": "Tokenomics of Attacks: How AWS Defends You from AI-Powered Threats",
+    "title": "Tokenomics of attacks: how AWS defends you from AI-powered threats",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -67390,7 +68061,7 @@
   {
     "id": "1780442221285001cwfU",
     "code": "SNR306",
-    "title": "A leader's guide to why your AI governance can't keep up ",
+    "title": "A leader’s guide to governing AI, on behalf of humans",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -67405,11 +68076,12 @@
     ],
     "roles": [
       "Business Executive",
+      "Cloud Security Specialist",
       "IT Executive"
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Your governance model is built of deterministic applications, platforms, and infrastructure. The AI of your organization is reasoning, problem solving, and acting with agency. The governance model you need requires your traditional technology controls but also needs the controls, auditability, and observability for the things you are worried about when your AI acts more like humans than the prescriptive hard coded software we are used to. Monitoring not just the applications but the decisions it takes and how your workforce is interacting with it.",
+    "abstract": "AI deployments can reason, problem-solve, and act with increasing agency. Yet governance models built for deterministic software are no longer sufficient.\nAWS Executive in Residence Ryan Seaman and Dr. Bernadette Han, organizational psychologist at the American Psychological Association (APA), bring technology and human behavior into one governance conversation. As AI interacts with people, influences decisions, and takes actions, governance must address not only what AI can do, but how it behaves with people and what happens as a result.\nBernadette introduces the EEI-AI Behavioral Architecture™, translating psychological science into behavioral requirements organizations can design for, test, observe, and govern responsibly.",
     "times": [
       {
         "id": "1790025521900001CQcg",
@@ -67810,7 +68482,7 @@
     "code": "STG101",
     "title": "Running SAN workloads on Amazon EBS",
     "type": "Lightning talk",
-    "level": "",
+    "level": "100 – Foundational",
     "topics": [
       "Storage"
     ],
@@ -68012,7 +68684,7 @@
     "code": "STG205",
     "title": "Cost optimization techniques for Amazon EBS ",
     "type": "Breakout session",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Storage"
     ],
@@ -68049,7 +68721,7 @@
     "code": "STG206",
     "title": "Design for resiliency in Amazon EBS ",
     "type": "Breakout session",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Storage"
     ],
@@ -70507,7 +71179,7 @@
     "code": "STG368",
     "title": "Deep dive into recent Amazon S3 launches",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Analytics",
       "Storage"
@@ -70545,7 +71217,7 @@
     "code": "STG369",
     "title": "AWS Backup: Architecture deep dive",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Storage"
     ],
@@ -70582,7 +71254,7 @@
     "code": "STG370",
     "title": "What's new with AWS Backup",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Security & Identity",
       "Storage"
@@ -71431,7 +72103,7 @@
     "code": "STG422",
     "title": "Dive deep into resilience architectures for Amazon EBS",
     "type": "Chalk talk",
-    "level": "",
+    "level": "400 – Expert",
     "topics": [
       "Storage"
     ],
@@ -71726,7 +72398,7 @@
     "code": "SVS209",
     "title": "Everything your web app needs in one place",
     "type": "Lightning talk",
-    "level": "",
+    "level": "200 – Intermediate",
     "topics": [
       "Developer Tools",
       "Serverless"
@@ -74166,12 +74838,11 @@
     "code": "SVS349",
     "title": "Managing Lambda Runtimes at Scale for Platform Teams",
     "type": "Chalk talk",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Serverless"
     ],
     "areasOfInterest": [
-      "DNU - Serverless",
       "Lambda-Based Applications"
     ],
     "roles": [
@@ -74202,12 +74873,11 @@
     "code": "SVS350",
     "title": "Building Interactive Web Applications on AWS Lambda",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Serverless"
     ],
     "areasOfInterest": [
-      "DNU - Serverless",
       "Front-End Web & Mobile",
       "Lambda-Based Applications"
     ],
@@ -74239,14 +74909,13 @@
     "code": "SVS351",
     "title": "Lambda Managed Instances: EC2 Power with Serverless Simplicity",
     "type": "Breakout session",
-    "level": "",
+    "level": "300 – Advanced",
     "topics": [
       "Compute",
       "Serverless"
     ],
     "areasOfInterest": [
       "Cost Optimization",
-      "DNU - Serverless",
       "Lambda-Based Applications"
     ],
     "roles": [
