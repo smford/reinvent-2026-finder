@@ -539,7 +539,7 @@
   {
     "id": "1780442269822001ckp6",
     "code": "AIM116-S",
-    "title": "Fuel Intelligent AI Agents with Trusted Enterprise Context (sponsored by Salesforce)",
+    "title": "Fuel Intelligent AI Agents with Trusted Enterprise Data (Sponsored by Informatica)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -557,7 +557,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive context envelope needed to power reliable AI workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success This presentation is brought to you by Salesforce, an AWS Partner.",
+    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success.",
     "times": [
       {
         "id": "1790033120457001qG8R",
@@ -17691,7 +17691,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "You expanded fast, but your hiring didn't keep up. What started as seasonal growth has become a scramble of manual screening, scheduling delays, and fragile workarounds that can't keep pace with your brand — forcing the impossible choice between speed and quality. Hear how Universal Studios replaced weeks-long hiring with Amazon Connect Talent, putting AI teammates to work running science-backed candidate assessments and AI-led interviews that take candidates from application to same-day offer — evaluated on the substance of their answers. Built on AWS with Amazon's proven hiring science, Amazon Connect Talent ensures recruiters stay in control of every decision. ",
+    "abstract": "You expanded fast, but your hiring didn't keep up. What started as seasonal growth has become a scramble of manual screening, scheduling delays, and fragile workarounds that can't keep pace with your brand — forcing the impossible choice between speed and quality. Hear how a customer replaced weeks-long hiring with Amazon Connect Talent, putting AI teammates to work running science-backed candidate assessments and AI-led interviews that take candidates from application to same-day offer — evaluated on the substance of their answers. Built on AWS and informed by Amazon's hiring science, Amazon Connect Talent ensures recruiters stay in control of every decision. ",
     "times": [
       {
         "id": "1790025545159001CAql",
@@ -17807,7 +17807,7 @@
   {
     "id": "1780441465661001Gaxd",
     "code": "BIZ107",
-    "title": "From Pilot to Production in weeks with the Agentic CX Designer",
+    "title": "How EchoStar Turned CX and IT Into One Team to Ship AI Experiences",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -17817,7 +17817,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Most conversational AI initiatives never reach production, stuck in months of custom integration work and developer hand offs. Amazon Connect Customer's agentic CX designer changes that. Learn how a no-code visual canvas lets CX business teams blend deterministic steps like identity verification, payments, and compliance disclosures with agentic AI that reasons and acts, all in one governed flow. Go from concept to live in weeks, not months, with built-in governance at no additional cost. Walk away with a practical approach to closing the production gap.",
+    "abstract": "Most companies treat conversational AI as a technology rollout. EchoStar, the company behind DISH, treated it as a chance to reset how CX and IT work together. Instead of handing specs back and forth, the two teams now build side by side in Amazon Connect Customer, shaping and testing each experience before it goes live. CX owns the customer experience. IT owns data, security, and standards. Changes that took six to eight weeks now ship in about one week - roughly 6× faster. Hear from Echostar's CX and IT leaders on how they transformed their operating model, and leave with a framework to start the same shift.",
     "times": [
       {
         "id": "1790025546820001C5WC",
@@ -18588,7 +18588,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Your AI pilot proved value with a small team. Now you need to deploy across the organization without a dedicated rollout team and without losing what made it work. Hear from a customer who scaled Amazon Quick from an initial deployment to thousands of users across their enterprise. Learn the phased strategy they used to expand Quick's capabilities: connecting teams to enterprise data, automating repetitive workflows, and rolling out agentic features that kept usage growing after the initial adoption wave. Discover what metrics justified continued investment and the operational model they built so scaling Quick did not create a support burden for IT. Walk away with a repeatable framework for taking Amazon Quick from proof-of-concept to production deployment across your organization.",
+    "abstract": "EchoStar evaluated 11 AI assistants before selecting Amazon Quick, which was then deployed to 8,000 employees with training and pre-populated skills. Next in EchoStar’s plans are integrating Quick with a third party gateways for observability and governance. Come and hear how this was done, uptake and innovations improving the efficiency of employees and teams. Discover some of the challenges integrating into existing enterprise systems, the continued activities needed to keep advancing high value usage and what are the appropriate metrics to track. Walk away with a repeatable framework for taking Amazon Quick from pilot to production and enterprise efficiency.",
     "times": [
       {
         "id": "1790025550222001CxFr",
@@ -31627,7 +31627,7 @@
   {
     "id": "1780442237529001c61u",
     "code": "COP338",
-    "title": "Correlate app signals to infra root cause in hybrid environments",
+    "title": " High latency! Is it the code, the container, or the host?",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -39467,7 +39467,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Whether you're shipping a monolith or hundreds of microservices, every change needs to reach production safely and quickly. AWS gives you a unified set of tools to plan, build, test, and deploy code—with safety woven into every stage. In this session, learn how to assemble end-to-end CI/CD pipelines using infrastructure as code, then layer in safe-deployment strategies—canary and linear traffic shifting, automated CloudWatch alarm gates, and one-click stage rollbacks—so you can release with confidence and recover in seconds when something goes wrong.",
+    "abstract": "Whether you're shipping a monolith or hundreds of microservices, every change needs to reach production safely and quickly. In this session, learn how to build a CI/CD pipeline with AWS CodePipeline and AWS CodeBuild using infrastructure as code. The pipeline will utilize AI agents running on Amazon Bedrock to review every change—pull requests and direct commits alike—for security flaws, code quality, architecture, and accessibility. The agents report what they find, while you write rules to determine whether ship...or stop. AWS CodeDeploy will orchestrate canary deployments that roll back automatically when an issue is detected by an Amazon CloudWatch alarm.",
     "times": [
       {
         "id": "1790025474413001C82n",
@@ -41546,7 +41546,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Eliminating long-lived credentials across clouds is essential for secure multicloud operations. This session presents three proven identity federation patterns: using SPIFFE/SPIRE for cryptographic workload identity across Kubernetes clusters, leveraging native OIDC providers from GKE and Azure to assume AWS IAM roles with short-lived tokens, and federating Kubernetes service accounts across cloud boundaries. We walk through architecture decisions, trust policy design, and security best practices for each approach - covering GCP Workload Identity, Microsoft Entra ID federation, and cross-cluster OIDC. Attendees leave with actionable blueprints for credential-free multicloud access. ",
+    "abstract": "Eliminating long-lived credentials across clouds is essential for secure multicloud operations. This session presents three proven identity federation patterns: leveraging native OIDC providers from Google Cloud and Microsoft Azure to assume AWS IAM roles with short-lived tokens, federating Kubernetes service accounts across cloud boundaries, and using SPIFFE/SPIRE for cryptographic workload identity across Kubernetes clusters. We walk through architecture decisions, trust policy design, and security best practices for each approach - covering GCP Workload Identity, Microsoft Entra ID federation, and cross-cluster OIDC. Attendees leave with actionable blueprints for credential-free multicloud access.",
     "times": [
       {
         "id": "1790025493206001CaUN",
@@ -45027,7 +45027,7 @@
   {
     "id": "1780441476713001Goxq",
     "code": "IND3305",
-    "title": "How Citizens Bank reimagined CX with Amazon Connect and generative AI",
+    "title": "How Citizens Bank reimagined CX with Amazon Connect Customer & GenAI",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -45045,7 +45045,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Citizens Financial Group is transforming its customer service ecosystem using Amazon Connect, Amazon Lex, and generative AI. In this session, learn how Citizens migrated legacy IVR and contact center infrastructure to Amazon Connect, deployed conversational AI across voice and digital channels, and integrated generative AI-powered agent assist and real-time conversation intelligence. We cover the solution architecture spanning Amazon Connect, Amazon Lex, Amazon Bedrock, AWS Lambda, and Amazon EventBridge, along with measurable outcomes in containment rates, handle time, and routing accuracy. Attendees will gain a practical blueprint for enterprise-scale customer experience transformation in financial services.",
+    "abstract": "Citizens Financial Group is transforming its customer service ecosystem using Amazon Connect Customer, Amazon Lex, and generative AI. In this session, learn how Citizens migrated legacy IVR and contact center infrastructure to Amazon Connect Customer, deployed conversational AI across voice and digital channels, and integrated generative AI-powered agent assist and real-time conversation intelligence. We cover the solution architecture spanning Amazon Connect Customer, Amazon Lex, Amazon Bedrock, AWS Lambda, and Amazon EventBridge, along with measurable outcomes in containment rates, handle time, and routing accuracy. Attendees will gain a practical blueprint for enterprise-scale customer experience transformation in financial services.",
     "times": [
       {
         "id": "1791230647350001t7UD",
@@ -51583,6 +51583,33 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Room 350",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1787854505699001jnYT",
+    "code": "JPN101",
+    "title": "Japan Wrap-up Session",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "This session will be delivered in Japanese and provides a comprehensive recap of the major announcements and strategic updates from the keynote sessions throughout the event. Experienced speakers will summarize the most impactful innovations and key messages from AWS leadership. Designed for a broad audience, from developers and engineers to business decision-makers, this session will help you identify and prioritize the announcements most relevant to your organization. It will also help you prepare to share what you learned at re:Invent with your teams when you return to the office",
+    "times": [
+      {
+        "id": "1791388541955001MvaB",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -60335,7 +60362,7 @@
   {
     "id": "1780442264978001cUvj",
     "code": "PEX213",
-    "title": "The Economics of an AWS Partner: Revenue, Incentives & Marketplace",
+    "title": "The Economics of an AWS Partner: Revenue, Incentives & AWS Marketplace",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -60353,7 +60380,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "A forward-looking session reframing Partner economics for the year ahead. Revenue measurement is no longer just tracking—it's the  backbone connecting all Partner programs. Walk away with a clear action plan to position for next-year advantages.",
+    "abstract": "A forward-looking session reframing Partner economics for the year ahead. Revenue measurement is no longer just tracking, it's the backbone connecting all AWS Partner Programs. Walk away with a clear action plan to position for next year’s benefits.",
     "times": [
       {
         "id": "1790033123530001qid1",
@@ -67929,7 +67956,7 @@
   {
     "id": "1780442221009001cooY",
     "code": "SNR301",
-    "title": "A leader's guide to why your AI economics are wrong",
+    "title": "A leader's guide to predicting and proving AI value",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -67947,7 +67974,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Most AI business cases use ROI frameworks built for deterministic systems, measuring cost avoidance while missing the metrics that predict success. The gap between pilot and production economics is 10-50x, and most finance teams still model AI as capital expense rather than variable. This session names the three assumptions that guarantee your AI business case is wrong, and the costs that blindside CFOs in production. It presents the financial model Amazon uses internally to forecast AI operating expenditure. You leave knowing which line items to remove from your next business case, and which to add that nobody tracks yet.",
+    "abstract": "Every organization faces the same AI questions: How do we predict and manage costs? How do we prove value when outcomes are hard to measure? How do we move fast without losing control? Two finance leaders, one advising enterprise executives and one managing AI economics at scale inside Amazon, share what is working, what is not, and where teams go wrong. Learn how to measure AI cost and value in terms finance and technology leaders agree on, which guardrails to set as investment grows, and how to make the case for AI value to your board.",
     "times": [
       {
         "id": "1790110823016001cVt9",
@@ -68119,8 +68146,7 @@
     "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
-      "Business Agents",
-      "Security & Identity"
+      "Business Agents"
     ],
     "areasOfInterest": [
       "Agentic AI",
@@ -68134,7 +68160,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AI deployments can reason, problem-solve, and act with increasing agency. Yet governance models built for deterministic software are no longer sufficient.\nAWS Executive in Residence Ryan Seaman and Dr. Bernadette Han, organizational psychologist at the American Psychological Association (APA), bring technology and human behavior into one governance conversation. As AI interacts with people, influences decisions, and takes actions, governance must address not only what AI can do, but how it behaves with people and what happens as a result.\nBernadette introduces the EEI-AI Behavioral Architecture™, translating psychological science into behavioral requirements organizations can design for, test, observe, and govern responsibly.",
+    "abstract": "AI deployments can reason, problem-solve, and act with increasing agency. Leaving governance models built for deterministic software no longer sufficient.\nAWS Executive in Residence Ryan Seaman and Dr. Bernadette Han, organizational psychologist at the American Psychological Association (APA), bring technology and human behavior into one governance conversation. As AI interacts with people, influences decisions, and takes actions, governance must address not only what AI can do, but how it behaves with people and what happens as a result.\nBernadette introduces the EEI-AI Behavioral Architecture™, translating psychological science into behavioral requirements organizations can design for, test, observe, and govern responsibly.",
     "times": [
       {
         "id": "1790025521900001CQcg",
@@ -68343,7 +68369,7 @@
   {
     "id": "1783654976546001dEAE",
     "code": "SNR316",
-    "title": " A leader's guide to the hardest investment decision in AI",
+    "title": "A leader's guide to moving from AI investment gridlock to acceleration",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -68361,7 +68387,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Fund the platform or fund the use case? Demand proof before investing or invest to generate the proof? Scale the winner or explore the next opportunity? These decisions determine whether AI compounds or stalls, and they require the CIO and CFO to act together. Two former operators share how the best CIO-CFO pairs align on what to fund, what to kill, and what \"good enough evidence\" looks like when certainty isn't available. You leave with the approach that replaces \"requestor and approver\" with co-ownership, and the questions every pair should answer before their next AI investment. ",
+    "abstract": "Fund the platform or the use case? Demand proof before investing, or invest to generate the proof? These decisions determine whether AI compounds or stalls, and can't wait for the annual budget cycle. To move at the pace of AI, the CIO and CFO must be in lockstep. Two former operators share how the best pairs manage AI like a venture portfolio: bets in the face of uncertainty, recycling of wins into the next ones, and governance that scales across the portfolio rather than project by project — plus the key questions every pair should answer before their next AI investment.",
     "times": [
       {
         "id": "1790025506683001CpQY",
@@ -74467,7 +74493,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Serverless architectures that worked well for API backends and event processing now have a new type of consumer: AI agents that call your functions as tools, generate events, and write code that deploys alongside yours. In this session, we cover what actually changes: function design patterns for agent consumption, orchestration choices for non-deterministic workflows, cost governance when an agent loop calls 200 functions in a single reasoning chain, and observability that tracks token spend alongside invocation metrics. We also cover what doesn't change, and where existing Serverless patterns hold up without modification.",
+    "abstract": "Serverless architectures that worked well for API backends and event processing now have a new type of consumer: AI agents that call your functions as tools, generate events, and write code that deploys alongside yours. In this session we cover where existing serverless patterns hold up without modification, what actually changes, and how to start with what you have and add only what you need. See how the calls you already run can become tools that describe themselves to the agent that uses them. Learn how coding agents and skills make best practices part of every build, and where doing less with AI pays off.",
     "times": [
       {
         "id": "1790025493839001Cruc",
