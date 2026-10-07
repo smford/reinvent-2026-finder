@@ -9584,7 +9584,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Bring a representative prompt set from your own workload and optimize it live. In this builders session, you apply prompt caching, configure Intelligent Prompt Routing, and right-size model choice for the best price-performance, measuring token cost before and after each change. You see exactly which levers move the needle for your traffic and which do not. Leave with a cost optimization playbook tuned to what you run and the evidence to support each decision.",
+    "abstract": "Learn how to cut the cost of your AI workloads without sacrificing quality. In this builders session, you work through a curated set of representative prompts and apply three high-impact levers: prompt caching, Intelligent Prompt Routing, and right-sizing model choice. You measure token cost before and after each change, so you see exactly which levers move the needle and which do not. You're welcome to bring a prompt from your own workload to test alongside the guided examples. Leave with a repeatable cost optimization playbook and the evidence to support each decision.",
     "times": [
       {
         "id": "1790025490178001Cg3u",
@@ -9613,7 +9613,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Bring a representative prompt set from your own workload and optimize it live. In this builders session, you apply prompt caching, configure Intelligent Prompt Routing, and right-size model choice for the best price-performance, measuring token cost before and after each change. You see exactly which levers move the needle for your traffic and which do not. Leave with a cost optimization playbook tuned to what you run and the evidence to support each decision.",
+    "abstract": "Learn how to cut the cost of your AI workloads without sacrificing quality. In this builders session, you work through a curated set of representative prompts and apply three high-impact levers: prompt caching, Intelligent Prompt Routing, and right-sizing model choice. You measure token cost before and after each change, so you see exactly which levers move the needle and which do not. You're welcome to bring a prompt from your own workload to test alongside the guided examples. Leave with a repeatable cost optimization playbook and the evidence to support each decision.",
     "times": [
       {
         "id": "1790360390537001AIHf",
@@ -10680,17 +10680,15 @@
   {
     "id": "1780442269174001cP7n",
     "code": "AIM457-S",
-    "title": "How AI Is Transforming Enterprise Application Support (sponsored by HCLTech)",
+    "title": "From reactive operations to autonomous resilience: How Agentic AI is redefining SRE",
     "type": "Lightning talk",
     "level": "400 – Expert",
     "topics": [
-      "Application Integration",
-      "Architecture",
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Business Agents"
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Application Security",
       "Cost Optimization"
     ],
     "roles": [
@@ -10699,7 +10697,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Application support is evolving from reactive issue handling to proactive, AI-native operations. This session presents a proven customer blueprint for governed AI agents that monitor applications, detect anomalies early, analyze root causes, and automate approved remediation while preserving security, compliance, and human oversight. Based on HCLTech's financial services experience, it shares practical lessons for adopting AI-driven operations that reduce support costs, improve application availability, accelerate incident resolution, and free support teams to focus on higher-value business outcomes. Attendees will learn how organizations can operationalize agentic capabilities responsibly, integrate them into existing support models, and create measurable value across modern application management. This presentation is brought to you by HCLTech, an AWS Partner.",
+    "abstract": "Traditional SRE was built to restore systems quickly, but today’s complex, distributed environments demand more than reactive operations. This lightning session explores how agentic AI is redefining SRE by enabling autonomous detection, decision-making, remediation, and continuous learning. It examines how observability can extend beyond infrastructure metrics to connect system health with customer experience and business outcomes. Attendees will learn how AI, observability, and operations are converging to create resilient, self-optimizing environments, why autonomous resilience is becoming a competitive advantage, and the practical steps organizations can take to progress toward Level 5 autonomous operations while retaining appropriate human oversight and governance",
     "times": [
       {
         "id": "1790033123130001qVfG",
@@ -12228,6 +12226,35 @@
     ]
   },
   {
+    "id": "1780441462093001G6Rs",
+    "code": "ANT349",
+    "title": "Cost-effective serverless data integrations and workflows for AI-ready data",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI is only as good as the data beneath it and building high-quality, well-integrated data products shouldn't break your budget. In this session, learn how to build cost-effective AI-ready datasets using AWS Glue, Amazon MWAA and Apache Iceberg. We'll show how Glue Data Quality and Glue serverless ETL, now with generative AI-assisted development, lets you ingest, transform, and prepare high-quality data at scale. We’ll demonstrate how Amazon MWAA serverless empowers a single DAG to coordinate workloads across AWS Glue, and other engines - all of this while paying only for what you use. Pairing this setup with Apache Iceberg further enhances your AI workloads with query-ready production data pipelines that move the needle without breaking the bank.",
+    "times": [
+      {
+        "id": "1790025497852001Ch39",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442274284001c7uQ",
     "code": "ANT401",
     "title": "Data governance for trustworthy AI: from raw data to trusted products",
@@ -12866,35 +12893,6 @@
     ]
   },
   {
-    "id": "1780441462093001G6Rs",
-    "code": "ANT421",
-    "title": "Cost-effective serverless data integrations and workflows for AI-ready data",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Analytics"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "AI is only as good as the data beneath it and building high-quality, well-integrated data products shouldn't break your budget. In this session, learn how to build cost-effective AI-ready datasets using AWS Glue, Amazon MWAA and Apache Iceberg. We'll show how Glue Data Quality and Glue serverless ETL, now with generative AI-assisted development, lets you ingest, transform, and prepare high-quality data at scale. We’ll demonstrate how Amazon MWAA serverless empowers a single DAG to coordinate workloads across AWS Glue, and other engines - all of this while paying only for what you use. Pairing this setup with Apache Iceberg further enhances your AI workloads with query-ready production data pipelines that move the needle without breaking the bank.",
-    "times": [
-      {
-        "id": "1790025497852001Ch39",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
-        "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
     "id": "1780441462170001GiHB",
     "code": "ANT422",
     "title": "Accelerating Apache Spark 4.1 workloads with AWS Analytics",
@@ -13094,6 +13092,35 @@
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Debussy 1",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442232894001cmGV",
+    "code": "ANT427",
+    "title": "Design an open, cost-effective and high-performant lakehouse with Apache Iceberg on",
+    "type": "Chalk talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "What does it take to build a lakehouse that's open, fast, and cost-effective? In this chalk talk, we unpack real architectural decisions behind Apache Iceberg on AWS—from Amazon S3 Tables (delivering up to 3x faster queries and 10x higher TPS) to unified metadata management with the AWS Glue Data Catalog across Athena, EMR, and Glue ETL. Bring your questions as we whiteboard trade-offs around schema evolution, ACID transactions, time-travel queries, and avoiding vendor lock-in. Leave with actionable patterns tailored to your workload.",
+    "times": [
+      {
+        "id": "1791347461759001ogjx",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -14096,7 +14123,10 @@
       "Application Integration"
     ],
     "areasOfInterest": [],
-    "roles": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Secure your APIs with confidence and build them faster. In this builders' session, dive into Amazon API Gateway authorization strategies including Amazon Cognito user pools, Amazon Verified Permissions, Lambda custom authorizers, IAM authorizers, and machine-to-machine scenarios. Through hands-on exercises, implement each strategy and understand their trade-offs. Once secured, ship faster—use Kiro CLI, OpenAPI, and MCP servers to go from spec to deployed API in minutes. You must bring your laptop to participate.",
@@ -25616,6 +25646,42 @@
     ]
   },
   {
+    "id": "1791258325067001SszH",
+    "code": "COM347",
+    "title": "Beyond Prompts: Crafting Production GenAI from Scratch",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Application Integration",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect",
+      "Student"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Building reliable GenAI applications requires deliberate systems engineering, not just prompt engineering. \nAfter collaborating with AWS Professional Services on an enterprise client, I learned how to build production-grade web apps the official AWS way. \n\nBypassing basic buzzwords, we map a compound serverless conversational assistant engineered from scratch using AWS CDK, CloudFront, Cognito, API Gateway, and ⁠Amazon Bedrock. \n\nExamine how to handle real-world token streaming failures, manage state in DynamoDB, and implement strict Infrastructure as Code. Leave with complete source code and a concrete approach to balancing model performance against infrastructure cost in highly concurrent production environments.",
+    "times": [
+      {
+        "id": "1791268537379001Cekb",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "09:20",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:20 AM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441467012001Gp1V",
     "code": "COM401",
     "title": "AI Didn't Wait for Security: Now What?",
@@ -31525,7 +31591,7 @@
   {
     "id": "1780441466902001GACP",
     "code": "COP337",
-    "title": "Building AI-powered, app-centric unified observability",
+    "title": "Wrong, Not Broken, & Why your Observability should know the difference",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -31542,7 +31608,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Your apps run everywhere, but you're still switching tabs to understand what's happening. In this session, we'll show how CloudWatch delivers AI-powered, app-centric infrastructure monitoring where you already work. We'll walk through how unified observability connects application health to underlying infrastructure across hybrid and multi-cloud environments, and how AI surfaces the insights that matter before you go looking. You'll see how CloudWatch shifts from reactive dashboards to proactive, intelligent monitoring that meets you where you are.",
+    "abstract": "Agentic applications need different access patterns and tooling than traditional apps. Teams often stitch together several tools and act as the human orchestrator just to answer a basic question: is my agent doing what the business needs? That gets harder when the agent runs on one cloud and calls models or APIs on another. In this session, we show how CloudWatch Omni brings AI agents and applications across clouds into one view, accelerating root cause whether its due to performance, availability or response quality.",
     "times": [
       {
         "id": "1790025520581001C8Fk",
@@ -41142,7 +41208,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "While most workloads can be migrated to the cloud, some remain on-premises or at the edge due to low latency, local data processing, or data residency needs. AWS services like AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories extend AWS infrastructure, services, APIs, and tools wherever you need them, from metro areas to on-premises data centers and the far edge. Explore how these infrastructure services power a broad range of hybrid cloud and edge computing use cases such as  financial trading, robotic control, and manufacturing. Learn how AWS can help you meet digital sovereignty needs, run generative AI applications with on-premises and edge data, and accelerate migration and modernization of virtualized, containerized, and bare-metal workloads with on-premises dependencies.",
+    "abstract": "While most workloads can run in the cloud, some remain on-premises or at the edge due to low latency, local data processing, or data residency needs. AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories extend AWS services, APIs, and tools to metro areas, on-premises data centers, and the far edge. Explore how these infrastructure offerings power a broad range of hybrid cloud and edge computing use cases such as financial trading, robotic control, and manufacturing. Learn how AWS can help you accelerate migration and modernization of virtualized, containerized, and bare-metal workloads with on-premises dependencies, meet digital sovereignty needs for regulated workloads, and run generative AI applications with on-premises and edge data.",
     "times": [
       {
         "id": "1790025525646001Cejx",
@@ -41385,7 +41451,7 @@
   {
     "id": "1780441475015001GXRk",
     "code": "HMC303",
-    "title": "AI workloads from cloud to edge: Choosing the right hybrid deployment",
+    "title": "Choosing the right hybrid deployment for your AI workloads",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -41404,7 +41470,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations are running AI workloads, including training, inference, fine-tuning, and reinforcement learning, across an expanding set of environments, from AWS Regions to AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories. The right deployment option depends on latency, data sovereignty, compute density, and scale. Explore how customers deploy GPU-accelerated AI across the full hybrid spectrum: low-latency inference at the edge, NVIDIA GPU-based and AWS Trainium-powered instances in Local Zones, purpose-built AWS AI Factories for large-scale training and model serving, and edge deployments for real-time applications like robotics. Hear how customers navigate these decisions and learn architectural patterns for placing AI workloads where your data lives, without compromising performance or compliance.",
+    "abstract": "Organizations are running AI workloads, including training, inference, fine-tuning, and reinforcement learning, across an expanding set of environments, spanning AWS Regions, AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories. The right deployment option depends on latency, data sovereignty, compute density, and scale. Explore how customers deploy GPU-accelerated AI across the full hybrid spectrum: NVIDIA GPU-based and AWS Trainium-powered instances in Local Zones, purpose-built AWS AI Factories for large-scale training and model serving, and edge deployments for real-time inference. Hear how customers navigate these decisions and learn which environment fits each AI workload, without compromising performance or compliance.",
     "times": [
       {
         "id": "1790025474691001CNSh",
@@ -41443,7 +41509,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations with data residency and digital sovereignty requirements face a critical question: how do you move workloads from on-premises infrastructure to AWS Outposts without disrupting compliance posture or operations? This Level 300 session distills lessons from migrating customers to Outposts across industries, organization sizes, and migration strategies. We walk through the processes that delivered results, the quantifiable outcomes we measured, and the critical mistakes we learned to avoid. You leave with a practical playbook for selecting the right migration approach, navigating common blockers, and accelerating Outposts adoption. We also cover transitioning from first-generation to second-generation Outposts hardware.",
+    "abstract": "Organizations with data residency and digital sovereignty requirements face a critical question: how do you move workloads from on-premises infrastructure to AWS Outposts without disrupting compliance posture or operations? This Level 300 session distills lessons from migrating customers to Outposts across industries, organization sizes, and migration strategies. We walk through the processes that delivered results, the quantifiable outcomes we measured, and the critical mistakes we learned to avoid. Learn how to select the right migration approach and navigate common blockers. We also cover transitioning from first-generation to second-generation Outposts hardware.",
     "times": [
       {
         "id": "1790025477136001Cj4T",
@@ -41612,7 +41678,7 @@
   {
     "id": "1780442263361001cMqc",
     "code": "HMC307",
-    "title": "Scaling interactive GenerativeAI at Netflix with AWS Local Zones",
+    "title": "Scaling interactive generative AI at Netflix with AWS Local Zones",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -41630,7 +41696,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Generative AI VFX and Animation teams at Netflix require the latest GPU hardware for creative workflows including real-time rendering, VFX editorial, and color correction. These workloads demand low-latency access to high-performance compute close to creative teams. AWS Local Zones make this possible by placing G7e instances with NVIDIA RTX PRO 6000 GPUs in the Los Angeles metro. Netflix's Studio GenAI Infrastructure, including GenAI Sessions and Universal Compute Service, uses Local Zones to serve just-in-time combinations of software and hardware in secure, isolated sandbox environments. Tools like ComfyUI and AIToolkit with complex dependencies run on task-oriented, elastic GPU assignments, so Netflix scales creative AI workloads efficiently without managing physical infrastructure.",
+    "abstract": "Generative AI VFX and Animation teams at Netflix require the latest GPU hardware for creative workflows, including real-time rendering, VFX editorial, and color correction. These workloads demand low-latency access to high-performance compute close to creative teams. AWS Local Zones make this possible by placing Amazon EC2 G7e instances with NVIDIA RTX PRO 6000 GPUs in the Los Angeles metro. Netflix's Studio GenAI Infrastructure, including GenAI Sessions and Universal Compute Service, uses Local Zones to serve just-in-time combinations of software and hardware in secure, isolated sandbox environments. Tools like ComfyUI and AI Toolkit with complex dependencies run on task-oriented, elastic GPU assignments, so Netflix scales creative AI workloads efficiently without managing physical infrastructure.",
     "times": [
       {
         "id": "1790033109916001qna5",
@@ -41669,7 +41735,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Many organizations struggle to migrate VMware workloads due to complex dependencies, network translation challenges, and the need to support both cloud and on-premises targets. In this workshop, attendees use AWS Transform MGN, an agentic AI service, to execute an end-to-end VMware migration to Amazon EC2 and AWS Outposts. Participants work through AI-driven discovery, dependency mapping, intelligent wave planning, automated network conversion, and orchestrated execution. Attendees also experience how Trianz's Concierto platform integrates with AWS Transform to streamline migration to AWS Outposts with automated orchestration and operational governance. Leave with hands-on skills to accelerate your VMware migration projects.",
+    "abstract": "Many organizations struggle to migrate VMware workloads due to complex dependencies, network translation challenges, and the need to support both cloud and on-premises targets. In this workshop, you use AWS Transform MGN, an agentic AI service, to execute an end-to-end VMware migration to Amazon EC2 and AWS Outposts. You work through AI-driven discovery, dependency mapping, intelligent wave planning, automated network conversion, and orchestrated execution. See how Trianz's Concierto platform also integrates with AWS Transform to streamline migration to AWS Outposts with automated orchestration and operational governance. ",
     "times": [
       {
         "id": "1790025542591001CFKK",
@@ -41745,7 +41811,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Gemini, a NASDAQ-listed crypto exchange, serves trading clients with diverse latency needs. For the most latency-sensitive workloads, AWS Outposts at Gemini's NY5 facility runs matching-engine-adjacent with sub-millisecond connectivity via cross-connects. For cloud-native traders, AWS Local Zones in NYC deliver sub-2ms latency through VPC Peering: bringing compute into the New York area cut round-trip latency roughly 80%, with provisioning in minutes rather than months. For customers prioritizing simplicity, the Region offers a fully managed API, including agentic trading systems connecting via MCP. Hear how Gemini's tiered model turns compute placement into a competitive lever you can apply to your own location-sensitive workloads.",
+    "abstract": "Gemini, a NASDAQ-listed crypto exchange, serves traders with diverse latency needs. For the most latency-sensitive workloads, AWS Outposts at Gemini's NY5 facility runs adjacent to the matching engine with sub-millisecond connectivity via cross-connects. For cloud-native traders, AWS Local Zones in NYC deliver sub-2ms latency to the matching engine through Amazon VPC peering: bringing compute into New York Local Zone cuts round-trip latency by roughly 80%, with provisioning in minutes rather than months. For customers prioritizing simplicity, the AWS Region offers a fully managed API that also serves agentic trading systems via Model Context Protocol (MCP). Hear how Gemini's tiered model turns compute placement into a competitive lever for your location-sensitive workloads.",
     "times": [
       {
         "id": "1790025521971001CAZp",
@@ -41783,7 +41849,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Gemini, a NASDAQ-listed crypto exchange, serves trading clients with diverse latency needs. For the most latency-sensitive workloads, AWS Outposts at Gemini's NY5 facility runs matching-engine-adjacent with sub-millisecond connectivity via cross-connects. For cloud-native traders, AWS Local Zones in NYC deliver sub-2ms latency through VPC Peering: bringing compute into the New York area cut round-trip latency roughly 80%, with provisioning in minutes rather than months. For customers prioritizing simplicity, the Region offers a fully managed API, including agentic trading systems connecting via MCP. Hear how Gemini's tiered model turns compute placement into a competitive lever you can apply to your own location-sensitive workloads.",
+    "abstract": "Gemini, a NASDAQ-listed crypto exchange, serves traders with diverse latency needs. For the most latency-sensitive workloads, AWS Outposts at Gemini's NY5 facility runs adjacent to the matching engine with sub-millisecond connectivity via cross-connects. For cloud-native traders, AWS Local Zones in NYC deliver sub-2ms latency to the matching engine through Amazon VPC peering: bringing compute into New York Local Zone cuts round-trip latency by roughly 80%, with provisioning in minutes rather than months. For customers prioritizing simplicity, the AWS Region offers a fully managed API that also serves agentic trading systems via Model Context Protocol (MCP). Hear how Gemini's tiered model turns compute placement into a competitive lever for your location-sensitive workloads.",
     "times": [
       {
         "id": "1790360375852001Alz1",
@@ -41802,7 +41868,7 @@
   {
     "id": "1780441500283001GvXe",
     "code": "HMC311",
-    "title": "Architectures for ultra-low latency with accelerated networking on AWS Outposts",
+    "title": "Architecting for ultra-low latency on AWS Outposts with accelerated networking",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -41815,7 +41881,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "This session covers networking on AWS Outposts Gen2, from scalable multi-site topologies to ultra-low latency bare metal deployments for financial trading. It starts with the Gen2 dedicated Network rack, local gateway routing domains for segmentation, and Intra-VPC and Inter-VPC communication. It then expands to multi-site interconnections spanning Outposts and AWS Local Zones, extended VPC designs, and resilient architectures grounded in AWS Well-Architected principles. It closes with bare metal instances using high-throughput accelerated networking, kernel bypass, network interface card (NIC) selection, and rack topology for co-located workloads where every microsecond matters. This is an interactive session driven by attendee questions and real-world challenges.",
+    "abstract": "This session covers networking on second-generation AWS Outposts, from scalable multi-site topologies to ultra-low-latency bare-metal deployments for financial trading. It starts with the second-generation dedicated network rack, local gateway routing domains for segmentation, and intra-VPC and inter-VPC communication. It then expands to multi-site interconnections spanning Outposts and AWS Local Zones, extended VPC designs, and resilient architectures grounded in AWS Well-Architected principles. It closes with bare-metal instances using high-throughput accelerated networking, kernel bypass, network interface card (NIC) selection, and rack topology for co-located workloads where every microsecond matters. ",
     "times": [
       {
         "id": "1790025493271001CeV4",
@@ -41891,7 +41957,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Digital sovereignty requirements vary widely across government, defense, healthcare, and financial services. This session uses real-world case studies to compare architectural differences across AWS Dedicated Local Zones and AWS Outposts, whether deployed within the AWS European Sovereign Cloud or AWS Regions. It examines how data residency boundaries, network separation, operational controls, and cryptographic key management differ across these options, then demonstrates how to configure account access, data residency controls, and network ingress/egress policies for strict versus moderate requirements, including how to detect and prevent non-permitted data flows between hybrid infrastructure, the parent Region, and on-premises environments.",
+    "abstract": "Digital sovereignty requirements vary widely across government, defense, healthcare, and financial services. This session uses real-world case studies to compare the architectures of AWS Dedicated Local Zones and AWS Outposts, whether deployed in the AWS European Sovereign Cloud or in AWS Regions. It examines how data residency boundaries, network separation, operational controls, and cryptographic key management differ across these options. It then shows how to configure account access, data residency controls, and network ingress and egress policies for strict and moderate requirements. Finally, it covers how to detect and prevent unauthorized data flows between hybrid infrastructure, the parent Region, and on-premises environments.",
     "times": [
       {
         "id": "1790025512626001CrMb",
@@ -42099,7 +42165,7 @@
   {
     "id": "1780442248879001cNJq",
     "code": "HMC319",
-    "title": "Modernize and migrate edge applications with AWS Outposts",
+    "title": "Migrate and modernize workloads with AWS Outposts",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -42109,7 +42175,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Organizations running workloads on legacy virtualization platforms at the edge are looking to modernize these applications to be more resilient, portable, and operationally consistent with their cloud workloads. Simultaneously, AWS Outposts has released new second-generation single- and multi-rack offerings that deliver new instance types and Amazon EBS storage, up to 40% better price-performance, and enhanced networking features for monitoring and security. In this session, we'll cover modernization and migration strategies for organizations looking to move to a cloud operating model at the edge, as well as strategies for existing Outposts users to upgrade to the latest generation.",
+    "abstract": "Organizations running on-premises workloads on legacy virtualization platforms are looking to migrate applications to AWS and modernize them to be more resilient and operationally consistent with their cloud workloads. AWS Outposts supports customers on this journey and is now available in second-generation single- and multi-rack offerings that deliver new instance types and Amazon EBS storage, up to 40% better price-performance, and enhanced networking features for monitoring and security. This session covers migration and modernization strategies for organizations looking to move to a cloud operating model on-premises, as well as strategies for first-generation Outposts customers to upgrade to the latest generation.",
     "times": [
       {
         "id": "1790025489064001CNH0",
@@ -42312,7 +42378,7 @@
   {
     "id": "1780442256614001c2jD",
     "code": "HMC401-R",
-    "title": "GPU orchestration at scale using NVIDIA Run:ai across the edge",
+    "title": "GPU orchestration using NVIDIA Run:ai across the edge",
     "type": "Code talk",
     "level": "400 – Expert",
     "topics": [
@@ -42332,7 +42398,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AWS and NVIDIA have collaborated for over a decade to deliver GPU-accelerated solutions from the cloud to the edge, yet Kubernetes still treats GPUs as opaque, unsharable integers. In this L400 code talk, learn how to deploy NVIDIA Run:ai on Amazon EKS and execute a complete model lifecycle on shared GPU infrastructure. Using Terraform, provision an EKS cluster with NVIDIA L4 nodes, install the Run:ai control plane and cluster agents, and configure project-scoped GPU quotas with priority-based sharing. Then see how Run:ai orchestrates a QLoRA fine-tuning job on Qwen3-14B and serves the resulting adapter with vLLM so you can compare base model responses against your fine-tuned model in real time. Leave with a reproducible pattern for maximizing GPU utilization across competing workloads without over-provisioning.",
+    "abstract": "AWS and NVIDIA have collaborated for over a decade to deliver GPU-accelerated solutions across the cloud and edge, yet Kubernetes still treats GPUs as opaque, unshareable integers. In this Level 400 code talk, learn how to deploy NVIDIA Run:ai on Amazon EKS and execute a complete model lifecycle on shared GPU infrastructure. Using Terraform, provision EKS clusters on Amazon EC2 instances with NVIDIA L4 GPUs, install the Run:ai control plane and cluster agents, and configure project-scoped GPU quotas with priority-based sharing. Then see how Run:ai orchestrates a QLoRA fine-tuning job on Qwen3-14B and serves the resulting adapter with vLLM so you can compare base model responses against your fine-tuned model in real time.",
     "times": [
       {
         "id": "1790025527007001C5Bv",
@@ -42351,7 +42417,7 @@
   {
     "id": "1790358244153001idl1",
     "code": "HMC401-R1",
-    "title": "GPU orchestration at scale using NVIDIA Run:ai across the edge",
+    "title": "GPU orchestration using NVIDIA Run:ai across the edge",
     "type": "Code talk",
     "level": "400 – Expert",
     "topics": [
@@ -42371,7 +42437,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AWS and NVIDIA have collaborated for over a decade to deliver GPU-accelerated solutions from the cloud to the edge, yet Kubernetes still treats GPUs as opaque, unsharable integers. In this L400 code talk, learn how to deploy NVIDIA Run:ai on Amazon EKS and execute a complete model lifecycle on shared GPU infrastructure. Using Terraform, provision an EKS cluster with NVIDIA L4 nodes, install the Run:ai control plane and cluster agents, and configure project-scoped GPU quotas with priority-based sharing. Then see how Run:ai orchestrates a QLoRA fine-tuning job on Qwen3-14B and serves the resulting adapter with vLLM so you can compare base model responses against your fine-tuned model in real time. Leave with a reproducible pattern for maximizing GPU utilization across competing workloads without over-provisioning.",
+    "abstract": "AWS and NVIDIA have collaborated for over a decade to deliver GPU-accelerated solutions across the cloud and edge, yet Kubernetes still treats GPUs as opaque, unshareable integers. In this Level 400 code talk, learn how to deploy NVIDIA Run:ai on Amazon EKS and execute a complete model lifecycle on shared GPU infrastructure. Using Terraform, provision EKS clusters on Amazon EC2 instances with NVIDIA L4 GPUs, install the Run:ai control plane and cluster agents, and configure project-scoped GPU quotas with priority-based sharing. Then see how Run:ai orchestrates a QLoRA fine-tuning job on Qwen3-14B and serves the resulting adapter with vLLM so you can compare base model responses against your fine-tuned model in real time.",
     "times": [
       {
         "id": "1790360401061001Auk5",
@@ -42409,7 +42475,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Learn how to extend Amazon Bedrock AgentCore to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed agentic apps using Model Context Protocol (MCP) and agent-to-agent (A2A) communication with on-prem data. Get hands-on with hybrid agentic AI using Amazon Bedrock and Strands Agents while exploring AWS hybrid and edge solutions for data residency compliance. ",
+    "abstract": "Learn how to extend Amazon Bedrock AgentCore to hybrid and edge services to build distributed agentic apps using Model Context Protocol (MCP) and agent-to-agent (A2A) communication with on-premises data. Get hands-on with hybrid agentic AI using Amazon Bedrock and Strands Agents while exploring AWS hybrid and edge solutions for data residency compliance.",
     "times": [
       {
         "id": "1790025548927001CwbA",
@@ -42447,7 +42513,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn how to extend Amazon Bedrock AgentCore to hybrid and edge services like AWS Outposts and AWS Local Zones to build distributed agentic apps using Model Context Protocol (MCP) and agent-to-agent (A2A) communication with on-prem data. Get hands-on with hybrid agentic AI using Amazon Bedrock and Strands Agents while exploring AWS hybrid and edge solutions for data residency compliance. ",
+    "abstract": "Learn how to extend Amazon Bedrock AgentCore to hybrid and edge services to build distributed agentic apps using Model Context Protocol (MCP) and agent-to-agent (A2A) communication with on-premises data. Get hands-on with hybrid agentic AI using Amazon Bedrock and Strands Agents while exploring AWS hybrid and edge solutions for data residency compliance.",
     "times": [
       {
         "id": "1790360383262001ArMI",
@@ -42466,7 +42532,7 @@
   {
     "id": "1780442280624001cKwQ",
     "code": "HMC403-R",
-    "title": "Self-managed agentic AI at the hybrid edge with AWS Outposts and AWS Local Zones",
+    "title": " Self-managed agentic AI at the hybrid edge",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -42485,7 +42551,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As organizations use agentic AI to automate complex infrastructure operations, many face constraints around data residency, low latency, and security that prevent reliance on cloud-hosted AI services alone. This session explores how customers deploy self-managed agentic AI at the hybrid edge to meet these requirements while unlocking autonomous operations. Learn how to provision, configure, and optimize AI agents across customer environments spanning AWS Outposts and AWS Local Zones. Attendees learn how to architect and operate AI agents that run locally, satisfying data sovereignty, latency, and security mandates while delivering intelligent, autonomous infrastructure management across hybrid environments.",
+    "abstract": "As organizations use agentic AI to automate complex infrastructure operations, many have data residency, low latency, and security requirements that depend on running AI closer to their data. This workshop explores how customers deploy self-managed agentic AI at the hybrid edge to meet these requirements while enabling autonomous operations. Learn how to architect, provision, configure, and optimize AI agents that run locally, and how to extend the same architecture to AWS hybrid and edge infrastructure such as AWS Local Zones and AWS Outposts.",
     "times": [
       {
         "id": "1790025530678001CqYL",
@@ -42504,7 +42570,7 @@
   {
     "id": "1790358218054001iHcn",
     "code": "HMC403-R1",
-    "title": "Self-managed agentic AI at the hybrid edge with AWS Outposts and AWS Local Zones",
+    "title": "Self-managed agentic AI at the hybrid edge",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -42523,7 +42589,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As organizations use agentic AI to automate complex infrastructure operations, many face constraints around data residency, low latency, and security that prevent reliance on cloud-hosted AI services alone. This session explores how customers deploy self-managed agentic AI at the hybrid edge to meet these requirements while unlocking autonomous operations. Learn how to provision, configure, and optimize AI agents across customer environments spanning AWS Outposts and AWS Local Zones. Attendees learn how to architect and operate AI agents that run locally, satisfying data sovereignty, latency, and security mandates while delivering intelligent, autonomous infrastructure management across hybrid environments.",
+    "abstract": "As organizations use agentic AI to automate complex infrastructure operations, many have data residency, low latency, and security requirements that depend on running AI closer to their data. This workshop explores how customers deploy self-managed agentic AI at the hybrid edge to meet these requirements while enabling autonomous operations. Learn how to architect, provision, configure, and optimize AI agents that run locally, and how to extend the same architecture to AWS hybrid and edge infrastructure such as AWS Local Zones and AWS Outposts.",
     "times": [
       {
         "id": "1790360379953001AEjZ",
@@ -42556,7 +42622,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "This chalk talk covers strategies for modernizing distributed applications with Amazon EKS across AWS Regions, AWS Local Zones, and AWS Outposts. It demonstrates how EKS delivers a consistent experience across these deployment options, minimizing latency and enabling data residency. Through a real-world scenario, the session deploys an application to an EKS cluster across distributed environments while maintaining a unified control plane. It covers practical use cases, best practices, and patterns for architecting resilient and scalable applications, following AWS Well-Architected Framework principles for consistency and security.",
+    "abstract": "This chalk talk covers strategies for modernizing distributed applications with Amazon EKS across AWS Regions, AWS Local Zones, and AWS Outposts. It demonstrates how EKS delivers a consistent experience across these deployment options, minimizing latency and enabling data residency. The session explores deploying a real-world application to an EKS cluster across distributed environments while maintaining a unified control plane. It covers use cases and design patterns for architecting resilient and scalable applications, following AWS Well-Architected Framework principles for consistency and security.",
     "times": [
       {
         "id": "1790025515698001CbWC",
@@ -42575,7 +42641,7 @@
   {
     "id": "1780442256679001c8QA",
     "code": "HMC406",
-    "title": "AWS Outposts at scale: Amazon Robotics fulfillment",
+    "title": "How Amazon Robotics runs AWS Outposts across hundreds of fulfillment centers",
     "type": "Code talk",
     "level": "400 – Expert",
     "topics": [
@@ -42590,7 +42656,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Amazon Robotics operates AWS Outposts across hundreds of fulfillment centers, each supporting multiple teams with distinct workload requirements. In this code talk, learn how the team architects isolation on shared Outposts infrastructure, manages resource quotas across competing workloads, and implements high-availability strategies that keep robotic systems running through hardware and network failures. We walk through the team onboarding model, failover patterns between Outposts and the parent Region, and monitoring strategies that detect degradation before it impacts fulfillment operations. Leave with reproducible patterns for running shared Outposts at scale.",
+    "abstract": "Amazon Robotics operates AWS Outposts across hundreds of fulfillment centers, each supporting multiple teams with distinct workload requirements. In this code talk, learn how the team architects isolation on shared Outposts infrastructure, manages resource quotas across competing workloads, and implements high-availability strategies that keep robotic systems running through hardware and network failures. The session walks through the team onboarding model, failover patterns between Outposts and the parent AWS Region, and monitoring strategies that detect degradation before it impacts fulfillment operations.",
     "times": [
       {
         "id": "1790025530592001Cbud",
@@ -42696,7 +42762,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations need to be able to deploy critical applications that are highly available and fault-tolerant at the edge. These workloads are often some of the most demanding in terms of durability and availability requirements. Deploying workloads on AWS hybrid cloud and edge computing services like AWS Local Zones and AWS Outposts requires planning for networking, compute, storage, and other failure modes. In this chalk talk, dive deep into each of these services, review use cases, and examine reference architectures. Learn design considerations, deployment patterns, and best practices for high availability and disaster recovery.",
+    "abstract": "Organizations need to be able to deploy critical applications that are highly available and fault-tolerant at the edge. These workloads are often some of the most demanding in terms of durability and availability requirements. Deploying workloads on AWS hybrid cloud and edge computing services like AWS Local Zones and AWS Outposts requires planning for networking, compute, storage, and other failure modes. In this chalk talk, dig into each of these services, review use cases, and examine reference architectures. Learn design considerations and deployment patterns for high availability and disaster recovery.",
     "times": [
       {
         "id": "1790025486589001Cx1x",
@@ -42734,7 +42800,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Organizations need to be able to deploy critical applications that are highly available and fault-tolerant at the edge. These workloads are often some of the most demanding in terms of durability and availability requirements. Deploying workloads on AWS hybrid cloud and edge computing services like AWS Local Zones and AWS Outposts requires planning for networking, compute, storage, and other failure modes. In this chalk talk, dive deep into each of these services, review use cases, and examine reference architectures. Learn design considerations, deployment patterns, and best practices for high availability and disaster recovery.",
+    "abstract": "Organizations need to be able to deploy critical applications that are highly available and fault-tolerant at the edge. These workloads are often some of the most demanding in terms of durability and availability requirements. Deploying workloads on AWS hybrid cloud and edge computing services like AWS Local Zones and AWS Outposts requires planning for networking, compute, storage, and other failure modes. In this chalk talk, dig into each of these services, review use cases, and examine reference architectures. Learn design considerations and deployment patterns for high availability and disaster recovery.",
     "times": [
       {
         "id": "1790360366750001A8UM",
@@ -45065,7 +45131,7 @@
   {
     "id": "1780441489581001Glv9",
     "code": "IND3308-S",
-    "title": "Uncovering Value with Velocity in Clinical Data Management with Autonomous AI Agents (sponsored by Cognizant)",
+    "title": "Rise of Autonomous Clinical Data Management: AI Agents Accelerating Drug Development",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -45085,7 +45151,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Today's Clinical Data Management processes are burdened by high-intensity manual tasks , ranging from protocol reviews, EDC configuration, and data validation to final database lock and reporting. These activities are time-consuming, error-prone, and delay study timelines. AI-driven multi-agent systems can intelligently automate protocol reviews, edit check programming, data validation, and query management accelerating study timelines, improving data accuracy, and enabling teams to focus on strategic, high-value activities. Know how integrating advanced AI-driven automation with human expertise enhances data accuracy, streamlines workflows, and accelerates decision-making processes, empowering clinical teams to achieve superior research outcomes. This presentation is brought to you by Cognizant, an AWS Partner.",
+    "abstract": "Explore how autonomous AI agents are transforming clinical data management from a collection of manual processes into an intelligent, continuously learning system that improves quality, accelerates study execution, and shortens the path from protocol to patient impact.\nClinical trials generate unprecedented volumes of complex data, yet many Clinical Data Management (CDM) processes remain highly manual, resource-intensive, and constrained by siloed workflows. Critical activities such as protocol interpretation, clinical trial data systems build and configuration, edit check generation, data review, data quality management, reconciliation, and database lock often reside on the critical path to study completion.",
     "times": [
       {
         "id": "1790025502950001CAcu",
@@ -46175,6 +46241,35 @@
     ]
   },
   {
+    "id": "1780441475993001GKxh",
+    "code": "IND3336",
+    "title": "How Hyundai Is Transforming Customer and Vehicle Experiences on AWS",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Hyundai Motor Group is redefining mobility, and AWS is helping pave the way. Discover how Hyundai is using AWS to help deliver Software-Defined Vehicles (SDVs) that evolve through continuous updates, an in-vehicle AI agent that lets drivers manage vehicle functions through natural voice, and an app marketplace that allows drivers to customize their driving experience. Hear how Hyundai is using AI agents to better understand the needs of their customers, deploying Amazon Bedrock AgentCore to monitor, study, and address customer feedback across 17 languages. Walk away with real-world lessons on bringing agentic AI and connected vehicle platforms to production scale.",
+    "times": [
+      {
+        "id": "1791231454374001b2nR",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441476048001Gq2y",
     "code": "IND3337",
     "title": "The Trade Desk's Cloud Journey: AI-Assisted Optimization to AI Agents",
@@ -46245,6 +46340,41 @@
         "duration": 60,
         "room": "Wynn/Encore | Convention Promenade | Latour 5",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442263803001c0KW",
+    "code": "IND3339",
+    "title": "Agentic advertising with privacy-enhanced data collaboration",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Programmatic advertising is shifting from rule-based heuristics to autonomous agents that plan, orchestrate, and bid inside the millisecond bidstream. This Lightning Talk shows three AWS building blocks combining into one agentic ad tech stack: multi-agent collaboration on Amazon Bedrock AgentCore for media planning and inventory optimization; ARTF-compliant containers running deep-learning models on NVIDIA Triton and Amazon EKS for real-time bid shading, audience activation, and deal management; and AWS Clean Rooms ML as the trust layer, training lookalike models on collective data without exposing underlying records. Leave with a reference architecture for where inference, orchestration, and privacy all work together.",
+    "times": [
+      {
+        "id": "1791219554094001ZdBk",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "17:30",
+        "endTime": "17:50",
+        "startTimeFormatted": "05:30 PM",
+        "endTimeFormatted": "05:50 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -49603,82 +49733,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 409",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1780442281286001cgYP",
-    "code": "IND409-R",
-    "title": "Designing the AWS Secure Research Environment: Architecture deep dive",
-    "type": "Workshop",
-    "level": "400 – Expert",
-    "topics": [
-      "Architecture",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Automation",
-      "Governance, Risk & Compliance",
-      "Well-Architected Framework"
-    ],
-    "roles": [
-      "Cloud Security Specialist",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Discover how AWS Secure Research Environment (SRE) helps research institutions stand up NIST 800-171 and CMMC Level 2 eligible infrastructure. Attend both sessions; Day 1 is required for Day 2. On Day 1, you deploy Landing Zone Accelerator in your AWS Organization and explore how its multi-account strategy and guardrails form the base for SRE. Complete prerequisites for Landing Zone Accelerator on AWS before arrival. On Day 2, you deploy SRE on top of it, including Service Catalog vended accounts, preventive SCPs and detective controls, Network Firewall egress patterns for GovCloud, and automated evidence collection feeding Security Hub. Learn about the design choices behind federal research compliance and how to deploy this in production.",
-    "times": [
-      {
-        "id": "1790025472745001CkFx",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "08:30",
-        "endTime": "10:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "10:30 AM",
-        "duration": 120,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 1",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1790358253579001i9ek",
-    "code": "IND409-R1",
-    "title": "Designing the AWS Secure Research Environment: Architecture Deep Dive",
-    "type": "Workshop",
-    "level": "400 – Expert",
-    "topics": [
-      "Architecture",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Automation",
-      "Governance, Risk & Compliance",
-      "Well-Architected Framework"
-    ],
-    "roles": [
-      "Cloud Security Specialist",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Discover how AWS Secure Research Environment (SRE) helps research institutions stand up NIST 800-171 and CMMC Level 2 eligible infrastructure. Attend both sessions; Day 1 is required for Day 2. On Day 1, you deploy Landing Zone Accelerator in your AWS Organization and explore how its multi-account strategy and guardrails form the base for SRE. Complete prerequisites for Landing Zone Accelerator on AWS before arrival. On Day 2, you deploy SRE on top of it, including Service Catalog vended accounts, preventive SCPs and detective controls, Network Firewall egress patterns for GovCloud, and automated evidence collection feeding Security Hub. Learn about the design choices behind federal research compliance and how to deploy this in production.",
-    "times": [
-      {
-        "id": "1790360402818001AMr5",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "12:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "12:30 PM",
-        "endTimeFormatted": "02:30 PM",
-        "duration": 120,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 7",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -61799,7 +61853,7 @@
   {
     "id": "1780442265869001crXW",
     "code": "SEC106-S",
-    "title": "AI Under Fire: How to Stop AI-Powered Attacks and Secure AI Coding ",
+    "title": "AI Under Fire: How to Stop AI-Powered Attacks and Secure AI Coding (sponsored by Palo Alto Networks)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -62007,7 +62061,7 @@
   {
     "id": "1780442222761001cmMF",
     "code": "SEC204",
-    "title": "Leading a post-quantum migration ahead of CNSA 2.0 deadlines",
+    "title": "Post-quantum readiness at scale with AWS and DXC Technology",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -62022,7 +62076,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Post-quantum migrations succeed when the technical path and the organizational path are both clear. This session gives CISOs and senior technology leaders a governance-first approach to running a post-quantum migration across the organization. You learn how to build executive alignment, set up migration governance, prioritize across business units, and assign accountability. We also cover how AWS is deploying post-quantum algorithms across its services and how the shared responsibility model applies, so you can map your plan to NIST and CNSA 2.0 timelines.",
+    "abstract": "Post-quantum migrations succeed when organizations can discover cryptographic assets, assign ownership, and continuously manage risk. In this session, AWS and DXC Technology connect enterprise governance with the technical capabilities needed for crypto agility. See how DXC built a platform with AWS services to discover and correlate assets across AWS and enterprise PKI, assign ownership, automate certificate lifecycles, and assess post-quantum readiness. A live proof of concept demonstrates inventory, prioritization, verification, and continuous reassessment. Leave with an operating model for planning migrations aligned with NIST and CNSA 2.0 timelines.",
     "times": [
       {
         "id": "1790025553205001CWdF",
@@ -62105,7 +62159,7 @@
   {
     "id": "1780442265515001cujx",
     "code": "SEC207",
-    "title": "Balancing trust and agility - payment cryptography in the cloud with Capital One",
+    "title": "Balancing trust and agility: payment cryptography in the cloud with Capital One",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -62118,7 +62172,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "How can we trust AWS with our payment keys? Join AWS payment security specialists and Capital One as they discuss controls and compliance for cloud-based payment cryptography. Learn how AWS built trust through transparency, sharing security architecture through public documents and regularly validating compliance through third party assessments. Takeaway how this allows Capital One to focus on application level security and payment innovation while letting AWS manage the security of the platform.",
+    "abstract": "How can we trust AWS with our payment keys? Join AWS payment security specialists and Capital One as they break down the controls and compliance behind cloud-based payment cryptography. Learn how AWS built trust through transparency, openly sharing its security architecture in public documentation and validating compliance through rigorous third-party assessments. As a result Capital One offloads infrastructure security to AWS and channels its energy into application-level protection and payment innovation that moves the business forward.",
     "times": [
       {
         "id": "1790033111673001qSCM",
@@ -63004,7 +63058,7 @@
   {
     "id": "1780441487977001GfBQ",
     "code": "SEC232-S",
-    "title": "From Humans to Agents: Rethinking Identity for Your Next Wave of Growth (sponsored by Okta)",
+    "title": "Build Secure AI Agents on AWS: XAA, Bedrock AgentCore and the AI Blueprint (sponsored by Okta)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -63013,7 +63067,6 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Application Security",
       "Identity & Access Management"
     ],
     "roles": [
@@ -63021,7 +63074,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Software is replacing humans as the primary application interface, turning identity into the core control plane for the emerging agent economy. Existing systems, built for human users, fail to support autonomous agents acting at scale. This session outlines a modern identity model that unifies humans, machines, APIs, and AI agents into a single, extensible layer. Learn how to turn identity from an operational requirement into a secure competitive advantage, scaling your business safely from your first user to full agent fleets. This presentation is brought to you by Okta, an AWS Partner.",
+    "abstract": "Building AI agents is easy, but securing enterprise data access without slowing development is hard. Teams often rely on static, over-privileged credentials, creating major security risks. But there’s a solution. This session explores how to secure agentic workflows with Amazon Bedrock AgentCore and Okta. We’ll introduce the Blueprint Alliance, of which AWS and Okta are founding members, and cover how standards like Cross App Access (XAA) and SCIM for Agents transform AI identity. You'll learn how replacing static keys with dynamic, delegated permissions enables real-time policy evaluation at every tool call, empowering developers to build scalable, trusted AI agents that operate strictly within verified boundaries. This presentation is brought to you by Okta, an AWS Partner.",
     "times": [
       {
         "id": "1790025479675001ChnV",
@@ -63588,7 +63641,7 @@
   },
   {
     "id": "1780442230252001c47O",
-    "code": "SEC309",
+    "code": "SEC309-R",
     "title": "Network firewall deployment without the guesswork: codify, deploy, done",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -64453,6 +64506,75 @@
     ]
   },
   {
+    "id": "1780442249060001cRh3",
+    "code": "SEC3305",
+    "title": "Faster root cause analysis for IAM access denied errors ",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Governance, Risk & Compliance",
+      "Identity & Access Management",
+      "Well-Architected Framework"
+    ],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "When an IAM request is denied, teams can spend valuable time finding the root cause. Now, access denied error messages go beyond surfacing the policy type or ARN that blocked a request—they tell you the exact reason access was denied. In this session, we'll walk through how the feature works, how to put it to use, and considerations for larger AWS environments where different policy types are owned by different teams.",
+    "times": [
+      {
+        "id": "1790025543894001CUGJ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Lower Convention Promenade | Castillon",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442249509001ctlq",
+    "code": "SEC3306",
+    "title": "Fix a Security Hub finding once with four layers of controls",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "DevSecOps",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "You remediate a finding today and see the same class of finding next week. This chalk talk shows how to break that cycle. You take a real AWS Security Hub finding category and work through four control layers. An SCP stops the misconfiguration, an AWS CloudFormation Guard rule catches it before deployment, an AWS Config rule detects existing violations, and AI-generated auto-remediation corrects drift. Each finding you remediate this way becomes a rule that keeps it from coming back.",
+    "times": [
+      {
+        "id": "1790025551095001CNUw",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Lower Convention Promenade | Castillon",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441481404001Gz3D",
     "code": "SEC331",
     "title": "Managing software vulnerabilities in the agentic world",
@@ -64782,7 +64904,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Forensics is one of the hardest, most manual parts of incident response, and it usually requires a specialist. In this code talk, we work through a realistic Kubernetes cluster compromise where an Amazon GuardDuty finding kicks off the forensics investigation. We watch as an AI agent identifies injected code, and reconstructs the attack chain. Then we tackle the real problem. Forensic evidence needs determinism and a defensible chain of custody, and generative AI is not deterministic. We show the techniques that close that gap, so an AI-driven investigation produces evidence you can defend.",
+    "abstract": "In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.",
     "times": [
       {
         "id": "1790033113066001qpyf",
@@ -66107,7 +66229,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Auditors want evidence, not promises. Learn how to always keep your AWS environment audit-ready; continuously producing the proof auditors need, without manual intervention. Across services such as AWS Config, AWS CloudTrail, AWS Security Hub and more, we walk through an architecture that automatically collects evidence, maps it to your control frameworks, checks whether the collected evidence meets control requirements, identifies gaps and delivers prescriptive remediation guidance on how to close. We close by exploring how AI is reshaping continuous compliance and audit readiness.",
+    "abstract": "Auditors require evidence of compliance on demand. Learn how to keep your AWS environment audit-ready at all times, continuously producing the proof auditors need, without manual intervention. Across services such as AWS Config, AWS CloudTrail, AWS Security Hub and more, we walk through an architecture that automatically collects evidence, maps it to your control frameworks, checks whether the collected evidence meets control requirements, identifies gaps and delivers prescriptive guidance to close each gap. We finish with how AI agents now investigate findings, draft remediations, and defend evidence to auditors, moving compliance from continuous monitoring to continuous resolution.",
     "times": [
       {
         "id": "1790025549454001COPg",
@@ -67333,39 +67455,6 @@
     ]
   },
   {
-    "id": "1780442249060001cRh3",
-    "code": "SEC423-R",
-    "title": "Faster root cause analysis for IAM access denied errors ",
-    "type": "Chalk talk",
-    "level": "300 – Advanced",
-    "topics": [
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Governance, Risk & Compliance",
-      "Identity & Access Management",
-      "Well-Architected Framework"
-    ],
-    "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "When an IAM request is denied, teams can spend valuable time finding the root cause. Now, access denied error messages go beyond surfacing the policy type or ARN that blocked a request—they tell you the exact reason access was denied. In this session, we'll walk through how the feature works, how to put it to use, and considerations for larger AWS environments where different policy types are owned by different teams.",
-    "times": [
-      {
-        "id": "1790025543894001CUGJ",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
-        "duration": 60,
-        "room": "Wynn/Encore | Lower Convention Promenade | Castillon",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
     "id": "1780442250359001cRNb",
     "code": "SEC424-R",
     "title": "A deep dive on IAM policy evaluation",
@@ -67535,42 +67624,6 @@
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Convention Promenade | Margaux 1",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1780442249509001ctlq",
-    "code": "SEC428",
-    "title": "Fix a Security Hub finding once with four layers of controls",
-    "type": "Chalk talk",
-    "level": "400 – Expert",
-    "topics": [
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Automation",
-      "DevSecOps",
-      "Governance, Risk & Compliance"
-    ],
-    "roles": [
-      "Cloud Security Specialist",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "You remediate a finding today and see the same class of finding next week. This chalk talk shows how to break that cycle. You take a real AWS Security Hub finding category and work through four control layers. An SCP stops the misconfiguration, an AWS CloudFormation Guard rule catches it before deployment, an AWS Config rule detects existing violations, and AI-generated auto-remediation corrects drift. Each finding you remediate this way becomes a rule that keeps it from coming back.",
-    "times": [
-      {
-        "id": "1790025551095001CNUw",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "05:00 PM",
-        "duration": 60,
-        "room": "Wynn/Encore | Lower Convention Promenade | Castillon",
         "venue": "Wynn/Encore"
       }
     ]
