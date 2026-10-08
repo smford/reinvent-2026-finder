@@ -3175,9 +3175,9 @@
   {
     "id": "1780441484808001GFzE",
     "code": "AIM250-S",
-    "title": "NVIDIA Nemotron on AWS for Enterprise Agent Orchestration (sponsored by NVIDIA)",
+    "title": "Koa: NVIDIA Nemotron-Powered CRM Reasoning Inside Salesforce’s AWS Trust Boundary",
     "type": "Breakout session",
-    "level": "200 – Intermediate",
+    "level": "300 – Advanced",
     "topics": [
       "Artificial Intelligence",
       "Cloud Operations",
@@ -3193,7 +3193,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Vanguard is evaluating NVIDIA Nemotron models as a fast and accurate routing layer for its enterprise multi-agent platform. Vanguard will share its experience deploying and benchmarking Nemotron 3 Nano and Nemotron 3.5 Lightning with NVIDIA NIM on AWS, including its approach to measuring routing accuracy, end-to-end completion time, and application-level quality. This presentation is brought to you by NVIDIA, an AWS Partner.",
+    "abstract": "Salesforce Koa is a family of CRM reasoning models post-trained from NVIDIA Nemotron open models. Koa is in production on AWS, inside Salesforce's trust boundary. This session covers technical insights on how Koa was built and how Salesforce serves the model on AWS. Additionally, attendees will learn how Salesforce enforces trust and safety controls in the serving layer outside the model. This session is relevant to any team building and deploying custom open models for the enterprise.",
     "times": [
       {
         "id": "1790034532239001pmXQ",
@@ -17652,7 +17652,7 @@
   {
     "id": "1780441465437001Gk4A",
     "code": "BIZ102",
-    "title": "Agentic CX with Connect Customer: Make Every Interaction Feel Special",
+    "title": "Taking Every Interaction from Mundane to Magic: Agentic CX with Connect Customer",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -17662,7 +17662,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "This is a can't-miss session! The old model was built to handle customers. Agentic customer experience is built to make every one of them feel special, like they're your only customer. That shift, from managing volume to earning devotion, is the biggest change in how brands serve people in a generation. In this keynote, Pasquale DeMaio, VP of Amazon Connect Customer, shows what becomes possible when customer experience is AI-first by design. Your brand knows each customer and shows up before they ask. Anyone can shape an experience by describing it in plain language, while advanced builders go deeper without limits. Every person who serves your customer walks in already knowing them. This isn't a faster version of what came before. It's what replaces it. If you own the customer relationship, this is the one session you can't afford to miss.  ",
+    "abstract": "Every brand is racing to put AI in front of its customers, the biggest opportunity in a generation, but also a risk. In 2026, deflection is dead. Even the customers you help are quietly leaving, because being processed isn't the same as being known. In this session, the VP, Amazon Connect Customer, and SVP, Client Operations Technology, U.S. Bank, show what's possible when serving customers is AI-first by design: your brand shows up before they ask, and every customer feels like your only customer. If you own the customer relationship, this is the one session you can't afford to miss.",
     "times": [
       {
         "id": "1790025510652001CNha",
@@ -19371,7 +19371,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Every organization is building AI agents for inbound, but who's automating outreach? In this workshop, you become a carrier responding to a device safety recall. Instead of posting a notice and waiting for calls, you build a system that identifies affected customers, prioritizes them by risk and value, and deploys an AI agent to reach them by voice before they ever pick up the phone. Walk away with a working proactive outreach engine and the architecture to deploy anticipatory engagement at scale.",
+    "abstract": "Every organization is building AI agents for inbound, but who's automating outreach? In this workshop, you become a carrier responding to a device safety recall. Instead of posting a notice and waiting for calls, you build a system that identifies affected customers, prioritizes them by risk and value, and uses an AI agent to reach them before they ever pick up the phone. Walk away with a working proactive outreach engine and the architecture to deploy anticipatory engagement at scale.",
     "times": [
       {
         "id": "1790025548609001CCeD",
@@ -19400,7 +19400,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Every organization is building AI agents for inbound, but who's automating outreach? In this workshop, you become a carrier responding to a device safety recall. Instead of posting a notice and waiting for calls, you build a system that identifies affected customers, prioritizes them by risk and value, and deploys an AI agent to reach them by voice before they ever pick up the phone. Walk away with a working proactive outreach engine and the architecture to deploy anticipatory engagement at scale.",
+    "abstract": "Every organization is building AI agents for inbound, but who's automating outreach? In this workshop, you become a carrier responding to a device safety recall. Instead of posting a notice and waiting for calls, you build a system that identifies affected customers, prioritizes them by risk and value, and uses an AI agent to reach them before they ever pick up the phone. Walk away with a working proactive outreach engine and the architecture to deploy anticipatory engagement at scale.",
     "times": [
       {
         "id": "1790360399740001ApIK",
@@ -24700,7 +24700,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Opening a bank account used to take days A neobank does it in 90 seconds. The secret: five specialized agents — Identity, Document Analysis, Fraud, Compliance Risk, and Customer Experience orchestrated by a supervisor on Amazon Bedrock AgentCore Harness. This Talk builds that KYC pipeline live: three API calls, no orchestration boilerplate, agents running across jurisdictions with built-in compliance and audit trails\nYou'll see real event-driven architecture with Amazon MSK, real Bedrock Guardrails, and exactly what breaks when you scale it. Production KYC, live code — and the cost and abandonment numbers that make it matter.",
+    "abstract": "Opening a bank account should take seconds, not days. This session shows how AI agents can speed up KYC while keeping the final decision under control, specialized agents that run on Agentcore Harness investigate identity, documents, fraud signals, and screening results, with checks running in parallel. AgentCore Gateway routes tool requests through Cedar policies before tools run, while deterministic rules decide whether a case moves forward or needs human review. The session follows a clean case, an ambiguous case, and a new risk event after onboarding. Attendees leave with a pattern for regulated agentic systems.",
     "times": [
       {
         "id": "1790025543326001Cxw9",
@@ -33685,7 +33685,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Build with tested patterns for governed, real-time agentic systems.",
+    "abstract": "How do you take an AI agent from a local prototype to a governed application that recovers from failure? In this session, follow a reference application through five phases: querying business data with SQL, connecting agents to Model Context Protocol (MCP) tools, adding hybrid retrieval, deploying to production, and enabling durable workflows. See how Aurora PostgreSQL unifies relational data, pgvector embeddings, full-text search, and workflow state. Explore Strands Agents on Bedrock AgentCore, verify identity and enforce row-level security for data access, and govern tool calls with AgentCore Policy. Code walkthroughs show recovery from saved steps, idempotency to prevent duplicate actions, and audit records that make outcomes traceable.",
     "times": [
       {
         "id": "1790025518005001CfNF",
@@ -33722,7 +33722,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Build with tested patterns for governed, real-time agentic systems.",
+    "abstract": "How do you take an AI agent from a local prototype to a governed application that recovers from failure? In this session, follow a reference application through five phases: querying business data with SQL, connecting agents to Model Context Protocol (MCP) tools, adding hybrid retrieval, deploying to production, and enabling durable workflows. See how Aurora PostgreSQL unifies relational data, pgvector embeddings, full-text search, and workflow state. Explore Strands Agents on Bedrock AgentCore, verify identity and enforce row-level security for data access, and govern tool calls with AgentCore Policy. Code walkthroughs show recovery from saved steps, idempotency to prevent duplicate actions, and audit records that make outcomes traceable.",
     "times": [
       {
         "id": "1790360389406001AwR6",
@@ -33759,7 +33759,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Most agentic AI architectures stitch together separate stores for vectors and workflow state, adding cost and operational overhead. In this session, explore how Aurora PostgreSQL consolidates these roles into a single database, using pgvector for semantic retrieval, PostgreSQL full-text search for keyword queries, and native state persistence for multi-agent checkpointing. Learn to connect agents directly to Aurora using Model Context Protocol (MCP) servers, govern every interaction with row-level security and audit trails, and orchestrate resilient, stateful workflows with Amazon Bedrock AgentCore, Strands Agents, and LangGraph without additional infrastructure. Build with tested patterns for governed, real-time agentic systems.",
+    "abstract": "How do you take an AI agent from a local prototype to a governed application that recovers from failure? In this session, follow a reference application through five phases: querying business data with SQL, connecting agents to Model Context Protocol (MCP) tools, adding hybrid retrieval, deploying to production, and enabling durable workflows. See how Aurora PostgreSQL unifies relational data, pgvector embeddings, full-text search, and workflow state. Explore Strands Agents on Bedrock AgentCore, verify identity and enforce row-level security for data access, and govern tool calls with AgentCore Policy. Code walkthroughs show recovery from saved steps, idempotency to prevent duplicate actions, and audit records that make outcomes traceable.",
     "times": [
       {
         "id": "1790360396604001Axqi",
@@ -34602,7 +34602,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As applications evolve from RAG to agentic workflows, retrieval must support more than top-k semantic matches. In this session, use Aurora PostgreSQL as the core search and context engine for agentic hybrid retrieval. Implement PostgreSQL full-text search for lexical retrieval, pgvector semantic similarity, SQL and metadata filters, fuzzy matching, reciprocal rank fusion, model-based reranking, source attribution, and retrieval diagnostics. Then wire these capabilities into agent tools that decompose complex questions, gather targeted evidence, compare sources, explain ranking signals, and synthesize cited answers. Leave with working code, schema patterns, ranking templates, and techniques for trustworthy retrieval-heavy AI applications.",
+    "abstract": "What if your agent's most convincing answer rests on the wrong evidence? Build agentic hybrid retrieval with Aurora PostgreSQL across more than 500,000 product listings in three connected hands-on labs. Debug SQL combining full-text search, pg_trgm fuzzy matching, and pgvector semantic search under shared filters. Repair reciprocal rank fusion, inspect Amazon Bedrock reranking, and compare retrieval settings against judged queries. Then build a Strands agent, connect its retrieval tools through Amazon Bedrock AgentCore Gateway, and deploy it to AgentCore Runtime. Trace its searches to cited specifications and reviews, and test what happens when requirements change. Leave with reusable retrieval SQL and working agent code.",
     "times": [
       {
         "id": "1790025523154001C1r4",
@@ -34639,7 +34639,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As applications evolve from RAG to agentic workflows, retrieval must support more than top-k semantic matches. In this session, use Aurora PostgreSQL as the core search and context engine for agentic hybrid retrieval. Implement PostgreSQL full-text search for lexical retrieval, pgvector semantic similarity, SQL and metadata filters, fuzzy matching, reciprocal rank fusion, model-based reranking, source attribution, and retrieval diagnostics. Then wire these capabilities into agent tools that decompose complex questions, gather targeted evidence, compare sources, explain ranking signals, and synthesize cited answers. Leave with working code, schema patterns, ranking templates, and techniques for trustworthy retrieval-heavy AI applications.",
+    "abstract": "What if your agent's most convincing answer rests on the wrong evidence? Build agentic hybrid retrieval with Aurora PostgreSQL across more than 500,000 product listings in three connected hands-on labs. Debug SQL combining full-text search, pg_trgm fuzzy matching, and pgvector semantic search under shared filters. Repair reciprocal rank fusion, inspect Amazon Bedrock reranking, and compare retrieval settings against judged queries. Then build a Strands agent, connect its retrieval tools through Amazon Bedrock AgentCore Gateway, and deploy it to AgentCore Runtime. Trace its searches to cited specifications and reviews, and test what happens when requirements change. Leave with reusable retrieval SQL and working agent code.",
     "times": [
       {
         "id": "1790360385429001Awoj",
@@ -35004,7 +35004,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Production agentic AI applications demand strong governance, precise retrieval, and consistent policy enforcement across every agent interaction. In this session, explore a retail shopping scenario where a Strands SDK dispatcher routes shoppers to specialist agents. Aurora powers hybrid search with PostgreSQL full-text search, pgvector for semantic retrieval, and Cohere Rerank for relevance ranking, while managing inventory, orders, customer records, and a queryable JSONB audit ledger. Amazon Bedrock AgentCore Runtime, Memory, Gateway, and Policy orchestrate agents, preserve context, expose tools, and apply Cedar authorization to sensitive actions. Build your own governed agentic AI search application and get proven patterns for production deployment. Bring your laptop to participate.",
+    "abstract": "Build an agentic retail assistant that answers from business facts under explicit controls. Across four connected labs, combine Aurora PostgreSQL full-text search and pgvector with reciprocal rank fusion and Cohere Rerank on Amazon Bedrock. Connect search and inventory tools to specialists built with the Strands Agents SDK, then deploy them to Amazon Bedrock AgentCore with Runtime, Memory, Gateway, and Policy. Protect customer records with identity binding and PostgreSQL row-level security, and enforce Cedar policies on Gateway tool calls. Approve a store credit, query the audit records, and verify denied calls don't execute and retries don't duplicate credits. Patterns are reusable across Aurora and RDS for PostgreSQL.",
     "times": [
       {
         "id": "1790025471109001CBNV",
@@ -35042,7 +35042,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Production agentic AI applications demand strong governance, precise retrieval, and consistent policy enforcement across every agent interaction. In this session, explore a retail shopping scenario where a Strands SDK dispatcher routes shoppers to specialist agents. Aurora powers hybrid search with PostgreSQL full-text search, pgvector for semantic retrieval, and Cohere Rerank for relevance ranking, while managing inventory, orders, customer records, and a queryable JSONB audit ledger. Amazon Bedrock AgentCore Runtime, Memory, Gateway, and Policy orchestrate agents, preserve context, expose tools, and apply Cedar authorization to sensitive actions. Build your own governed agentic AI search application and get proven patterns for production deployment. Bring your laptop to participate.",
+    "abstract": "Build an agentic retail assistant that answers from business facts under explicit controls. Across four connected labs, combine Aurora PostgreSQL full-text search and pgvector with reciprocal rank fusion and Cohere Rerank on Amazon Bedrock. Connect search and inventory tools to specialists built with the Strands Agents SDK, then deploy them to Amazon Bedrock AgentCore with Runtime, Memory, Gateway, and Policy. Protect customer records with identity binding and PostgreSQL row-level security, and enforce Cedar policies on Gateway tool calls. Approve a store credit, query the audit records, and verify denied calls don't execute and retries don't duplicate credits. Patterns are reusable across Aurora and RDS for PostgreSQL.",
     "times": [
       {
         "id": "1790360381026001Afxl",
@@ -41583,7 +41583,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Eliminating long-lived credentials across clouds is essential for secure multicloud operations. This session presents three proven identity federation patterns: using SPIFFE/SPIRE for cryptographic workload identity across Kubernetes clusters, leveraging native OIDC providers from GKE and Azure to assume AWS IAM roles with short-lived tokens, and federating Kubernetes service accounts across cloud boundaries. We walk through architecture decisions, trust policy design, and security best practices for each approach - covering GCP Workload Identity, Microsoft Entra ID federation, and cross-cluster OIDC. Attendees leave with actionable blueprints for credential-free multicloud access. ",
+    "abstract": "Eliminating long-lived credentials across clouds is essential for secure multicloud operations. This session presents three proven identity federation patterns: leveraging native OIDC providers from Google Cloud and Microsoft Azure to assume AWS IAM roles with short-lived tokens, federating Kubernetes service accounts across cloud boundaries, and using SPIFFE/SPIRE for cryptographic workload identity across Kubernetes clusters. We walk through architecture decisions, trust policy design, and security best practices for each approach - covering GCP Workload Identity, Microsoft Entra ID federation, and cross-cluster OIDC. Attendees leave with actionable blueprints for credential-free multicloud access.",
     "times": [
       {
         "id": "1790360383724001AimS",
@@ -41900,7 +41900,7 @@
   {
     "id": "1780441475188001GA3x",
     "code": "HMC313",
-    "title": "How Emirates built multicloud AI agents with open-source LLM orchestration",
+    "title": "How Emirates built Multicloud Agents with open-source Agentic AI Gateway",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -41919,7 +41919,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Enterprises running AI agents across multiple clouds face fragmented model access, inconsistent pricing, and vendor lock-in. Open-source frameworks like LiteLLM provide a unified interface to orchestrate LLMs across Amazon Bedrock, Azure OpenAI, and Google Vertex AI based on use-case requirements and token economics. This session demonstrates how Emirates built a multi-cloud agent architecture using LiteLLM as the routing layer, with Bedrock as the primary backbone. Learn patterns for cost-based routing, fallback strategies, model selection by capability, and unified observability across providers.",
+    "abstract": "Enterprises running AI agents across multiple clouds face fragmented model access, inconsistent pricing, and vendor lock-in. Open-source Gateways provide a unified interface to orchestrate Models across Amazon Bedrock, Azure OpenAI, and Google Vertex AI based on use-case requirements and token economics. This session demonstrates how Emirates built a multi-cloud agent architecture using an open-source Agentic AI Gateway as the routing layer and Bedrock as the primary backbone. Learn patterns for cost-based routing, fallback strategies, model selection by capability, and unified observability across model and cloud providers.",
     "times": [
       {
         "id": "1790034534418001pbu8",
@@ -42359,7 +42359,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Incident response in multicloud environments is challenging because of fragmented observability and depth-of-skills gaps in your teams across cloud providers. In this session, learn how 3M used AWS DevOps Agent to investigate failures at scale across 250+ AWS accounts and X Azure subscriptions. You will see a quick demo of how DevOps Agent investigates cross-cloud failures, reducing the required human effort from hours to minutes. Walk away with lessons learnt and a deeper understanding of how DevOps Agent helps you in multicloud environments.",
+    "abstract": "Incident response in multicloud environments is challenging because of fragmented observability and depth-of-skills gaps in your teams across cloud providers. In this session, learn how 3M used AWS DevOps Agent to investigate failures at scale across 250+ AWS accounts and a connected Azure estate of comparable scale. You will see a quick demo of how DevOps Agent investigates cross-cloud failures, reducing the required human effort from hours to minutes. Walk away with lessons learnt and a deeper understanding of how DevOps Agent helps you in multicloud environments.",
     "times": [
       {
         "id": "1791266179330001LcLS",
@@ -43209,14 +43209,14 @@
     "times": [
       {
         "id": "1790025535293001CJoi",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -43244,14 +43244,14 @@
     "times": [
       {
         "id": "1790025512692001C60t",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -44826,7 +44826,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Buying and selling media has long been manual, constrained by legacy systems and fragmented tools. Warner Bros. Discovery is changing that. As the first media company to integrate agentic AI workflows into every system across the media lifecycle, WBD is leapfrogging the competition by embedding autonomous agents at every step: planning, forecasting, optimization, and measurement. Built on AWS, this converged platform makes linear TV as addressable and measurable as digital. Learn how WBD and AWS are replacing decades of manual process with self improving agents that drive precision, yield, and entirely new monetization models at scale.",
+    "abstract": "Buying and selling media has historically been manual, constrained by legacy systems and fragmented tools. Warner Bros. Discovery is changing that. As the first media company to integrate agentic AI workflows into every system across the media lifecycle, WBD is leapfrogging the competition by embedding autonomous agents at every step: planning, forecasting, optimization, and measurement. This converged platform makes linear TV as addressable and measurable as digital. Learn how WBD and AWS are replacing decades of manual process with self-improving agents that drive precision, yield, and entirely new monetization models at scale.",
     "times": [
       {
         "id": "1790025527140001Cf9c",
@@ -44899,7 +44899,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Premium animated series traditionally take 3.5 years to produce. Prime Video AI Studios built the AI-Assisted Creative Suite on AWS to compress production to under 12 months—and extend support to live-action shorts, second-unit VFX, and feature films. The suite is powered by AI agents on Amazon Bedrock AgentCore and AWS Strands that select models, build creative workflows, construct prompts, and evaluate outputs. Learn how Prime Video trains and serves their first-party diffusion-model fleet on Amazon SageMaker and EKS, running on Amazon EC2 P6 GPU clusters for production-grade throughput and latency.",
+    "abstract": "Premium animated series traditionally take 3.5 years to produce. Prime Video AI Studios built the AI-Assisted Creative Suite on AWS to compress production to under 12 months, with plans to extend support to live-action shorts, second-unit VFX, and feature films. The suite is powered by AI agents on Amazon Bedrock AgentCore and the Strands Agents SDK that select models, build creative workflows, construct prompts, and evaluate outputs. Learn how Prime Video trains and serves their first-party diffusion model fleet on Amazon SageMaker and EKS, running on Amazon EC2 P6 GPU clusters for production-grade throughput and latency.",
     "times": [
       {
         "id": "1790025522107001C6iI",
@@ -45955,44 +45955,6 @@
     ]
   },
   {
-    "id": "1780441476213001GYOa",
-    "code": "IND3329",
-    "title": "Allianz: Scaling product reach with agentic commerce across channels",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Artificial Intelligence",
-      "Industry Solutions"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Executive",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Customers increasingly start product discovery inside the AI assistants they use daily, and companies that aren't present miss them entirely. Learn how Allianz built a unified agentic-commerce backend on Amazon Bedrock, grounded in open standards. The same backend powers its own conversational AI across web and mobile and extends the same experience into third-party AI platforms through one AI gateway. We cover the agentic architecture and how shared MCP servers for corporate identity, GDPR compliance, consent, and authentication free business teams to focus on their core services. Customers discover products, get non-binding quotes, and connect to agencies across every channel.",
-    "times": [
-      {
-        "id": "1790025553069001CfQN",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
-        "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
     "id": "1780442228313001cKty",
     "code": "IND333",
     "title": "Talk to your market data: Agentic AI meets exchange feeds",
@@ -46228,14 +46190,14 @@
     "times": [
       {
         "id": "1791231403110001SbcH",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -46478,14 +46440,14 @@
     "times": [
       {
         "id": "1790025537265001CSa7",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -47173,7 +47135,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this hands-on builder session, construct a multi-agent AI system that automates the full marketing lifecycle—plan, launch, and optimize. Build specialized agents on Amazon Bedrock (planner, media buyer, analyst, and creative) that turn campaign parameters into data-driven recommendations: audience targeting, budget allocation, performance forecasts, and localized creative assets grounded in your brand guidelines and historical data. Activate campaigns through Amazon Ads DSP, then deploy an optimizer agent with human-in-the-loop approvals to reallocate budget across channels as performance shifts. Leave with a working blueprint for agentic marketing workflows using Amazon Bedrock and AWS Marketplace solutions—and become the marketeer of the future.",
+    "abstract": "In this hands-on builder session, construct a multi-agent AI system that automates campaign planning, activation, and optimization. Build four specialized agents on Amazon Bedrock including a planner, media buyer, analyst, and creative generator that turns campaign parameters into audience targeting, budget allocation, performance forecasts, and localized creative grounded in your brand guidelines and historical data. Activate campaigns through Amazon Ads DSP, then add an optimizer agent with human-in-the-loop approvals that reallocates budget across channels as performance shifts. You'll build a running multi-agent workflow and take away the Bedrock agent definitions to adapt for your own campaigns.",
     "times": [
       {
         "id": "1790360365345001AYht",
@@ -50157,7 +50119,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Walk through the reference architecture of a real-time fact-checking pipeline built on Amazon Bedrock AgentCore. See how a live audio stream is turned into fact-by-fact verdicts — true, misleading, or false — each cited to its source at broadcast-compatible latency. We'll unpack the moving parts: a chain of specialized agents on AgentCore, hybrid search on Amazon OpenSearch Service, Amazon Bedrock Guardrails, and custom tool-use hooks. Bring your own use case and leave with a mapped path from it to the reference architecture, plus answers to the concrete design questions blocking you: agent sharding, tabular corpus indexing, guardrails, and streaming reasoning to the UI.",
+    "abstract": "Walk through the reference architecture of a real-time fact-checking pipeline built on Amazon Bedrock AgentCore. See how a live audio stream is turned into fact-by-fact verdicts (true, misleading, or false), with source citing at broadcast-compatible latency. Learn how to build it yourself using a chain of specialized agents on AgentCore, hybrid search on Amazon OpenSearch Service, Amazon Bedrock Guardrails, and custom tool-use hooks. Leave with a mapped path to create a reference architecture, plus answers to the concrete design questions blocking you such as: agent sharding, tabular corpus indexing, guardrails, and streaming reasoning to the UI.",
     "times": [
       {
         "id": "1790025535429001Cc2F",
@@ -62088,7 +62050,7 @@
   {
     "id": "1780442222761001cmMF",
     "code": "SEC204",
-    "title": "Post-quantum readiness at scale with AWS and DXC Technology",
+    "title": "Global Technical Capability Lead Key & Certificate Services",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -62103,7 +62065,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Post-quantum migrations succeed when organizations can discover cryptographic assets, assign ownership, and continuously manage risk. In this session, AWS and DXC Technology connect enterprise governance with the technical capabilities needed for crypto agility. See how DXC built a platform with AWS services to discover and correlate assets across AWS and enterprise PKI, assign ownership, automate certificate lifecycles, and assess post-quantum readiness. A live proof of concept demonstrates inventory, prioritization, verification, and continuous reassessment. Leave with an operating model for planning migrations aligned with NIST and CNSA 2.0 timelines.",
+    "abstract": "Post-quantum migrations succeed when organizations can discover cryptographic assets, assign ownership, and continuously manage risk. Organisations are facing a rapid increase in machine identities, service identities, APIs, containers, AI workloads, and other cryptographic assets. At the same time, certificate lifetimes continue to shrink, making manual lifecycle management increasingly unsustainable. AWS and DXC Technology show how enterprise governance connects with crypto agility. See how DXC built a cryptographic asset intelligence and orchestration platform on AWS to discover and correlate assets across AWS and enterprise PKI, automate certificate lifecycles, and assess post-quantum readiness. A live proof of concept demonstrates inventory, prioritization, and continuous reassessment. Leave with an operating model aligned with NIST and CNSA 2.0 timelines.",
     "times": [
       {
         "id": "1790025553205001CWdF",
@@ -63368,7 +63330,7 @@
   {
     "id": "1780442222121001c2uu",
     "code": "SEC302",
-    "title": "AI governance for autonomous agents with AWS Control Tower and ISO 42001",
+    "title": "Governance foundations for AI workloads that grow into autonomous agents",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -64169,7 +64131,7 @@
   {
     "id": "1780442283775001cNHk",
     "code": "SEC322",
-    "title": "Investigating AI threats: extending IR to the generative AI layer",
+    "title": "Investigating Threats to AI: Incident Response to Compromised AI Workloads",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -64476,42 +64438,6 @@
         "endTime": "11:00",
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "11:00 AM",
-        "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1780441481171001G59D",
-    "code": "SEC330",
-    "title": "Next-gen threat detection: GuardDuty advanced security capabilities",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Cost Optimization",
-      "Machine Learning",
-      "Threat Detection & Incident Response"
-    ],
-    "roles": [
-      "Cloud Security Specialist",
-      "Developer / Engineer"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Amazon GuardDuty protects millions of accounts using AI and ML models purpose-built for cloud security, and the detection engine keeps getting smarter without requiring action from you. In this session, the lead scientist behind GuardDuty's detection engine takes you inside the research. Learn how the team designs models for security inference at scale, uses distillation and reinforcement learning to keep detection cost-efficient without sacrificing accuracy, and distinguishes normal from anomalous behavior without using customer data for training. See how these advances translate into expanded coverage, faster detection of sophisticated threats, and deeper investigation workflows. You leave with an understanding of the engineering tradeoffs behind AI-native threat detection at AWS scale and how to operationalize the latest capabilities.",
-    "times": [
-      {
-        "id": "1790025543829001CVX1",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
         "venue": "Wynn/Encore"
@@ -66581,14 +66507,18 @@
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Cloud Operations"
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Generative AI"
+      "Automation",
+      "DevOps"
     ],
     "roles": [
-      "Developer / Engineer"
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
@@ -66693,7 +66623,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Organizations operating in multiple clouds face a compounding multi-cloud identity lifecycle governance challenge. How do you provision, manage, audit, and decommission identities when each cloud provider enforces different authorization models, attribute schemas, and lifecycle hooks? In this session National Institute Health (NIH), a federal research organization, describe how they leverage a centralized identity governance platform to provision identities and entitlements across AWS and Microsoft Azure. You will learn how to avoid governance divergence, and design identity lifecycles where access reviews, birthright provisioning, and decommissioning work consistently - regardless of which cloud the identity lands in.",
+    "abstract": "Organizations operating in multiple clouds face a compounding multi-cloud identity lifecycle governance challenge. How do you provision, manage, audit, and decommission identities when each cloud provider enforces different authorization models, attribute schemas, and lifecycle hooks? In this session, the National Institutes of Health (NIH), a federal research organization, describes how it uses a centralized identity governance platform to provision identities and entitlements across AWS and Microsoft Azure. You will learn how to avoid governance divergence and design identity lifecycles where access reviews, birthright provisioning, and decommissioning work consistently, regardless of which cloud the identity lands in.",
     "times": [
       {
         "id": "1790025478148001Cgmb",
@@ -67995,6 +67925,42 @@
     ]
   },
   {
+    "id": "1780441481171001G59D",
+    "code": "SEC501",
+    "title": "Next-gen threat detection: GuardDuty advanced security capabilities",
+    "type": "Breakout session",
+    "level": "500 – Distinguished",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Machine Learning",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Amazon GuardDuty protects millions of accounts using AI and ML models purpose-built for cloud security, and the detection engine keeps getting smarter without requiring action from you. In this session, the lead scientist behind GuardDuty's detection engine takes you inside the research. Learn how the team designs models for security inference at scale, uses distillation and reinforcement learning to keep detection cost-efficient without sacrificing accuracy, and distinguishes normal from anomalous behavior without using customer data for training. See how these advances translate into expanded coverage, faster detection of sophisticated threats, and deeper investigation workflows. You leave with an understanding of the engineering tradeoffs behind AI-native threat detection at AWS scale and how to operationalize the latest capabilities.",
+    "times": [
+      {
+        "id": "1790025543829001CVX1",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442221009001cooY",
     "code": "SNR301",
     "title": "A leader's guide to predicting and proving AI value",
@@ -68071,7 +68037,7 @@
   {
     "id": "1780442221125001cULv",
     "code": "SNR303",
-    "title": "A leader's guide to advanced team models in an agentic world",
+    "title": "A leader's guide to advanced teams models in an agentic world",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -68089,7 +68055,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "You built multi-skilled teams for cloud. That shape does not absorb agents. Cheaper execution does not remove work, it relocates it into judgment, verification, and spotting confidently wrong answers. The question we want answered is not about reporting lines, it is \"does this new world include me?\" The twenty-year senior, the junior who cannot get in, the manager of a smaller team: each needs a different answer. Four operating models return, from today's anti-pattern to the hourglass, with a first-person account of what works inside Amazon and what doesn't. The answer is yes, but the entry requirement has changed. ",
+    "abstract": "Agents made execution cheap. The work did not disappear. It moved into deciding what should exist, checking what agents produce, and owning it when something breaks. Most team designs were not built for that. This session gives you four questions to ask of any piece of work: what is it for, what does it touch, how will we check it, and whose name is on it. Then we walk through the team models leaders reach for, what each gets wrong, and where the pager and the name should sit. You leave knowing who does what now.",
     "times": [
       {
         "id": "1790107595869001uiQt",
@@ -68169,10 +68135,10 @@
         "id": "1790110715496001p5U1",
         "date": "2026-12-01",
         "day": "Tuesday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
         "room": "Venetian | Level 2 | Venetian Theatre",
         "venue": "Venetian"
@@ -68199,21 +68165,21 @@
       "Cloud Security Specialist",
       "IT Executive"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "AI deployments can reason, problem-solve, and act with increasing agency. Leaving governance models built for deterministic software no longer sufficient.\nAWS Executive in Residence Ryan Seaman and Dr. Bernadette Han, organizational psychologist at the American Psychological Association (APA), bring technology and human behavior into one governance conversation. As AI interacts with people, influences decisions, and takes actions, governance must address not only what AI can do, but how it behaves with people and what happens as a result.\nBernadette introduces the EEI-AI Behavioral Architecture™, translating psychological science into behavioral requirements organizations can design for, test, observe, and govern responsibly.",
     "times": [
       {
         "id": "1790025521900001CQcg",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -68315,21 +68281,21 @@
       "IT Executive",
       "IT Professional / Technical Manager"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "The data problem you tolerated for years just became an emergency. Agents do not politely work around missing metadata. They guess confidently, and you find out three weeks later. Enterprises assumed they could solve AI first and data second. They can't. You get the framework that separates compounding value from programs that never finish. AWS Marketing built an agentic system over thousands of warehouse tables. It worked. Its first output: an inventory of every undocumented decision in the warehouse. That exposure was worth more than the answers. You leave knowing what to fix first, and why analytical demand climbs. ",
     "times": [
       {
         "id": "1790025547905001CUzd",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -68351,21 +68317,21 @@
       "Business Executive",
       "IT Executive"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "Your board is asking about AI — and that's a good thing. Their curiosity is the opening you need. But that attention can create more heat than light: dashboards and benchmarks that generate activity without moving the organization forward. The real opportunity is to channel that interest — show AI's true potential and turn your board into a genuine partner for a transformation that needs their conviction to succeed. In this session, assess where your board sits, understand the personas at play, and learn proven tactics to move them from curiosity to conviction.",
     "times": [
       {
         "id": "1790025518998001CZ0f",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -68426,21 +68392,21 @@
       "Business Executive",
       "IT Executive"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "Fund the platform or the use case? Demand proof before investing, or invest to generate the proof? These decisions determine whether AI compounds or stalls, and can't wait for the annual budget cycle. To move at the pace of AI, the CIO and CFO must be in lockstep. Two former operators share how the best pairs manage AI like a venture portfolio: bets in the face of uncertainty, recycling of wins into the next ones, and governance that scales across the portfolio rather than project by project — plus the key questions every pair should answer before their next AI investment.",
     "times": [
       {
         "id": "1790025506683001CpQY",
         "date": "2026-12-01",
         "day": "Tuesday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -68465,21 +68431,21 @@
       "IT Executive",
       "IT Professional / Technical Manager"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "I gave the organization AI tools — why did adoption stall? Most enterprises equip teams with AI and expect transformation to follow. It doesn't. Amazon scaled agentic AI to thousands of production deployments not by mandate, but by investing in what surrounds the model: governance that guards what truly matters — customer trust, privacy, security, and cost — while loosening its grip everywhere else, a culture where experimentation and oversight coexist, and upskilling that turns casual prompters into confident builders. This session names the structural bets that move adoption, the debts you're quietly acquiring, and why losing control isn't the failure — over-constraining is.",
     "times": [
       {
         "id": "1790025501543001Ce16",
         "date": "2026-12-01",
         "day": "Tuesday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -68540,21 +68506,21 @@
       "Business Executive",
       "IT Executive"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "In early 2026, the Reimagine research program interviewed senior technology leaders under conditions of candor: off-the-record, non-attributable, no marketing follow-up. What they said contradicts the prevailing conference narrative. Nobody is running agents autonomously, not one. The most advanced organizations are carrying the most technical debt. The AI generating real value looks nothing like the demos. This session synthesizes the patterns that emerged when executives stopped performing confidence and started sharing reality. ",
     "times": [
       {
         "id": "1790025504733001CIGU",
         "date": "2026-12-01",
         "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -68579,21 +68545,21 @@
       "Cloud Security Specialist",
       "IT Executive"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "As AI capabilities advance, so do the capabilities of those who attack software. The pace of modern development has outgrown point-in-time security reviews, leaving vulnerabilities exploitable longer than any leader should accept. Periodic snapshots cannot keep up when code changes constantly, so security has to become continuous, evaluating posture as the code itself evolves. Amazon used frontier-model capabilities, through Mythos, to make security continuous at its own scale, finding issues and guiding builders to fix them as they work. This session explores that shift. Senior leaders will learn how to secure their organizations at AI speed.",
     "times": [
       {
         "id": "1790025532323001CJ6J",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
       }
     ]
   },
@@ -71314,21 +71280,21 @@
       "Developer / Engineer",
       "IT Executive"
     ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Join this session to learn about the latest storage and AI innovations from Amazon S3, why they matter, and how to get started.",
     "times": [
       {
         "id": "1790963622593001QfVj",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade Level | Roman I",
-        "venue": "Caesars Palace"
+        "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
       }
     ]
   },
