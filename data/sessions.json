@@ -7241,7 +7241,7 @@
   {
     "id": "1780441464038001G5Ms",
     "code": "AIM342",
-    "title": "Build a governed enterprise AI/ML platform on SageMaker AI",
+    "title": "One Service, Every Workload: Build, Customize, and Deploy with SageMaker AI",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -7251,7 +7251,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Enterprises struggle with fragmented ML tooling, inconsistent governance, and limited model health visibility. This session demonstrates a unified platform on Amazon SageMaker AI addressing these challenges across regulated industries. We cover multi-account architecture with environment-isolated domains, SageMaker AI Studio and MLflow/Model Registry as the central governance checkpoint with approval workflows, and CI/CD-driven model promotion with validation gates. We extend this to LLM fine-tuning — adapter versioning, evaluation benchmarks, and human-in-the-loop sign-off within the same registry-driven pipeline. Finally, we close the loop with model monitoring for drift, inference logging, and automated alerting. Leave with a reference architecture and decision frameworks.",
+    "abstract": "AI/ML teams want to move fast - experiment with models, fine-tune them on their data, and serve them in production, without stitching together separate tools at every step. In this session, see how Amazon SageMaker AI lets you build, customize, deploy, and run inference, all within one service. Learn how to match the right approach to each stage: serverless experimentation for fast iteration, fully managed environments for custom frameworks and training, persistent clusters for large-scale research, and optimized inference for real-time and batch serving in production. Walk away with a practical decision framework and a reference architecture to start simple and scale without switching platforms.",
     "times": [
       {
         "id": "1790025529689001CPAD",
@@ -7377,7 +7377,7 @@
   {
     "id": "1780442234745001cUk8",
     "code": "AIM346-R",
-    "title": "Deploy Agentic AI on AWS AI Infrastructure for Production Agents",
+    "title": "Deploy, scale, and tune AI model serving with self-managed agents",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -7397,7 +7397,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Autonomous agents demand multi-step reasoning, tool calling, and long-running sessions. In this chalk talk, we'll show how you can deploy self-managed agentic AI infrastructure on Amazon EC2 to solve its core scaling problem: agent turns are bursty — GPU-bound while reasoning, CPU-bound while orchestrating. We'll discuss when to use disaggregated inference to optimize for prefill and decode, KV cache management for multi-turn sessions, autoscaling for bursty traffic, and CPU-based compute for orchestration. We'll close with guardrails, cost controls, and reference architectures for multi-model agentic RAG and policy-based routing to managed endpoints.",
+    "abstract": "Setting up AI infrastructure, tuning model performance, and benchmarking throughput could mean navigating brittle tooling, context rot in long sessions, irrelevant retrieval, missing guardrails for irreversible actions, bursty GPU and CPU demands, and observability gaps. In this chalk talk, explore how to set up, manage, and scale self-managed autonomous agents on AWS to address these challenges with built-in memory, safety boundaries, and audit trails. We will walk through how to quickly deploy a reference architecture on Amazon EKS, tune a 550B-parameter model for inference using disaggregated serving with NVIDIA Dynamo and vLLM, and scale with Elastic Fabric Adapter for cross-node KV cache transfer.",
     "times": [
       {
         "id": "1790025476277001CspS",
@@ -7416,7 +7416,7 @@
   {
     "id": "1790358215351001iDQk",
     "code": "AIM346-R1",
-    "title": "Deploy Agentic AI on AWS AI Infrastructure for Production Agents",
+    "title": "Deploy, scale, and tune AI model serving with self-managed agents",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -7436,7 +7436,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Autonomous agents demand multi-step reasoning, tool calling, and long-running sessions. In this chalk talk, we'll show how you can deploy self-managed agentic AI infrastructure on Amazon EC2 to solve its core scaling problem: agent turns are bursty — GPU-bound while reasoning, CPU-bound while orchestrating. We'll discuss when to use disaggregated inference to optimize for prefill and decode, KV cache management for multi-turn sessions, autoscaling for bursty traffic, and CPU-based compute for orchestration. We'll close with guardrails, cost controls, and reference architectures for multi-model agentic RAG and policy-based routing to managed endpoints.",
+    "abstract": "Setting up AI infrastructure, tuning model performance, and benchmarking throughput could mean navigating brittle tooling, context rot in long sessions, irrelevant retrieval, missing guardrails for irreversible actions, bursty GPU and CPU demands, and observability gaps. In this chalk talk, explore how to set up, manage, and scale self-managed autonomous agents on AWS to address these challenges with built-in memory, safety boundaries, and audit trails. We will walk through how to quickly deploy a reference architecture on Amazon EKS, tune a 550B-parameter model for inference using disaggregated serving with NVIDIA Dynamo and vLLM, and scale with Elastic Fabric Adapter for cross-node KV cache transfer.",
     "times": [
       {
         "id": "1790360392763001Aj2o",
@@ -7917,7 +7917,7 @@
     "code": "AIM360",
     "title": "World Models & Physical AI: The Next Frontier in Intelligent Systems",
     "type": "Breakout session",
-    "level": "300 – Advanced",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence"
     ],
@@ -10593,7 +10593,7 @@
   {
     "id": "1780442235868001cdfL",
     "code": "AIM453",
-    "title": "Govern models and agents on any cloud with Amazon Bedrock Guardrails",
+    "title": "Securing the agent loop with Amazon Bedrock Guardrails",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -10603,7 +10603,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your models and agents run across Bedrock, Azure, GCP, and self-hosted infrastructure, and each one needs safety controls and an audit trail. Rebuilding safety controls per cloud does not scale, and it fragments your audit trail. This chalk talk shows how Bedrock Guardrails gives you one control plane for content filtering, PII redaction, prompt attack detection, and automated reasoning checks, wherever inference runs. Apply a pre-configured guardrail with ApplyGuardrail, or run resource-less checks inline with InvokeGuardrailChecks. Both are decoupled from model invocation and support per-step scoring for agentic workflows.",
+    "abstract": "You screen the prompt on the way in and answer on the way out. In between, tool results carry external content straight into the model's context and tool arguments carry the model's decisions out to your systems, without inspection. The middle of the loop is where indirect prompt injection lands. Where you place a guardrail inside the loop is a design decision. In this chalk talk, we place Bedrock Guardrails checks inside the agent loop. We examine ApplyGuardrail and InvokeGuardrailChecks, work through where each one belongs, and look at what risk remains when the checks are in place.",
     "times": [
       {
         "id": "1790025532729001C2Ms",
@@ -12344,7 +12344,7 @@
   {
     "id": "1780441461602001Ge7H",
     "code": "ANT407",
-    "title": "AWS Glue Data Catalog: Govern data and AI agents with lineage and business context  ",
+    "title": "Govern data and AI agents with lineage and context in AWS Glue Data Catalog",
     "type": "Breakout session",
     "level": "400 – Expert",
     "topics": [
@@ -17759,7 +17759,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "You expanded globally. Your customer experience didn't. What started as regional growth became a patchwork of inconsistent tools, siloed operations, and fragile workarounds that couldn't keep pace with your brand. Learn how a comany stopped managing around the complexity and rebuilt from the foundation - modernizing its global CX infrastructure on Amazon Connect Customer across North America, APAC, and EMEA without disrupting a single customer interaction. If your service operations were built for one market and stretched across many, this is what it looks like to standardize at scale and unlock the agility to move toward AI-driven experiences on your terms. ",
+    "abstract": "You expanded globally. Your customer experience didn't. What started as regional growth became a patchwork of inconsistent tools, siloed operations, and fragile workarounds that couldn't keep pace with your brand. Learn how a company stopped managing around the complexity and rebuilt from the foundation - modernizing its global CX infrastructure on Amazon Connect Customer across North America, APAC, and EMEA without disrupting a single customer interaction. If your service operations were built for one market and stretched across many, this is what it looks like to standardize at scale and unlock the agility to move toward AI-driven experiences on your terms. ",
     "times": [
       {
         "id": "1790025543095001ChZc",
@@ -18530,7 +18530,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "You deployed an AI assistant. Your team tried it for a week and stopped. The tool could not access the systems where real work happens, gave generic answers because it was disconnected from your enterprise context, and security would not approve broader rollout because the governance story was unclear. That is where most AI deployments stall. Hear from a customer who lived that exact cycle: low adoption, frustrated leadership, and a growing sense that the investment was wasted. They evaluated multiple alternatives and made the switch to Amazon Quick, an AI assistant with governed access to enterprise data, native connectors to the systems their teams already use, and agentic workflows that span business units. Learn what broke in their first deployment, what they looked for in a replacement, and how governed data access turned single-digit adoption into organization-wide usage.",
+    "abstract": "Most AI investments stall because leaders hand off adoption instead of leading it. 3M did the opposite. It put Amazon Quick in the hands of its top 75 executives first, so the people who set strategy saw the value before they asked their teams to adopt it. With governed access to enterprise data, senior leaders now use Quick to make decisions faster, bring their teams onto shared workflows and turn AI from a personal tool into a team-wide advantage. Learn what executive sponsorship changed, what leaders gained in speed and focus and how to build the same momentum in your organization.",
     "times": [
       {
         "id": "1790034533096001paRV",
@@ -43259,7 +43259,7 @@
   {
     "id": "1780442269516001ceDZ",
     "code": "IND209-S",
-    "title": "Computing‑Power‑Cooling Synergy: Building the Future of Global Data Infrastructure (sponsored by Kehua Tech)",
+    "title": "Computing‑Power‑Cooling Synergy: Building the Future of Global Data Infrastructure",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -63165,7 +63165,10 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Digital Sovereignty",
+      "Learning from Amazon"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63194,7 +63197,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Data Protection",
+      "Governance, Risk & Compliance",
+      "Identity & Access Management"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63966,7 +63973,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Application Security",
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -63995,7 +64006,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Application Security",
+      "Cryptography and Post-Quantum",
+      "Governance, Risk & Compliance"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -65164,7 +65179,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Cryptography and Post-Quantum",
+      "Innovation & Transformation"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -65193,8 +65212,13 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Learning from Amazon"
+    ],
+    "roles": [
+      "Solution / Systems Architect"
+    ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "In this session, we introduce the OpenClaw architecture, compare the major variants and their security posture differences, and then map the threat landscape for AWS-hosted deployments. Drawing on years of experience helping customers deploy, we cover the infrastructure and runtime threat landscape. You will leave with a reference architecture that applies defense-in-depth principles to such OpenClaw deployments on AWS, minimizing risk without sacrificing capability.",
@@ -65605,7 +65629,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Cryptography and Post-Quantum",
+      "Edge Computing",
+      "Internet of Things"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -66549,21 +66577,22 @@
   {
     "id": "1780442270290001cyIp",
     "code": "SEC385-S",
-    "title": "Your Agent Is in Production. Can You Explain What It Did? (sponsored by Datadog)",
+    "title": "Automate and Scale Cloud Operations with Purpose-Built AI Agents",
     "type": "Lightning talk",
-    "level": "300 – Advanced",
+    "level": "200 – Intermediate",
     "topics": [
-      "Security & Identity"
+      "Artificial Intelligence"
     ],
     "areasOfInterest": [
-      "Application Security"
+      "Agentic AI",
+      "Generative AI"
     ],
     "roles": [
-      "Cloud Security Specialist"
+      "Developer / Engineer"
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Your team shipped an agent to production last quarter. It works, mostly. When it doesn't, nobody can explain why. This session covers what changes when non-deterministic systems enter your stack: which signals actually matter for agentic workloads, how to trace a multi-step agent across tools and models, and where AI agents can safely take action in your own operations. Live examples from Datadog LLM Observability, the Agent Console, AI Guard, and Bits AI. You'll leave with an instrumentation checklist. This presentation is brought to you by Datadog, an AWS Partner.",
+    "abstract": "Engineering teams lose time correlating telemetry, triaging alerts, investigating threats, and turning findings into fixes. This session explores how Datadog’s purpose-built AI agents can reduce that operational burden by applying organizational context and production telemetry to focused developer, SRE, and security workflows. Using the AWS Well-Architected Framework, we’ll examine where agents can improve operational excellence, reliability, security, performance efficiency, and cost optimization.",
     "times": [
       {
         "id": "1790033125508001qAcM",
@@ -67224,7 +67253,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Data Protection",
+      "Governance, Risk & Compliance",
+      "Kubernetes"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -67288,7 +67321,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cryptography and Post-Quantum",
+      "Data Protection"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
@@ -67933,7 +67970,11 @@
     "topics": [
       "Security & Identity"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Data Protection",
+      "Governance, Risk & Compliance",
+      "Identity & Access Management"
+    ],
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
