@@ -1329,7 +1329,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI is accelerating sustainability at unprecedented speed, but only if the infrastructure behind it keeps pace. Learn how customers leverage AI for autonomous building control, emission factor mapping, supply chain carbon accounting, disclosure drafting, and transforming procurement data into sustainability intelligence using natural language. Then explore how AWS makes AI infrastructure more sustainable through hardware design decisions that minimize embodied carbon, custom silicon optimized for energy efficiency, and ML-driven data center optimization. Leave with a clear understanding of the AWS services powering these solutions, how AWS is building a more sustainable infrastructure, and how to get started.",
+    "abstract": "AI is accelerating sustainability at unprecedented speed, but only if the infrastructure behind it keeps pace. In this session, we will explore how AWS makes AI infrastructure more sustainable through hardware design decisions that minimize embodied carbon, custom silicon optimized for energy efficiency, and ML-driven data center optimization. Amazon Operations will show how AI and ML turn facility maintenance into prescriptive, autonomous operations: optimizing HVAC, water, and utilities for greater equipment reliability, and sustainability. Leave with a clear understanding of the AWS services powering these solutions, how AWS is building a more sustainable infrastructure, and how to get started with tracking and reducing your environmental impact.",
     "times": [
       {
         "id": "1790025538375001Cx0B",
@@ -8895,7 +8895,7 @@
   {
     "id": "1780441465264001Gz2N",
     "code": "AIM391",
-    "title": "Automate AI governance and risk management",
+    "title": "Automate AI governance and risk management with John Deere",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -8909,7 +8909,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Governance frameworks designed for static deployments struggle to keep pace with AI systems that learn, adapt, and act autonomously. In this session, walk through AWS Responsible AI best practices for governing AI across the full development lifecycle. Then see how AI Risk Intelligence (AIRI) puts these principles into practice, automating risk management with static checks that verify controls at the code and documentation level and dynamic checks that analyze APIs and traces in real time, giving you continuous visibility into AI risk posture as systems evolve. Learn what it takes to move from periodic manual assessments to continuous, automated governance.",
+    "abstract": "Governance frameworks designed for static deployments struggle to keep pace with AI systems that learn, adapt, and act autonomously. Walk through AWS Responsible AI best practices for governing AI across the full development lifecycle. Then see how John Deere applied these principles through AI Risk Intelligence (AIRI) to automate risk management. Learn how static checks verify controls at code and documentation level while dynamic checks analyze APIs and traces in real time, achieving over 30% reduction in assessment time and continuous visibility into AI risk posture. Learn what it takes to move from periodic manual assessments to continuous, automated governance.",
     "times": [
       {
         "id": "1790034531520001pLec",
@@ -39913,7 +39913,7 @@
   {
     "id": "1785256471958001doP6",
     "code": "GHJ201-R",
-    "title": "Cloud Migration Journey Tabletop Experience",
+    "title": "Cloud migration journey tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -39949,7 +39949,7 @@
   {
     "id": "1785256472034001dim0",
     "code": "GHJ201-R1",
-    "title": "Cloud Migration Journey Tabletop Experience",
+    "title": "Cloud migration journey tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -39985,7 +39985,7 @@
   {
     "id": "1785256472094001dcYg",
     "code": "GHJ203-R",
-    "title": "Post-Quantum Cryptography Tabletop Experience",
+    "title": "Post-quantum cryptography tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40022,7 +40022,7 @@
   {
     "id": "1785256472150001dakc",
     "code": "GHJ203-R1",
-    "title": "Post-Quantum Cryptography Tabletop Experience",
+    "title": "Post-quantum cryptography tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40059,7 +40059,7 @@
   {
     "id": "1785256472207001dntP",
     "code": "GHJ205-R",
-    "title": "3rd Party Risk Management Tabletop Experience",
+    "title": "3rd party risk management tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40096,7 +40096,7 @@
   {
     "id": "1785256472267001d5Xo",
     "code": "GHJ205-R1",
-    "title": "3rd Party Risk Management Tabletop Experience",
+    "title": "3rd party risk management tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40133,7 +40133,7 @@
   {
     "id": "1785256472325001dIu1",
     "code": "GHJ207-R",
-    "title": "Agentic AI Governance Tabletop Experience",
+    "title": "Agentic AI governance tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40171,7 +40171,7 @@
   {
     "id": "1785256472386001dAeH",
     "code": "GHJ207-R1",
-    "title": "Agentic AI Governance Tabletop Experience",
+    "title": "Agentic AI governance tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40209,7 +40209,7 @@
   {
     "id": "1785256472446001d2QS",
     "code": "GHJ207-R2",
-    "title": "Agentic AI Governance Tabletop Experience",
+    "title": "Agentic AI governance tabletop experience",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40247,7 +40247,7 @@
   {
     "id": "1785256472510001dOCs",
     "code": "GHJ210-R",
-    "title": "Incident Response Tabletop: Supply Chain",
+    "title": "Incident response tabletop: supply chain",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -40284,7 +40284,7 @@
   {
     "id": "1785256472584001dZBT",
     "code": "GHJ210-R1",
-    "title": "Incident Response Tabletop: Supply Chain",
+    "title": "Incident response tabletop: supply chain",
     "type": "Gamified learning",
     "level": "200 – Intermediate",
     "topics": [
@@ -43205,7 +43205,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Montefiore Einstein is one of New York's leading academic health systems, serving 1.3 million Bronx residents across 11 hospitals and 300+ ambulatory locations, where most patients rely on Medicaid and Medicare. To modernize its enterprise technology, Montefiore selected AWS as its strategic cloud provider—including migrating Epic, its EHR platform—building a secure, scalable, and resilient foundation that strengthens security and optimizes costs. This session explores how the transformation enables AI-powered clinical decision support, improves the reliability of critical medical records, and expands patient access through Amazon One Medical. Learn the strategies, lessons, and cloud-first approach driving better outcomes for the communities Montefiore serves.",
+    "abstract": "Montefiore Einstein is one of New York's leading academic health systems, serving 1.3 million Bronx residents across 11 hospitals and 300+ ambulatory locations. To best care for patients, most of whom rely on Medicare or Medicaid, Montefiore needed to modernize its enterprise technology. Montefiore selected AWS as its strategic cloud provider to build a secure, scalable, and resilient foundation that strengthens security and optimizes costs. This session explores how the transformation—including an Epic migration—enables AI-powered clinical decision support, improves the reliability of critical medical records, and expands patient access through Amazon One Medical. Learn the strategies, lessons, and cloud-first approach driving better outcomes for the patients and communities Montefiore serves. ",
     "times": [
       {
         "id": "1790025535293001CJoi",
@@ -43224,7 +43224,7 @@
   {
     "id": "1780441475544001GQ33",
     "code": "IND206",
-    "title": "How Elevance Health Delivers an AI-Native Member Experience on Real-Time Context",
+    "title": "How Elevance Health Built a Trusted Data Foundation for AI-Native Member Experiences",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -43240,7 +43240,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Members shouldn't have to navigate fragmented systems to understand their benefits and find the right care. Rather than solving one interaction at a time, Elevance Health designed for the holistic member experience. Serving 46 million members, they are building a real-time context layer that unifies clinical, claims, and behavioral data to power AI agents that deliver personalized guidance across the entire care journey. Amazon Connect Customer consumes this context at the point of interaction, enabling associates and AI agents to anticipate needs, surface relevant information, and trigger next-best-actions. Attendees will learn how semantic data layers and agentic workflows come together under a governed deployment model for regulated healthcare.",
+    "abstract": "Members shouldn't have to navigate fragmented systems to understand their benefits and find the right care. Serving 46 million members, Elevance Health designed for the holistic experience by building a governed semantic and data foundation that unifies clinical, claims, pharmacy, and member-services data so AI agents can reason accurately across domains. Attendees will hear why Elevance set out on this work, how it built the foundation on AWS, and how agentic workflows now deliver more coordinated, personalized guidance for members, providers, and associates across the care journey. The session closes with lessons learned and practical guidance for other payers under a governed deployment model for regulated healthcare.",
     "times": [
       {
         "id": "1790025512692001C60t",

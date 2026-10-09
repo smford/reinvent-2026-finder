@@ -1,6 +1,6 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-08T22:37:41Z",
+  "lastUpdated": "2026-10-09T12:14:41Z",
   "totalSessions": 2194,
   "scheduledTimeSlots": 2194,
   "campuses": {
@@ -31,10 +31,10 @@
     "Lightning talk": 228,
     "Builders' session": 254,
     "Workshop": 295,
-    "Bootcamp": 26,
     "Code talk": 123,
+    "Lab": 45,
     "Exam prep": 10,
-    "Lab": 45
+    "Bootcamp": 26
   },
   "days": {
     "Monday": 575,
