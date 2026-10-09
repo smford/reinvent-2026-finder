@@ -2055,6 +2055,45 @@
     ]
   },
   {
+    "id": "1780441471173001GMXk",
+    "code": "AIM2210",
+    "title": "What's new with NVIDIA GPUs in Amazon EC2 ",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "A large-scale AI workload can run for weeks across thousands of interconnected GPUs, where a single failure or security gap can be costly. Amazon EC2 brings together a portfolio of accelerated computing instances and innovations that keep the most demanding AI workloads secure by default and resilient to failures and maintenance. In this session, discover what's new in the AWS accelerated compute portfolio and dive deep into the architecture behind the latest generation of GPU instances for training and inference across large language and multimodal models. Hear real-world examples of how leading companies build on AWS, and leave understanding how AWS accelerated computing enables AI at scale.",
+    "times": [
+      {
+        "id": "1791575951219001tcwj",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441486451001GEWm",
     "code": "AIM2212-S",
     "title": "DevEx 2026: The AI Era (sponsored by Atlassian)",
@@ -8857,7 +8896,7 @@
   {
     "id": "1780442285446001cKXh",
     "code": "AIM389-S",
-    "title": "Fine-tune and evaluate NVIDIA Nemotron 3 with Amazon SageMaker Serverless Fine-tuning (sponsored by NVIDIA)",
+    "title": "Fine-tune and evaluate NVIDIA Open models on Amazon SageMaker",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -8876,7 +8915,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Learn how to customize NVIDIA Nemotron 3 using Amazon SageMaker Serverless Fine-tuning without managing training infrastructure. This session walks through preparing a dataset, fine-tuning the model, and evaluating the customized model against the base model to measure improvements in quality. Attendees will leave with a practical workflow for adapting Nemotron to domain-specific use cases on AWS. This presentation is brought to you by NVIDIA, an AWS Partner.",
+    "abstract": "Learn how to customize NVIDIA Open models using Amazon SageMaker without managing training infrastructure. This session walks through preparing a dataset, fine-tuning the model, and evaluating the customized model against the base model to measure improvements in quality. Attendees will leave with a practical workflow for adapting NVIDIA's open models to domain-specific use cases on AWS. This presentation is brought to you by NVIDIA, an AWS Partner.",
     "times": [
       {
         "id": "1790025525852001CRB2",
@@ -10216,7 +10255,7 @@
   {
     "id": "1780442275454001cwcV",
     "code": "AIM439-R",
-    "title": "Getting Started with AgentCore: ship an agent to production in 3 hours",
+    "title": "Getting Started with AgentCore: ship an agent to production in 2 hours",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -10245,7 +10284,7 @@
   {
     "id": "1790358238826001ikw2",
     "code": "AIM439-R1",
-    "title": "Getting Started with AgentCore: ship an agent to production in 3 hours",
+    "title": "Getting Started with AgentCore: ship an agent to production in 2 hours",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -29510,6 +29549,41 @@
     ]
   },
   {
+    "id": "1780441471620001G7Hs",
+    "code": "COP210",
+    "title": "Fewer Incidents, Faster Fixes: Expert-led Cloud Operations on AWS",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture",
+      "Cloud Operations",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Automation can close tickets, but it takes human expertise to understand your business, anticipate what's coming, and make the judgment calls that keep your cloud resilient at scale. See how AWS combines deep human expertise with AI-powered capabilities to go beyond automated remediation. AWS cloud experts, armed with intelligent tooling and deep environmental context, proactively identify risks, guide architectural decisions, and help your team navigate complex challenges automation alone can't solve. Through real-world examples, see how this expert-led approach reduces incidents, accelerates resolution, and frees engineers to focus on innovation.",
+    "times": [
+      {
+        "id": "1791575950565001tZAN",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 115",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441466427001G8nF",
     "code": "COP301",
     "title": "Stop fighting fires: operations that prevent incidents",
@@ -32307,6 +32381,43 @@
     ]
   },
   {
+    "id": "1780442227450001cFhR",
+    "code": "COP356",
+    "title": "Evaluate and ship AI agents confidently",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Amazon CloudWatch Omni converges application and AI agent observability into one AI-powered experience built on open standards. In this session, instrument an agent with a popular framework and trace every LLM call, tool invocation, and reasoning step in the Trace Explorer. Run built-in evaluators to score responses for correctness, coherence, and faithfulness, then test prompt variations in the Playground and compare configurations against golden datasets with Experiments. Explore auto-discovered topology, correlate agent behavior with downstream services, and investigate issues with AWS DevOps Agent using natural language. Leave with a working observability pipeline from IDE to production and the skills to evaluate, debug, and operate agents from one pane.",
+    "times": [
+      {
+        "id": "1791575951674001tk6v",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 301",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442280072001cN7R",
     "code": "COP357",
     "title": "Monitor AI workloads and agents end to end ",
@@ -32339,6 +32450,78 @@
         "duration": 120,
         "room": "MGM Grand | Level 1 | Grand 111",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441473290001GIzg",
+    "code": "COP358",
+    "title": "Observe your applications and agents in one place",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Traditional monitoring tools weren't built for the complexity of modern agentic and distributed applications. Teams juggle siloed dashboards, fragmented logs, and disconnected signals with no unified way to troubleshoot across agents, applications, and infrastructure. Amazon CloudWatch Omni is an AI-powered observability experience organized around your teams and the applications they run, combining OpenTelemetry interoperability with CloudWatch scale. See how you can troubleshoot applications faster and manage agents with confidence using automatic service discovery, dependency mapping, built-in evaluations, and natural-language investigation — all from the Omni UI, your IDE, or your favorite tools.",
+    "times": [
+      {
+        "id": "1791575950655001tMq6",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Roman I",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1780442241702001covr",
+    "code": "COP359",
+    "title": "Build full-stack observability for agents and apps",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "When your applications include AI agents that reason, plan, and act autonomously, observability has to evolve too. Disconnected tools and siloed signals slow teams down right when speed matters most. In this chalk talk, we walk through real scenarios and trace an agent's chain of thought across services, correlating agent failures with infrastructure, and using natural-language investigation to cut resolution time. We diagram how service discovery, dependency mapping, evaluations, and IDE-native telemetry come together so you can ship agents with confidence.",
+    "times": [
+      {
+        "id": "1791575950954001teng",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Alliance 305",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -32484,6 +32667,80 @@
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Alliance 305",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442279954001c7F5",
+    "code": "COP364",
+    "title": "Build better, review faster: AI-Powered Well-Architected reviews",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Resilience",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Periodic reviews can't keep pace with infrastructure that changes daily. In this hands-on workshop, deploy an AI-powered agent for continuous, goal-driven architecture reviews across a multi-account environment. Configure agent profiles, cross-account role chaining, and business goals that prioritize across Cost Optimization, Security, Resilience, and Performance pillars. See how the agent enriches Trusted Advisor, Compute Optimizer, and Resilience Hub signals with cross-pillar trade-off analysis. Run pre-deployment reviews against CloudFormation, CDK, and Terraform, then remediate through AI-generated SOPs. Wire recommendations into CI/CD via API. For architects, platform engineers, and operations leads who want always-on architectural governance in their delivery lifecycle.",
+    "times": [
+      {
+        "id": "1791575950274001tLlg",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "MGM Grand | Level 1 | Grand 113",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442241531001cSLv",
+    "code": "COP365",
+    "title": "Allocate shared AWS infrastructure costs to your business units",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Shared Amazon S3 buckets, Amazon EKS clusters, and network resources improve efficiency but can obscure which applications and business units drive spend. In this session, learn how to attribute shared costs based on actual usage. Follow a practical example using AWS Split Cost Allocation Data for S3 and EKS and Flexible Cost Allocation for networking. Then use AWS Cost Categories and Data Exports to combine each business unit’s share of storage, compute, and networking spend into a unified view. Walk away with a repeatable approach to showback and chargeback across your shared AWS environment.",
+    "times": [
+      {
+        "id": "1791575950849001tbFM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 414",
         "venue": "Caesars Forum"
       }
     ]
@@ -33183,6 +33440,43 @@
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Boulevard 159",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442255962001cInh",
+    "code": "COP411",
+    "title": "Close the gap between code and production",
+    "type": "Code talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Why is it so hard to connect a production alert to the code change that caused it? Metrics and traces reveal something is wrong but stop short of the function responsible. Developers guess which deployment introduced the regression, manually correlating dashboards with recent commits. Meanwhile, AI coding agents that could help write fixes are blind to runtime behavior. In this code talk, we'll explore how to close the gap between observability signals and the code your team owns, what new signals make that connection possible, how developers and AI agents can consume them, and what changes when observability reaches the code level. ",
+    "times": [
+      {
+        "id": "1791575951080001tblo",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
         "venue": "MGM Grand"
       }
     ]
@@ -35862,7 +36156,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Frontier agents like Amazon DevOps Agent are strong at broad investigation, correlation, and orchestration, but production database operations require domain-specific execution depth. In this workshop, turn Aurora PostgreSQL runbooks into eval-driven agent skills that DevOps Agent can invoke. Define evals across deterministic scenarios such as lock contention, replica lag diagnosis, long-running transactions blocking vacuum cleanup, connection saturation, and query plan regression. Run evals to surface gaps, then author a skill with pre-flight checks, execution sequence, validation, and rollback. Iterate with eval results, wire the skill into DevOps Agent, and leave with a working skill, harness, and reusable productionization methodology.",
+    "abstract": "Turn Aurora PostgreSQL runbooks into agent skills and test whether they improve an agent's advice. Work through three incidents on a live cluster: RDS Proxy session pinning that starves checkout connections, a payout job whose open transaction blocks checkouts, and stalled order delivery alongside a long-running transaction that holds back vacuum cleanup. Complete and refine skills that cover pre-flight checks, execution, validation and rollback. Freeze a grading rubric, then compare the same agent, hosted on Amazon Bedrock AgentCore, without and with your skill. Write Python recovery checks that reject incomplete fixes, perform the repairs yourself, and verify customer recovery using independent database and business records.",
     "times": [
       {
         "id": "1790025541174001CXkg",
@@ -37751,6 +38045,138 @@
     ]
   },
   {
+    "id": "1780442241932001cY7B",
+    "code": "DVT224",
+    "title": "Brownfield development across large codebases with AI agents ",
+    "type": "Chalk talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Most production code has no spec. It was written by teams that moved on, and its docs went stale long ago. When you inherit a service, prepare a migration, or chase an incident, you spend days reconstructing what the system does, and your AI agent rediscovers the same behavior in every new chat. We'll first sketch how to generate a structured model of an existing system from its code: its invariants, dependencies, and hidden assumptions. Then it's your turn. Bring your questions and your hardest brownfield problems, and we'll work through them together at the whiteboard. ",
+    "times": [
+      {
+        "id": "1791575951795001tm63",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 309",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442260861001cGPQ",
+    "code": "DVT225",
+    "title": "Best practices for helping agents understand code you didn't write",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Most production code has no spec. It was written by teams that moved on, and its docs went stale long ago. Before a refactor, migration, or incident fix, developers spend days on code archaeology, and AI agents have to rediscover the same behavior in every new chat with little prior context. Learn how to turn an existing codebase into a structured, persistent model of what the system does: its properties, invariants, component interactions, and hidden assumptions. See how that model helps you onboard faster, baseline behavior before a refactor, and give your AI agent context that's reusable across sessions.",
+    "times": [
+      {
+        "id": "1791575951894001t0Kx",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:30",
+        "endTime": "15:50",
+        "startTimeFormatted": "03:30 PM",
+        "endTimeFormatted": "03:50 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780441472163001Gf4O",
+    "code": "DVT226",
+    "title": "Best practices for working with shared coding agents on your team",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Software development happens through teamwork, but agent work is often trapped in individual sessions. The developer who starts the work becomes the coordinator who needs to relay feedback, reconstruct decisions, or keep agents moving. Working with agents as a team has many paper cuts, but there are best practices you can implement. Follow an issue from investigation through implementation, testing, and review, with requests, decisions, and approvals attributed along the way as work progresses. Learn how team-scoped knowledge, reusable practices, and clear permission boundaries let agents take on ongoing responsibilities while people keep control of what ships.",
+    "times": [
+      {
+        "id": "1791575951990001tYe0",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442256149001ccAT",
+    "code": "DVT227",
+    "title": "Build a team shared agent workflow from issue to tested PR",
+    "type": "Code talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "How do you let agents carry development work across teammates without handing over control? In this code talk, build an issue-to-review workflow that you can share with your team. Follow the code and configuration for setting up guardrails, permissions, shared workflows, logging, and best practices, so teammates can steer the implementation or review who requested or approved each action alongside the evidence the agent produced. Bring questions and follow along as we explain why each boundary exists and how to adapt the pattern to your toolchain and approval process.",
+    "times": [
+      {
+        "id": "1791575951550001tZGF",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 159",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442227105001cOHv",
     "code": "DVT301-R",
     "title": "Bring your tech debt: build a custom transformation that fixes it",
@@ -39480,6 +39906,40 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441472105001GaJn",
+    "code": "DVT346",
+    "title": "What AI agents need from an application backend",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools",
+      "Serverless"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI agents build applications differently than people do. They work from code, call APIs, run in parallel, and keep working after you close your laptop. In this session, learn what a backend has to provide for an agent to carry an application from first prompt to production: schema and configuration as code the agent can read and change, serverless infrastructure with nothing to size or provision, data APIs and authentication that work on the first call, isolated environments for every experiment the agent runs, logs the agent can query when something breaks, and approval steps that keep destructive changes in your hands.",
+    "times": [
+      {
+        "id": "1791575950467001t84d",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 117",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -52687,7 +53147,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Running workloads across multiple clouds and on-premises data centers creates compounding complexity: inconsistent tooling, duplicated licensing costs, and operational overhead that slows everything down. HealthEdge faced exactly this across Azure, GCP, and three data centers while serving 115 health plans that depend on their systems daily. In this session, hear how they're consolidating 8,700 servers, 1,600 databases, and thousands of cloud services onto AWS on a 2-year roadmap. Learn how they evaluated providers, built a strategy around rightsizing and licensing optimization, and are executing without disrupting the health plans that depend on them.",
+    "abstract": "Running workloads across multiple clouds and on-premises data centers creates compounding complexity: inconsistent tooling, duplicated licensing costs, and operational overhead that slows everything down. HealthEdge faced exactly this across Azure, GCP, and four data centers while serving 130 health plans daily, where security is paramount. Hear how they're consolidating 8,700 servers via AWS Transform, 1,600 databases, and thousands of cloud services onto AWS on a 2-year roadmap, raising their security bar, and building internal AWS expertise to drive a lasting culture change - all without disrupting the plans that depend on them.",
     "times": [
       {
         "id": "1790025505627001CBJ2",
@@ -61581,7 +62041,7 @@
   {
     "id": "1780442283370001ccy6",
     "code": "PEX407-R",
-    "title": "Build Custom Transformation Agents with the AWS Transform Agent Builder Toolkit",
+    "title": "Build Composable Agents with the AWS Transform Agent Builder Toolkit",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -61618,7 +62078,7 @@
   {
     "id": "1790358225624001iunE",
     "code": "PEX407-R1",
-    "title": "Build Custom Transformation Agents with the AWS Transform Agent Builder Toolkit",
+    "title": "Build Composable Agents with the AWS Transform Agent Builder Toolkit",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -63382,15 +63842,15 @@
     "abstract": "AI agents plan and execute actions autonomously, at machine speed, with real-world consequences. Unlike traditional automation that follows pre-defined network paths, agent traffic is non-deterministic, calling different APIs and chaining different services each time it runs. In this session, we cover the network security capabilities AWS has built for this shift. You'll see how to inspect and control autonomous traffic at every layer, from DNS resolution to application-layer filtering, enforce least-privilege connectivity for agents, and detect anomalous behavior in machine-to-machine communication.",
     "times": [
       {
-        "id": "1790025553137001CzcH",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "id": "1791574263407001EQc1",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -63876,21 +64336,21 @@
       "Threat Detection & Incident Response"
     ],
     "roles": [],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "In this hands-on workshop, master AWS network security techniques using AWS Network Firewall and Route 53 Resolver DNS Firewall. Gain practical experience configuring URL category filtering to detect unauthorized AI service usage, and explore recent feature improvements for container workload protection and advanced DNS-layer defenses. Through real-world scenarios, you'll implement IDS/IPS filtering, east-west traffic controls, and domain-based policies using fully managed AWS services. Leave equipped to build resilient network defenses that address both traditional and emerging threats.",
     "times": [
       {
         "id": "1790360367665001AC6b",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "09:00 AM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade Level | Neopolitan III",
-        "venue": "Caesars Palace"
+        "room": "Wynn/Encore | Convention Promenade | Mouton 2",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -64399,12 +64859,12 @@
         "id": "1790360370281001ABA7",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 11",
+        "room": "Wynn/Encore | Level 1 | Chopin 4",
         "venue": "Caesars Palace"
       }
     ]
@@ -64441,6 +64901,41 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442242294001cPyH",
+    "code": "SEC3300",
+    "title": "Authenticating workloads to the outside world",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Your workloads and agents authenticate to external systems today mostly via individual OAuth implementations, secrets in config files, and custom refresh logic owned by separate teams. In this chalk talk, we'll explore patterns for centralizing how workloads obtain, manage, and govern credentials for non-native services. We'll diagram a reference architecture covering control, data, and governance planes, walk through real-world authentication flows and discuss how to design policies that control which workloads can access which external credentials.",
+    "times": [
+      {
+        "id": "1791575951448001tJvy",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 162",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -65838,14 +66333,14 @@
     "times": [
       {
         "id": "1790025516434001C4yw",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -66800,6 +67295,148 @@
     ]
   },
   {
+    "id": "1780442280014001cmTr",
+    "code": "SEC395",
+    "title": "Find, prove, and fix code vulnerabilities at machine speed",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Frontier AI models discover code vulnerabilities in minutes. Security teams still take days or weeks to validate, prioritize, and fix them. In this builders' session, close that gap end to end on a live application. You build a security context graph from your infrastructure, identity, and code to determine what is actually reachable, confirm exploitability through a sandboxed proof-of-concept, and generate a validated fix. You will see graduated trust in action, starting with human approval and promoting to autonomous remediation as confidence builds. Leave able to move your team from manual triage to continuous discovery, validation, and remediation.",
+    "times": [
+      {
+        "id": "1791575950745001tuz9",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Alliance 311",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441472682001GMAh",
+    "code": "SEC397",
+    "title": "Securing APIs with AWS",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Edge Computing",
+      "Network & Infrastructure Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Teams want visibility into their API landscape and find that traditional controls may miss attacks targeting API-specific vulnerabilities. In this session, learn how AWS is thinking about the modern API security challenge, from discovering unknown and unmanaged endpoints to detecting the kinds of authorization, authentication, and abuse issues that appear normal request by request. We'll explore common patterns behind recent industry incidents, why API visibility and runtime protection matter, and how a native, integrated AWS approach can help you reduce risk and respond faster.",
+    "times": [
+      {
+        "id": "1791575950179001tufA",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780441472856001GfKR",
+    "code": "SEC398",
+    "title": "The latest innovations in multicloud agent security",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AI agents are showing up everywhere your teams work, and security teams also want to keep pace. In this session, explore the latest innovations in securing AI across multicloud environments. See how AWS is thinking about the challenges security teams face as AI is used by teams, and the direction it is taking to help them stay ahead. Walk away with a clearer picture of where AI security is heading and practical ways to get ahead of it in your own organization.",
+    "times": [
+      {
+        "id": "1791575950373001twJ9",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442242362001cGoQ",
+    "code": "SEC399",
+    "title": "Maintain accountability when using IAM federation",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Many enterprises access AWS through IAM federation with providers like Okta and Microsoft Entra ID. But if your analysts share an IAM role, downstream services do not distinguish who has assumed that role making per-user access controls and audit more challenging. In this chalk talk, we'll explore considerations when using federated environments, discuss why it matters for compliance and security, and examine what it takes to maintain individual accountability without overhauling your existing federation setup.",
+    "times": [
+      {
+        "id": "1791575951337001t8KV",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 311",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442283606001cnI8",
     "code": "SEC401",
     "title": "Winning the DDoS Game: defend your app under real-time attack",
@@ -67496,21 +68133,21 @@
       "Well-Architected Framework"
     ],
     "roles": [],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Every API call in AWS passes through IAM policy evaluation, but few truly understand what happens in that moment between request and access decision. In this chalk talk, we go deep into the weeds of how IAM actually evaluates your policies: how the request context is assembled, how each policy type interacts in the evaluation chain, where implicit and explicit denials come from, and why some evaluation scenarios behave in ways that may be surprising.  We will work through real scenarios, common gotchas, and edge cases live.",
     "times": [
       {
         "id": "1790360371747001AS9Z",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 14",
-        "venue": "Caesars Palace"
+        "room": "Wynn/Encore | Level 1 | Chopin 2",
+        "venue": "Wynn/Encore"
       }
     ]
   },
