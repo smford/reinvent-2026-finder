@@ -1463,7 +1463,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "When adversaries move in seconds, security has to move faster. CrowdStrike shares how they built scalable, real-time LLM inference on Amazon SageMaker to power threat detection at massive scale, where sub-second latency is a hard requirement. Learn how dedicated, configurable endpoints gave them full control over performance, while SageMaker AI's managed infrastructure removed the operational overhead. Walk away with a blueprint for running latency-critical workloads on SageMaker Managed Inference, without running the stack yourself.",
+    "abstract": "When adversaries move in seconds, security has to move faster. CrowdStrike shares how they built scalable, real time LLM inference on Amazon SageMaker to power threat detection at massive scale, where sub second latency is a hard requirement. Learn how dedicated, configurable endpoints gave them full control over performance, while SageMaker AI's managed infrastructure removed the operational overhead.​ ",
     "times": [
       {
         "id": "1790025519595001CiRM",
@@ -5708,7 +5708,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases and websearch, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
+    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
     "times": [
       {
         "id": "1790025482635001C3zj",
@@ -5737,7 +5737,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases and websearch, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
+    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
     "times": [
       {
         "id": "1790360385148001AUiK",
@@ -8461,7 +8461,7 @@
   {
     "id": "1786043769407001qaMi",
     "code": "AIM377",
-    "title": "The agent fabric: shipping your software into the agentic economy",
+    "title": "Agentic platform design engineering: scaling AI agents across the enterprise.",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -8471,7 +8471,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your customers' AI agents won't stop at your product boundary. They expect your data, workflows, and agents to be reachable. If you're not, someone else will be. This workshop teaches the agent fabric pattern for making software products interoperable in the agentic economy: cross-organization agent discovery, cross-account identity, and the A2A protocol. Register specialist agents in AWS Agent Registry so a customer's coordinator can discover your capabilities, build that coordinator with the Strands Agents SDK, and wire cross-account trust and observability with AgentCore Identity and Observability. Leave with the pattern for shipping your product into the agentic economy.",
+    "abstract": "Your teams are building AI agents in every line of business and also using third-party agents. How do you evolve them into an enterprise agentic platform where you know what exists, reuse it instead of rebuilding, keep it secure, and control what agents spend? This hands-on workshop applies agentic platform design engineering for enterprises. Learn how AWS Agent Registry and an open-source registry let teams discover and reuse agents. Secure cross-account calls with short-lived tokens, trace each request end to end, and let agents pay for data within limits they can't override. Leave with a blueprint for your platform.",
     "times": [
       {
         "id": "1790025495430001CzYl",
@@ -10574,7 +10574,7 @@
   {
     "id": "1780442235697001ckCj",
     "code": "AIM451",
-    "title": "Don’t trust the model: automated reasoning as agent guardrails",
+    "title": "Automated Reasoning as Agent Guardrails",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -10584,7 +10584,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your agent is only as safe as the constraints it can’t bypass. This chalk talk covers how to enforce hard invariants on LLM-driven agents using formal policy languages — Cedar for stateless authorization, Dogwood for temporal reasoning over action history, and human-in-the-loop for the decisions machines shouldn’t make alone. We’ll dig into the Strands Agents intervention system, the neurosymbolic architecture that lets probabilistic and deterministic reasoning coexist, and where the open problems are.",
+    "abstract": "Your agent is only as safe as the constraints it can’t bypass. This chalk talk covers how to enforce hard invariants on LLM-driven agents using formal policy languages: Cedar for stateless authorization, Dogwood for temporal reasoning over action history, and human-in-the-loop for the decisions machines shouldn’t make alone. We’ll look at different techniques for integrating this kind of enforcement with agents, including the Strands Agents intervention system and how deterministic policy can sit alongside a probabilistic model.",
     "times": [
       {
         "id": "1790025519666001CilR",
