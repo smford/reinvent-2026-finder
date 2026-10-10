@@ -1385,7 +1385,7 @@
   {
     "id": "1780441463982001GUWd",
     "code": "AIM211",
-    "title": "From chips to applications: How Trainium powers the next AI frontier",
+    "title": "How Trainium powers the next AI frontier, from silicon to application",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -1404,7 +1404,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Every AI breakthrough demands innovation across the full stack — chips, servers, software, and the models built on top — each layer making the next faster, cheaper, and more capable. In this session, discover how AWS and frontier AI builders drive full-stack innovation on AWS Trainium to scale post-training and reinforcement learning, serve at high throughput, and bend the cost-per-token curve. Examine real architectural decisions from silicon to application, then look ahead to what's next in Trainium and AWS infrastructure. Leave with understanding of how each layer of innovation compounds and where to place your bets on AI infrastructure.",
+    "abstract": "Every AI breakthrough demands innovation across the full stack: chips, servers, software, and the models built on top, each layer making the next one faster and cheaper to run. In this session, discover how AWS and frontier AI builders drive full-stack innovation on AWS Trainium to scale post-training and reinforcement learning, serve at high throughput, and bend the cost-per-token curve. Examine real architectural decisions from silicon to application, then look ahead to what's next in Trainium and AWS infrastructure. You will see how each layer of innovation compounds and learn where to place your bets on AI infrastructure.",
     "times": [
       {
         "id": "1790025543031001CQxZ",
@@ -1482,7 +1482,7 @@
   {
     "id": "1780441464202001GhWU",
     "code": "AIM214",
-    "title": "Maximizing GPU utilization for inference at scale on Amazon SageMaker HyperPod",
+    "title": "How Vanguard uses SageMaker HyperPod from training to inference for custom LLMs",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -1492,7 +1492,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "In this session, infrastructure architects will learn how to build scalable systems with GPUs that maximize utilization and turn shared infrastructure into a profitable, multi-tenant service. Multiverse Computing will demonstrate how they scaled GPU utilization from 30% to over 80% across 1,000+ H200 and B300 GPUs on Amazon SageMaker HyperPod. We'll dive into the architecture decisions -  tenant isolation, fair-share scheduling with Kueue, GPU partitioning with MIG, per-customer quotas - and the operational patterns that make it possible to serve diverse customer workloads from a single cluster in a true SaaS model.",
+    "abstract": "Enterprises that own their AI lifecycle across training and inference can adapt their models as fast as their users' need change. Vanguard outgrew off the shelf models and built infrastructure that runs custom large language models (LLMs) and specialized small language models (SLMs) side by side. Go inside the implementation to see how Amazon SageMaker HyperPod powers resilient multi node training and high throughput inference. Hear lessons from engineering alongside AWS product teams.",
     "times": [
       {
         "id": "1790025546675001CfvL",
@@ -2151,7 +2151,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Hear from four AI leaders building experiences that didn't exist a year ago: real-time video generation, world models, physical AI, and LLMs for drug discovery. These breakthroughs demand both performance and cost efficiency at scale, and without either, they wouldn't work. AWS Trainium helped turn that future into production reality. Each panelist shares their use case, the challenges they faced, and how Trainium helped them deliver what was once impossible.",
+    "abstract": "Hear from four AI leaders building experiences that didn't exist a year ago: real-time video generation, world models, physical AI, and LLMs for drug discovery. These breakthroughs demand both high performance and low cost to work at all. AWS Trainium helped turn that future into production reality. Each panelist walks through their use case: the specific technical barrier they hit, how they used Trainium to get past it, and what shipping it to customers unlocked.",
     "times": [
       {
         "id": "1791222749471001t4Mj",
@@ -5138,7 +5138,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "World models generate real-time video by learning environment dynamics—powering interactive simulation for gaming, robotics, and autonomous driving—but deploying these latency-sensitive pipelines is complex. In this builders session, we deploy and optimize a real-time video world model on AWS Trainium using AWS Neuron Agentic Development skills that automate compilation, profiling, and kernel optimization through natural-language interaction. See the agent identify bottlenecks, then select optimized kernels from Hugging Face or write custom kernels from scratch. Walk away with practical patterns for using agentic tools to achieve optimized, real-time inference on purpose-built AI silicon.",
+    "abstract": "World models generate real-time video by learning environment dynamics, which powers interactive simulation for gaming, robotics, and autonomous driving, but deploying these latency-sensitive pipelines is complex. In this builders session, we deploy and optimize a real-time video world model on AWS Trainium using AWS Neuron Agentic Development skills that automate compilation, profiling, and kernel optimization through natural-language interaction. See the agent identify bottlenecks, then select optimized kernels from Hugging Face or write custom kernels from scratch. You will apply these agentic tools yourself to reach optimized, real-time inference on silicon built specifically for AI.",
     "times": [
       {
         "id": "1790025545094001Ctoq",
@@ -5176,7 +5176,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "World models generate real-time video by learning environment dynamics—powering interactive simulation for gaming, robotics, and autonomous driving—but deploying these latency-sensitive pipelines is complex. In this builders session, we deploy and optimize a real-time video world model on AWS Trainium using AWS Neuron Agentic Development skills that automate compilation, profiling, and kernel optimization through natural-language interaction. See the agent identify bottlenecks, then select optimized kernels from Hugging Face or write custom kernels from scratch. Walk away with practical patterns for using agentic tools to achieve optimized, real-time inference on purpose-built AI silicon.",
+    "abstract": "World models generate real-time video by learning environment dynamics, which powers interactive simulation for gaming, robotics, and autonomous driving, but deploying these latency-sensitive pipelines is complex. In this builders session, we deploy and optimize a real-time video world model on AWS Trainium using AWS Neuron Agentic Development skills that automate compilation, profiling, and kernel optimization through natural-language interaction. See the agent identify bottlenecks, then select optimized kernels from Hugging Face or write custom kernels from scratch. You will apply these agentic tools yourself to reach optimized, real-time inference on silicon built specifically for AI.",
     "times": [
       {
         "id": "1790360385522001AGEd",
@@ -9000,7 +9000,7 @@
   {
     "id": "1780442259582001cthc",
     "code": "AIM393",
-    "title": "How BMW Group Built an Automotive Industry Model on SageMaker AI",
+    "title": "Open weights to production: How Salesforce built and served Koa models",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -9010,7 +9010,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Large Industry Models (LIMs) go beyond general-purpose LLMs, embedding deep expertise in an industry's processes, data, and terminology. BMW Group and the AWS Generative AI Innovation Center share how they are building an automotive LIM on BMW's Problem Management Process spanning the R&D-to-delivery lifecycle. Learn how teacher distillation, QLoRA fine-tuning on Amazon SageMaker, and LLM-as-judge evaluation can help set the foundations toward a Large Industry Model. We then explore how Supervised Fine-Tuning (SFT) on domain knowledge can serve as a cost-effective proxy for Continued Pre-Training (CPT), and how adapter merging composes capabilities without retraining.",
+    "abstract": "Learn how to turn open-weight models into specialized, production-grade models for enterprise AI. Using Salesforce's Koa models as a real-world example, this session shows how the team built and served classifier, text, and voice agent evaluation models at scale. You'll learn how to choose training techniques for each use case, curate high-quality training environments, and prove accuracy gains against base models. For serving, you'll see how the team selected the serving engine, configuration, and instance type for better price-performance. Salesforce trained on Amazon SageMaker HyperPod and serves on SageMaker AI managed inference, keeping enterprise data within its trust boundary.",
     "times": [
       {
         "id": "1790033120687001qx67",
@@ -9377,7 +9377,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Deploy, optimize, and monitor an LLM inference endpoint end-to-end on Amazon SageMaker AI. In this hands-on workshop, use Inference Recommender to discover optimal configurations — reducing search time from weeks to days, learn how to train EAGLE speculative decoding heads on your own data for up to 2.5× throughput gains, and benchmark results with NVIDIA AIPerf. Then, configure capacity-aware instance pools with priority-based GPU fallback and weighted autoscaling for production resilience. Throughout, interact with endpoints via OpenAI-compatible APIs. Leave with working notebooks and production-ready deployment patterns you can apply immediately.",
+    "abstract": "Deploy, optimize, and monitor an LLM inference endpoint end to end on Amazon SageMaker AI. In this hands on workshop, use GenAI Inference Recommender to discover optimal configurations, cutting model deployment time to days instead of weeks, learn how to train EAGLE speculative decoding heads on your own data for up to 2.5× throughput gains, and benchmark results. Then, configure capacity aware instance pools with priority based GPU fallback and weighted autoscaling for production resilience. Throughout, interact with endpoints via OpenAI compatible APIs. You keep the working notebooks to reuse on your own endpoints.",
     "times": [
       {
         "id": "1790025471712001CIb3",
@@ -9412,7 +9412,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Deploy, optimize, and monitor an LLM inference endpoint end-to-end on Amazon SageMaker AI. In this hands-on workshop, use Inference Recommender to discover optimal configurations — reducing search time from weeks to days, learn how to train EAGLE speculative decoding heads on your own data for up to 2.5× throughput gains, and benchmark results with NVIDIA AIPerf. Then, configure capacity-aware instance pools with priority-based GPU fallback and weighted autoscaling for production resilience. Throughout, interact with endpoints via OpenAI-compatible APIs. Leave with working notebooks and production-ready deployment patterns you can apply immediately.",
+    "abstract": "Deploy, optimize, and monitor an LLM inference endpoint end to end on Amazon SageMaker AI. In this hands on workshop, use GenAI Inference Recommender to discover optimal configurations, cutting model deployment time to days instead of weeks, learn how to train EAGLE speculative decoding heads on your own data for up to 2.5× throughput gains, and benchmark results. Then, configure capacity aware instance pools with priority based GPU fallback and weighted autoscaling for production resilience. Throughout, interact with endpoints via OpenAI compatible APIs. You keep the working notebooks to reuse on your own endpoints.",
     "times": [
       {
         "id": "1790360392213001AeZ6",
@@ -29536,14 +29536,14 @@
     "times": [
       {
         "id": "1790025534950001C5Ox",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
+        "room": "MGM Grand | Level 3 | Premier 318",
         "venue": "MGM Grand"
       }
     ]
@@ -32550,14 +32550,14 @@
     "times": [
       {
         "id": "1791224279001001t8jY",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Premier 318",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -44104,12 +44104,12 @@
     "times": [
       {
         "id": "1791224420201001vNpg",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
         "venue": "Wynn/Encore"
@@ -45806,12 +45806,12 @@
         "id": "1790025515856001C3k8",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -45909,12 +45909,12 @@
     "times": [
       {
         "id": "1790025498372001CYc0",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
         "venue": "Wynn/Encore"
@@ -47191,14 +47191,14 @@
     "times": [
       {
         "id": "1791231749135001mhr9",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
         "venue": "Wynn/Encore"
       }
     ]

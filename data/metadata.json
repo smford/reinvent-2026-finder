@@ -1,6 +1,6 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-09T21:58:59Z",
+  "lastUpdated": "2026-10-10T11:32:20Z",
   "totalSessions": 2212,
   "scheduledTimeSlots": 2212,
   "campuses": {
@@ -38,9 +38,9 @@
   },
   "days": {
     "Monday": 575,
-    "Wednesday": 604,
+    "Wednesday": 605,
     "Tuesday": 430,
-    "Thursday": 551,
+    "Thursday": 550,
     "Friday": 52
   },
   "topics": [
