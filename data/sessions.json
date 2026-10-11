@@ -5214,7 +5214,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Physical AI is transforming robotics and autonomous systems with world models that enable agents to understand and interact with their environments. Training and deploying these large-scale vision-language-action (VLA) models requires complex distributed infrastructure. AWS Trainium and the AWS Neuron simplify this with PyTorch integration — apply standard distributed training techniques using familiar APIs while the software stack handles multi-device coordination, compilation, and optimization. In this hands-on session, fine-tune a transformer-based world model, implement parameter-efficient training strategies, and deploy trained agents for real-time inference. Leave with practical skills to adapt Physical AI models and deploy robotic agents at scale.",
+    "abstract": "Physical AI is transforming robotics and autonomous systems with world models that enable agents to understand and interact with their environments. Training and deploying these large-scale vision-language-action (VLA) models requires complex distributed infrastructure. AWS Trainium and AWS Neuron simplify this with PyTorch integration: apply standard distributed training techniques using familiar APIs while the software stack handles multi-device coordination, compilation, and optimization. In this hands-on session, fine-tune a transformer-based world model, implement parameter-efficient training strategies, and deploy trained agents for real-time inference. You will build the skills to adapt Physical AI models and deploy robotic agents across large clusters.",
     "times": [
       {
         "id": "1790025529546001CTRq",
@@ -5252,7 +5252,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Physical AI is transforming robotics and autonomous systems with world models that enable agents to understand and interact with their environments. Training and deploying these large-scale vision-language-action (VLA) models requires complex distributed infrastructure. AWS Trainium and the AWS Neuron simplify this with PyTorch integration — apply standard distributed training techniques using familiar APIs while the software stack handles multi-device coordination, compilation, and optimization. In this hands-on session, fine-tune a transformer-based world model, implement parameter-efficient training strategies, and deploy trained agents for real-time inference. Leave with practical skills to adapt Physical AI models and deploy robotic agents at scale.",
+    "abstract": "Physical AI is transforming robotics and autonomous systems with world models that enable agents to understand and interact with their environments. Training and deploying these large-scale vision-language-action (VLA) models requires complex distributed infrastructure. AWS Trainium and AWS Neuron simplify this with PyTorch integration: apply standard distributed training techniques using familiar APIs while the software stack handles multi-device coordination, compilation, and optimization. In this hands-on session, fine-tune a transformer-based world model, implement parameter-efficient training strategies, and deploy trained agents for real-time inference. You will build the skills to adapt Physical AI models and deploy robotic agents across large clusters.",
     "times": [
       {
         "id": "1790360381868001ATLz",
@@ -5377,7 +5377,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "What does it take to build a chip purpose-made for AI? In this deep dive, we explore Trainium3 architecture innovations: NeuronCore innovations that delivers higher TFLOPs, hardware-accelerated quantization, softmax acceleration, near-memory compute and Mixture-of-Experts optimizations. We'll share micro-benchmark data showing how these choices translate to real performance for Mixture-of-Experts and other demanding workloads. At the system level, we examine the Trn3 UltraServer family, scaling from 32 to 144 chips via NeuronLink fabric to enables up to 4.4x more performance. Leave with a deep understanding of how to evaluate and leverage purpose-built AI Chips for your AI workloads.",
+    "abstract": "What does it take to build a chip engineered specifically for deep learning AI? In this deep dive, we explore Trainium3 architecture innovations: NeuronCore advances that deliver higher TFLOPs, hardware-accelerated quantization, softmax acceleration, near-memory compute, and Mixture-of-Experts optimizations. We'll share micro-benchmark data showing how these choices translate to real performance for Mixture-of-Experts and other demanding workloads. At the system level, we examine the Trn3 UltraServer family, which scales from 32 to 144 chips via NeuronLink fabric to deliver up to 4.4x more performance. You will learn how to evaluate and apply these AI chips to your own workloads.",
     "times": [
       {
         "id": "1790034534759001p0z7",
@@ -5415,7 +5415,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As AI workloads scale, infrastructure failures become inevitable, causing stalled jobs, degraded throughput, and wasted accelerator capacity. In this chalk talk, we’ll show how to build resilient AI workloads on AWS Trainium with AWS EKS. We’ll whiteboard the full resiliency stack: Neuron DRA Driver for topology-aware scheduling; UltraServer Operator for provisioning UltraServer workloads; Neuron Observer for sub-second fault detection; and Device Taint for automated recovery. We’ll walk through how these patterns support fault-tolerant distributed training and large-scale inference workloads from a single accelerator to 20,000. You’ll leave with reusable operational patterns for running AI workloads reliably at any scale.",
+    "abstract": "As AI workloads scale, infrastructure failures become inevitable, causing stalled jobs, degraded throughput, and wasted accelerator capacity. In this chalk talk, we'll show how to build resilient AI workloads on AWS Trainium with AWS EKS. We'll whiteboard the full resiliency stack: Neuron DRA Driver for topology-aware scheduling; UltraServer Operator for provisioning UltraServer workloads; Neuron Observer for sub-second fault detection; and Device Taint for automated recovery. These patterns support fault-tolerant distributed training and inference from a single accelerator to 20,000. You will leave able to assemble this resiliency stack yourself and keep training and inference running through hardware failures.",
     "times": [
       {
         "id": "1790025516807001CJDl",
@@ -5453,7 +5453,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "As AI workloads scale, infrastructure failures become inevitable, causing stalled jobs, degraded throughput, and wasted accelerator capacity. In this chalk talk, we’ll show how to build resilient AI workloads on AWS Trainium with AWS EKS. We’ll whiteboard the full resiliency stack: Neuron DRA Driver for topology-aware scheduling; UltraServer Operator for provisioning UltraServer workloads; Neuron Observer for sub-second fault detection; and Device Taint for automated recovery. We’ll walk through how these patterns support fault-tolerant distributed training and large-scale inference workloads from a single accelerator to 20,000. You’ll leave with reusable operational patterns for running AI workloads reliably at any scale.",
+    "abstract": "As AI workloads scale, infrastructure failures become inevitable, causing stalled jobs, degraded throughput, and wasted accelerator capacity. In this chalk talk, we'll show how to build resilient AI workloads on AWS Trainium with AWS EKS. We'll whiteboard the full resiliency stack: Neuron DRA Driver for topology-aware scheduling; UltraServer Operator for provisioning UltraServer workloads; Neuron Observer for sub-second fault detection; and Device Taint for automated recovery. These patterns support fault-tolerant distributed training and inference from a single accelerator to 20,000. You will leave able to assemble this resiliency stack yourself and keep training and inference running through hardware failures.",
     "times": [
       {
         "id": "1790360375372001APxC",
@@ -5490,7 +5490,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Supervised fine-tuning enables your model to follow instructions, but teaching it to reason requires reinforcement learning. RL workflows demand iterative loops that multiply compute costs — making AWS Trainium's purpose-built price performance critical. In this chalk talk, we explore what techniques like RLHF and GRPO bring to the table and how to run them on Trainium with the AWS Neuron software stack, Torchtitan, HuggingFace TRL, vLLM, and native PyTorch. We compare co-located vs. disaggregated RL architectures. You'll leave ready to implement cost-effective RL loops that train agents to reason.",
+    "abstract": "Supervised fine-tuning enables your model to follow instructions, but teaching it to reason requires reinforcement learning. RL workflows demand iterative loops that multiply compute costs, making the price performance of AWS Trainium, a chip built specifically for deep learning AI, critical. In this chalk talk, we explore what techniques like RLHF and GRPO bring to the table and how to run them on Trainium with the AWS Neuron software stack, Torchtitan, HuggingFace TRL, vLLM, and native PyTorch. We compare co-located and disaggregated RL architectures. You'll leave ready to implement cost-effective RL loops that train agents to reason.",
     "times": [
       {
         "id": "1790025485873001CnrA",
@@ -5527,7 +5527,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Supervised fine-tuning enables your model to follow instructions, but teaching it to reason requires reinforcement learning. RL workflows demand iterative loops that multiply compute costs — making AWS Trainium's purpose-built price performance critical. In this chalk talk, we explore what techniques like RLHF and GRPO bring to the table and how to run them on Trainium with the AWS Neuron software stack, Torchtitan, HuggingFace TRL, vLLM, and native PyTorch. We compare co-located vs. disaggregated RL architectures. You'll leave ready to implement cost-effective RL loops that train agents to reason.",
+    "abstract": "Supervised fine-tuning enables your model to follow instructions, but teaching it to reason requires reinforcement learning. RL workflows demand iterative loops that multiply compute costs, making the price performance of AWS Trainium, a chip built specifically for deep learning AI, critical. In this chalk talk, we explore what techniques like RLHF and GRPO bring to the table and how to run them on Trainium with the AWS Neuron software stack, Torchtitan, HuggingFace TRL, vLLM, and native PyTorch. We compare co-located and disaggregated RL architectures. You'll leave ready to implement cost-effective RL loops that train agents to reason.",
     "times": [
       {
         "id": "1790360397685001ARRe",
@@ -5997,7 +5997,7 @@
   {
     "id": "1780442253630001cgzT",
     "code": "AIM323",
-    "title": "Serving World Model at scale with AWS Trainium and Native PyTorch",
+    "title": "Serving world models on AWS Trainium with native PyTorch",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -6016,7 +6016,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "The next major leap in AI is predicting and interacting with the physical world. World models bridge digital reasoning with real-world execution, introducing new infrastructure demands for video generation, robotics, and gaming workloads at scale. We'll explore the emerging architecture of world models and why AWS Trainium, purpose-built for better price-performance, is well suited to serve them. Learn how native PyTorch support with torch.compile fuses operations into optimized device graphs, and how NKI custom kernels accelerate critical operators like attention. You'll leave equipped to take world model inference from eager prototyping to compiled deployment using familiar PyTorch workflows.",
+    "abstract": "The next major leap in AI is predicting and interacting with the physical world. World models bridge digital reasoning with real-world execution, introducing new infrastructure demands for video generation, robotics, and gaming workloads. We'll explore the emerging architecture of world models and why AWS Trainium, purpose-built for better price-performance, is well suited to serve them. Learn how native PyTorch support with torch.compile fuses operations into optimized device graphs, and how NKI custom kernels accelerate critical operators like attention. You'll leave able to move world model inference from eager prototyping to compiled deployment using familiar PyTorch workflows.",
     "times": [
       {
         "id": "1790025496300001Cw8g",
@@ -6157,7 +6157,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Every team moving AI to production hits the same wall: scaling frontier model inference against growing token demand, tighter latency budgets, and spiraling compute costs. This workshop tackles that problem head-on. Experience how purpose-built chips changes the inference economics equation as you deploy Frontier AI models on AWS Trainium, apply optimization techniques, and learn how the Neuron software stack integrates with familiar open-source frameworks - no rewrites required - to achieve superior tokenomics. Leave with actionable skills to run performant, cost-effective model inference at production scale on AWS Trainium. ",
+    "abstract": "Every team moving AI to production hits the same wall: scaling frontier model inference against growing token demand, tighter latency budgets, and spiraling compute costs. This workshop tackles that problem head-on. See how purpose-built chips change the inference economics equation as you deploy frontier AI models on AWS Trainium, apply optimization techniques, and connect the Neuron software stack to familiar open-source frameworks without rewrites to achieve superior tokenomics. You will leave able to run performant, cost-effective frontier model inference in production on AWS Trainium yourself.",
     "times": [
       {
         "id": "1790025470889001ClzC",
@@ -6195,7 +6195,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Every team moving AI to production hits the same wall: scaling frontier model inference against growing token demand, tighter latency budgets, and spiraling compute costs. This workshop tackles that problem head-on. Experience how purpose-built chips changes the inference economics equation as you deploy Frontier AI models on AWS Trainium, apply optimization techniques, and learn how the Neuron software stack integrates with familiar open-source frameworks - no rewrites required - to achieve superior tokenomics. Leave with actionable skills to run performant, cost-effective model inference at production scale on AWS Trainium. ",
+    "abstract": "Every team moving AI to production hits the same wall: scaling frontier model inference against growing token demand, tighter latency budgets, and spiraling compute costs. This workshop tackles that problem head-on. See how purpose-built chips change the inference economics equation as you deploy frontier AI models on AWS Trainium, apply optimization techniques, and connect the Neuron software stack to familiar open-source frameworks without rewrites to achieve superior tokenomics. You will leave able to run performant, cost-effective frontier model inference in production on AWS Trainium yourself.",
     "times": [
       {
         "id": "1790360393347001ASHW",
@@ -6262,7 +6262,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Extracting peak performance from AI accelerators requires optimization at multiple levels — from framework configuration to individual kernels — and the complexity grows with every new workload. Agentic loops replace this manual work with autonomous profiling, diagnosis, and code generation, iterating toward performance targets without human intervention. In this session, we demonstrate this workflow on AWS Trainium, purpose-built to deliver better price-performance for AI workloads. Explore how these loops identify bottlenecks, how persistent memory prevents repeated failures, and how long-running campaigns uncover optimizations for different inference shapes. Walk away with practical patterns for agentic optimization on purpose-built silicon.",
+    "abstract": "Extracting peak performance from AI accelerators requires optimization at every level, from framework configuration down to individual kernels, and the complexity grows with every new workload. Agentic loops replace this manual work with autonomous profiling, diagnosis, and code generation, iterating toward performance targets without human intervention. In this session, we demonstrate this workflow on AWS Trainium, purpose-built to deliver better price-performance for AI workloads. Explore how these loops identify bottlenecks, how persistent memory prevents repeated failures, and how long-running campaigns uncover optimizations for different inference shapes. You will leave able to run agentic optimization loops yourself on AWS Trainium.",
     "times": [
       {
         "id": "1790025523722001CvwA",
@@ -6300,7 +6300,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Extracting peak performance from AI accelerators requires optimization at multiple levels — from framework configuration to individual kernels — and the complexity grows with every new workload. Agentic loops replace this manual work with autonomous profiling, diagnosis, and code generation, iterating toward performance targets without human intervention. In this session, we demonstrate this workflow on AWS Trainium, purpose-built to deliver better price-performance for AI workloads. Explore how these loops identify bottlenecks, how persistent memory prevents repeated failures, and how long-running campaigns uncover optimizations for different inference shapes. Walk away with practical patterns for agentic optimization on purpose-built silicon.",
+    "abstract": "Extracting peak performance from AI accelerators requires optimization at every level, from framework configuration down to individual kernels, and the complexity grows with every new workload. Agentic loops replace this manual work with autonomous profiling, diagnosis, and code generation, iterating toward performance targets without human intervention. In this session, we demonstrate this workflow on AWS Trainium, purpose-built to deliver better price-performance for AI workloads. Explore how these loops identify bottlenecks, how persistent memory prevents repeated failures, and how long-running campaigns uncover optimizations for different inference shapes. You will leave able to run agentic optimization loops yourself on AWS Trainium.",
     "times": [
       {
         "id": "1790360364065001ATVA",
