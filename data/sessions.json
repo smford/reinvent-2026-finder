@@ -12414,7 +12414,7 @@
     "code": "ANT408",
     "title": "Observe, investigate, act: smarter ops with Amazon OpenSearch Service",
     "type": "Breakout session",
-    "level": "400 – Expert",
+    "level": "300 – Advanced",
     "topics": [
       "Analytics"
     ],
@@ -12965,7 +12965,7 @@
     "code": "ANT423",
     "title": "Introducing AWS Context: Build governed intelligence for agents at scale",
     "type": "Breakout session",
-    "level": "400 – Expert",
+    "level": "300 – Advanced",
     "topics": [
       "Analytics"
     ],
