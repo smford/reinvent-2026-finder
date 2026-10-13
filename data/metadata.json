@@ -1,32 +1,33 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-13T13:07:39Z",
-  "totalSessions": 2227,
-  "scheduledTimeSlots": 2227,
+  "lastUpdated": "2026-10-13T22:03:58Z",
+  "totalSessions": 2234,
+  "scheduledTimeSlots": 2234,
   "campuses": {
-    "Wynn Campus": 572,
-    "MGM Grand Campus": 657,
-    "Caesars Campus": 735,
-    "Venetian Campus": 263
+    "Wynn Campus": 574,
+    "MGM Grand Campus": 658,
+    "Caesars Campus": 734,
+    "Venetian Campus": 268
   },
   "venues": {
-    "Wynn/Encore": 572,
-    "MGM Grand": 657,
-    "Caesars Palace": 370,
+    "Wynn/Encore": 574,
+    "MGM Grand": 658,
+    "Caesars Palace": 369,
     "Caesars Forum": 365,
-    "Venetian": 263
+    "Venetian": 268
   },
   "levels": {
-    "300 \u2013 Advanced": 1329,
-    "200 \u2013 Intermediate": 359,
+    "300 \u2013 Advanced": 1332,
+    "200 \u2013 Intermediate": 358,
     "100 \u2013 Foundational": 83,
     "400 \u2013 Expert": 412,
     "500 \u2013 Distinguished": 36,
+    "Unspecified": 5,
     "No Level": 8
   },
   "sessionTypes": {
     "Chalk talk": 674,
-    "Breakout session": 529,
+    "Breakout session": 531,
     "Gamified learning": 35,
     "Lightning talk": 229,
     "Builders' session": 256,
@@ -34,12 +35,13 @@
     "Code talk": 125,
     "Bootcamp": 26,
     "Lab": 45,
-    "Exam prep": 10
+    "Exam prep": 10,
+    "Keynote": 5
   },
   "days": {
-    "Wednesday": 605,
-    "Monday": 583,
-    "Tuesday": 435,
+    "Wednesday": 608,
+    "Monday": 585,
+    "Tuesday": 437,
     "Thursday": 551,
     "Friday": 53
   },

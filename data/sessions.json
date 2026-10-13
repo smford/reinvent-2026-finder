@@ -539,7 +539,7 @@
   {
     "id": "1780442269822001ckp6",
     "code": "AIM116-S",
-    "title": "Fuel Intelligent AI Agents with Trusted Enterprise Data (Sponsored by Informatica)",
+    "title": "Fuel Intelligent AI Agents with Trusted Enterprise Data (sponsored by Salesforce)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -6705,7 +6705,7 @@
   {
     "id": "1780441484808001GFzE",
     "code": "AIM3316-S",
-    "title": "Koa: NVIDIA Nemotron-Powered CRM Reasoning Inside Salesforce’s AWS Trust Boundary",
+    "title": "Koa: NVIDIA Nemotron-Powered CRM Reasoning Inside Salesforce’s AWS Trust Boundary (sponsored by NVIDIA)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -8925,7 +8925,7 @@
   {
     "id": "1780442285446001cKXh",
     "code": "AIM389-S",
-    "title": "Fine-tune and evaluate NVIDIA Open models on Amazon SageMaker",
+    "title": "Fine-tune and evaluate NVIDIA Open models on Amazon SageMaker (sponsored by NVIDIA)",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -10748,7 +10748,7 @@
   {
     "id": "1780442269174001cP7n",
     "code": "AIM457-S",
-    "title": "From reactive operations to autonomous resilience: How Agentic AI is redefining SRE",
+    "title": "From reactive operations to autonomous resilience: How Agentic AI is redefining SRE (sponsored by HCLTech)",
     "type": "Lightning talk",
     "level": "400 – Expert",
     "topics": [
@@ -12194,14 +12194,14 @@
     "times": [
       {
         "id": "1790025489832001CryH",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Red Theater",
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Blue Theater",
         "venue": "Caesars Palace"
       }
     ]
@@ -12223,14 +12223,14 @@
     "times": [
       {
         "id": "1790025522659001CW13",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "13:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Blue Theater",
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Red Theater",
         "venue": "Caesars Palace"
       }
     ]
@@ -12238,7 +12238,7 @@
   {
     "id": "1780441462444001GDdl",
     "code": "ANT335",
-    "title": "Optimize AI costs with practical deployment blueprints for analytics on AWS",
+    "title": "Drive AI and ML ROI with cost-efficient data analytics on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -12248,7 +12248,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Delivering AI at enterprise scale demands more than great models — it requires a data and analytics foundation engineered for cost efficiency from day one. This session examines proven deployment blueprints that pair AWS analytics services with AI/ML workloads to maximize price-performance. We explore patterns including right-sizing your analytics infrastructure for training data preparation, on-demand feature extraction, auto-scaling continuous ETL pipelines and selecting optimal storage formats to minimize costs. Through detailed architectural walkthroughs, you'll learn how to instrument cost observability across your analytics stack, apply tagging strategies for AI workload attribution, and implement governance guardrails that prevent runaway spend — turning your data platform into a competitive advantage for AI delivery.",
+    "abstract": "Delivering ROI for AI and ML at enterprise scale demands more than just great models — it requires a data and analytics foundation engineered for cost efficiency from day one. This session examines different cost efficiency levers that pair AWS data and analytics services with AI/ML workloads to maximize price-performance. We explore patterns including right-sizing your data infrastructure for training, inference, feature extraction, ETL pipelines and selecting optimal storage formats to minimize costs. You'll learn how to instrument cost observability across your analytics stack, apply tagging strategies for AI workload attribution, and implement governance guardrails that prevent runaway spend — turning your data foundation into a competitive advantage for ML and AI delivery.",
     "times": [
       {
         "id": "1790025503572001Cjln",
@@ -12493,6 +12493,43 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442273358001cyTx",
+    "code": "ANT352-S",
+    "title": "Unlock Workday data with AWS: Building Trustworthy Agents (sponsored by Workday)",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Business Intelligence"
+    ],
+    "roles": [
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Generative AI agents and analytics in AWS are only as effective as the enterprise context behind them. While tools like Amazon Bedrock and Amazon Quick deliver powerful reasoning capabilities, grounding those models in authoritative, real-time HR and financial data traditionally requires complex ETL pipelines, custom integrations, and data duplication.\n\nIn this session, we’ll demonstrate how Workday natively bridges this gap on AWS. Through live cross-system AI agent demos, you’ll see how to deliver unified, real-time enterprise insights without writing ETL code or moving data.",
+    "times": [
+      {
+        "id": "1791922551994001AMf0",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "10:50",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "10:50 AM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -15008,7 +15045,7 @@
   {
     "id": "1780442266564001c2mb",
     "code": "ARC101-S",
-    "title": "Building a governed AI ready data foundation on AWS (sponsored by Fivetran)",
+    "title": "How Docusign built a scalable data foundation for AI (sponsored by Fivetran)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -15027,7 +15064,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Most data stacks were built for dashboards, not AI. Duplicated pipelines, competing definitions, and slow reporting make it difficult to deliver the fresh, trusted, governed data AI demands. Learn how a fast growing organization replaced engineering heavy operations with a self serve model built on AWS, Fivetran, and dbt. Understand how to standardize ingestion, apply governed transformations and semantic definitions, and cut pipeline development from months to days. You'll walk away with a practical approach to freeing engineering time, providing business teams with trusted access to data, and building a governed foundation that scales AI from experiments to production. This presentation is brought to you by Fivetran, an AWS Partner.",
+    "abstract": "Modern analytics and AI depend on trusted data that teams can access without adding engineering overhead. In this session, learn how Docusign standardized ingestion and transformation with Fivetran + dbt Labs, reducing manual pipeline work and creating a scalable data foundation across finance, go-to-market, product analytics, customer data, and data science. Hear how simplifying the data stack frees engineering teams to focus less on pipeline maintenance and more on delivering trusted data that powers analytics and AI across the business.",
     "times": [
       {
         "id": "1790033118056001qSBV",
@@ -17933,7 +17970,7 @@
   {
     "id": "1780441465546001GTJc",
     "code": "BIZ105",
-    "title": "How a brand modernized CX Globally Across Three Regions ",
+    "title": "Shaping the Future of Guest Support at lululemon with an AI-powered experience",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -17943,7 +17980,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "You expanded globally. Your customer experience didn't. What started as regional growth became a patchwork of inconsistent tools, siloed operations, and fragile workarounds that couldn't keep pace with your brand. Learn how a company stopped managing around the complexity and rebuilt from the foundation - modernizing its global CX infrastructure on Amazon Connect Customer across North America, APAC, and EMEA without disrupting a single customer interaction. If your service operations were built for one market and stretched across many, this is what it looks like to standardize at scale and unlock the agility to move toward AI-driven experiences on your terms. ",
+    "abstract": "What if you could design Guest Support for the future, not just improve the operation you have today?\n\nAt lululemon, that question shifted the conversation. Rather than patching together fragmented tools and manual planning processes, the team envisioned the experience they wanted to create for guests and their people, then worked backward to build it. The result was a unified, AI-powered experience launched globally, giving employees more time to build meaningful connections with guests.\n\nThis session explores how lululemon built a fundamentally different future for Guest Support and the principles leaders can use to do the same at their organization.",
     "times": [
       {
         "id": "1790025543095001ChZc",
@@ -17962,7 +17999,7 @@
   {
     "id": "1780441465606001GlIi",
     "code": "BIZ106",
-    "title": "How An AI-First Approach Helped Add 500,000 New Members",
+    "title": "How Flybuys Cut Costs and Scaled AI Agents Across 10M Members",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -17972,7 +18009,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "10 million members. Limited visibility into support interactions. High costs. Flybuys needed a new path. In 7 months, they migrated to Amazon Connect Customer, bringing operations in-house, and deploying AI agents that now handle 20% of member voice interactions. The result of the migration has been a 24% cost optimization while adding an additional 500,000 members. Join this session to hear how Flybuys took control of their member experience, unlocked deep visibility across every interaction, and are now moving quickly to scale agentic AI across voice and digital channels.",
+    "abstract": "10 million members. Limited visibility into support interactions. High costs. Flybuys needed a new path. In 7 months, they migrated to Amazon Connect Customer, bringing operations in-house, and deploying AI agents that now handle 20% of member voice interactions. The result of the migration has been cost reduction while improving customer satisfaction. Join this session to hear how Flybuys took control of their member experience, unlocked deep visibility across every interaction, and are now moving quickly to scale agentic AI across voice and digital channels.",
     "times": [
       {
         "id": "1790025529894001CzMQ",
@@ -20659,7 +20696,7 @@
   {
     "id": "1780442225615001chs0",
     "code": "CMP301-R",
-    "title": "Unlock your Graviton savings potential using AI and analytics tools",
+    "title": "Unlock your AWS Graviton potential using Graviton Savings Dashboard and AI skills",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -20678,7 +20715,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "How much can you save by migrating to Graviton? In this builder session, explore a real-world scenario and uncover two ways to answer that question. The Graviton Savings Dashboard is an Amazon Quick visualization of your Graviton usage, realized savings, and migration opportunities. The Graviton Savings Assessment is an open-source skill any AI coding agent can run to produce a prioritized migration roadmap on demand. Deploy both hands-on, identify migration candidates, and see how quickly cost data becomes a migration strategy. Walk away with actionable insights and a deployment kit.",
+    "abstract": "How much can you save by migrating to Graviton? In this builder session, explore two complementary ways to answer it, hands-on. The Graviton Savings Dashboard is an AWS Quick visualization of your Graviton usage, realized savings, and migration opportunities. The Graviton Savings Assessment is an open-source skill any AI coding agent runs against your cost and usage data to produce a prioritized migration plan. Use both tools against a sample fleet, identify migration candidates, and see how quickly cost data becomes a migration strategy. Walk away with actionable insights and a deployment kit for your own accounts.",
     "times": [
       {
         "id": "1790025496730001C7a2",
@@ -20697,7 +20734,7 @@
   {
     "id": "1790358252924001i9V8",
     "code": "CMP301-R1",
-    "title": "Unlock your Graviton savings potential using AI and analytics tools",
+    "title": "Unlock your AWS Graviton potential using Graviton Savings Dashboard and AI skills",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -20716,7 +20753,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "How much can you save by migrating to Graviton? In this builder session, explore a real-world scenario and uncover two ways to answer that question. The Graviton Savings Dashboard is an Amazon Quick visualization of your Graviton usage, realized savings, and migration opportunities. The Graviton Savings Assessment is an open-source skill any AI coding agent can run to produce a prioritized migration roadmap on demand. Deploy both hands-on, identify migration candidates, and see how quickly cost data becomes a migration strategy. Walk away with actionable insights and a deployment kit.",
+    "abstract": "How much can you save by migrating to Graviton? In this builder session, explore two complementary ways to answer it, hands-on. The Graviton Savings Dashboard is an AWS Quick visualization of your Graviton usage, realized savings, and migration opportunities. The Graviton Savings Assessment is an open-source skill any AI coding agent runs against your cost and usage data to produce a prioritized migration plan. Use both tools against a sample fleet, identify migration candidates, and see how quickly cost data becomes a migration strategy. Walk away with actionable insights and a deployment kit for your own accounts.",
     "times": [
       {
         "id": "1790360387299001AlMY",
@@ -33728,14 +33765,14 @@
     "times": [
       {
         "id": "1790033125827001qRYB",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "14:30",
-        "endTime": "14:50",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "02:50 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "17:30",
+        "endTime": "17:50",
+        "startTimeFormatted": "05:30 PM",
+        "endTimeFormatted": "05:50 PM",
         "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
+        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
         "venue": "Venetian"
       }
     ]
@@ -37735,7 +37772,7 @@
   {
     "id": "1780441485206001GC7l",
     "code": "DVT212-S",
-    "title": "After the Agents Write the Code: A Field Report From 100 Million Code Reviews ",
+    "title": "After the Agents Write the Code: A Field Report From 100 Million Code Reviews (sponsored by CodeRabbit)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -43893,7 +43930,7 @@
   {
     "id": "1780442269516001ceDZ",
     "code": "IND209-S",
-    "title": "Computing‑Power‑Cooling Synergy: Building the Future of Global Data Infrastructure",
+    "title": "Computing‑Power‑Cooling Synergy: Building the Future of Global Data Infrastructure (sponsored by Kehua Tech)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -44482,7 +44519,7 @@
   {
     "id": "1780441475431001Gos3",
     "code": "IND309",
-    "title": "Powering America's AI and HPC leadership for mission-critical outcomes",
+    "title": "Advancing the Mission with AI and HPC Supercomputing Pods on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -44501,7 +44538,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AI and HPC deliver real mission breakthroughs across defense, national security, and science. In this session, hear how AWS's $50B infrastructure investment and leadership-class hyperscale elasticity compress timelines from years to months. Ideal for mission owners, architects, and tech leaders.",
+    "abstract": "Cloud supercomputing has become a technology imperative for American competitiveness. In this session, discover how AWS's up to $50B investment in U.S. Federal Supercomputing on AWS promotes rapid innovation for national security, defense, weather, and research. Learn how our new AI and HPC Supercomputing Pod on AWS delivers a fundamentally new supercomputing model, and how AI and HPC are converging to elevate mission outcomes. Ideal for mission owners, architects, and tech leaders.",
     "times": [
       {
         "id": "1790025552774002C5Xu",
@@ -45285,7 +45322,7 @@
         "startTimeFormatted": "08:30 AM",
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -45765,7 +45802,7 @@
   {
     "id": "1780441489581001Glv9",
     "code": "IND3308-S",
-    "title": "Rise of Autonomous Clinical Data Management: AI Agents Accelerating Drug Development",
+    "title": "Rise of Autonomous Clinical Data Management: AI Agents Accelerating Drug Development (sponsored by Cognizant)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -46589,6 +46626,44 @@
     ]
   },
   {
+    "id": "1780441476213001GYOa",
+    "code": "IND3329",
+    "title": "Allianz: Building domain AI agents that scale across the enterprise",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Delivering one coherent agent experience across a large enterprise means connecting agents to core business systems, each with its own identity, compliance, and security requirements. Learn how Allianz moved a reusable agentic framework into regulated production, with one entry point routing every request to specialist domain agents through open standards like MCP. The session covers the trust model, with scoped authorization at every boundary, and how shared services for identity, data protection, and consent let business teams focus on their domain. Finally, discover go-live lessons and who owns a shared agent service across legal entities.",
+    "times": [
+      {
+        "id": "1790025553069001CfQN",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442228313001cKty",
     "code": "IND333",
     "title": "Talk to your market data: Agentic AI meets exchange feeds",
@@ -47194,7 +47269,7 @@
         "startTimeFormatted": "08:30 AM",
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -47233,6 +47308,44 @@
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780441474644001GNoW",
+    "code": "IND3345",
+    "title": "Robinhood: Scaling in-app agentic trading to every investor on AWS",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Event-Driven Architecture",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Hedge funds rely on research, strategy tools, and around-the-clock execution. Retail investors rarely have access to the institutional-grade research and real-time analysis that professionals depend on. In this session, discover how Robinhood built Robinhood Agents, an in-app agentic trading experience built on Amazon Bedrock. Customers can build their own agent to research the market, develop strategies, or trade within the limits they set. Learn how Robinhood's AI engineering leaders built an internal agentic platform focused on trust, security, and safety and how that later evolved and scaled to power Robinhood Agents. Hear about the architecture, guardrails, and lessons learned delivering institutional intelligence at consumer scale.",
+    "times": [
+      {
+        "id": "1791583862450001OtTf",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -47902,7 +48015,7 @@
   {
     "id": "1790358249228001iTS3",
     "code": "IND352-R1",
-    "title": "Autonomous Swarms, Human Command: Building Trusted AI Teammates on AWS",
+    "title": "Gotta detect 'em all: finding rogue devices with Amazon Bedrock",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -47978,7 +48091,7 @@
   {
     "id": "1790358245269001ipnL",
     "code": "IND353-R1",
-    "title": "Agents Under Oath: HIPAA-compliant agentic AI on AWS",
+    "title": "Agents under oath: HIPAA-compliant agentic AI on AWS",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -47997,7 +48110,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Agents expose PHI across five surfaces RBAC can't see: model responses, persistent memory, tool calls, RAG retrieval, and agent traces. This chalk talk walks a HIPAA-compliant reference architecture on AWS: four trust zones, sixteen controls mapped to Security Rule safeguards. Bring questions.",
+    "abstract": " AI agents in government healthcare don't just query databases. They reason, remember, and act. Each of those capabilities opens a new surface where protected health information (PHI) can leak model responses, persistent memory, tool calls, RAG retrieval, and agent traces. Traditional RBAC and encryption were not built for this. In this chalk talk, we will walk through a real prior authorization determination scenario together, map where PHI bleeds through an ungoverned agent and then redesign the architecture as a group — four trust zones, sixteen controls, all mapped to HIPAA Security Rule safeguards. Come ready to draw and debate. ",
     "times": [
       {
         "id": "1790360388122001AAww",
@@ -49892,7 +50005,7 @@
   {
     "id": "1790358250692001iwwm",
     "code": "IND397-R1",
-    "title": "Accelerate your GenAI mission from prototype to ATO in weeks",
+    "title": "Accelerate your agentic AI mission from prototype to ATO in weeks",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -49910,7 +50023,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Every agency wants GenAI in production, but few have navigated the path across classification levels. In this Chalk Talk, learn real-world patterns for deploying Bedrock agents and foundation models across Government Regions - service parity, ATO strategies, and tradeoffs. Ideal for architects.",
+    "abstract": "Agencies, the industrial base, and technology partners want agentic AI in production, but few have navigated the path across classification levels. In this chalk talk, learn real-world patterns for taking Bedrock agents and foundation models from prototype to authorized production across commercial and AWS Government Regions (FedRAMP, DoD CSP SRG IL2/4/5, classified) on one portable security baseline, without a rebuild; what is authorized at each level; the tradeoffs at each level; and ATO strategies that turn guardrails, observability, and evaluations into control evidence your assessor can use. Guardrails and audit-trail demos. Ideal for architects and security leads.",
     "times": [
       {
         "id": "1790360399282001ArlZ",
@@ -50591,7 +50704,7 @@
   {
     "id": "1790358250283001iYiG",
     "code": "IND418-R1",
-    "title": "Agentic AI for Mission Readiness: Accelerating Federal Operations",
+    "title": "From documents to decisions: Agentic AI for federal operations ",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -50610,7 +50723,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "A federal agency achieved 3x faster document analysis using Agentic AI with autonomous reasoning. This chalk talk explores how AI agents orchestrate mission-critical tasks in high-side environments while meeting IL4/IL5 compliance and zero-trust requirements.",
+    "abstract": "Accelerate mission-critical federal operations with agentic AI—from public-information analysis to sensitive document workflows. This expert chalk talk explores patterns for document review, supply chain optimization and classified medical health records backed by real-world implementations. Whiteboard multi-agent orchestration with Amazon Bedrock, including least-privilege tool access, human approval, auditability, and failure recovery. Compare Amazon Bedrock AgentCore for eligible workloads such as regulatory review, grants, and benefits processing with FEDRAMP (Class C and D). Further explore container-based agent architectures for IL4/IL5 environments using authorized AWS services and models. ",
     "times": [
       {
         "id": "1790360389323001AM2X",
@@ -52403,6 +52516,141 @@
         "endTimeFormatted": "05:00 PM",
         "duration": 120,
         "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1791492157127001UCdR",
+    "code": "KEY001",
+    "title": "Developer Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Building software has never moved faster, and it has never asked more of developers. In this keynote, AWS Engineers and Heroes from the community tackle what's still hard: going from idea to a live app in minutes, building agents that actually work, and trusting code you didn't write yourself. Expect live demos, hard-won lessons from the AWS team that built a new service with an AI software factory, and an honest look at how the developer's job is changing. Come see how AWS is making it easier to build anything you can imagine, then go build it.",
+    "times": [
+      {
+        "id": "1791838336250001cTCh",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "19:30",
+        "endTime": "20:45",
+        "startTimeFormatted": "07:30 PM",
+        "endTimeFormatted": "08:45 PM",
+        "duration": 75,
+        "room": "Venetian | Level 2 | Ballroom E | Keynote",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1791492157230001Uw9y",
+    "code": "KEY002",
+    "title": "CEO Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Join us for the CEO Keynote at AWS re:Invent 2026. Hear the latest news and announcements, insights from AWS leaders, and stories from customers building what's next. Full session details coming soon.",
+    "times": [
+      {
+        "id": "1791838351591001YtM7",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 120,
+        "room": "Venetian | Level 2 | Ballroom E | Keynote",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1791492157329001U2je",
+    "code": "KEY003",
+    "title": "Data & AI Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Join us for the Data & AI Keynote at AWS re:Invent 2026. Hear the latest news and announcements, insights from AWS leaders, and stories from customers building what's next. Full session details coming soon.",
+    "times": [
+      {
+        "id": "1791838364258001LxwD",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 90,
+        "room": "Venetian | Level 2 | Ballroom E | Keynote",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1791492157430001U8jn",
+    "code": "KEY004",
+    "title": "Partner Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "AWS Partners, this one's for you. You're powering today's biggest transformations, and AWS is building alongside you to make co-selling and going to market simpler. This is your biggest moment of re:Invent, where you'll leave knowing where to invest and how to win in the agentic era. Join Dr. Ruba Borno and guests including AWS CEO Matt Garman for a game plan built on agent-run migrations with your data plugged in, your expertise embedded in customer tools, and more profitable business models, plus a Marketplace and Partner Central demo on reaching more buyers faster. Don't miss it.",
+    "times": [
+      {
+        "id": "1791838376760001IaDL",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Ballroom E | Keynote",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1791492157537001UxSg",
+    "code": "KEY005",
+    "title": "Technical Innovations Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Agents don't follow a script. They change plans mid-task, reach for tools they didn't know they'd need, and create demand you can't predict. For two decades, the hardest workloads builders brought to AWS have pushed us to rethink everything from Graviton and Trainium to the shape of the data center network, to the way storage scales, and how we prove systems behave as intended. Join AWS's top engineers and scientists for an under-the-hood look at the technology that came out of that pressure, the kind of story you won't hear anywhere else. See how AWS infrastructure adapts as your work changes, freeing you to stop engineering around constraints and build anything you can imagine.",
+    "times": [
+      {
+        "id": "1791838387621001ctst",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 90,
+        "room": "Venetian | Level 2 | Ballroom E | Keynote",
         "venue": "Venetian"
       }
     ]
@@ -56114,7 +56362,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "As organizations look to reduce tech debt for their .NET applications, builders are looking to accelerate modernization with AI tools. In this hands-on session, we'll explore best practices for modernizing .NET Framework applications with AWS Transform. You'll learn how to work alongside the agent to reach a desired outcome. Together, we will apply plan customizations, steering documents, checkpoints, and iteration. Come ready to share your use cases and leave with practical steps to efficient, cost-effective modernization. Bring your laptop with Visual Studio and an AWS account onboarded to AWS Transform. ",
+    "abstract": "As organizations look to reduce tech debt for their .NET applications, builders are looking to accelerate modernization with AI tools. In this hands-on session, we'll explore best practices for modernizing .NET Framework applications with AWS Transform. You'll learn how to work alongside the agent to reach a desired outcome. Together, we will apply plan customizations, steering documents, checkpoints, and iteration. Come ready to share your use cases and leave with practical steps to efficient, cost-effective modernization. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790025543622001CmsB",
@@ -56410,7 +56658,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "SAP operations teams spend hours sifting through thousands of log lines to diagnose outages, often only after business impact has occurred. In this workshop, learn how to implement AI-powered operations for SAP workloads on AWS, whether customer-managed or RISE with SAP. Ingest SAP system logs into Amazon CloudWatch using the CloudWatch Agent and SAP ECS LogServ, then apply Amazon Bedrock–powered agents for proactive analysis and reactive root-cause investigation. See how AWS DevOps Agent extends this with autonomous remediation. Leave with a deployable architecture, real customer examples, and guidance to get started in days.",
+    "abstract": "SAP operations teams spend hours sifting through thousands of log lines to diagnose outages, often only after business impact has occurred. In this workshop, learn how to implement AI-powered operations for SAP workloads on AWS, whether customer-managed or RISE with SAP.  Ingest SAP system logs into Amazon CloudWatch using the CloudWatch Agent and SAP ECS LogServ, then deploy an AI agent that will enable proactive analysis and reactive root-cause investigation. Leave with a deployable architecture, real customer examples, and guidance to get started in days with your own agent.",
     "times": [
       {
         "id": "1790025511672001CEFN",
@@ -63422,44 +63670,6 @@
     ]
   },
   {
-    "id": "1780442269006001cn7j",
-    "code": "SEC220-S",
-    "title": "Move AI agents from prototype to production with 1Password (sponsored by 1Password)",
-    "type": "Lightning talk",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Artificial Intelligence",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Application Security",
-      "Identity & Access Management"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Administrator",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "An AI agent can be easy to prototype but hard to take to production once it needs access to real systems. For developers, platform engineers, and security teams building with AWS AgentCore, this session shows how 1Password uses the same governed credential workflow from a local sandbox to the cloud without code changes. Attendees will see how this approach helps engineering teams move faster, limits the blast radius of a compromised agent, and gives security teams a clear audit trail. The session covers short-lived credential delivery through the AgentCore gateway and policies that apply consistently from development through production. This presentation is brought to you by 1Password, an AWS Partner.",
-    "times": [
-      {
-        "id": "1790033125775001q0FS",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "14:00",
-        "endTime": "14:20",
-        "startTimeFormatted": "02:00 PM",
-        "endTimeFormatted": "02:20 PM",
-        "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
     "id": "1780442272602001c2G3",
     "code": "SEC221-S",
     "title": "Agentic AI Meets ‘Human-Guided-Autonomy’ (sponsored by Terra)",
@@ -64092,7 +64302,7 @@
   {
     "id": "1780442270290001cyIp",
     "code": "SEC285-S",
-    "title": "Automate and Scale Cloud Operations with Purpose-Built AI Agents",
+    "title": "Automate and Scale Cloud Operations with Purpose-Built AI Agents (sponsored by Datadog)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -68723,21 +68933,21 @@
     "roles": [
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Managing memory for hundreds of tenants in SaaS shouldn't require hundreds of IAM policies — yet most products scaling multi-tenant agents on AWS end up there: a namespace per tenant-agent pair, a policy per tenant, deployment times that climb with every customer. In this chalk talk, learn how to isolate both layers of agent memory in Amazon Bedrock AgentCore — short-term session events and long-term extracted records — with one Attribute-Based Access Control (ABAC) policy backed by AWS Security Token Service (STS) session tags. We cover the actorId and namespace conventions, the Token Vending Machine that mints per-tenant credentials, and the anti-patterns that break isolation as you scale. Leave with the reference architecture and the IAM policy template you can use on Monday.",
     "times": [
       {
         "id": "1790360366657001AUJ9",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "05:00 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade Level | Neopolitan I",
-        "venue": "Caesars Palace"
+        "room": "MGM Grand | Level 3 | Room 353",
+        "venue": "MGM Grand"
       }
     ]
   },
