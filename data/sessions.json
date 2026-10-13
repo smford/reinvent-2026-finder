@@ -6981,7 +6981,7 @@
   {
     "id": "1780442276021001cmMv",
     "code": "AIM335-R",
-    "title": "Build provable AI agents with Automated Reasoning checks",
+    "title": "Build Provable Zero-Trust Agents with Automated Reasoning checks",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -7014,7 +7014,7 @@
   {
     "id": "1790358256927001iapi",
     "code": "AIM335-R1",
-    "title": "Build provable AI agents with Automated Reasoning checks",
+    "title": "Build Provable Zero-Trust Agents with Automated Reasoning checks",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -13166,7 +13166,7 @@
   {
     "id": "1790358239722001iuit",
     "code": "ANT424-R1",
-    "title": "Migrating legacy ETL to serverless with AWS Glue",
+    "title": "Simplify Data Analytics operations with AI-powered Apache Spark agents on AWS",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -13176,7 +13176,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Enterprises using  traditional ETL tools on-premises infrastructure face mounting pressure from licensing costs, scaling limits, and operational overhead. Migrating these entrenched pipelines to a serverless model is achievable with the right patterns, but the path is rarely a straight lift-and-shift. In this chalk talk, we'll work through proven migration patterns for moving legacy ETL workloads to AWS Glue. We will tackle topics such as converting complex transformation logic, handling incremental and change-data-capture loads, preserving data quality and lineage, and phasing cutover to minimize risk. Bring your toughest migration questions and leave with a practical framework f of how serverless ETL changes the economics and operations of data integration.",
+    "abstract": "Running analytics workloads at scale carries a hidden operational tax: teams commonly lose significant engineering time to debugging failures, leave performance and cost improvements on the table, and spend months on each version upgrade. In this talk, we walk through a family of AI-powered agents for AWS Glue, Amazon EMR, and Amazon Athena. The Spark Troubleshooting Agent finds the root cause of a failure and recommends the code or config fix - cutting debugging time from hours to minutes. The Spark Upgrade Agent plans an upgrade, transforms the code, and validates both runtime and data quality - turning months into hours. We share what worked in production for both agents - the design choices, failure modes, and validation strategies that made them reliable - and distill lessons that generalize to any team applying LLMs to complex infrastructure.",
     "times": [
       {
         "id": "1790360384089001ANbZ",
@@ -40965,7 +40965,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Experience the ultimate AI showdown from your theater seat as fifty finalists from the AWS AI League season battle head-to-head in real time for the $50,000 championship prize.\n\nThis electrifying viewing experience offers ML practitioners, developers, and AI enthusiasts unique insights into agent orchestration, model customization, and multi-agent coordination at scale, as five-versus-five AI agent squads face off live in Agentic Football, built on Amazon Bedrock AgentCore and the Strands Agents SDK.",
+    "abstract": "Experience the ultimate AI showdown from your theater seat as fifty finalists from the AWS AI League season battle head-to-head in real time for the $50,000 championship prize. This electrifying viewing experience offers ML practitioners, developers, and AI enthusiasts unique insights into agent orchestration, model customization, and multi-agent coordination at scale, as five-versus-five AI agent squads face off live in Agentic Football, built on Amazon Bedrock AgentCore and the Strands Agents SDK.",
     "times": [
       {
         "id": "1790025528080001Cd4w",
@@ -64715,6 +64715,7 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
+      "Network & Infrastructure Security",
       "Threat Detection & Incident Response"
     ],
     "roles": [],
@@ -64746,6 +64747,7 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
+      "Network & Infrastructure Security",
       "Threat Detection & Incident Response"
     ],
     "roles": [],
