@@ -557,7 +557,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success.",
+    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success. This presentation is brought to you by Salesforce, an AWS Partner.",
     "times": [
       {
         "id": "1790033120457001qG8R",
@@ -5350,7 +5350,7 @@
   {
     "id": "1780441463929001GEFj",
     "code": "AIM310",
-    "title": "Inside AWS Trainium3: Hardware innovations for better AI economics",
+    "title": "Making foundation models performant on AWS Trainium3",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -5369,7 +5369,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "What does it take to build a chip engineered specifically for deep learning AI? In this deep dive, we explore Trainium3 architecture innovations: NeuronCore advances that deliver higher TFLOPs, hardware-accelerated quantization, softmax acceleration, near-memory compute, and Mixture-of-Experts optimizations. We'll share micro-benchmark data showing how these choices translate to real performance for Mixture-of-Experts and other demanding workloads. At the system level, we examine the Trn3 UltraServer family, which scales from 32 to 144 chips via NeuronLink fabric to deliver up to 4.4x more performance. You will learn how to evaluate and apply these AI chips to your own workloads.",
+    "abstract": "Many of today's largest foundation models are mixture-of-experts (MoE) models, and modern MoE models place several performance demands on AI chips and their HPC systems. This session walks through those demands and how AWS Trainium3 and the Trn3 UltraServer respond. See how to train and serve with PyTorch, TorchTitan, and vLLM, then profile with Neuron Explorer and choose between a config change, an NKI Library kernel, or a custom NKI kernel. Two customers share their experience running on Trainium3.",
     "times": [
       {
         "id": "1790034534759001p0z7",
@@ -6723,7 +6723,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Salesforce Koa is a family of CRM reasoning models post-trained from NVIDIA Nemotron open models. Koa is in production on AWS, inside Salesforce's trust boundary. This session covers technical insights on how Koa was built and how Salesforce serves the model on AWS. Additionally, attendees will learn how Salesforce enforces trust and safety controls in the serving layer outside the model. This session is relevant to any team building and deploying custom open models for the enterprise.",
+    "abstract": "Salesforce Koa is a family of CRM reasoning models post-trained from NVIDIA Nemotron open models. Koa is in production on AWS, inside Salesforce's trust boundary. This session covers technical insights on how Koa was built and how Salesforce serves the model on AWS. Additionally, attendees will learn how Salesforce enforces trust and safety controls in the serving layer outside the model. This session is relevant to any team building and deploying custom open models for the enterprise. This presentation is brought to you by NVIDIA, an AWS Partner.",
     "times": [
       {
         "id": "1790034532239001pmXQ",
@@ -9098,9 +9098,9 @@
   {
     "id": "1780441465208001GtSz",
     "code": "AIM395",
-    "title": "Deploy agents you can trust",
+    "title": "Trust in Depth: Giving agents more freedom without losing control",
     "type": "Breakout session",
-    "level": "300 – Advanced",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence"
     ],
@@ -9112,7 +9112,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You're ready to put AI agents into production, but you can't prove they will stay within bounds. When agents act autonomously, governance, safety, and security become one question: can you trust what they do next? In this session, explore what it takes to build a unified governance approach across identity, policy, observability, and compliance. Then see how automated reasoning delivers mathematical proof that agent policies hold under all conditions, including the ones you'd never think to test. Leave knowing how to govern what your agents do and verify they do only what you intend.",
+    "abstract": "You're accountable for what your AI agents do, but they act faster than anyone can review. So capable agents wait while the work piles up. There's a way out of that bind. Join this panel for a candid discussion of how you build trust across the agent lifecycle: scope the agent to its job, know which agents are acting, bound what it does and says, and see what it did after. Then learn how provable bounds let you set how far an agent goes, and prove it stays there. Come ready to question your own systems. Leave able to answer.",
     "times": [
       {
         "id": "1790025516953001CfN4",
@@ -10765,7 +10765,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Traditional SRE was built to restore systems quickly, but today’s complex, distributed environments demand more than reactive operations. This lightning session explores how agentic AI is redefining SRE by enabling autonomous detection, decision-making, remediation, and continuous learning. It examines how observability can extend beyond infrastructure metrics to connect system health with customer experience and business outcomes. Attendees will learn how AI, observability, and operations are converging to create resilient, self-optimizing environments, why autonomous resilience is becoming a competitive advantage, and the practical steps organizations can take to progress toward Level 5 autonomous operations while retaining appropriate human oversight and governance",
+    "abstract": "Traditional SRE was built to restore systems quickly, but today’s complex, distributed environments demand more than reactive operations. This lightning session explores how agentic AI is redefining SRE by enabling autonomous detection, decision-making, remediation, and continuous learning. It examines how observability can extend beyond infrastructure metrics to connect system health with customer experience and business outcomes. Attendees will learn how AI, observability, and operations are converging to create resilient, self-optimizing environments, why autonomous resilience is becoming a competitive advantage, and the practical steps organizations can take to progress toward Level 5 autonomous operations while retaining appropriate human oversight and governance This presentation is brought to you by HCLTech, an AWS Partner.",
     "times": [
       {
         "id": "1790033123130001qVfG",
@@ -11216,9 +11216,9 @@
       "Networking & Content Delivery"
     ],
     "areasOfInterest": [
+      "Amazon Builds on AWS",
       "Customer Enablement",
-      "Front-End Web & Mobile",
-      "Learning from Amazon"
+      "Front-End Web & Mobile"
     ],
     "roles": [
       "Business Executive",
@@ -11255,9 +11255,9 @@
       "Serverless"
     ],
     "areasOfInterest": [
+      "Amazon Builds on AWS",
       "Automation",
-      "Innovation & Transformation",
-      "Learning from Amazon"
+      "Innovation & Transformation"
     ],
     "roles": [
       "Developer / Engineer",
@@ -11294,9 +11294,9 @@
       "Serverless"
     ],
     "areasOfInterest": [
+      "Amazon Builds on AWS",
       "Automation",
-      "Innovation & Transformation",
-      "Learning from Amazon"
+      "Innovation & Transformation"
     ],
     "roles": [
       "Developer / Engineer",
@@ -12517,7 +12517,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Generative AI agents and analytics in AWS are only as effective as the enterprise context behind them. While tools like Amazon Bedrock and Amazon Quick deliver powerful reasoning capabilities, grounding those models in authoritative, real-time HR and financial data traditionally requires complex ETL pipelines, custom integrations, and data duplication.\n\nIn this session, we’ll demonstrate how Workday natively bridges this gap on AWS. Through live cross-system AI agent demos, you’ll see how to deliver unified, real-time enterprise insights without writing ETL code or moving data.",
+    "abstract": "Generative AI agents and analytics in AWS are only as effective as the enterprise context behind them. While tools like Amazon Bedrock and Amazon Quick deliver powerful reasoning capabilities, grounding those models in authoritative, real-time HR and financial data traditionally requires complex ETL pipelines, custom integrations, and data duplication.\n\nIn this session, we’ll demonstrate how Workday natively bridges this gap on AWS. Through live cross-system AI agent demos, you’ll see how to deliver unified, real-time enterprise insights without writing ETL code or moving data. This presentation is brought to you by Workday, an AWS Partner.",
     "times": [
       {
         "id": "1791922551994001AMf0",
@@ -15064,7 +15064,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Modern analytics and AI depend on trusted data that teams can access without adding engineering overhead. In this session, learn how Docusign standardized ingestion and transformation with Fivetran + dbt Labs, reducing manual pipeline work and creating a scalable data foundation across finance, go-to-market, product analytics, customer data, and data science. Hear how simplifying the data stack frees engineering teams to focus less on pipeline maintenance and more on delivering trusted data that powers analytics and AI across the business.",
+    "abstract": "Modern analytics and AI depend on trusted data that teams can access without adding engineering overhead. In this session, learn how Docusign standardized ingestion and transformation with Fivetran + dbt Labs, reducing manual pipeline work and creating a scalable data foundation across finance, go-to-market, product analytics, customer data, and data science. Hear how simplifying the data stack frees engineering teams to focus less on pipeline maintenance and more on delivering trusted data that powers analytics and AI across the business. This presentation is brought to you by Fivetran, an AWS Partner.",
     "times": [
       {
         "id": "1790033118056001qSBV",
@@ -16585,7 +16585,7 @@
       "Cloud Operations"
     ],
     "areasOfInterest": [
-      "Learning from Amazon",
+      "Amazon Builds on AWS",
       "Resilience",
       "SaaS"
     ],
@@ -16623,7 +16623,7 @@
       "Cloud Operations"
     ],
     "areasOfInterest": [
-      "Learning from Amazon",
+      "Amazon Builds on AWS",
       "Resilience",
       "SaaS"
     ],
@@ -23681,8 +23681,8 @@
       "Compute"
     ],
     "areasOfInterest": [
+      "Amazon Builds on AWS",
       "DevOps",
-      "Learning from Amazon",
       "Well-Architected Framework"
     ],
     "roles": [
@@ -37524,8 +37524,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Innovation & Transformation",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Innovation & Transformation"
     ],
     "roles": [
       "Developer / Engineer",
@@ -37791,7 +37791,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "What does it take to move from human-centered software development to fully agentic development, so you can ship dramatically faster without sacrificing quality or security? More than 2 million times a week, CodeRabbit reviews a change before it merges, whoever or whatever wrote it. From where we sit, we see teams solving agentic coding, but not yet agentic shipping. Now that code is cheap to write, four things have become bottlenecks: review, understanding, prioritization, and security. CodeRabbit hit all four and cleared them, which is how it ships 10x more software without adding engineering headcount. David Loker, VP of Applied AI, shares the four practices that helped, how roles and workflows changed, and why a team has to build trust to ship fast. ",
+    "abstract": "What does it take to move from human-centered software development to fully agentic development, so you can ship dramatically faster without sacrificing quality or security? More than 2 million times a week, CodeRabbit reviews a change before it merges, whoever or whatever wrote it. From where we sit, we see teams solving agentic coding, but not yet agentic shipping. Now that code is cheap to write, four things have become bottlenecks: review, understanding, prioritization, and security. CodeRabbit hit all four and cleared them, which is how it ships 10x more software without adding engineering headcount. David Loker, VP of Applied AI, shares the four practices that helped, how roles and workflows changed, and why a team has to build trust to ship fast. This presentation is brought to you by CodeRabbit, an AWS Partner.",
     "times": [
       {
         "id": "1790025499029001CL2u",
@@ -38702,8 +38702,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "DevOps",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "DevOps"
     ],
     "roles": [
       "DevOps Engineer",
@@ -39210,8 +39210,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Automation",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Automation"
     ],
     "roles": [
       "Developer / Engineer",
@@ -40351,7 +40351,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Learning from Amazon"
+      "Amazon Builds on AWS"
     ],
     "roles": [
       "DevOps Engineer",
@@ -40388,7 +40388,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Learning from Amazon"
+      "Amazon Builds on AWS"
     ],
     "roles": [
       "DevOps Engineer",
@@ -40425,7 +40425,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Learning from Amazon"
+      "Amazon Builds on AWS"
     ],
     "roles": [
       "DevOps Engineer",
@@ -45822,7 +45822,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Explore how autonomous AI agents are transforming clinical data management from a collection of manual processes into an intelligent, continuously learning system that improves quality, accelerates study execution, and shortens the path from protocol to patient impact.\nClinical trials generate unprecedented volumes of complex data, yet many Clinical Data Management (CDM) processes remain highly manual, resource-intensive, and constrained by siloed workflows. Critical activities such as protocol interpretation, clinical trial data systems build and configuration, edit check generation, data review, data quality management, reconciliation, and database lock often reside on the critical path to study completion.",
+    "abstract": "Explore how autonomous AI agents are transforming clinical data management from a collection of manual processes into an intelligent, continuously learning system that improves quality, accelerates study execution, and shortens the path from protocol to patient impact.\nClinical trials generate unprecedented volumes of complex data, yet many Clinical Data Management (CDM) processes remain highly manual, resource-intensive, and constrained by siloed workflows. Critical activities such as protocol interpretation, clinical trial data systems build and configuration, edit check generation, data review, data quality management, reconciliation, and database lock often reside on the critical path to study completion. This presentation is brought to you by Cognizant, an AWS Partner.",
     "times": [
       {
         "id": "1790025502950001CAcu",
@@ -47647,7 +47647,7 @@
       "Industry Solutions"
     ],
     "areasOfInterest": [
-      "Learning from Amazon",
+      "Amazon Builds on AWS",
       "Machine Learning",
       "Robotics"
     ],
@@ -52472,7 +52472,7 @@
       "Industry Solutions"
     ],
     "areasOfInterest": [
-      "Learning from Amazon"
+      "Amazon Builds on AWS"
     ],
     "roles": [],
     "venue": "Caesars Forum",
@@ -52490,6 +52490,45 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Alliance 305",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441495529001Gpyo",
+    "code": "INV538",
+    "title": "Building the machine that builds the machine",
+    "type": "Chalk talk",
+    "level": "500 – Distinguished",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Amazon Builds on AWS",
+      "DevOps"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "At AWS, we're constantly looking for ways to automate parts of the building process with agents. An upcoming launch takes this to the extreme, releasing an application that was built entirely by autonomous agents without a human ever touching the code base. The agents built a first version over a weekend. But turning that into a robust application was a much longer journey than we expected. In this talk, we pull back the curtain on this upcoming launch and talk about the machine that builds the machine.",
+    "times": [
+      {
+        "id": "1791396619270001Xhj1",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 309",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -53497,8 +53536,8 @@
       "Migration & Modernization"
     ],
     "areasOfInterest": [
+      "Amazon Builds on AWS",
       "Innovation & Transformation",
-      "Learning from Amazon",
       "SAP"
     ],
     "roles": [
@@ -63670,6 +63709,44 @@
     ]
   },
   {
+    "id": "1780442269006001cn7j",
+    "code": "SEC220-S",
+    "title": "Move AI agents from prototype to production with 1Password (sponsored by 1Password)",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Application Security",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "An AI agent can be easy to prototype but hard to take to production once it needs access to real systems. For developers, platform engineers, and security teams building with AWS AgentCore, this session shows how 1Password uses the same governed credential workflow from a local sandbox to the cloud without code changes. Attendees will see how this approach helps engineering teams move faster, limits the blast radius of a compromised agent, and gives security teams a clear audit trail. The session covers short-lived credential delivery through the AgentCore gateway and policies that apply consistently from development through production. This presentation is brought to you by 1Password, an AWS Partner.",
+    "times": [
+      {
+        "id": "1790033125775001q0FS",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:20",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1780442272602001c2G3",
     "code": "SEC221-S",
     "title": "Agentic AI Meets ‘Human-Guided-Autonomy’ (sponsored by Terra)",
@@ -64170,8 +64247,8 @@
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Digital Sovereignty",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Digital Sovereignty"
     ],
     "roles": [],
     "venue": "Wynn/Encore",
@@ -64321,7 +64398,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Engineering teams lose time correlating telemetry, triaging alerts, investigating threats, and turning findings into fixes. This session explores how Datadog’s purpose-built AI agents can reduce that operational burden by applying organizational context and production telemetry to focused developer, SRE, and security workflows. Using the AWS Well-Architected Framework, we’ll examine where agents can improve operational excellence, reliability, security, performance efficiency, and cost optimization.",
+    "abstract": "Engineering teams lose time correlating telemetry, triaging alerts, investigating threats, and turning findings into fixes. This session explores how Datadog’s purpose-built AI agents can reduce that operational burden by applying organizational context and production telemetry to focused developer, SRE, and security workflows. Using the AWS Well-Architected Framework, we’ll examine where agents can improve operational excellence, reliability, security, performance efficiency, and cost optimization. This presentation is brought to you by Datadog, an AWS Partner.",
     "times": [
       {
         "id": "1790033125508001qAcM",
@@ -64793,8 +64870,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Generative AI",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Generative AI"
     ],
     "roles": [
       "Cloud Security Specialist",
@@ -66295,7 +66372,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Learning from Amazon"
+      "Amazon Builds on AWS"
     ],
     "roles": [
       "Solution / Systems Architect"
@@ -69231,8 +69308,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Cost Optimization",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Cost Optimization"
     ],
     "roles": [
       "Business Executive",
@@ -69305,7 +69382,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Learning from Amazon",
+      "Amazon Builds on AWS",
       "Workforce Development"
     ],
     "roles": [
@@ -69340,8 +69417,8 @@
       "Artificial Intelligence"
     ],
     "areasOfInterest": [
+      "Amazon Builds on AWS",
       "Innovation & Transformation",
-      "Learning from Amazon",
       "Workforce Development"
     ],
     "roles": [
@@ -69493,8 +69570,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Data Protection",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Data Protection"
     ],
     "roles": [
       "Business Executive",
@@ -69532,8 +69609,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Business Intelligence",
-      "Learning from Amazon"
+      "Amazon Builds on AWS",
+      "Business Intelligence"
     ],
     "roles": [
       "Business Executive",
@@ -69682,7 +69759,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Learning from Amazon",
+      "Amazon Builds on AWS",
       "Training & Certification"
     ],
     "roles": [
