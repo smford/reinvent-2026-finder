@@ -2056,7 +2056,7 @@
   },
   {
     "id": "1780441471173001GMXk",
-    "code": "AIM2210-NEW",
+    "code": "AIM2210",
     "title": "What's new with NVIDIA GPUs in Amazon EC2 ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -5400,21 +5400,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Many of today's largest foundation models are mixture-of-experts (MoE) models, and modern MoE models place several performance demands on AI chips and their HPC systems. This session walks through those demands and how AWS Trainium3 and the Trn3 UltraServer respond. See how to train and serve with PyTorch, TorchTitan, and vLLM, then profile with Neuron Explorer and choose between a config change, an NKI Library kernel, or a custom NKI kernel. Two customers share their experience running on Trainium3.",
     "times": [
       {
         "id": "1790034534759001p0z7",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
-        "venue": "Venetian"
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -14318,7 +14318,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Discover how Amazon EventBridge simplifies enterprise-scale event routing across accounts and teams. In this hands-on builders' session, configure an event bus with routing policies, schema discovery, and access controls that let platform teams govern event flows while application teams ship independently. Working in small groups with AWS experts, you'll implement multi-account event routing patterns and test event delivery at scale. Bring your laptop and come ready to build!",
+    "abstract": "Discover how Amazon EventBridge enhanced Custom event bus simplifies enterprise-scale event routing across accounts and teams. In this hands-on builders' session, you will create a central Custom event bus that connects multiple domains, so teams can publish and consume events without depending on each other. Bring existing producers onboard by publishing events in open formats, configure Subscribers for each application independently to receive only the events it needs, recover from missed events with point-in-time replay, and keep related events in sequence with ordered delivery. Work in small groups with AWS experts. Bring your laptop and come ready to build!",
     "times": [
       {
         "id": "1790025521332001CWcP",
@@ -14353,7 +14353,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Discover how Amazon EventBridge simplifies enterprise-scale event routing across accounts and teams. In this hands-on builders' session, configure an event bus with routing policies, schema discovery, and access controls that let platform teams govern event flows while application teams ship independently. Working in small groups with AWS experts, you'll implement multi-account event routing patterns and test event delivery at scale. Bring your laptop and come ready to build!",
+    "abstract": "Discover how Amazon EventBridge enhanced Custom event bus simplifies enterprise-scale event routing across accounts and teams. In this hands-on builders' session, you will create a central Custom event bus that connects multiple domains, so teams can publish and consume events without depending on each other. Bring existing producers onboard by publishing events in open formats, configure Subscribers for each application independently to receive only the events it needs, recover from missed events with point-in-time replay, and keep related events in sequence with ordered delivery. Work in small groups with AWS experts. Bring your laptop and come ready to build!",
     "times": [
       {
         "id": "1790360387387001Ae8j",
@@ -14452,7 +14452,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Amazon EventBridge simplifies event routing for distributed applications. In this chalk talk, explore how to centralize multi-account event routing without custom infrastructure. We discuss routing policies, event discovery with schema registry, and access controls that let platform teams govern while app teams move independently. We also explore rate limiting and backpressure so your applications gracefully handle traffic spikes and protect downstream systems without losing events.",
+    "abstract": "Amazon EventBridge simplifies event routing for distributed applications. In this chalk talk, we show how to centralize multi-account event routing without custom infrastructure, using the enhanced custom event bus. We will discuss routing policies, event discovery with schema registry, and access controls that let platform teams govern while app teams move independently. We also explore rate limiting and backpressure so your applications gracefully handle traffic spikes and protect downstream systems without losing events. Along the way, we highlight new multi-account patterns the enhanced custom event bus enables.",
     "times": [
       {
         "id": "1790025526535001CQLQ",
@@ -18034,7 +18034,7 @@
   {
     "id": "1780441465606001GlIi",
     "code": "BIZ106",
-    "title": "How Flybuys Cut Costs and Scaled AI Agents Across 10M Members",
+    "title": "How Flybuys Cut Costs by 24% and Scaled AI Agents Across 10M Members",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -18044,7 +18044,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "10 million members. Limited visibility into support interactions. High costs. Flybuys needed a new path. In 7 months, they migrated to Amazon Connect Customer, bringing operations in-house, and deploying AI agents that now handle 20% of member voice interactions. The result of the migration has been cost reduction while improving customer satisfaction. Join this session to hear how Flybuys took control of their member experience, unlocked deep visibility across every interaction, and are now moving quickly to scale agentic AI across voice and digital channels.",
+    "abstract": "10 million members. Limited visibility into support interactions. High costs. Flybuys needed a new path. In 7 months, they migrated to Amazon Connect Customer, bringing operations in-house, and deploying AI agents that now handle 100% of member interactions. The result of the migration has been a 24% cost reduction while improving customer satisfaction. Join this session to hear how Flybuys took control of their member experience, unlocked deep visibility across every interaction, and are now moving quickly to scale agentic AI across voice and digital channels.",
     "times": [
       {
         "id": "1790025529894001CzMQ",
@@ -18280,7 +18280,7 @@
   },
   {
     "id": "1780441471338001Gp4a",
-    "code": "BIZ114-NEW",
+    "code": "BIZ114",
     "title": "What's New in Amazon Connect Customer",
     "type": "Breakout session",
     "level": "100 – Foundational",
@@ -18960,7 +18960,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In automotive, data isolation is not optional. You serve thousands of dealer clients who compete with each other, handle consumer financial data under FTC Safeguards rules, and operate across state privacy boundaries. Most AI tools cannot enforce tenant-level separation between competing dealers, restrict access by franchise agreement, or prove compliance across jurisdictions. Hear from a customer who turned that constraint into an advantage: they built a governance model with Amazon Quick that enforces fine-grained data permissions across their dealer network, role-based access controls by business function, and audit frameworks that satisfy regulators and competitive separation requirements. Learn how they validated it against compliance requirements, and how governance became the reason they deployed faster than competitors still waiting on security approval.",
+    "abstract": "AI adoption rarely waits for governance. When employees adopt AI faster than policy keeps pace, scale becomes a liability. Cox Automotive, the world’s largest automotive services and technology provider and home to brands including Autotrader, Kelley Blue Book, Manheim, vAuto and Dealertrack, defined a governance strategy to empower adoption. Hear how Cox Auto alongside AWS is building an agentic control plane spanning agent identity, ownership, security, cost accountability and more – and why Amazon Quick fit the everyday AI needs of its 29,000 person workforce. Leave with a practical seven pillar framework that simplifies safe and smart adoption in the enterprise.",
     "times": [
       {
         "id": "1790025476567001Clxy",
@@ -20167,7 +20167,7 @@
   },
   {
     "id": "1780442241479001cVUQ",
-    "code": "BIZ332-NEW",
+    "code": "BIZ332",
     "title": "​​Every Candidate, Every Time: AI-Led Structured Interviews at Scale ",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -20200,7 +20200,7 @@
   },
   {
     "id": "1780442279896001ce9P",
-    "code": "BIZ333-NEW",
+    "code": "BIZ333",
     "title": "Design, Simulate, Ship: End-to-End AI Agents on Connect Customer",
     "type": "Workshop",
     "level": "300 – Advanced",
@@ -20233,7 +20233,7 @@
   },
   {
     "id": "1780442279528001cKTV",
-    "code": "BIZ334-NEW",
+    "code": "BIZ334",
     "title": "Building Smarter Self-Service Experiences with AI",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -20268,7 +20268,7 @@
   },
   {
     "id": "1780442227400001cvV4",
-    "code": "BIZ335-NEW",
+    "code": "BIZ335",
     "title": "Build an AI agent that understands customer intent",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -20475,7 +20475,7 @@
   },
   {
     "id": "1780441473402001GR8C",
-    "code": "CMP101-NEW",
+    "code": "CMP101",
     "title": "Cutting manual accounts payable work",
     "type": "Breakout session",
     "level": "100 – Foundational",
@@ -20693,7 +20693,7 @@
   },
   {
     "id": "1780442241765001ciwG",
-    "code": "CMP252-NEW",
+    "code": "CMP252",
     "title": "Running larger, higher-fidelity quantum experiments on Amazon Braket",
     "type": "Chalk talk",
     "level": "200 – Intermediate",
@@ -23523,7 +23523,7 @@
   },
   {
     "id": "1780441471682001GwUd",
-    "code": "CMP358-NEW",
+    "code": "CMP358",
     "title": "Graviton5 for data workloads",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -23559,7 +23559,7 @@
   },
   {
     "id": "1780442241818001cusZ",
-    "code": "CMP359-NEW",
+    "code": "CMP359",
     "title": "Simplifying how you use AWS: automating common patterns on your behalf",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -28768,7 +28768,7 @@
   },
   {
     "id": "1780442241871001cCVl",
-    "code": "CON345-NEW",
+    "code": "CON345",
     "title": "Eliminate wasted compute capacity with Amazon ECS",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -28802,7 +28802,7 @@
   },
   {
     "id": "1780441471802001GuEb",
-    "code": "CON346-NEW",
+    "code": "CON346",
     "title": "Enhanced container image access & distribution with Amazon ECR ",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -28834,7 +28834,7 @@
   },
   {
     "id": "1780441471859001GlhT",
-    "code": "CON347-NEW",
+    "code": "CON347",
     "title": "Intelligent, right-sized compute on Amazon EKS",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -28868,7 +28868,7 @@
   },
   {
     "id": "1780442256070001cJKF",
-    "code": "CON348-NEW",
+    "code": "CON348",
     "title": "Defense-in-Depth for Containers on Amazon EKS: A Layering Story",
     "type": "Code talk",
     "level": "300 – Advanced",
@@ -29653,7 +29653,7 @@
   {
     "id": "1780442266922001cKWE",
     "code": "COP205-S",
-    "title": "Give Your Best Engineers Back to the Roadmap, Not the Pager (sponsored by NeuBird AI)",
+    "title": "Give Your Best Engineers Back to the Roadmap, Not the Pager (sponsored by NeuBird)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -29673,7 +29673,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Forty percent of engineering time goes to firefighting instead of the roadmap you funded. The problem isn’t a lack of dashboards or headcount, it’s that these engineers are forced to act as the glue across these fragmented tools. Between incidents, an autonomous Production Ops Agent keeps working. It deepens its model of your environment, right sizes observability spend, and turns every incident into a captured fix nobody has to relearn. This session shows how NeuBird AI has helped teams recover 200 plus engineering hours a month and cut incident costs 60 percent or more, not by hiring more people or buying more dashboards, but by giving one agent the job of running production so your senior engineers can go back to building it. This presentation is brought to you by NeuBird AI, an AWS Partner.",
+    "abstract": "Forty percent of engineering time goes to firefighting instead of the roadmap you funded. The problem isn’t a lack of dashboards or headcount, it’s that these engineers are forced to act as the glue across these fragmented tools. Between incidents, an autonomous Production Ops Agent keeps working. It deepens its model of your environment, right sizes observability spend, and turns every incident into a captured fix nobody has to relearn. This session shows how NeuBird AI has helped teams recover 200 plus engineering hours a month and cut incident costs 60 percent or more, not by hiring more people or buying more dashboards, but by giving one agent the job of running production so your senior engineers can go back to building it. This presentation is brought to you by NeuBird, an AWS Partner.",
     "times": [
       {
         "id": "1790033121172001qgNB",
@@ -29767,7 +29767,7 @@
   },
   {
     "id": "1780441471620001G7Hs",
-    "code": "COP210-NEW",
+    "code": "COP210",
     "title": "Fewer Incidents, Faster Fixes: Expert-led Cloud Operations on AWS",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -32247,7 +32247,7 @@
   {
     "id": "1780442267595001c5dc",
     "code": "COP345-S",
-    "title": "Trusting an Autonomous Agent With Your Production Environment (sponsored by NeuBird AI)",
+    "title": "Trusting an Autonomous Agent With Your Production Environment (sponsored by NeuBird)",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -32267,7 +32267,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "The biggest barrier to autonomous operations isn't capability, it's trust.Handing an incident to an autonomous agent raises a fair question. How do you know it is not guessing from raw log lines. This session shows how NeuBird AI reasons over your live environment and shows the causal chain behind every root cause, not a coincidence in the metrics. We’ll examine the guardrails that make production deployment safe: VPC-native execution, zero external data retention, complete auditable reasoning paths, and human-gated action approvals. Learn how to safely transition from human-driven triage to trusted, autonomous production operations on your own terms. This presentation is brought to you by NeuBird AI, an AWS Partner.",
+    "abstract": "The biggest barrier to autonomous operations isn't capability, it's trust.Handing an incident to an autonomous agent raises a fair question. How do you know it is not guessing from raw log lines. This session shows how NeuBird AI reasons over your live environment and shows the causal chain behind every root cause, not a coincidence in the metrics. We’ll examine the guardrails that make production deployment safe: VPC-native execution, zero external data retention, complete auditable reasoning paths, and human-gated action approvals. Learn how to safely transition from human-driven triage to trusted, autonomous production operations on your own terms. This presentation is brought to you by NeuBird, an AWS Partner.",
     "times": [
       {
         "id": "1790033118859001qRng",
@@ -32494,7 +32494,7 @@
   },
   {
     "id": "1780441471454001GwIM",
-    "code": "COP353-NEW",
+    "code": "COP353",
     "title": "Take Action on Operational Issues with AWS DevOps Agent",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -32529,7 +32529,7 @@
   },
   {
     "id": "1780442256016001cq5I",
-    "code": "COP354-NEW",
+    "code": "COP354",
     "title": "Diagnose Complex Workloads with AWS DevOps Agent",
     "type": "Code talk",
     "level": "300 – Advanced",
@@ -32564,7 +32564,7 @@
   },
   {
     "id": "1780442279589001ckPS",
-    "code": "COP355-NEW",
+    "code": "COP355",
     "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -32599,7 +32599,7 @@
   },
   {
     "id": "1780442227450001cFhR",
-    "code": "COP356-NEW",
+    "code": "COP356",
     "title": "Evaluate and ship AI agents confidently",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -32636,7 +32636,7 @@
   },
   {
     "id": "1780442280072001cN7R",
-    "code": "COP357-NEW",
+    "code": "COP357",
     "title": "Monitor AI workloads and agents end to end ",
     "type": "Workshop",
     "level": "300 – Advanced",
@@ -32672,7 +32672,7 @@
   },
   {
     "id": "1780441473290001GIzg",
-    "code": "COP358-NEW",
+    "code": "COP358",
     "title": "Observe your applications and agents in one place",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -32708,7 +32708,7 @@
   },
   {
     "id": "1780442241702001covr",
-    "code": "COP359-NEW",
+    "code": "COP359",
     "title": "Build full-stack observability for agents and apps",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -32744,7 +32744,7 @@
   },
   {
     "id": "1780441471398001GYQN",
-    "code": "COP360-NEW",
+    "code": "COP360",
     "title": "Monetizing your applications with AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -32853,7 +32853,7 @@
   },
   {
     "id": "1780442241582001c88I",
-    "code": "COP363-NEW",
+    "code": "COP363",
     "title": "Investigate Incidents Across Teams with AWS DevOps Agent",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -32890,7 +32890,7 @@
   },
   {
     "id": "1780442279954001c7F5",
-    "code": "COP364-NEW",
+    "code": "COP364",
     "title": "Build better, review faster: AI-Powered Well-Architected reviews",
     "type": "Workshop",
     "level": "300 – Advanced",
@@ -32929,7 +32929,7 @@
   },
   {
     "id": "1780442241531001cSLv",
-    "code": "COP365-NEW",
+    "code": "COP365",
     "title": "Allocate shared AWS infrastructure costs to your business units",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -32999,7 +32999,7 @@
   },
   {
     "id": "1780441471509001G0sH",
-    "code": "COP367-NEW",
+    "code": "COP367",
     "title": "End-to-end resilience for your cloud workloads",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -33034,7 +33034,7 @@
   },
   {
     "id": "1780442241644001cgxH",
-    "code": "COP368-NEW",
+    "code": "COP368",
     "title": "Recovering AWS Graviton workloads with orchestrated DR",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -33663,7 +33663,7 @@
   },
   {
     "id": "1780442255962001cInh",
-    "code": "COP411-NEW",
+    "code": "COP411",
     "title": "Close the gap between code and production",
     "type": "Code talk",
     "level": "400 – Expert",
@@ -37366,7 +37366,7 @@
   },
   {
     "id": "1780441471969001GwDJ",
-    "code": "DAT452-NEW",
+    "code": "DAT452",
     "title": "[NEW LAUNCH] Coming soon!",
     "type": "Breakout session",
     "level": "400 – Expert",
@@ -37401,7 +37401,7 @@
   },
   {
     "id": "1780441471915001GDKZ",
-    "code": "DAT453-NEW",
+    "code": "DAT453",
     "title": "[NEW LAUNCH] Coming soon!",
     "type": "Breakout session",
     "level": "400 – Expert",
@@ -38263,7 +38263,7 @@
   },
   {
     "id": "1780442241932001cY7B",
-    "code": "DVT224-NEW",
+    "code": "DVT224",
     "title": "Brownfield development across large codebases with AI agents ",
     "type": "Chalk talk",
     "level": "200 – Intermediate",
@@ -38327,7 +38327,7 @@
   },
   {
     "id": "1780441472163001Gf4O",
-    "code": "DVT226-NEW",
+    "code": "DVT226",
     "title": "Best practices for working with shared coding agents on your team",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -38360,7 +38360,7 @@
   },
   {
     "id": "1780442256149001ccAT",
-    "code": "DVT227-NEW",
+    "code": "DVT227",
     "title": "Build a team shared agent workflow from issue to tested PR",
     "type": "Code talk",
     "level": "200 – Intermediate",
@@ -40023,7 +40023,7 @@
   },
   {
     "id": "1780442241998001cWqa",
-    "code": "DVT343-NEW",
+    "code": "DVT343",
     "title": "From code to production in seconds — building web apps that last",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -40057,7 +40057,7 @@
   },
   {
     "id": "1780441472053001Gkye",
-    "code": "DVT344-NEW",
+    "code": "DVT344",
     "title": "Ship web apps that just work",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -40128,7 +40128,7 @@
   },
   {
     "id": "1780441472105001GaJn",
-    "code": "DVT346-NEW",
+    "code": "DVT346",
     "title": "What AI agents need from an application backend",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -42870,7 +42870,7 @@
   },
   {
     "id": "1780441472287001GkDj",
-    "code": "HMC320-NEW",
+    "code": "HMC320",
     "title": "Right workload on the right cloud - multicloud workload placement",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -44179,6 +44179,43 @@
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780441474412001GuqA",
+    "code": "IND216",
+    "title": "Beyond AIOps: Operating safely in the age of agent sprawl",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "As organisations move from a small number of AI assistants to a distributed ecosystem of agents that can discover tools, make decisions, and act, operational excellence must evolve. Drawing on HMRC’s work to develop a governed platform model for agentic systems, this session explores a practical maturity model spanning inventory, ownership, identity, delegated authority, observability, blast-radius controls, evaluation, and human accountability. Learn how existing platform engineering, SRE, security and service-management practices can be extended across cloud and SaaS ecosystems without creating a separate governance regime for every agent or vendor. Designed for platform leaders, SREs and architects preparing to scale agents safely in complex, regulated environments.",
+    "times": [
+      {
+        "id": "1790025503843001CFSy",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -46512,7 +46549,7 @@
   {
     "id": "1780442245233001cJ4E",
     "code": "IND3322",
-    "title": "Build an AI student advisor: Agents for education",
+    "title": "Closing the academic advising gap with AI agents ",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -46530,7 +46567,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Universities lose students to inadequate academic advising often because a single advisor carries unsustainable caseloads and response times stretch to days. In this chalk talk, we explore the architecture of an AI student advising agent built with Amazon Bedrock AgentCore and Strands, connected to student record systems via MCP, with guardrails for sensitive student welfare queries, and embedded in an existing LMS through Amazon Quick. We'll whiteboard real-world advising scenarios (Course selection and degree planning) and discuss when the agent should hand off to a human advisor and how to design that escalation path. ",
+    "abstract": "Universities lose students to inadequate academic advising: advisors are overwhelmed, and students wait days for answers. In this chalk talk, we explore the end-to-end architecture of an AI student advising agent: specifying and building the agents with Kiro on Amazon Bedrock AgentCore, connecting it to student record systems via MCP, adding guardrails for sensitive student welfare queries, and surfacing the agents to students through Amazon Quick embedded in their existing LMS. We'll whiteboard real-world advising scenarios, turn them into agents you can evaluate, and discuss the trade-offs between automation and human escalation. ",
     "times": [
       {
         "id": "1790025483409001CE5Z",
@@ -47422,43 +47459,6 @@
     ]
   },
   {
-    "id": "1780441474412001GuqA",
-    "code": "IND3347",
-    "title": "Beyond AIOps: Operating safely in the age of agent sprawl",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Artificial Intelligence",
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Automation"
-    ],
-    "roles": [
-      "IT Executive",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "As organisations move from a small number of AI assistants to a distributed ecosystem of agents that can discover tools, make decisions, and act, operational excellence must evolve. Drawing on HMRC’s work to develop a governed platform model for agentic systems, this session explores a practical maturity model spanning inventory, ownership, identity, delegated authority, observability, blast-radius controls, evaluation, and human accountability. Learn how existing platform engineering, SRE, security and service-management practices can be extended across cloud and SaaS ecosystems without creating a separate governance regime for every agent or vendor. Designed for platform leaders, SREs and architects preparing to scale agents safely in complex, regulated environments.",
-    "times": [
-      {
-        "id": "1790025503843001CFSy",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
-        "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
     "id": "1780441473635001G7BB",
     "code": "IND3348",
     "title": "AI-Enabled SRE: Empowering Incident Commanders at Riot Games",
@@ -47489,7 +47489,7 @@
   },
   {
     "id": "1780441471747001Ga93",
-    "code": "IND3349-NEW",
+    "code": "IND3349",
     "title": "From Generic to Industry Expert: The Next Era of AI",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -47678,6 +47678,30 @@
     "venue": "TBD",
     "campus": "Other / Virtual",
     "abstract": "The National Oceanic and Atmospheric Administration's National Weather Service (NWS) is modernizing the platform forecasters rely on across 170+ locations. Join AWS and NOAA to whiteboard the NWS Enterprise Cloud (NEC), the foundation providing secure, scalable landing zones where HIVE applications and CIRRUS data services operate. We'll explore decomposing a legacy desktop into micro-frontends and domain microservices on Amazon EKS, decoupling applications from data through an API abstraction layer, scaling independently during severe weather, and maintaining continuous Authority to Operate (ATO). We'll also discuss how Amazon SageMaker brings machine learning assistance to forecasters. Bring your modernization questions.",
+    "times": []
+  },
+  {
+    "id": "1791930073276001DUy9",
+    "code": "IND3355",
+    "title": "Building Worlds for Machines: VAMS and 3DGS for Autonomy",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Robotics"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "Solution / Systems Architect"
+    ],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Autonomous platforms are only as capable as the environments they train and validate in. In this Lightning Talk, see how AWS uses the Visual Asset Management System (VAMS) and 3D Gaussian Splatting (3DGS) to turn real field data collected during Project MAVERICK exercises into high-fidelity, simulation-ready environments. We walk the pipeline from sensor capture to reconstructed, simulation-ready worlds, and the content management that makes them reusable. These environments are not the autonomy; they are what builds, improves, and validates it. If you build or validate autonomous systems, you leave knowing how to turn field capture into reusable simulation-ready environments.",
     "times": []
   },
   {
@@ -52574,6 +52598,45 @@
     ]
   },
   {
+    "id": "1780441495529001Gpyo",
+    "code": "INV538",
+    "title": "Building the machine that builds the machine",
+    "type": "Chalk talk",
+    "level": "500 – Distinguished",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Amazon Builds on AWS",
+      "DevOps"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "At AWS, we're constantly looking for ways to automate parts of the building process with agents. An upcoming launch takes this to the extreme, releasing an application that was built entirely by autonomous agents without a human ever touching the code base. The agents built a first version over a weekend. But turning that into a robust application was a much longer journey than we expected. In this talk, we pull back the curtain on this upcoming launch and talk about the machine that builds the machine.",
+    "times": [
+      {
+        "id": "1791396619270001Xhj1",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 309",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1787854505699001jnYT",
     "code": "JPN101",
     "title": "Japan Wrap-up Session",
@@ -53791,7 +53854,7 @@
   },
   {
     "id": "1780441470679001Gkaa",
-    "code": "MAM225-NEW",
+    "code": "MAM225",
     "title": "What's new with AWS Transform for migrations",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -55977,7 +56040,7 @@
   },
   {
     "id": "1780442242053001cKxl",
-    "code": "MAM347-NEW",
+    "code": "MAM347",
     "title": "Meet Your AI Teammate for WorkSpaces Administration",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -56015,7 +56078,7 @@
   },
   {
     "id": "1780442279644001cp1u",
-    "code": "MAM348-NEW",
+    "code": "MAM348",
     "title": "Provision Desktops for Builders Faster with WorkSpaces",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -56052,7 +56115,7 @@
   },
   {
     "id": "1780441470615001G0wJ",
-    "code": "MAM349-NEW",
+    "code": "MAM349",
     "title": "Scaling legacy app modernization with autonomous agents",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -56091,7 +56154,7 @@
   },
   {
     "id": "1780442256261001cAK4",
-    "code": "MAM350-NEW",
+    "code": "MAM350",
     "title": "Faster tech debt remediation without the setup overhead",
     "type": "Code talk",
     "level": "300 – Advanced",
@@ -56909,7 +56972,7 @@
   },
   {
     "id": "1780441472395001Gj5P",
-    "code": "NET101-NEW",
+    "code": "NET101",
     "title": "What's new in eero networking ",
     "type": "Breakout session",
     "level": "100 – Foundational",
@@ -59168,7 +59231,7 @@
   },
   {
     "id": "1780441472515001GiTw",
-    "code": "NET338-NEW",
+    "code": "NET338",
     "title": "Innovations in Elastic Load Balancing and application networking",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -59206,7 +59269,7 @@
   },
   {
     "id": "1780441472451001GXrN",
-    "code": "NET339-NEW",
+    "code": "NET339",
     "title": "AI innovations across network monitoring and operations",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -59244,7 +59307,7 @@
   },
   {
     "id": "1780441472571001Gt4N",
-    "code": "NET340-NEW",
+    "code": "NET340",
     "title": "Innovations in Secure Service Edge architectures on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -59318,7 +59381,7 @@
   },
   {
     "id": "1780442242182001c7VA",
-    "code": "NET342-NEW",
+    "code": "NET342",
     "title": "Innovations in DNS and Amazon Route 53",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -59355,7 +59418,7 @@
   },
   {
     "id": "1780442242124001cRNJ",
-    "code": "NET343-NEW",
+    "code": "NET343",
     "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -61662,7 +61725,7 @@
   },
   {
     "id": "1780441472624001GW9v",
-    "code": "PEX217-NEW",
+    "code": "PEX217",
     "title": "Sell to AI agents through AWS Marketplace",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -62486,7 +62549,7 @@
   },
   {
     "id": "1780442227509001c83e",
-    "code": "PEX320-NEW",
+    "code": "PEX320",
     "title": "AI-Powered Migrations: AWS Transform Across the Lifecycle",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -65687,7 +65750,7 @@
   },
   {
     "id": "1780442242294001cPyH",
-    "code": "SEC3300-NEW",
+    "code": "SEC3300",
     "title": "Authenticating workloads to the outside world",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -65722,7 +65785,7 @@
   },
   {
     "id": "1780442242419001cHwV",
-    "code": "SEC3301-NEW",
+    "code": "SEC3301",
     "title": "Protect workloads with AWS Certificate Manager",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -68074,7 +68137,7 @@
   },
   {
     "id": "1780442280014001cmTr",
-    "code": "SEC395-NEW",
+    "code": "SEC395",
     "title": "Find, prove, and fix code vulnerabilities at machine speed",
     "type": "Builders' session",
     "level": "300 – Advanced",
@@ -68110,7 +68173,7 @@
   },
   {
     "id": "1780441472682001GMAh",
-    "code": "SEC397-NEW",
+    "code": "SEC397",
     "title": "Securing APIs with AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -68146,7 +68209,7 @@
   },
   {
     "id": "1780441472856001GfKR",
-    "code": "SEC398-NEW",
+    "code": "SEC398",
     "title": "The latest innovations in multicloud agent security",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -68181,7 +68244,7 @@
   },
   {
     "id": "1780442242362001cGoQ",
-    "code": "SEC399-NEW",
+    "code": "SEC399",
     "title": "Maintain accountability when using IAM federation",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -70182,7 +70245,7 @@
   },
   {
     "id": "1780441473084001GD8s",
-    "code": "STG205-NEW",
+    "code": "STG205",
     "title": "Cost optimization techniques for Amazon EBS ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -70219,7 +70282,7 @@
   },
   {
     "id": "1780441473149001GtIW",
-    "code": "STG206-NEW",
+    "code": "STG206",
     "title": "Design for resiliency in Amazon EBS ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
@@ -72677,7 +72740,7 @@
   },
   {
     "id": "1780441473214001GAn2",
-    "code": "STG368-NEW",
+    "code": "STG368",
     "title": "Deep dive into recent Amazon S3 launches",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -72715,7 +72778,7 @@
   },
   {
     "id": "1780442242545001cSLr",
-    "code": "STG369-NEW",
+    "code": "STG369",
     "title": "AWS Backup: Architecture deep dive",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -72752,7 +72815,7 @@
   },
   {
     "id": "1780441473028001GFlX",
-    "code": "STG370-NEW",
+    "code": "STG370",
     "title": "What's new with AWS Backup",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -73676,7 +73739,7 @@
   },
   {
     "id": "1780442242598001cOr5",
-    "code": "STG422-NEW",
+    "code": "STG422",
     "title": "Dive deep into resilience architectures for Amazon EBS",
     "type": "Chalk talk",
     "level": "400 – Expert",
@@ -76411,7 +76474,7 @@
   },
   {
     "id": "1780442242486001cXqQ",
-    "code": "SVS349-NEW",
+    "code": "SVS349",
     "title": "Managing Lambda Runtimes at Scale for Platform Teams",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -76446,7 +76509,7 @@
   },
   {
     "id": "1780441472915001GpE6",
-    "code": "SVS350-NEW",
+    "code": "SVS350",
     "title": "Lambda Web Functions: From Event Handlers to Standard HTTP on Lambda",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -76482,7 +76545,7 @@
   },
   {
     "id": "1780441472974001GsNm",
-    "code": "SVS351-NEW",
+    "code": "SVS351",
     "title": "Lambda Managed Instances: EC2 Power with Serverless Simplicity",
     "type": "Breakout session",
     "level": "300 – Advanced",
@@ -79383,45 +79446,6 @@
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1780441495529001Gpyo",
-    "code": "recEplVLXI82x4iTy",
-    "title": "Building the machine that builds the machine",
-    "type": "Chalk talk",
-    "level": "500 – Distinguished",
-    "topics": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Amazon Builds on AWS",
-      "DevOps"
-    ],
-    "roles": [
-      "Academic / Researcher",
-      "DevOps Engineer",
-      "Developer / Engineer"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "At AWS, we're constantly looking for ways to automate parts of the building process with agents. An upcoming launch takes this to the extreme, releasing an application that was built entirely by autonomous agents without a human ever touching the code base. The agents built a first version over a weekend. But turning that into a robust application was a much longer journey than we expected. In this talk, we pull back the curtain on this upcoming launch and talk about the machine that builds the machine.",
-    "times": [
-      {
-        "id": "1791396619270001Xhj1",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
-        "duration": 60,
-        "room": "MGM Grand | Level 3 | Premier 309",
-        "venue": "MGM Grand"
       }
     ]
   }
