@@ -57903,7 +57903,7 @@
   {
     "id": "1780441479148001GM4u",
     "code": "NET308",
-    "title": "Building a private service fabric across AWS accounts and orgs",
+    "title": "Building an interconnectivity fabric across AWS accounts and orgs",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -61099,14 +61099,14 @@
     "times": [
       {
         "id": "1790025500855001C3ve",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Purple Theater",
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Red Theater",
         "venue": "Caesars Palace"
       }
     ]
@@ -61136,14 +61136,14 @@
     "times": [
       {
         "id": "1790025513150001ChLa",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Red Theater",
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Purple Theater",
         "venue": "Caesars Palace"
       }
     ]
