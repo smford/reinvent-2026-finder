@@ -7449,7 +7449,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "At scale, GPU clusters fail in ways single-node debugging never taught you: NCCL timeouts that are actually storage problems, DataLoader forks that silently hang collectives, and GPUs that pass every health check yet corrupt your results. In this hands-on builders session, you diagnose these failures on NVIDIA GPU-based Amazon EC2 instances with Elastic Fabric Adapter. Read NCCL debug logs, interpret all-reduce bus bandwidth against per-instance baselines, and run open-source health checks that catch faults before your jobs do. You leave with a failure-signature runbook and a triage method distilled from operating large GPU fleets on AWS.",
+    "abstract": "At scale, GPU clusters fail in ways that single-node debugging does not reveal: NCCL timeouts that are actually storage problems, DataLoader forks that silently hang collectives, and GPUs that pass health checks yet corrupt results. In this hands-on builders session, diagnose these failures on NVIDIA GPU-based Amazon EC2 instances with Elastic Fabric Adapter. Read NCCL debug logs, interpret all-reduce bus bandwidth against per-instance baselines, and run open-source health checks that catch faults early. The session provides a failure-signature runbook and a triage method drawn from operating large GPU fleets on AWS.",
     "times": [
       {
         "id": "1790025485805001CldU",
@@ -7488,7 +7488,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Disaggregated inference separates prefill and decode onto independent GPU pools, eliminating the interference that lets one long prompt stall every active generation — and letting each phase scale on its own terms. It isn't free: KV cache must cross the network, and a well-cached unified deployment can still win. The difference is your traffic. In this hands-on builders session, you run both architectures on NVIDIA GPU-based Amazon EC2 instances, move KV cache between pools over Elastic Fabric Adapter, and benchmark them against realistic agentic traffic. Learn the decision framework — input length, prefix reuse, latency SLO — and leave with runnable configurations.",
+    "abstract": "Disaggregated inference separates prefill and decode onto independent GPU pools, eliminating the interference that lets one long prompt stall active generations and letting each phase scale independently. There is a trade-off: the KV cache must cross the network, and a well-cached unified deployment can still perform better depending on traffic. In this hands-on builders session, run both architectures on NVIDIA GPU-based Amazon EC2 instances, move the KV cache between pools over Elastic Fabric Adapter, and benchmark them against realistic agentic traffic. Learn a decision framework based on input length, prefix reuse, and latency targets, with runnable configurations.",
     "times": [
       {
         "id": "1791222973899001PWGV",
@@ -7603,7 +7603,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Extracting useful throughput from GPU clusters is a discipline: profile kernels, tune collectives, feed the GPUs, and survive the failures that compound with scale. In this workshop, you walk the full stack on Slurm-managed NVIDIA GPU-based Amazon EC2 instances — compute, network, and storage; the ML software stack from drivers to distributed frameworks — and stand up the observability that ties them together, from GPU, EFA, and Lustre counters to training throughput and MFU. At each layer: measure, attribute, fix with the tool that sees inside. Leave with dashboards you built yourself and a goodput methodology for your training clusters.",
+    "abstract": "Extracting useful throughput from GPU clusters is a discipline: profiling kernels, tuning collectives, keeping the GPUs fed, and handling the failures that grow with scale. In this hands-on workshop, work through the full stack on Slurm-managed NVIDIA GPU-based Amazon EC2 instances, covering compute, network, storage, and the ML software stack from drivers to distributed frameworks. Set up the observability that ties them together, from GPU, EFA, and Lustre counters to training throughput and MFU. At each layer, measure, attribute, and fix with the right tool. The workshop concludes with self-built dashboards and a goodput methodology for training clusters.",
     "times": [
       {
         "id": "1790025501952001CcOq",
@@ -7640,7 +7640,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Extracting useful throughput from GPU clusters is a discipline: profile kernels, tune collectives, feed the GPUs, and survive the failures that compound with scale. In this workshop, you walk the full stack on Slurm-managed NVIDIA GPU-based Amazon EC2 instances — compute, network, and storage; the ML software stack from drivers to distributed frameworks — and stand up the observability that ties them together, from GPU, EFA, and Lustre counters to training throughput and MFU. At each layer: measure, attribute, fix with the tool that sees inside. Leave with dashboards you built yourself and a goodput methodology for your training clusters.",
+    "abstract": "Extracting useful throughput from GPU clusters is a discipline: profiling kernels, tuning collectives, keeping the GPUs fed, and handling the failures that grow with scale. In this hands-on workshop, work through the full stack on Slurm-managed NVIDIA GPU-based Amazon EC2 instances, covering compute, network, storage, and the ML software stack from drivers to distributed frameworks. Set up the observability that ties them together, from GPU, EFA, and Lustre counters to training throughput and MFU. At each layer, measure, attribute, and fix with the right tool. The workshop concludes with self-built dashboards and a goodput methodology for training clusters.",
     "times": [
       {
         "id": "1790360394114001Amrj",
@@ -9043,7 +9043,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Not every ML workload needs the same GPU. Amazon EC2 G7e and G7 instances, powered by NVIDIA RTX PRO Blackwell Server Edition GPUs with GDDR7 and native FP4 support, deliver compelling price-performance for inference and select training use cases. This session breaks down where G7e/G7 fits: inference prefill (competitive FLOPS/$) and decode (FP4 and higher concurrency close the HBM gap), and training via pipeline parallelism. We'll cover the toolchain (vLLM, TensorRT-LLM, TransformerEngine, CUTLASS FP4 kernels), walk through a TCO comparison, and close with a decision framework for when G7e/G7 is the right call vs. P-family instances.",
+    "abstract": "Not every ML workload needs the same GPU. Amazon EC2 G7e and G7 instances, powered by NVIDIA RTX PRO Blackwell Server Edition GPUs with GDDR7 and native FP4 support, deliver strong price-performance for inference and select training use cases. This session breaks down where G7e and G7 fit: inference prefill (competitive FLOPS per dollar) and decode (FP4 and higher concurrency help close the HBM gap), and training via pipeline parallelism. The session covers the toolchain (vLLM, TensorRT-LLM, TransformerEngine, CUTLASS FP4 kernels), a TCO comparison, and a decision framework for choosing G7e and G7 versus P-series instances.",
     "times": [
       {
         "id": "1790025497994001CGEy",
@@ -17320,7 +17320,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Building a GenAI system that answers questions across technology domains is straightforward — until the model doesn't know the answer and doesn't say so. For builders designing multi-agent or RAG-based systems, this session presents the confidence-gated routing architecture behind AWS Specialist Agent: classifying every query into high-confidence retrieval, low-confidence escalation to a human specialist, or cross-domain composition. We cover why flat vector retrieval fails multi-domain queries, the trade-offs of graph-based knowledge ontology, and the evaluations framework measuring confidence calibration. Walk away with a routing pattern you can apply any time your AI system must self-report uncertainty rather than hallucinate with authority.",
+    "abstract": "Building a GenAI system that answers questions across technology domains is straightforward — until the model doesn't know the answer and doesn't say so. For builders designing multi-agent or RAG-based systems, this session presents the confidence-gated routing architecture: classifying every query into high-confidence retrieval, low-confidence escalation to a human specialist, or cross-domain composition. We cover why flat vector retrieval fails multi-domain queries, the trade-offs of graph-based knowledge ontology, and the evaluations framework measuring confidence calibration. Walk away with a routing pattern you can apply any time your AI system must self-report uncertainty rather than hallucinate with authority.",
     "times": [
       {
         "id": "1790025547982001Cedf",
@@ -17355,7 +17355,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Building a GenAI system that answers questions across technology domains is straightforward — until the model doesn't know the answer and doesn't say so. For builders designing multi-agent or RAG-based systems, this session presents the confidence-gated routing architecture behind AWS Specialist Agent: classifying every query into high-confidence retrieval, low-confidence escalation to a human specialist, or cross-domain composition. We cover why flat vector retrieval fails multi-domain queries, the trade-offs of graph-based knowledge ontology, and the evaluations framework measuring confidence calibration. Walk away with a routing pattern you can apply any time your AI system must self-report uncertainty rather than hallucinate with authority.",
+    "abstract": "Building a GenAI system that answers questions across technology domains is straightforward — until the model doesn't know the answer and doesn't say so. For builders designing multi-agent or RAG-based systems, this session presents the confidence-gated routing architecture: classifying every query into high-confidence retrieval, low-confidence escalation to a human specialist, or cross-domain composition. We cover why flat vector retrieval fails multi-domain queries, the trade-offs of graph-based knowledge ontology, and the evaluations framework measuring confidence calibration. Walk away with a routing pattern you can apply any time your AI system must self-report uncertainty rather than hallucinate with authority.",
     "times": [
       {
         "id": "1790360367397001A2Lo",
@@ -42575,6 +42575,45 @@
     ]
   },
   {
+    "id": "1780441475130001G0Cv",
+    "code": "HMC312",
+    "title": "How RBC built a regulated multicloud platform",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations",
+      "Hybrid Cloud & Multicloud"
+    ],
+    "areasOfInterest": [
+      "DevOps",
+      "Governance, Risk & Compliance",
+      "Kubernetes"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Enterprises running regulated workloads across multiple clouds face a compounding challenge: every platform decision — databases, message buses, orchestration — deepens lock-in and complicates compliance. The Royal Bank of Canada chose a different path. Over seven years, RBC built a multicloud Kubernetes platform spanning AWS, Azure, and on-premises, purpose-built for financial services under multi-jurisdictional oversight. RBC shares how they eliminated vendor lock-in by migrating to open-source databases and messaging, established a \"golden path\" that lets teams deploy to any cloud without rearchitecting, and extended that foundation into agentic AI operations for automated root-cause analysis and remediation. Walk away with a practical playbook for building a compliant, portable multicloud platform that strengthens your security posture at every layer.",
+    "times": [
+      {
+        "id": "1792103614580001z6rd",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441475188001GA3x",
     "code": "HMC313",
     "title": "How Emirates built Multicloud Agents with open-source Agentic AI Gateway",
@@ -47654,10 +47693,23 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Trading opportunities slip away when teams can't synthesize fragmented data fast enough to act. In this session, global broker TP ICAP will share how it built First Mate on Amazon Bedrock AgentCore, an AI sales-trading tool that uses generative AI to identify and act on opportunities in global markets more effectively. Discover how First Mate ingests real-time data, applies domain reasoning, and delivers actionable recommendations to brokers in seconds. We’ll discuss the architectural decisions and outcomes behind the journey from prototype to production. You’ll learn how to bring agentic AI to time-sensitive operations where speed-to-insight can drive revenue.",
-    "times": []
+    "times": [
+      {
+        "id": "1792103581117001pURD",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1791930044225001YKK3",
@@ -47675,10 +47727,23 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "The National Oceanic and Atmospheric Administration's National Weather Service (NWS) is modernizing the platform forecasters rely on across 170+ locations. Join AWS and NOAA to whiteboard the NWS Enterprise Cloud (NEC), the foundation providing secure, scalable landing zones where HIVE applications and CIRRUS data services operate. We'll explore decomposing a legacy desktop into micro-frontends and domain microservices on Amazon EKS, decoupling applications from data through an API abstraction layer, scaling independently during severe weather, and maintaining continuous Authority to Operate (ATO). We'll also discuss how Amazon SageMaker brings machine learning assistance to forecasters. Bring your modernization questions.",
-    "times": []
+    "times": [
+      {
+        "id": "1792103541505001JTdP",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Convention Promenade | Montrachet 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1791930073276001DUy9",
@@ -47699,10 +47764,23 @@
       "IT Administrator",
       "Solution / Systems Architect"
     ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Autonomous platforms are only as capable as the environments they train and validate in. In this Lightning Talk, see how AWS uses the Visual Asset Management System (VAMS) and 3D Gaussian Splatting (3DGS) to turn real field data collected during Project MAVERICK exercises into high-fidelity, simulation-ready environments. We walk the pipeline from sensor capture to reconstructed, simulation-ready worlds, and the content management that makes them reusable. These environments are not the autonomy; they are what builds, improves, and validates it. If you build or validate autonomous systems, you leave knowing how to turn field capture into reusable simulation-ready environments.",
-    "times": []
+    "times": [
+      {
+        "id": "1792103491115001zrSR",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:30",
+        "endTime": "16:50",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "04:50 PM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
   },
   {
     "id": "1780441477646001GG1s",
@@ -52413,7 +52491,9 @@
     "areasOfInterest": [
       "Robotics"
     ],
-    "roles": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Today’s vision-language models can describe images fluently, yet still struggle with the spatial and perceptual reasoning required for robotics. This talk argues that visual reasoning—reasoning through points, sketches, trajectories, depth maps, and other grounded representations—will become more important than language reasoning for physical agents. It traces progress from benchmarks exposing fundamental perception failures to methods that teach models to reason directly in visual space. These ideas culminate in robotics foundation models that convert visual plans into robot actions. The resulting systems are interpretable, steerable, deployable zero-shot on affordable hardware, and competitive with proprietary models trained on substantially more data. We showcase how these ideas are advancing the goal of accessible, general-purpose robotics to the broader research community.",
@@ -52446,7 +52526,9 @@
       "Agentic AI",
       "Generative AI"
     ],
-    "roles": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Reflecting on my roles as Head of Computer Science at MIT, Director of the MIT Education Exch(AI)nge, and Chief Scientist at Cambridge Mobile Telematics, I will discuss how the rise of generative AI is reshaping software, computer science itself, higher education, and the ways data- and AI-driven companies create value from data. In computer science, we are seeing explosive growth both in the range of problems AI can solve and in the new systems and tools required to make AI effective, efficient, and reliable. In higher education, we are rethinking fundamental questions about what students need to learn, as well as how we teach and assess our students. At CMT, we are applying new AI architectures to better understand mobility data, particularly road and driver risk. I will use concrete examples and results to explore the common theme of how to achieve the greatest impact from AI.",
@@ -52479,7 +52561,9 @@
     "areasOfInterest": [
       "Agentic AI"
     ],
-    "roles": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "The \"Software Factory\" is a new buzzword for a fully autonomous agent driven software development process. Many organizations are trying to set up such a factory, but this is easier said than done. In this talk, from my experience setting up such factories for ourselves and other businesses, I will explain some of the elements of a software factory (issue triage, spec generation, implementation, review, and testing), and some of the pain points that we have experienced at each step. I will also cover how to evaluate the effectiveness of each of these steps and how to build a self-improvement pipeline so the factory gets better and better with feedback from its human supervisors.",
@@ -52547,7 +52631,9 @@
     "areasOfInterest": [
       "Agentic AI"
     ],
-    "roles": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "This talk will discuss RSI (recursive self-improvement) agents that proactively and continuously learn on the job. Agents onboard a new knowledge job just like human employees. Through RSI, we show that agents can outperform human testers on the same job across accuracy, efficiency, and cost. The talk will end with a discussion on the future of human-AI collaboration.",
@@ -52578,7 +52664,9 @@
     "areasOfInterest": [
       "Amazon Builds on AWS"
     ],
-    "roles": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "How do you make a humanoid robot safe to operate alongside people, without the torque sensors? Fauna Robotics Sprout is a humanoid robot that uses a position-command interface, yet it must regulate the forces it exchanges with the world. We show how Sprout learns compliant behavior that approximates classic impedance control, through mechanisms that control force at the joints and in task space. We describe how these controllers are trained and how they enable safer, whole-body interaction.",
@@ -52633,6 +52721,41 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 309",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441495609001GwGM",
+    "code": "INV539",
+    "title": "Beyond Next-Token Prediction: World Models for Human Health",
+    "type": "Chalk talk",
+    "level": "500 – Distinguished",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Academic / Researcher"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Next-token prediction has been effective for language, but is it the right learning objective for achieving clinical intelligence from longitudinal human health data? In this talk, we show that treating health records as flat token sequences limit the advancement of foundation models in healthcare. We then introduce a Health State–Action World Model that abstracts longitudinal records into learned representations of patient health states and clinical actions, and models how these states evolve under different interventions. This abstraction enables pretraining models to predict future health events, diagnoses, treatments, and responses to treatment. Across large-scale datasets, we show that moving from token-level prediction to state–action modeling enables clinical intelligence that cannot be achieved through token prediction alone, while generalizing strongly to unseen patients. ",
+    "times": [
+      {
+        "id": "1791585075039001BN6R",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 414",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -58356,7 +58479,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with Amazon Inspector Code Security to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall, proving that layered defenses hold even against unpatched vulnerabilities.",
+    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with AWS Security Agent to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall, proving that layered defenses hold even against unpatched vulnerabilities.",
     "times": [
       {
         "id": "1790025483821001Cxr0",
@@ -58393,7 +58516,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with Amazon Inspector Code Security to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall, proving that layered defenses hold even against unpatched vulnerabilities.",
+    "abstract": "Step into the role of a DevSecOps engineer tasked with hardening your organization's web applications after a security audit. In this hands-on workshop, a simulated lab walks you through real threat scenarios, and you respond using layered AWS security services. Start with AWS Security Agent to catch vulnerabilities pre-deployment, then use Kiro's agentic capabilities to auto-remediate issues without leaving your IDE. Scan EC2 instances and SBOMs for supply-chain risk, apply virtual patches via AWS WAF, and fully remediate with AWS Systems Manager. Finally, contain an active GuardDuty-detected incident by blocking C2 communication with Route 53 Resolver DNS Firewall and AWS Network Firewall, proving that layered defenses hold even against unpatched vulnerabilities.",
     "times": [
       {
         "id": "1790360378659001ATxE",
