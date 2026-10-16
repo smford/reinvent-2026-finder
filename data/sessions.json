@@ -1637,7 +1637,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI moves fast: new models, new economics, and new governance capabilities. Attend this breakout to learn about the latest innovations across Amazon Bedrock. We cover recent model additions from OpenAI, Anthropic, and more, along with advances in inference and updates across security, governance, and cost management. Whether you are new to Bedrock or want to keep up with the latest releases, this session offers something for everyone. Leave knowing what is available today and where to focus next. ",
+    "abstract": "AI moves fast: new models, new economics, and new governance capabilities. Attend this breakout to learn about the latest innovations across Amazon Bedrock. We cover recent model additions from OpenAI, Anthropic, and more, along with advances in inference and updates across security, governance, and cost management. Whether you are new to Bedrock or tracking the latest releases, see what is available today and where to focus next.",
     "times": [
       {
         "id": "1790025529824001CCP6",
@@ -5733,7 +5733,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
+    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop, you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
     "times": [
       {
         "id": "1790025482635001C3zj",
@@ -5762,7 +5762,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
+    "abstract": "New to Bedrock, or considering it for your next workload? In this hands-on workshop, you go from your first API call to a working application in a single sitting. You choose a model, ground it with Managed Knowledge Bases, apply Guardrails, pick a service tier, then deploy and monitor what you built. Along the way you learn the core building blocks and how they fit together. You leave with an application you built yourself and a repeatable path your team can follow to build the next one.",
     "times": [
       {
         "id": "1790360385148001AUiK",
@@ -6249,7 +6249,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You already run security and governance on AWS with IAM, CloudTrail, KMS, and VPC boundaries, and AI workloads on Bedrock inherit all of it. This chalk talk shows how: IAM scoping for model access, data perimeter policies, full prompt and response logging in CloudTrail, and KMS encryption at rest and in transit. There is no separate governance stack to learn and no new tools to onboard. You leave knowing how to extend the security patterns your organization already trusts to cover AI workloads on Bedrock.",
+    "abstract": "You already run security and governance on AWS with IAM, CloudTrail, KMS, and VPC boundaries, and AI workloads on Amazon Bedrock inherit all of it. This chalk talk shows how: IAM scoping for model access, data perimeter policies, full prompt and response logging in CloudTrail, and KMS encryption at rest and in transit. There is no separate governance stack to learn and no new tools to onboard. Apply the security patterns your organization already trusts to AI workloads on Bedrock.",
     "times": [
       {
         "id": "1790025505771001CD29",
@@ -6642,7 +6642,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI spend scales fast, and you can't optimize what you can't attribute. In this code talk, build Bedrock cost visibility live: combine CloudWatch metrics and supported invocation logs for timely usage signals with Cost Explorer and CUR 2.0 for billing reporting. Add attribution by IAM principal and cost-allocation tags, then assemble a dashboard that maps spend to teams, workloads, and models while accounting for each source's freshness and granularity. Turn that visibility into action: match steady workloads to Reserved Tier, choose models for price-performance, and set budgets and alerts. Leave with working code and a repeatable, finance-ready cost view.",
+    "abstract": "AI spend scales fast, and you can't optimize what you can't attribute. In this code talk, build Bedrock cost visibility live: combine CloudWatch metrics and supported invocation logs for timely usage signals with Cost Explorer and CUR 2.0 for billing reporting. Add attribution by IAM principal and cost-allocation tags, then assemble a dashboard that maps spend to teams, workloads, and models while accounting for each source's freshness and granularity. Turn that visibility into action: match steady workloads to Reserved Tier, choose models for price-performance, and set budgets and alerts. Use these signals to reconcile engineering usage with finance reports.",
     "times": [
       {
         "id": "1790033115427001qeNr",
@@ -7228,7 +7228,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Agentic and coding workloads are multiplying token consumption, and paying frontier prices on every call adds up fast. This chalk talk shows how open weight models on Amazon Bedrock let you scale that growth affordably without giving up quality or security. We walk through multi-model strategies for agentic and code generation workloads, the unit economics of open weight versus frontier, and how Bedrock's inference engine design keeps security strong regardless of where a model came from. You leave with a practical path to cost-efficient inference at scale.",
+    "abstract": "Agentic and coding workloads are multiplying token consumption, and paying frontier prices on every call adds up fast. This chalk talk shows how open-weight models on Amazon Bedrock let you scale that growth affordably without giving up quality or security. We walk through multi-model strategies for agentic and code generation workloads, the unit economics of open-weight versus frontier, and how Bedrock's inference engine design keeps security strong regardless of where a model came from. You leave with a practical path to cost-efficient inference at scale.",
     "times": [
       {
         "id": "1790025529755001CFpN",
@@ -7687,7 +7687,7 @@
   },
   {
     "id": "1780442234803001c9gE",
-    "code": "AIM349-R",
+    "code": "AIM349",
     "title": "Build production AI assistant with Hugging Face Libraries and models",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -8345,7 +8345,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "There is more than one way to put OpenAI to work on AWS, from coding agents that ship production code to knowledge workflows and custom agents. This session tours OpenAI on AWS, starting with the latest OpenAI models on Amazon Bedrock. Put them to work through two agentic surfaces: Codex for coding and ChatGPT Work for knowledge work. Then explore Amazon Bedrock Managed Agents powered by OpenAI, for deploying OpenAI-powered agents in your AWS environment. Leave with a map of OpenAI on AWS and when to choose each path.",
+    "abstract": "There is more than one way to put OpenAI to work on AWS, from coding agents that ship production code to knowledge workflows and custom agents. This session tours OpenAI on AWS, starting with the latest OpenAI models on Amazon Bedrock. Put them to work through two agentic surfaces: Codex for coding and ChatGPT Work for knowledge work. Then explore Amazon Bedrock Managed Agents for OpenAI to deploy OpenAI-powered agents in your AWS environment. The session maps OpenAI on AWS and helps you decide which path fits your needs.",
     "times": [
       {
         "id": "1790025476355001CDYE",
@@ -8374,7 +8374,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your teams want Claude for coding, agents, and knowledge work, and there are more ways than ever to reach it. This session maps every path to Anthropic on AWS. Start with the models, served two ways: Amazon Bedrock, with Haiku for speed, Sonnet for balance, and Opus for long-running agentic work, or Claude Platform on AWS for Anthropic's first-party API. Add the applications on top: Claude Code for agentic development, Claude Desktop for broader knowledge work. Govern both with the Claude apps gateway, one control plane across them. Leave knowing how the layers fit your teams.",
+    "abstract": "Your teams want Claude for coding, agents, and knowledge work, and there are more ways than ever to reach it. This session maps every path to Anthropic on AWS. Start with the models, served two ways: Amazon Bedrock, with Haiku for speed, Sonnet for balance, and Opus for long-running agentic work, or Claude Platform on AWS for Anthropic's first-party API. Add applications on top: Claude Code for agentic development, Claude Desktop for broader knowledge work. Govern both with the Claude apps gateway, one control plane across them. See how these layers fit your teams' needs.",
     "times": [
       {
         "id": "1790025512279001CLdU",
@@ -8403,7 +8403,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "You want to ship AI, but your compliance team won't sign off until the solution meets their regulatory requirements. This session shows how Bedrock protects data from the hardware up, with zero operator access enforced at the chip so no one, not even AWS operators, can access your prompts and completions. See how data residency controls and strict workload separation extend that protection, and how those guarantees map to the compliance frameworks your teams already use. You leave ready to have the conversation that gets your AI workload approved.",
+    "abstract": "You want to ship AI, but your compliance team won't sign off until the solution meets their regulatory requirements. This session shows how Bedrock protects data from the hardware up, with zero operator access enforced at the chip so no one, not even AWS operators, can access your prompts and completions. See how data residency controls and strict workload separation extend that protection, and how those guarantees map to the compliance frameworks your teams already use. Use what you learn to make the security case for approving your AI workload.",
     "times": [
       {
         "id": "1790025515381001CC3o",
@@ -8432,7 +8432,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your AI workload is live, and now you own it: latency creeping up, costs outgrowing usage, and no line from spend to teams. Start with the metrics that matter on Amazon Bedrock: time to first token, latency, throttles, and cache tokens. Then learn why latency alone cannot tell you what broke, and how output tokens per second separates a slower model from a longer answer. Also learn why throttling starts before you reach your quota. Finally, attribute token spend to teams using request metadata and caller identity. Leave with an instrumentation checklist and the alarms worth paging on.",
+    "abstract": "Your AI workload is live, and now you own it: latency creeping up, costs outgrowing usage, and no line from spend to teams. Start with the metrics that matter on Amazon Bedrock: time to first token, latency, throttles, and cache tokens. Then learn why latency alone cannot tell you what broke, and how the output-tokens-per-second metric distinguishes a slower model from a longer answer. Also learn why throttling starts before you reach your quota. Finally, attribute token spend to teams using request metadata and caller identity. Build an instrumentation checklist and identify the alarms worth paging on.",
     "times": [
       {
         "id": "1790025496449001CbB2",
@@ -9246,7 +9246,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "The UK AI Security Institute leads global research into harmful AI capabilities, assessing frontier models for risks like offensive cybersecurity, bioweapon design, and psychological manipulation. In this talk, UK AISI representatives walk through how they built their evaluation infrastructure on Amazon Bedrock, from model access and prompt orchestration to result analysis. Hear highlights from recent research projects and the engineering decisions that make safety evaluation repeatable at scale. Leave with a clearer picture of how rigorous AI safety research runs in production on AWS.",
+    "abstract": "The UK AI Security Institute leads global research into harmful AI capabilities, assessing frontier models for risks like offensive cybersecurity, bioweapon design, and psychological manipulation. In this talk, UK AISI representatives walk through how they built their evaluation infrastructure on Amazon Bedrock, from model access and prompt orchestration to result analysis. Hear highlights from recent research projects and the engineering decisions that make safety evaluation repeatable at scale. Together, these examples show how rigorous AI safety research runs in production on AWS.",
     "times": [
       {
         "id": "1790033117377001q7Ng",
@@ -9681,7 +9681,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn how to cut the cost of your AI workloads without sacrificing quality. In this builders session, you work through a curated set of representative prompts and apply three high-impact levers: prompt caching, Intelligent Prompt Routing, and right-sizing model choice. You measure token cost before and after each change, so you see exactly which levers move the needle and which do not. You're welcome to bring a prompt from your own workload to test alongside the guided examples. Leave with a repeatable cost optimization playbook and the evidence to support each decision.",
+    "abstract": "Learn how to cut the cost of your AI workloads without sacrificing quality. In this builders session, you work through a curated set of representative prompts and apply three high-impact levers: prompt caching, Intelligent Prompt Routing, and model right-sizing. You measure token cost before and after each change, so you see exactly which levers move the needle and which do not. You're welcome to bring a prompt from your own workload to test alongside the guided examples. Leave with a repeatable cost optimization playbook and the evidence to support each decision.",
     "times": [
       {
         "id": "1790360390537001AIHf",
@@ -9710,7 +9710,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your dev teams are adopting AI coding agents fast: Claude Code, OpenAI Codex, open-source agents, and more. Without a shared platform, every team rolls its own auth, its own cost tracking, its own rules. In this builders session, build one platform on Amazon Bedrock that manages all of them. Package your security policies, coding standards, and delivery practices as reusable plugins, agent skills, and MCP servers, then apply consistent identity, sandboxing, observability, and cost controls across every agent. See a team onboard and take an issue from plan to tested change. Leave with a working reference architecture.",
+    "abstract": "Your dev teams are adopting AI coding agents fast: Claude Code, OpenAI Codex, open-source agents, and more. Without a shared platform, every team rolls its own auth, its own cost tracking, its own rules. In this builders session, build one platform on Amazon Bedrock that manages all of them. Package your security policies, coding standards, and delivery practices as reusable plugins, agent skills, and MCP servers, then apply consistent identity, sandboxing, observability, and cost controls across every agent. Use the platform to turn an issue into a tested change, then adapt the architecture across your organization.",
     "times": [
       {
         "id": "1790025536694001CnbP",
@@ -9849,7 +9849,7 @@
   {
     "id": "1780442276260001c1BG",
     "code": "AIM418",
-    "title": "Best practices for AI powered software development on Amazon Bedrock",
+    "title": "Best practices for AI-powered software development on Amazon Bedrock",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -9859,7 +9859,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You already have a preferred coding agent for software development. That agent touches your codebase, your infrastructure, and your production environment, and it needs guardrails, permissions, and rules to operate safely. In this workshop you connect an agent of your choice, such as Claude Code or OpenAI Codex, to Amazon Bedrock and deliver a real application from brief to production. You define specs the agent can act on, wire in automated test gates, apply Amazon Bedrock Guardrails, and lock down permissions before anything reaches infrastructure. Leave with a working app and a repeatable architecture you can adopt immediately. Laptop required.",
+    "abstract": "You already use a coding agent for software development. It touches your codebase, infrastructure, and production environment and needs guardrails, permissions, and rules to operate safely. In this workshop, you connect an agent of your choice, such as Claude Code or OpenAI Codex, to Amazon Bedrock and deliver a real application from brief to production. You define specs the agent can act on, wire in automated test gates, apply Amazon Bedrock Guardrails, and lock down permissions before anything reaches infrastructure. The app serves as a tested reference implementation your team can adapt to its own development workflows. Laptop required.",
     "times": [
       {
         "id": "1790025482708001C0l3",
@@ -9888,7 +9888,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you deploy to Lambda and EKS. Leave with a reference architecture for agents you can actually ship. Laptop required. ",
+    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production, including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you deploy to Lambda and EKS. Leave with a reference architecture for agents you can actually ship. Laptop required.",
     "times": [
       {
         "id": "1790025542441001C1zW",
@@ -10168,7 +10168,7 @@
   {
     "id": "1780442234231001cq44",
     "code": "AIM437-R",
-    "title": "Route, cache and batch: a multi-model decision framework on Bedrock",
+    "title": "Route, cache, and batch: a multi-model decision framework on Bedrock",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -10671,7 +10671,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You screen the prompt on the way in and answer on the way out. In between, tool results carry external content straight into the model's context and tool arguments carry the model's decisions out to your systems, without inspection. The middle of the loop is where indirect prompt injection lands. Where you place a guardrail inside the loop is a design decision. In this chalk talk, we place Bedrock Guardrails checks inside the agent loop. We examine ApplyGuardrail and InvokeGuardrailChecks, work through where each one belongs, and look at what risk remains when the checks are in place.",
+    "abstract": "You screen the prompt on the way in and the answer on the way out. In between, tool results carry external content straight into the model's context and tool arguments carry the model's decisions out to your systems, without inspection. The middle of the loop is where indirect prompt injection lands. Where you place a guardrail inside the loop is a design decision. In this chalk talk, we place Bedrock Guardrails checks inside the agent loop. We examine ApplyGuardrail and InvokeGuardrailChecks, work through where each one belongs, and look at what risk remains when the checks are in place.",
     "times": [
       {
         "id": "1790025532729001C2Ms",
@@ -10700,7 +10700,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Agentic workloads are multi-step, tool-calling, and retrieval-augmented, which means they stress the inference layer differently than a single prompt. In this code talk, we build three patterns live: function calling, multi-step reasoning chains, and retrieval-augmented generation with Knowledge Bases. For each, you see how it behaves at the inference level, including token consumption, latency, and retry logic, and how to tune it for cost and speed. You leave with working code for all three patterns that you can adapt to your own agents.",
+    "abstract": "Agentic workloads are multi-step, tool-calling, and retrieval-augmented, which means they stress the inference layer differently than a single prompt. In this code talk, we build three patterns live: function calling, multi-step reasoning chains, and retrieval-augmented generation with Knowledge Bases. For each, you see how it behaves at the inference level, including token consumption, latency, and retry logic, and how to tune it for cost and speed. The completed code covers all three patterns and can be adapted to your own agents.",
     "times": [
       {
         "id": "1790025512212001CJdR",
@@ -23746,7 +23746,7 @@
   {
     "id": "1780442277842001cCMx",
     "code": "CMP404",
-    "title": "From DNA to discovery: Build a genomics HPC pipeline on AWS",
+    "title": "Learn how to build a Genomics PCS pipeline on AWS ",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -23764,7 +23764,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Build and run a real genomics variant-calling Slurm pipeline on AWS PCS using a mixed Graviton + GPU fleet. Cover PCS queue design, Slurm partition strategy, FSx for Lustre, EFA networking, and result aggregation to S3. Walk away with a reproducible, production-grade HPC workflow for life-sciences workloads.",
+    "abstract": "Build and run a real genomics variant-calling Slurm pipeline on AWS PCS using a mixed Graviton + GPU fleet. This session will cover PCS queue design, Slurm partition strategy, FSx for Lustre, EFA networking, and result aggregation to Amazon S3. By the end, you’ll create a reproducible, production-grade HPC workflow for life-sciences workloads. ",
     "times": [
       {
         "id": "1790025530158001CyGr",
@@ -31809,14 +31809,15 @@
   {
     "id": "1780441466796001Gzqy",
     "code": "COP335",
-    "title": "Turn log storage into log intelligence",
+    "title": "Evolve your observability for the agentic era",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
       "Cloud Operations"
     ],
     "areasOfInterest": [
-      "Automation",
+      "Agentic AI",
+      "DevOps",
       "Monitoring & Observability"
     ],
     "roles": [
@@ -31826,7 +31827,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Give your operations teams the full picture without jumping between tools. Learn how to bring logs, metrics, and traces into a unified data store for analytics and improved troubleshooting. Instead of just storing logs and treating logs as text to grep during an outage, use centralization rules that bring telemetry together across accounts and regions, telemetry pipelines that enrich and route data in flight, intelligence tiering that matches storage cost to query value, and AI-assisted log analytics that surface answers instead of waiting for you to ask the right question. This is about making logs work for you — not the other way around. You'll leave with a clear architecture for unified log analytics you can take back to your org and put into production.",
+    "abstract": "Your agent passed every test last week. Today the same prompt returns a different, pricier answer, and nobody can say why. Agents drift as models and prompts change beneath them, and a green dashboard won't catch it. This session covers what evaluations (\"evals\") are: automated checks that score an agent's output for quality, accuracy, and cost. You'll learn how an eval-driven loop catches that drift on live traffic, traces it to the change that caused it, compares models and prompts, and attributes spend down to the agent and user, so regressions get blocked before they reach production. Then see how Amazon CloudWatch Omni does this across AWS and other clouds, covering your agents and applications in one place.",
     "times": [
       {
         "id": "1790025500157001Crja",
@@ -34437,7 +34438,7 @@
   {
     "id": "1780442260189001cyXi",
     "code": "DAT315",
-    "title": "Scaling ElastiCache globally: 400+ clusters & 1.3 trillion ops/day",
+    "title": "Scaling ElastiCache globally: 500+ clusters & 1.3 trillion ops/day",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -34455,7 +34456,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Managing ride-hailing demand across 1,100+ cities and 8+ million daily transactions in real time requires scalable, resilient, sub-millisecond in-memory data operations. In this session, learn how inDrive evolved from a monolithic on-premises Redis OSS cluster to over 400 distributed Amazon ElastiCache clusters spanning 8 AWS Regions, executing 1.3 trillion operations daily. Discover how inDrive eliminated bottlenecks in single-CPU utilization, network saturation, and hotspot shards, and how a zero-downtime migration to the Valkey engine on ElastiCache improved performance and reduced costs. Learn a production-tested blueprint for scaling data-intensive systems across multiple AWS Regions.",
+    "abstract": "Managing ride-hailing demand across 1,100+ cities and 8+ million daily transactions in real time requires scalable, resilient, sub-millisecond in-memory data operations. In this session, learn how inDrive evolved from a monolithic on-premises Redis OSS cluster to over 500 distributed Amazon ElastiCache clusters spanning 8 AWS Regions, executing 1.3 trillion operations daily. Discover how inDrive eliminated bottlenecks in single-CPU utilization, network saturation, and hotspot shards, and how a zero-downtime migration to the Valkey engine on ElastiCache improved performance and reduced costs. Learn a production-tested blueprint for scaling data-intensive systems across multiple AWS Regions.",
     "times": [
       {
         "id": "1790033120114001qX46",
@@ -38346,12 +38347,12 @@
     "times": [
       {
         "id": "1791575951990001tYe0",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
@@ -45649,12 +45650,12 @@
     "times": [
       {
         "id": "1790025490934001CHrh",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Orange Theater",
         "venue": "Caesars Forum"
@@ -45685,12 +45686,12 @@
     "times": [
       {
         "id": "1790025522107001C6iI",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Orange Theater",
         "venue": "Caesars Forum"
@@ -50630,6 +50631,82 @@
     ]
   },
   {
+    "id": "1780442281286001cgYP",
+    "code": "IND409-R",
+    "title": "Designing the AWS Secure Research Environment: Architecture deep dive",
+    "type": "Workshop",
+    "level": "400 – Expert",
+    "topics": [
+      "Architecture",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Discover how the AWS Secure Research Environment (SRE) helps research institutions stand up NIST 800-171 and CMMC Level 2 infrastructure. Explore the architecture: Landing Zone Accelerator (LZA) customization, multi-account strategy with Control Tower Account Factory, preventive SCPs versus detective controls, Network Firewall egress, and automated evidence collection feeding Security Hub. No setup is required. Using a simulated pipeline, you work through and gain a deep understanding of the LZA configuration customizations an SRE needs, customize them for your organization, and leave with your own SRE config files. We provide next-step instructions for deploying those configs in a real, customer-owned AWS environment later.",
+    "times": [
+      {
+        "id": "1790025472745001CkFx",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1790358253579001i9ek",
+    "code": "IND409-R1",
+    "title": "Designing the AWS Secure Research Environment: Architecture Deep Dive",
+    "type": "Workshop",
+    "level": "400 – Expert",
+    "topics": [
+      "Architecture",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Governance, Risk & Compliance",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Discover how the AWS Secure Research Environment (SRE) helps research institutions stand up NIST 800-171 and CMMC Level 2 infrastructure. Explore the architecture: Landing Zone Accelerator (LZA) customization, multi-account strategy with Control Tower Account Factory, preventive SCPs versus detective controls, Network Firewall egress, and automated evidence collection feeding Security Hub. No setup is required. Using a simulated pipeline, you work through and gain a deep understanding of the LZA configuration customizations an SRE needs, customize them for your organization, and leave with your own SRE config files. We provide next-step instructions for deploying those configs in a real, customer-owned AWS environment later.",
+    "times": [
+      {
+        "id": "1790360402818001AMr5",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 7",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442228538001cAEH",
     "code": "IND410-R",
     "title": "Build mission-ready software in regulated industries faster with Kiro",
@@ -51478,7 +51555,7 @@
   },
   {
     "id": "1780441493349001G6lf",
-    "code": "INV501",
+    "code": "INV501-R",
     "title": "AtoZ AI Co-Scientist: Multi-Agent Systems That Do Research With You",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -51517,7 +51594,7 @@
   },
   {
     "id": "1780441493408001Gpiq",
-    "code": "INV502",
+    "code": "INV502-R",
     "title": "Attesting to Secrets in Zero Knowledge",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -51554,7 +51631,7 @@
   },
   {
     "id": "1780441493465001GUJI",
-    "code": "INV503",
+    "code": "INV503-R",
     "title": "Beyond Benchmarks: Evaluating AI Safety with Formal Guarantees",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -51589,7 +51666,7 @@
   },
   {
     "id": "1780441493521001GwU4",
-    "code": "INV504",
+    "code": "INV504-R",
     "title": "Building fast with automated reasoning at Amazon S3 scale",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -51725,7 +51802,7 @@
   },
   {
     "id": "1780441493752001Goqh",
-    "code": "INV508",
+    "code": "INV508-R",
     "title": "How neurosymbolic AI formalizes natural language into verifiable logic",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -51861,7 +51938,7 @@
   },
   {
     "id": "1780441493997001GIWs",
-    "code": "INV512",
+    "code": "INV512-R",
     "title": "Knowledge Representations for Autonomous Software Lifecycle Management",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -51959,7 +52036,7 @@
   },
   {
     "id": "1780441494171001G2GD",
-    "code": "INV515",
+    "code": "INV515-R",
     "title": "Modeling Human Preference: Pairwise Battles to Agentic Systems",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -52131,7 +52208,7 @@
   },
   {
     "id": "1780441494533001GKz1",
-    "code": "INV521",
+    "code": "INV521-R",
     "title": "Teaching Telemetry to Think: From Raw Signals to Root Cause",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -52450,7 +52527,7 @@
   },
   {
     "id": "1780441495052001GeWQ",
-    "code": "INV530",
+    "code": "INV530-R",
     "title": "EC2 at 20: Rebuilding the control plane while it is running",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
