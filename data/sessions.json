@@ -1979,7 +1979,7 @@
   {
     "id": "1780441489009001G3sy",
     "code": "AIM2209-S",
-    "title": "Philips' Agentic AI Leap: 45 Days to Minutes on Sales Quotes (sponsored by EPAM)",
+    "title": "How Philips accelerated sales quoting with Agentic AI (sponsored by EPAM)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -1999,7 +1999,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Philips faced a 45-day sales quoting bottleneck in digital pathology, chasing systems and spreadsheets on every deal. With EPAM and AWS, Philips built Sensei, a conversational AI sales agent, using an AI-native SDLC powered by AWS Kiro and running on Amazon Bedrock with Strands Agents. In under six months, specialized agents for pricing, quoting and CRM cut quote turnaround by 90 percent, generating customer briefings in under two minutes, with governance and compliance built in for a regulated industry. This session shares a practical blueprint for applying agentic AI to complex enterprise workflows at speed, without sacrificing enterprise-grade trust. This presentation is brought to you by EPAM, an AWS Partner.",
+    "abstract": "Philips, a global health technology company, identified an opportunity to accelerate customer quoting for complex solutions combining equipment, software and services. Working with EPAM, Philips built the solution on AWS using an AI-native approach. A team of fewer than 20 used Amazon Kiro across the software development lifecycle, with Amazon Bedrock and the Strands Agents SDK powering an agentic architecture. The result is Sensei, an AI-powered sales experience. This session shares practical lessons for applying agentic AI, accelerating development and business operations, embedding governance, and moving from prototype to enterprise production at scale.",
     "times": [
       {
         "id": "1790025489763001Crb9",
