@@ -1,19 +1,19 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-16T20:13:03Z",
+  "lastUpdated": "2026-10-17T09:51:53Z",
   "totalSessions": 2245,
   "scheduledTimeSlots": 2245,
   "campuses": {
-    "MGM Grand Campus": 659,
+    "MGM Grand Campus": 658,
     "Wynn Campus": 580,
-    "Caesars Campus": 737,
+    "Caesars Campus": 738,
     "Venetian Campus": 269
   },
   "venues": {
-    "MGM Grand": 659,
+    "MGM Grand": 658,
     "Wynn/Encore": 580,
     "Caesars Palace": 369,
-    "Caesars Forum": 368,
+    "Caesars Forum": 369,
     "Venetian": 269
   },
   "levels": {
@@ -39,11 +39,11 @@
     "Keynote": 5
   },
   "days": {
-    "Monday": 590,
-    "Wednesday": 610,
-    "Tuesday": 439,
+    "Monday": 589,
+    "Wednesday": 611,
+    "Tuesday": 440,
     "Thursday": 554,
-    "Friday": 52
+    "Friday": 51
   },
   "topics": [
     "Analytics",

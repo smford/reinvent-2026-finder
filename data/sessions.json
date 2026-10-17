@@ -539,7 +539,7 @@
   {
     "id": "1780442269822001ckp6",
     "code": "AIM116-S",
-    "title": "Fuel Intelligent AI Agents with Trusted Enterprise Data (sponsored by Salesforce)",
+    "title": "Fuel Intelligent AI Agents with Trusted Enterprise Data (sponsored by Informatica)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -557,7 +557,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success. This presentation is brought to you by Salesforce, an AWS Partner.",
+    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success. This presentation is brought to you by Informatica, an AWS Partner.",
     "times": [
       {
         "id": "1790033120457001qG8R",
@@ -1838,7 +1838,7 @@
   {
     "id": "1780441464470001GPUd",
     "code": "AIM2205",
-    "title": "Accelerate Domain-Specific AI with Amazon SageMaker AI and Forge",
+    "title": "Your data, optimized models, lower costs: Turn business knowledge into AI you control",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -1848,7 +1848,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Forge accelerates AI solution development on AWS. In this session, learn about Forge's capabilities and how to use them to create custom evaluations for your use case, incorporate your data into your AI solution, and select the right model for your needs.",
+    "abstract": "With dozens of models now available and new ones launching every week, customers face three questions: which models to start from, when does model customization unlock added performance or savings, and when to replace a model, either because their own needs changed or because a better model emerged. In this session, learn how to build custom evaluations for your specific use case with your own data, then reuse it choose the model for your use case based on quality and cost, track how customization improves performance, and confidently decide when a model is ready to deploy to production. When requirements change or new models become available, you can update and rerun the evaluation, enabling ongoing improvement of performance and cost against your specific business needs.",
     "times": [
       {
         "id": "1790025521404001CDsy",
@@ -2170,7 +2170,7 @@
   {
     "id": "1780441464527001GHt9",
     "code": "AIM2215",
-    "title": "World Models & Physical AI: The Next Frontier in Intelligent Systems",
+    "title": "World Models & Physical AI: The next frontier in intelligent systems",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -11964,7 +11964,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Data engineering teams lose time to siloed data, manual ETL, and tribal knowledge. This session shows how agents change that in Amazon SageMaker. Use SageMaker Data Agent to trace errors, refactor code, and deploy pipelines in natural language. See how the same agentic approach extends across SageMaker, so teams can consolidate fragmented pipelines and standardize environments to work on more of the data engineering lifecycle.",
+    "abstract": "Data mesh promises domain‑owned data as a product — but the hard part is governance: who can access what, and how you prove it after the fact. In this interactive chalk talk, we whiteboard two patterns for building a data mesh on AWS and debate when each one fits. The first is a centrally governed mesh using attribute‑based, fine‑grained access controls across separate producer, consumer, and governance accounts. The second is a peer‑to‑peer mesh where the producer directly approves each consumer's subscription. We'll follow a single data product through the AWS Glue Data Catalog from publication to subscription, wire enterprise identity (federated from your existing identity provider, such as Okta or Entra) all the way through to the query, and show how trusted identity propagation and end‑user attribution give you per‑user accountability you can audit end to end. ",
     "times": [
       {
         "id": "1790025538108001CKGu",
@@ -11993,7 +11993,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Data engineering teams lose time to siloed data, manual ETL, and tribal knowledge. This session shows how agents change that in Amazon SageMaker. Use SageMaker Data Agent to trace errors, refactor code, and deploy pipelines in natural language. See how the same agentic approach extends across SageMaker, so teams can consolidate fragmented pipelines and standardize environments to work on more of the data engineering lifecycle.",
+    "abstract": "Data mesh promises domain‑owned data as a product — but the hard part is governance: who can access what, and how you prove it after the fact. In this interactive chalk talk, we whiteboard two patterns for building a data mesh on AWS and debate when each one fits. The first is a centrally governed mesh using attribute‑based, fine‑grained access controls across separate producer, consumer, and governance accounts. The second is a peer‑to‑peer mesh where the producer directly approves each consumer's subscription. We'll follow a single data product through the AWS Glue Data Catalog from publication to subscription, wire enterprise identity (federated from your existing identity provider, such as Okta or Entra) all the way through to the query, and show how trusted identity propagation and end‑user attribution give you per‑user accountability you can audit end to end. ",
     "times": [
       {
         "id": "1790360389760001Ani7",
@@ -12244,7 +12244,7 @@
   {
     "id": "1780441462316001GfXD",
     "code": "ANT334",
-    "title": "Cut your data lake and lakehouse bills: Cost and performance tuning best practices",
+    "title": "Give your AI agent the skills to master Amazon Redshift",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -12254,7 +12254,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Open data lakehouses and data lakes can quietly accumulate cost through uncompacted small files, over-partitioned tables, and inefficient scan patterns. In this session, learn advanced cost savings and tuning techniques on AWS that cut storage and compute costs while improving performance. We cover partitioning strategies, predicate pushdown optimizations, compaction tradeoffs, graviton efficiencies, intelligent-tiering storage and how to eliminate common anti-patterns that inflate your bill. Learn from practical examples of real-world workloads on Amazon S3 Tables, Amazon Athena, Amazon Redshift, Amazon S3, Amazon EMR and leave with a comprehensive playbook to lower you analytics costs.",
+    "abstract": "Your AI agent can already write code, but can it explore Redshift schemas, generate optimized SQL, load data, and plan migrations? The Agent Toolkit for AWS paired with the Amazon Redshift MCP skill gives agents like Claude Code, Kiro, and Cursor deep Redshift expertise, from metadata discovery and SQL dialect handling to performance tuning and workload optimization. See a walkthrough of agent-driven Redshift workflows and leave with a setup you can try today.",
     "times": [
       {
         "id": "1790025522659001CW13",
@@ -18716,21 +18716,21 @@
       "DevOps Engineer",
       "Developer / Engineer"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "LLM-as-a-judge works beautifully when you already know what you're looking for. You write the rubric, validate it against human labels, and it catches the failure you designed it to catch. But agents in production don't fail the way you anticipated. They fail as they meet new tools, new users, and environments that shifted underneath them, and every new failure arrives after the rubric was written. This talk argues the evaluation layer itself must become agentic. Instead of specifying a metric, you describe the behavior you want, and a judge with tool access inspects the trace, finds the spans that matter, classifies what went wrong, and generates labels you can monitor against. We'll cover why this became viable only recently, where it fails, and how to keep an agentic judge honest against human labels, so you know when to reach for one and how to validate it. This presentation is brought to you by Arize AI, an AWS Partner.",
     "times": [
       {
         "id": "1790025475738001Cc3x",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 1 | Grand 119",
-        "venue": "MGM Grand"
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -20168,7 +20168,7 @@
   {
     "id": "1780442241479001cVUQ",
     "code": "BIZ332",
-    "title": "​​Every Candidate, Every Time: AI-Led Structured Interviews at Scale ",
+    "title": "​Every Candidate, Every Time: AI-Led Interviews with Connect Talent",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -20182,7 +20182,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "​​Who you hire is the most important decision you make, and the hardest to get right at scale. What if AI agents could run structured interviews grounded in Amazon’s hiring science and evaluate every candidate the same way? In this chalk talk, we show how role requirements become evaluation criteria and questions, how AI agents hold a natural conversation while covering each competency and gathering evidence, and how responses are scored against a rubric tied to specific evidence. See a single job posting become a scored, evidence-backed evaluation. Leave knowing how to tell hiring science from gut feel, and why that shows up in better hires and a fairer experience for every candidate.",
+    "abstract": "​​Who you hire is the most important decision you make, and the hardest to get right at scale. Built on Amazon Connect and grounded in Amazon’s hiring science, Amazon Connect Talent runs AI-led interviews that evaluate every candidate consistently. In this chalk talk, we show how role requirements become evaluation criteria and questions, how AI agents hold a natural conversation while covering each competency and gathering evidence, and how responses are scored against a rubric tied to specific evidence. See a single job posting become a scored, evidence-backed evaluation. Leave knowing how to tell hiring science from gut feel, and why that shows up in better hires and a fairer experience for every candidate.​​ \n",
     "times": [
       {
         "id": "1790963621402001QOO3",
@@ -32912,7 +32912,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Periodic reviews can't keep pace with infrastructure that changes daily. In this hands-on workshop, deploy an AI-powered agent for continuous, goal-driven architecture reviews across a multi-account environment. Configure agent profiles, cross-account role chaining, and business goals that prioritize across Cost Optimization, Security, Resilience, and Performance pillars. See how the agent enriches Trusted Advisor, Compute Optimizer, and Resilience Hub signals with cross-pillar trade-off analysis. Run pre-deployment reviews against CloudFormation, CDK, and Terraform, then remediate through AI-generated SOPs. Wire recommendations into CI/CD via API. For architects, platform engineers, and operations leads who want always-on architectural governance in their delivery lifecycle.",
+    "abstract": "Periodic reviews can't keep pace with infrastructure that changes daily. In this hands-on workshop, stand up the AWS Well-Architected Agent for continuous, goal-driven reviews across a multi-account environment. Configure agent profiles, cross-account role chaining, and business goals that prioritize across Cost Optimization, Security, Resilience, and Performance pillars. See how the agent enriches Trusted Advisor, Compute Optimizer, and Resilience Hub signals with cross-pillar trade-off analysis. Run pre-deployment reviews against CloudFormation, CDK, and Terraform, then remediate through AI-generated SOPs. Wire recommendations into CI/CD via the Well-Architected API. For architects, platform engineers, and operations leads who want always-on architectural governance in their delivery lifecycle.\n",
     "times": [
       {
         "id": "1791575950274001tLlg",
@@ -33036,7 +33036,7 @@
   {
     "id": "1780442241644001cgxH",
     "code": "COP368",
-    "title": "Recovering AWS Graviton workloads with orchestrated DR",
+    "title": "Recovering AWS Graviton workloads with orchestrated Disaster Recovery",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -43594,7 +43594,7 @@
   {
     "id": "1780441483665001G1Wu",
     "code": "IND102-S",
-    "title": "Accelerating Auto Manufacturing with NVIDIA Omniverse: VW's GS7 Battery Digital Twin (sponsored by NVIDIA)",
+    "title": "Accelerating with NVIDIA Omniverse: VW’s Battery Manufacturing Digital Twin",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -44042,7 +44042,7 @@
   {
     "id": "1780441483894001GgWj",
     "code": "IND210-S",
-    "title": "Molecule to Market: Bayer & Capgemini Accelerate Drug Discovery with NVIDIA BioNeMo (sponsored by NVIDIA)",
+    "title": "Molecule to Market: Bayer & Capgemini Accelerate Drug Discovery with NVIDIA BioNeMo",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -44060,7 +44060,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Join us to learn how Bayer Crop Science needed to accelerate target identification and lead optimization within its drug/crop-science discovery pipeline, and was able to accelerate their process with NVIDIA GPUs and BioNeMo. Building on AWS, they created a drug discovery workflow accelerating target identification and lead optimization through GPU-accelerated inference, molecular generation, and protein modeling, running on NVIDIA hardware. This presentation is brought to you by NVIDIA, an AWS Partner.",
+    "abstract": "Bayer's CropKey strategy relies on target-based and profile-driven discovery to develop the next generation of crop protection solutions. A key challenge is enabling broad access to advanced AI models for protein structure prediction, target exploration, molecular docking, and molecular design, which are often complex and costly to operate.\n\nThis session highlights how Bayer and Capgemini built a scalable, cloud-native platform on AWS that provides researchers with easy access to state-of-the-art biomolecular AI capabilities by leveraging NVIDIA BioNeMo NIMs. By operationalizing foundation models in a secure and cost-efficient environment, the platform helps close critical knowledge gaps in early discovery and accelerates the application of AI across the crop protection R&D pipeline. This presentation is brought to you by NVIDIA, an AWS Partner.",
     "times": [
       {
         "id": "1790025524442001CzNK",
@@ -45427,12 +45427,12 @@
     "times": [
       {
         "id": "1790025551930001CuI1",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
@@ -65250,7 +65250,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Build a Well-Architected workload with three AI agents working design-to-runtime for always-on AI governance. In this builders' session, combine Security Agent (now part of Continuum) for pre-deployment checks, DevOps Agent for triage and root-cause analysis, and Bedrock AgentCore for orchestration via MCP tools. You'll scan for OWASP Top 10 issues, run pen tests, and use ready-to-merge fix PRs. You'll author a skill encoding your runbooks, catch a privilege escalation bug that manual review missed, witness DevOps Agent diagnose an incident, and ship a complete loop: design, code review, adversarial tests, CI/CD gates, monitoring, AI-driven RCA, mapped to a Well-Architected pillar.",
+    "abstract": "Wire two AWS frontier agents into an automated find-and-fix security loop aligned to the Well-Architected Framework. AWS Security Agent pen-tests a web application and flags a privilege-escalation vulnerability. You author a DevOps Agent skill that queries findings through AWS Continuum MCP Server on Amazon Bedrock AgentCore, correlating the operational symptom to the vulnerability in your codebase and generating a GitLab merge request, with human approval at every gate. Trigger the exploit, approve the fix, watch AWS Continuum revalidate it closed, and update your pipeline to block similar vulnerabilities before they reach customers. Automated detection, investigation, remediation, verification, and ongoing prevention closes the loop and provides continuous governance.",
     "times": [
       {
         "id": "1790025544030001CF4H",
@@ -68338,7 +68338,7 @@
   {
     "id": "1780442280014001cmTr",
     "code": "SEC395",
-    "title": "Find, prove, and fix code vulnerabilities at machine speed",
+    "title": "Find, prove, and fix code vulnerabilities with AWS Continuum",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -68355,7 +68355,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Frontier AI models discover code vulnerabilities in minutes. Security teams still take days or weeks to validate, prioritize, and fix them. In this builders' session, close that gap end to end on a live application. You build a security context graph from your infrastructure, identity, and code to determine what is actually reachable, confirm exploitability through a sandboxed proof-of-concept, and generate a validated fix. You will see graduated trust in action, starting with human approval and promoting to autonomous remediation as confidence builds. Leave able to move your team from manual triage to continuous discovery, validation, and remediation.",
+    "abstract": "Frontier AI models discover code vulnerabilities in minutes. Security teams still take days or weeks to validate, prioritize, and fix them. In this builders' session, use AWS Continuum to close that gap end to end on a live application. You build a security context graph from your infrastructure, identity, and code to determine what is actually reachable, confirm exploitability through a sandboxed proof-of-concept, and generate a validated fix. You will see graduated trust in action, starting with human approval and promoting to autonomous remediation as confidence builds. Leave able to move your team from manual triage to continuous discovery, validation, and remediation.\n",
     "times": [
       {
         "id": "1791575950745001tuz9",
@@ -69543,7 +69543,7 @@
   {
     "id": "1780442257641001cSWC",
     "code": "SEC434",
-    "title": "Leverage the power of MCP servers for resource inventory and compliance across clouds",
+    "title": "Leverage the power of MCP servers for resource inventory and compliance ",
     "type": "Code talk",
     "level": "400 – Expert",
     "topics": [
