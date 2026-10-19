@@ -54373,7 +54373,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "The cloud journey isn't just about migration anymore. It's about building intelligent frameworks that transform how organizations operate. In this gamified Experience-Based Acceleration (EBA) workshop, cross-functional teams compete in real time to architect migration and modernization solutions, build agentic AI workflows that automate at scale, and deploy AI-powered applications on AWS. Push boundaries, solve real challenges together, and have fun doing it. Walk away with battle-tested architectures, agentic automation patterns, and a cloud-fluent mindset your team can adopt immediately. Ready to play?",
+    "abstract": "Imagine compressing months of cloud migration and modernization into days, tackling legacy code, tight timelines, and cross-team coordination head-on. That's exactly what the Experience-Based Acceleration (EBA) method delivers. In this hands-on, gamified EBA workshop, cross-functional squads split into workstreams and race to migrate and modernize a legacy app and its databases, apply cloud best practices, and deploy the transformed architecture, all in the cloud. Experience firsthand how EBA shatters silos and compresses migration and modernization from months into days with AWS Transform and Kiro.  You'll get repeatable playbook your team can run on Monday. Ready to play?",
     "times": [
       {
         "id": "1790025529184001CVlL",
@@ -54392,7 +54392,7 @@
   {
     "id": "1780442281885001czDv",
     "code": "MAM308-R",
-    "title": "Drive multi-server migrations from discovery to cutover with AWS Transform",
+    "title": "Race to migrate and modernize with agentic AI at the EBA cloud party",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -54428,7 +54428,7 @@
   {
     "id": "1790358248563001iG6w",
     "code": "MAM308-R1",
-    "title": "Drive multi-server migrations from discovery to cutover with AWS Transform",
+    "title": "Race to migrate and modernize with agentic AI at the EBA cloud party",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -61748,7 +61748,7 @@
   {
     "id": "1780441480549001G8Ad",
     "code": "PEX212",
-    "title": "Intelligent Co-Sell: Removing Friction and Empowering Customer Conversations",
+    "title": "Agentic Selling: Scaling Revenue through Expertise on Demand",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -61766,7 +61766,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AWS Partners are moving faster than ever—into new regions, new AI-native solution categories, and more complex deal structures—while manual selling processes haven't kept pace. This session reveals how a new generation of AI agents handles the work that used to slow deals down: surfacing co-sell intelligence and funding eligibility in the tools Partners already use. See how intelligent co-sell gives Partners more time selling, bigger and more repeatable deals, and proof of impact that compounds.",
+    "abstract": "AWS Partners are moving faster than ever, into new regions, new AI-native solution categories, and more complex deal structures, while manual selling processes haven't kept pace. The expertise that wins deals is still locked in a few people and a separate portal. This session reveals how a new generation of AI agents puts that expertise on demand: surfacing co-sell intelligence and funding eligibility in the tools Partners already use, so every seller works with the best of the organization behind them.",
     "times": [
       {
         "id": "1790025520135001C1dL",
@@ -62694,8 +62694,16 @@
     "topics": [
       "Industry Solutions"
     ],
-    "areasOfInterest": [],
-    "roles": [],
+    "areasOfInterest": [
+      "Governance, Risk & Compliance",
+      "Network & Infrastructure Security",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Business Executive",
+      "Cloud Security Specialist",
+      "IT Executive"
+    ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Your customers don't want more tools—they want outcomes. In this session, learn how AWS Security Hub Extended, AWS Artifact, and other tools combine to create a powerful foundation for partners delivering managed security and compliance services at scale. Security Hub Extended gives MSSPs a single pane of glass and OCSF-normalized findings that eliminate integration headaches. Pair this with our extended security portfolio to create the foundation for audit-ready compliance frameworks across financial services, healthcare, and public sector, and you have a differentiated \"detect, respond, and prove compliance\" offering your customers can't get elsewhere. Whether you're an MSSP building SOC-as-a-Service, an ISV integrating into the Security Hub ecosystem, or a consulting partner delivering compliance transformations, this session shows you the better together story of working with AWS.",
@@ -72008,7 +72016,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations moving data across AWS regions or into AWS need transfers that are fast, secure, and manageable at petabyte scale. In this session, learn how AWS DataSync helps you accelerate large-scale migrations and automate ongoing data movement. We'll show how capabilities like DataSync Enhanced mode help you move data faster with less operational overhead, then hear directly from a customer about how they used DataSync to solve large-scale data movement challenges in production. We'll close with best practices for maximizing performance and cost efficiency in your own DataSync deployments.",
+    "abstract": "Organizations moving data across AWS regions or into AWS need transfers that are fast, secure, and manageable at petabyte scale. In this session, learn how AWS DataSync helps you accelerate large-scale migrations and automate ongoing data movement. We'll show how capabilities like DataSync Enhanced mode help you move data faster with less operational overhead, then hear from Snap about how they moved billions objects and petabytes of data across AWS Regions in weeks. We'll close with best practices for maximizing performance and cost efficiency in your own DataSync deployments.",
     "times": [
       {
         "id": "1790025510151001CKEY",
@@ -72869,9 +72877,9 @@
   {
     "id": "1780441489698001GBDc",
     "code": "STG366-S",
-    "title": "Resilience for Data Foundations: The Lessons Iceberg Forced Us to Learn (sponsored by Commvault)",
+    "title": "From Risk Signal to Recovery: Building Agentic Resilience with MCP ",
     "type": "Breakout session",
-    "level": "300 – Advanced",
+    "level": "200 – Intermediate",
     "topics": [
       "Architecture",
       "Artificial Intelligence",
@@ -72889,7 +72897,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "When customers needed to recover Iceberg environments in production, we discovered that restoring data was often the easy part. Preserving metadata, table state, consistency, and downstream dependencies proved far more challenging than we expected. In this session, Clumio's product and engineering leaders share the assumptions that didn't survive production, the recovery scenarios that surprised us most, and the architectural lessons that emerged along the way. Leave with practical guidance for designing more resilient data foundations on AWS. This presentation is brought to you by Commvault, an AWS Partner.",
+    "abstract": "AI agents are changing cloud operations from human-led workflows to machine-speed decisions and actions. But when agents can access, modify, and move critical data, resilience must become part of the operating model, not a recovery step. Join experts from Commvault, Wiz, and AWS to explore an architecture where MCP connects security context, data intelligence, and recovery capabilities. We'll demonstrate how security signals can guide protection and recovery decisions across Amazon S3 and other cloud services, turning risk insights into governed actions. Learn the guardrails, controls, and architectural patterns behind the workflow, and leave with practical insights for bringing these capabilities into your own cloud-native environments.",
     "times": [
       {
         "id": "1790025499306001CN9p",

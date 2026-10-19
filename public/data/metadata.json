@@ -1,6 +1,6 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-18T19:49:55Z",
+  "lastUpdated": "2026-10-19T11:29:23Z",
   "totalSessions": 2245,
   "scheduledTimeSlots": 2245,
   "campuses": {
@@ -17,8 +17,8 @@
     "Venetian": 269
   },
   "levels": {
-    "300 \u2013 Advanced": 1334,
-    "200 \u2013 Intermediate": 362,
+    "300 \u2013 Advanced": 1333,
+    "200 \u2013 Intermediate": 363,
     "100 \u2013 Foundational": 83,
     "400 \u2013 Expert": 415,
     "500 \u2013 Distinguished": 38,
