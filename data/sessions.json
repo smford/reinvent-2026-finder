@@ -2168,6 +2168,37 @@
     ]
   },
   {
+    "id": "1780441474038001Gdkt",
+    "code": "AIM2214",
+    "title": "Accelerating AI with Trusted Data on AWS Marketplace",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Every enterprise building AI applications hits the same wall: procuring third-party data and licensed content takes months of negotiations, bespoke contracts, and custom integrations. In this session, learn how AWS Marketplace is making it easier to discover, subscribe to, and access the trusted datasets and content your AI applications need, through the same procurement experience you already use. See how buyers can find the right data faster, subscribe with consolidated billing, and connect to providers who deliver data on their terms, going from data discovery to integration in minutes instead of months.",
+    "times": [
+      {
+        "id": "1792424881458001aTEg",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 115",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441464527001GHt9",
     "code": "AIM2215",
     "title": "World Models & Physical AI: The next frontier in intelligent systems",
@@ -2707,45 +2738,6 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
         "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1780442268896001cruj",
-    "code": "AIM235-S",
-    "title": "Agents at the Edge: Global AI on Cloudflare + Amazon Bedrock (sponsored by Cloudflare)",
-    "type": "Lightning talk",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Architecture",
-      "Artificial Intelligence",
-      "Serverless"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Edge Computing",
-      "Generative AI"
-    ],
-    "roles": [
-      "DevOps Engineer",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Most AI apps put the model and the user on opposite sides of the planet. This talk shows a better pattern: run inference on Amazon Bedrock, and run the agent itself on Cloudflare's edge, within ~50ms of 95% of the world's users. We'll walk through building a working agent with Workers (0ms cold starts), the Agents SDK, and Durable Objects for memory, with AI Gateway in front of Bedrock for caching, rate limiting, cost control, and observability. You'll leave with a reference architecture for shipping fast, cheap, and observable AI to a global audience. This presentation is brought to you by Cloudflare, an AWS Partner.",
-    "times": [
-      {
-        "id": "1790033125111001qYji",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:30",
-        "endTime": "15:50",
-        "startTimeFormatted": "03:30 PM",
-        "endTimeFormatted": "03:50 PM",
-        "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
-        "venue": "Venetian"
       }
     ]
   },
@@ -6496,6 +6488,43 @@
     ]
   },
   {
+    "id": "1780442241426001cUxM",
+    "code": "AIM3309",
+    "title": "Reimagining how you build AI on SageMaker AI: the idea to AI flywheel",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Data Scientist",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Building a high-performing generative AI application isn't a one-time model selection. Teams prepare and evolve data, measure quality, decide when customization is needed, compare alternatives, deploy the best candidate, and keep learning from production evaluations. Today those activities live in disconnected tools. In this chalk talk we'll whiteboard and demo new SageMaker experiences, some of it shown publicly for the first time. Bring your questions.",
+    "times": [
+      {
+        "id": "1792424881687001aING",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 165",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442253392001cp5k",
     "code": "AIM331-R",
     "title": "Gatekeepers & guardrails: Secure AI agents across your nonprofit stack",
@@ -8432,7 +8461,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your AI workload is live, and now you own it: latency creeping up, costs outgrowing usage, and no line from spend to teams. Start with the metrics that matter on Amazon Bedrock: time to first token, latency, throttles, and cache tokens. Then learn why latency alone cannot tell you what broke, and how the output-tokens-per-second metric distinguishes a slower model from a longer answer. Also learn why throttling starts before you reach your quota. Finally, attribute token spend to teams using request metadata and caller identity. Build an instrumentation checklist and identify the alarms worth paging on.",
+    "abstract": "Your AI workload is live. You own three questions: what broke, whose spend is it, and are you still running the right model. Answer the first two with Amazon Bedrock metrics: why latency alone cannot tell you what broke, how output tokens per second separates a slower model from a longer answer, why throttling starts before you reach your quota, and how to attribute spend by caller identity and request metadata. Answer the third with evals: see how Airbnb sets a model and reasoning effort per workload across 3,000 engineers.",
     "times": [
       {
         "id": "1790025496449001CbB2",
@@ -10400,7 +10429,7 @@
   {
     "id": "1780442276433001cs04",
     "code": "AIM442",
-    "title": "Evaluate, select, optimize and find your best model",
+    "title": "Intelligent document processing with generative AI on AWS",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -10410,7 +10439,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Most teams pick a model on instinct. In this hands-on workshop, you'll build a structured evaluation pipeline for your own use case, run it against multiple model candidates (frontier and open-weight), and learn exactly when customization is worth the investment vs. when prompt engineering or RAG is enough. You'll leave with a working evaluation harness, a decision framework for technique selection (SFT vs. RFT vs. CPT), and a trained model you can take home.",
+    "abstract": "  Description: In this workshop, you build an intelligent document processing pipeline on AWS that turns unstructured documents into structured, verifiable data. First, extract text, tables, and layout in the format and granularity your downstream application expects. Then configure a pipeline that splits a multi-document package, matches each document to the right schema, and extracts the fields you need. Each value comes with a confidence score and its source location, so you can decide what to automate and what to send for human review. You leave with a working pipeline you can adapt to your own documents. Bring your laptop.",
     "times": [
       {
         "id": "1790025502022001CSQK",
@@ -12441,6 +12470,102 @@
         "duration": 60,
         "room": "Caesars Palace | Promenade Level | Neopolitan I",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1780441470840001GU8p",
+    "code": "ANT342",
+    "title": "What's new in AWS Glue Data Catalog for data and AI governance",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Data spread across lakes, warehouses, and third-party platforms is hard to find, govern, and use. In this session, explore how AWS Glue Data Catalog embraces open standards and open table formats so your data stays portable and accessible across the tools and engines your teams already use. Learn how to discover and register data from a range of sources, govern and manage access from one place, and connect your catalog to Apache Iceberg-compatible engines, so you can avoid lock-in and keep the freedom to choose the right tool for each job. Ideal for data engineers, platform teams, and data architects building open, governed analytics across their data estate.",
+    "times": [
+      {
+        "id": "1792424881573001aSF4",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 318",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442241372001c7Ky",
+    "code": "ANT343",
+    "title": "What's new with the Amazon SageMaker Data Agent",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "The Amazon SageMaker Data Agent helps data teams move from a plain-language request to results faster. In this session, learn how it helps you discover and understand your data, generate and run analysis, build and operationalize data workflows, and connect analytics work through to model development. See how it can take on the repetitive, time-consuming steps of data work so your team can focus on the questions that matter and the decisions that follow. Whether you're exploring a new dataset or building an end-to-end workflow, learn how the Data Agent brings governed, agentic development to every step of your data work.",
+    "times": [
+      {
+        "id": "1792424881238001aPe7",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 309",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442241265001cB85",
+    "code": "ANT346",
+    "title": "What's new with Amazon Kinesis Data Streams",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Organizations increasingly need to work with the same real-time data in different ways depending on the workload, and today that often means integrating services and building custom workarounds to make it fit. In this chalk talk, we head to the whiteboard to explore how Amazon Kinesis Data Streams is evolving to handle more of these patterns natively, so you can consolidate more of your real-time architecture onto one service. We work through how to design for the way your workload actually behaves, how scaling can adapt automatically as traffic rises and falls, and where teams can remove complexity and cost rather than adding another pipeline.",
+    "times": [
+      {
+        "id": "1792424881349001afvk",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 311",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -19211,7 +19336,7 @@
   {
     "id": "1780442276718001cyJQ",
     "code": "BIZ311",
-    "title": "Master Agent Skills: From Desktop Builds to Production Deployment",
+    "title": "Build production agent skills on Amazon Quick: automate your own work",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -19221,7 +19346,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Build, govern, and scale production-ready agent skills across your enterprise on Amazon Quick. Author custom skills on Quick, then shift to the admin perspective: register skills in Quick Catalog for org-wide discovery, configure access policies, and schedule autonomous execution at scale. Through two business-driven use cases — churn prevention from contact center data and intelligent claims processing that eliminates manual back-office work — you'll deploy measurable automation. Leave with working skills, a governance framework for hundreds of agents across teams, and a playbook for communicating ROI to leadership.",
+    "abstract": "Agent skills turn repeatable work into instructions an agent carries out reliably. In this hands-on workshop, you build production skills on Amazon Quick. You author skills from scratch with AI-powered assistance and apply engineering best practices as you build. You put your agents and skills to work automating real business use cases, measure the impact of what you built, and leave able to build and refine skills and agents that automate your own work.",
     "times": [
       {
         "id": "1790025525447001Cpsl",
@@ -20004,7 +20129,7 @@
   {
     "id": "1780442273194001czQm",
     "code": "BIZ328-S",
-    "title": "Build It, Govern It, Ship It: A Hands-On Multi-Agent System with NVIDIA Agent Toolkit (sponsored by NVIDIA)",
+    "title": "Build It, Govern It, Ship It: CI/CD for AI Agents with the NVIDIA Agent Toolkit",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -20024,7 +20149,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Building an AI agent is easy. Building one you can trust, safe, affordable, and contained, is the hard part. In this session we build a working agent end to end on AWS using the NVIDIA Agent Toolkit: Nemotron reasoning models served as NIM microservices on AWS GPUs, NeMo Guardrails screening every prompt and response at the inference boundary, NeMo Switchyard routing easy requests to smaller models and hard ones to larger models to cut inference cost, and OpenShell sandboxing tool execution at the kernel with Landlock, seccomp, and eBPF. You will see each layer added live, then watch a side-by-side cost and latency comparison of routed versus un-routed traffic. Everything runs on open foundations, on Amazon Bedrock and NIM-on-AWS. Leave knowing how to assemble safe, cost-aware agents from open components you can adopt one piece at a time. This presentation is brought to you by NVIDIA, an AWS Partner.",
+    "abstract": "Shipping an AI agent once is easy. Shipping it again, cheaper, better, and still within policy, is the hard part. In this session we treat an agent like any other software, using the NVIDIA Agent Toolkit on AWS: every part it’s built from, its skills, tools, models, and policies, goes through a pipeline before an agent can use it. We pull a skill from a public registry, test whether it actually helps with NVIDIA SkillEvaluator, and publish it to a private registry alongside AWS Agent Registry, pinned by version and digest. Then we route each call to the right model across NVIDIA NIM and Amazon Bedrock with NeMo Switchyard, and turn what the run’s checks caught into the next policy rule. Leave knowing how to make each release of your agent cheaper, better, and safer than the last.",
     "times": [
       {
         "id": "1790033123692001qcBn",
@@ -20043,7 +20168,7 @@
   {
     "id": "1780442285273001cewa",
     "code": "BIZ329-S",
-    "title": "Build, Guard, Route: Trustworthy, Cost-Aware AI Agents with the NVIDIA Agent Toolkit (sponsored by NVIDIA)",
+    "title": "Build, Govern, Optimize: Trustworthy, Cost-Aware Agents with the NVIDIA Agent Toolkit",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -20057,7 +20182,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Bring a laptop and build a governed multi-agent system on AWS, end to end. In this hands-on workshop you'll wire Strands SDK agents to inference on Amazon Bedrock and NVIDIA NIM-on-AWS, sandbox tool execution with OpenShell (Landlock, seccomp, eBPF, cgroups), and install signed skills, connectors, and runbooks from an open, versioned registry that federates with AWS AgentCore. You'll watch a five-layer enforcement spine crystallize in a run-DAG where every prompt, model call, tool call, and delegation becomes a visible, proven step. Then you'll graduate the same governance from laptop to AWS unchanged, with SPIFFE/SPIRE attesting which instance ran each step. You'll leave with a working reference deployment in your own AWS account and reusable patterns you can adapt to real agents. This presentation is brought to you by NVIDIA, an AWS Partner.",
+    "abstract": "Bring a laptop and take one multi-agent system through its whole lifecycle on AWS: discover, build, deploy, govern, and optimize. You’ll compose it from versioned parts in an open registry alongside AWS Agent Registry, declare it once, and run it with Strands Agents on your laptop, Amazon EKS, and Amazon Bedrock AgentCore. You’ll govern it with one policy enforced at the model boundary, at every tool call, and at the kernel, using NeMo Guardrails, NeMo Relay, and OpenShell beside Amazon Bedrock Guardrails and AgentCore Policy. Then you’ll optimize it, routing each call across NVIDIA NIM and Amazon Bedrock with NeMo Switchyard and putting every change through CI/CD before it ships. You’ll leave with a working reference deployment in your own AWS account.",
     "times": [
       {
         "id": "1790025502677001CJ91",
@@ -25668,12 +25793,12 @@
     "times": [
       {
         "id": "1791215542310001bXf8",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "10:30",
-        "endTime": "10:50",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "10:50 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:30",
+        "endTime": "12:50",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "12:50 PM",
         "duration": 20,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
         "venue": "Wynn/Encore"
@@ -37920,7 +38045,7 @@
   {
     "id": "1780442266378001cwYw",
     "code": "DVT215-S",
-    "title": "From First Prompt to Production: Running AWS's AI-DLC at Trillion-Token Scale (sponsored by Anaconda)",
+    "title": "The Best Engineer in the Room Doesn’t Write Code",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -37940,7 +38065,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Bring AWS's AI-DLC methodology together with open source agents, Amazon Bedrock inference, and a governed Python foundation. Watch a full bolt run live — business intent to deployed AWS workload — with model choice, dependency provenance, and cost attribution intact. AI-native development the enterprise can actually put into production. This presentation is brought to you by Anaconda, an AWS Partner.",
+    "abstract": "AI generates code faster than teams can review and ship it. The bottleneck has moved, and so has the work of the highest leverage engineers.\n\nEngineers build coding factories: repeatable systems that combine user intent, persistent context, agent execution, automated checks, and human judgment. Drawing on AWS’s AI-Driven Development Life Cycle, we’ll see how Kilo by Anaconda meets developers where they work and how Amazon Bedrock brings model choice into the factory, tracing one build failure through verification and escalation.\n\nAttendees leave with a framework for agent workflows that deliver, and a clearer view of where engineering judgment matters.",
     "times": [
       {
         "id": "1790033121709001qKnE",
@@ -43955,14 +44080,14 @@
     "times": [
       {
         "id": "1790025535293001CJoi",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -43990,14 +44115,14 @@
     "times": [
       {
         "id": "1790025512692001C60t",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -44247,14 +44372,14 @@
     "times": [
       {
         "id": "1790025503843001CFSy",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -47486,14 +47611,14 @@
     "times": [
       {
         "id": "1790025474625001CbJ6",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -49504,14 +49629,14 @@
     "times": [
       {
         "id": "1791228970709001ZRLG",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Convention Promenade | Latour 5",
+        "room": "Wynn/Encore | Level 1 | Chopin 4",
         "venue": "Wynn/Encore"
       }
     ]
@@ -49613,14 +49738,14 @@
     "times": [
       {
         "id": "1791228922718001omou",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "13:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Chopin 4",
+        "room": "Wynn/Encore | Convention Promenade | Latour 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -54161,6 +54286,83 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442260987001cBIr",
+    "code": "MAM228",
+    "title": "20-minute guide to automating post-migration validation",
+    "type": "Lightning talk",
+    "level": "",
+    "topics": [
+      "Architecture",
+      "Cloud Operations",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Migration teams spend weeks per wave coordinating connectivity tests, performance comparisons, application health checks, and compliance reviews across disconnected tools. This lightning talk examines how to move post-deployment validation from a manual, multi-tool process into an integrated part of the migration workflow. You will learn approaches for automating infrastructure checks at deployment time, incorporating Well-Architected compliance into wave execution, and running day-one modernization actions so workloads land production-ready. Ideal for migration engineers and cloud architects managing large rehost and network modernization programs.",
+    "times": [
+      {
+        "id": "1792440471597001tSSi",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:20",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780441474169001GpAo",
+    "code": "MAM229",
+    "title": "Automating migration incentives using Agentic AI",
+    "type": "Breakout session",
+    "level": "",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "VMware"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "IT Administrator",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The biggest bottleneck in large-scale migrations isn't technical. It's the time between customer commitment and first workload moving. Agreements, partner funding approvals, and credit disbursement today require manual coordination across multiple teams and systems. AWS Transform automates the entire incentive lifecycle: one-click agreement acceptance, auto-populated partner fund requests, and threshold-based credit triggers that disburse automatically when tagged resources hit spend targets. In this session, learn how AWS Transform is removing administrative friction so incentives accelerate migrations instead of delaying them.",
+    "times": [
+      {
+        "id": "1792440471423001tEaY",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -59730,6 +59932,81 @@
     ]
   },
   {
+    "id": "1780442256316001cwt4",
+    "code": "NET346",
+    "title": "Innovations in network security on AWS",
+    "type": "Code talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management",
+      "Network & Infrastructure Security",
+      "Zero Trust"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Join us to learn about the latest innovations in network security on AWS. This session covers new capabilities in traffic protection and new approaches to securing internet traffic across your environment. Join us for architecture patterns and best practices that simplify network security at scale.",
+    "times": [
+      {
+        "id": "1792424881796001a2En",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441474228001GwMd",
+    "code": "NET347",
+    "title": "Innovations at the Edge on AWS",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Modern applications demand networks that are fast, flexible, and built to scale. Join us for a practical look at architecture patterns that help you deliver high-performance, low-latency connectivity across your AWS environment. We'll cover approaches for optimizing network performance, supporting demanding workloads, and designing for resilience - giving you a toolkit of patterns you can apply to your own network.",
+    "times": [
+      {
+        "id": "1792424881125001aj7l",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441479257001GWPL",
     "code": "NET403",
     "title": "Owning atoms to bits: How AWS accelerates network innovation at scale",
@@ -63519,7 +63796,7 @@
   {
     "id": "1780442222761001cmMF",
     "code": "SEC204",
-    "title": "Global Technical Capability Lead Key & Certificate Services",
+    "title": "Post-quantum readiness at scale with AWS and DXC Technology",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -64906,7 +65183,7 @@
   {
     "id": "1780442231040001cvXa",
     "code": "SEC304",
-    "title": "From commit to secure: catch vulnerabilities at machine speed with AWS Continuum",
+    "title": "Find and Fix Exploitable Code at Machine Speed with AWS Continuum",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -64923,7 +65200,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Organizations struggle to detect vulnerabilities before code reaches production. This session demonstrates how to use AWS Continuum (formerly known as AWS Security Agent) directly into your CI/CD pipeline. Learn how to shift security left, catch vulnerabilities at commit and build stages, surface actionable remediation guidance that prevents vulnerable code from reaching production, and accelerate secure software delivery without slowing developer velocity.",
+    "abstract": "In this hands-on builders' session, you integrate AWS Continuum into your development workflow, where a frontier agent scans and remediates code before it leaves your IDE. Write code with intentional vulnerabilities, run context-aware code reviews that go beyond pattern matching, review prioritized findings with structured evidence, and use Kiro to fix issues in real time. Leave with three controls you can reuse: a pre-commit scan, a pull request gate, and a context-aware pentest you can revalidate.",
     "times": [
       {
         "id": "1790025511333001CEQZ",
@@ -65455,7 +65732,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "What if your customers' data needs to stay invisible even to you? Cryptographic computing makes computation on encrypted data without decrypting it possible. Fully homomorphic encryption (FHE) has become practical for ML inference. In this session, learn what FHE is, why it now works at scale on AWS, and how to get started. We will walk through two examples: encrypted ML inference on medical images and financial transactions, and encrypted ETL that aggregates records without exposing individual values. Leave with a deployment blueprint built for regulated industries.",
+    "abstract": "What if you need to process sensitive data without exposing it to the system performing the computation? In this hands-on workshop, use fully homomorphic encryption (FHE) to evaluate selected ML models while inputs remain encrypted and only the data owner decrypts the results. Work through encrypted inference for medical images, spam messages, and financial transactions in Amazon SageMaker Studio, then deploy a validated FHE model bundle to an AWS Lambda serving path. Examine the architecture, trust boundaries, performance constraints, and operational trade-offs that determine where FHE is practical today. Leave with concrete AWS patterns for privacy-sensitive and regulated workloads.",
     "times": [
       {
         "id": "1790033117022001qj7C",
@@ -65488,7 +65765,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "What if your customers' data needs to stay invisible even to you? Cryptographic computing makes computation on encrypted data without decrypting it possible. Fully homomorphic encryption (FHE) has become practical for ML inference. In this session, learn what FHE is, why it now works at scale on AWS, and how to get started. We will walk through two examples: encrypted ML inference on medical images and financial transactions, and encrypted ETL that aggregates records without exposing individual values. Leave with a deployment blueprint built for regulated industries.",
+    "abstract": "What if you need to process sensitive data without exposing it to the system performing the computation? In this hands-on workshop, use fully homomorphic encryption (FHE) to evaluate selected ML models while inputs remain encrypted and only the data owner decrypts the results. Work through encrypted inference for medical images, spam messages, and financial transactions in Amazon SageMaker Studio, then deploy a validated FHE model bundle to an AWS Lambda serving path. Examine the architecture, trust boundaries, performance constraints, and operational trade-offs that determine where FHE is practical today. Leave with concrete AWS patterns for privacy-sensitive and regulated workloads.",
     "times": [
       {
         "id": "1790876833698001wQlB",
@@ -66331,7 +66608,7 @@
   {
     "id": "1780442250555001c2RU",
     "code": "SEC336",
-    "title": "LOTA: Detecting and preventing advanced lateral movement",
+    "title": "Living Off the Agent: Detecting and Preventing Lateral Movement in Agentic AI",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -68863,7 +69140,7 @@
   {
     "id": "1780442283939001cGAt",
     "code": "SEC411",
-    "title": "Processing PII without exposing it: KYC with Nitro Enclaves",
+    "title": "Processing PII without exposing it using AWS Nitro Enclaves for confidential computin",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -68877,7 +69154,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Know Your Customer (KYC) pipelines must screen personally identifiable informaiton (PII) against sanctions lists and politically exposed person (PEP) databases while proving to regulators that data was never exposed to unauthorized systems. Traditional Spark pipelines may give executors access to decrypted PII, creating compliance risk. In this workshop, learn how to combine AWS Nitro Enclaves with Amazon EMR on EKS to process PII at scale without exposing plaintext to the compute layer. You'll configure KMS key policies with PCR0 attestation, deploy enclave sidecars as Kubernetes DaemonSets, and run Spark jobs where only screening decisions leave the enclave boundary.",
+    "abstract": "How do you process PII data at scale without giving your data pipeline access to the plaintext? In this workshop, you combine AWS Nitro Enclaves for confidential computing with Amazon EMR on EKS to build a high-assurance screening system. AWS Nitro Enclaves provides isolated compute environments within EC2 instances to protect highly sensitive data. Encrypted records are sent to an enclave, where data is decrypted only after AWS KMS verifies the enclave's cryptographic attestation. Screening rules are applied and only the decision is returned. Plaintext never leaves the enclave boundary. The pattern generalizes to any workload processing highly sensitive data at scale.",
     "times": [
       {
         "id": "1790033113914001qYpM",
@@ -70522,6 +70799,45 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780441489698001GBDc",
+    "code": "STG207-S",
+    "title": "From Risk Signal to Recovery: Building Agentic Resilience with MCP ",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Data Protection",
+      "Generative AI",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI agents are changing cloud operations from human-led workflows to machine-speed decisions and actions. But when agents can access, modify, and move critical data, resilience must become part of the operating model, not a recovery step. Join experts from Commvault, Wiz, and AWS to explore an architecture where MCP connects security context, data intelligence, and recovery capabilities. We'll demonstrate how security signals can guide protection and recovery decisions across Amazon S3 and other cloud services, turning risk insights into governed actions. Learn the guardrails, controls, and architectural patterns behind the workflow, and leave with practical insights for bringing these capabilities into your own cloud-native environments.",
+    "times": [
+      {
+        "id": "1790025499306001CN9p",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -72875,45 +73191,6 @@
     ]
   },
   {
-    "id": "1780441489698001GBDc",
-    "code": "STG366-S",
-    "title": "From Risk Signal to Recovery: Building Agentic Resilience with MCP ",
-    "type": "Breakout session",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Architecture",
-      "Artificial Intelligence",
-      "Storage"
-    ],
-    "areasOfInterest": [
-      "Data Protection",
-      "Generative AI",
-      "Resilience"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "AI agents are changing cloud operations from human-led workflows to machine-speed decisions and actions. But when agents can access, modify, and move critical data, resilience must become part of the operating model, not a recovery step. Join experts from Commvault, Wiz, and AWS to explore an architecture where MCP connects security context, data intelligence, and recovery capabilities. We'll demonstrate how security signals can guide protection and recovery decisions across Amazon S3 and other cloud services, turning risk insights into governed actions. Learn the guardrails, controls, and architectural patterns behind the workflow, and leave with practical insights for bringing these capabilities into your own cloud-native environments.",
-    "times": [
-      {
-        "id": "1790025499306001CN9p",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
-        "duration": 60,
-        "room": "MGM Grand | Level 1 | Grand 119",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
     "id": "1785433201996001JZhX",
     "code": "STG367",
     "title": "Connect NetApp FSx for ONTAP File Data to AI Apps with S3 ",
@@ -74262,12 +74539,12 @@
     "times": [
       {
         "id": "1790963623118001QFnk",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "12:30",
-        "endTime": "12:50",
-        "startTimeFormatted": "12:30 PM",
-        "endTimeFormatted": "12:50 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "11:50",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "11:50 AM",
         "duration": 20,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
         "venue": "Wynn/Encore"
