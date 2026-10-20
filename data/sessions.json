@@ -3305,7 +3305,7 @@
   {
     "id": "1780441484865001GbTa",
     "code": "AIM251-S",
-    "title": "Give AI Agents Business Context with Genie One and Genie Ontology (sponsored by Databricks)",
+    "title": "How YipitData Builds AI-Native Analytics with AWS, Databricks, and OpenAI ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -3326,7 +3326,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Connecting an AI agent to enterprise data is easy. Getting it to understand which tables, metrics, definitions and sources to trust is much harder. In this session, learn how Genie Ontology on Databricks combines governed semantics with context automatically learned from queries, dashboards, notebooks and connected systems, then ranks that knowledge by relevance and authority while enforcing user permissions. See how Genie One uses this shared context to reason over live structured and unstructured data, call tools through MCP, take action and deliver more accurate results with less costly agentic exploration on AWS. This presentation is brought to you by Databricks, an AWS Partner.",
+    "abstract": "YipitData gives customers a self-service way to answer analytical questions using agents grounded in its data, completing custom requests in 30 minutes compared with the two weeks previously needed. This session walks through the production architecture behind that experience, combining Databricks for data governance and observability, OpenAI for reasoning and intelligence, and AWS for application resiliency and hosting.\n\nLearn how a custom agent harness connects OpenAI frontier models to Databricks SQL Warehouses, with Amazon ECS and ElastiCache supporting the application and asynchronous agent execution. We cover Unity Catalog access boundaries, dedicated agent identities, durable session state in Lakebase, and evaluations that check SQL, tool use, and answer consistency.",
     "times": [
       {
         "id": "1790034531236001pSjF",
@@ -12310,7 +12310,7 @@
   {
     "id": "1780441462316001GfXD",
     "code": "ANT334",
-    "title": "Give your AI agent the skills to master Amazon Redshift",
+    "title": "Cut your data lake and lakehouse bills: Cost and performance tuning best practices",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -12320,7 +12320,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Your AI agent can already write code, but can it explore Redshift schemas, generate optimized SQL, load data, and plan migrations? The Agent Toolkit for AWS paired with the Amazon Redshift MCP skill gives agents like Claude Code, Kiro, and Cursor deep Redshift expertise, from metadata discovery and SQL dialect handling to performance tuning and workload optimization. See a walkthrough of agent-driven Redshift workflows and leave with a setup you can try today.",
+    "abstract": "Open data lakehouses and data lakes can quietly accumulate cost through uncompacted small files, over-partitioned tables, and inefficient scan patterns. In this session, learn advanced cost savings and tuning techniques on AWS that cut storage and compute costs while improving performance. We cover partitioning strategies, predicate pushdown optimizations, compaction tradeoffs, graviton efficiencies, intelligent-tiering storage and how to eliminate common anti-patterns that inflate your bill. Learn from practical examples of real-world workloads on Amazon S3 Tables, Amazon Athena, Amazon Redshift, Amazon S3, Amazon EMR and leave with a comprehensive playbook to lower you analytics costs.",
     "times": [
       {
         "id": "1790025522659001CW13",
@@ -14136,7 +14136,7 @@
   {
     "id": "1780441462686001GM8E",
     "code": "API201",
-    "title": "Modernize legacy applications into serverless event-driven systems",
+    "title": "Modernize legacy applications into cloud native event-driven systems",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -14152,7 +14152,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Join us to learn how to plan and automate your modernization. We show how to reverse-engineer architecture and dependencies from existing code, then generate a serverless, event-driven target. See how teams move from monoliths to event-driven microservices in weeks, and make their applications agent-ready in the process.",
+    "abstract": "Join us to learn how to plan and automate your application modernization using agentic tools. We show how to reverse-engineer your applications and dependencies from existing code, then generate a event-driven cloud native target architecture. See how teams move from monoliths to event-driven microservices, deployed as containers or serverless applications, in weeks, and make your applications agent-ready in the process.",
     "times": [
       {
         "id": "1790025538180001CZDO",
@@ -17574,7 +17574,7 @@
   {
     "id": "1780441485988001Gs2V",
     "code": "ARC337-S",
-    "title": "Architecting for six nines with multi-region hedging (sponsored by Capital One)",
+    "title": "Architecting for five nines with multi-region: Capital One’s journey",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -17594,7 +17594,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Traditional disaster recovery assumes you can afford a recovery window. At six nines, your entire annual downtime budget is 31 seconds, a single failover event can consume it all. In this session, learn how to eliminate recovery windows entirely and make regional impairments invisible to customers without operational intervention. Explore a decision framework for selecting multi-region topologies based on simultaneous failure tolerance, data consistency, and cost tradeoffs. See how cell-based architecture limits blast radius and continuous fault injection proves resilience before incidents occur. Walk away with a pattern selection model you can apply to your own mission-critical workloads to move beyond failover toward true continuous availability. This presentation is brought to you by Capital One, an AWS Partner.",
+    "abstract": "Five nines of availability leaves an annual downtime budget of just 5.2 minutes, meaning a single regional failover can consume your entire year. Traditional disaster recovery models simply don't scale to meet this standard. In this session, discover how Capital One evolved its multi-region architectures to sustain regional outages while supporting critical production workloads. We share lessons learned from building and operating active-active topologies, focusing on real-world data consistency models, fault isolation via cell-based architecture, and continuous fault-injection testing. Attendees will walk away with a field-tested matrix for architecting high-availability cloud workloads.",
     "times": [
       {
         "id": "1790025506191001CBFb",
@@ -18856,32 +18856,6 @@
         "venue": "Venetian"
       }
     ]
-  },
-  {
-    "id": "1780441486679001Gssl",
-    "code": "BIZ211-S",
-    "title": "You cannot write the eval for a failure you have not seen yet (sponsored by Arize AI)",
-    "type": "Breakout session",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Monitoring & Observability",
-      "SaaS"
-    ],
-    "roles": [
-      "Business Executive",
-      "DevOps Engineer",
-      "Developer / Engineer"
-    ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "LLM-as-a-judge works beautifully when you already know what you're looking for. You write the rubric, validate it against human labels, and it catches the failure you designed it to catch. But agents in production don't fail the way you anticipated. They fail as they meet new tools, new users, and environments that shifted underneath them, and every new failure arrives after the rubric was written. This talk argues the evaluation layer itself must become agentic. Instead of specifying a metric, you describe the behavior you want, and a judge with tool access inspects the trace, finds the spans that matter, classifies what went wrong, and generates labels you can monitor against. We'll cover why this became viable only recently, where it fails, and how to keep an agentic judge honest against human labels, so you know when to reach for one and how to validate it. This presentation is brought to you by Arize AI, an AWS Partner.",
-    "times": []
   },
   {
     "id": "1780442266865001cvNl",
@@ -37822,8 +37796,8 @@
       "DevOps Engineer",
       "Developer / Engineer"
     ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Discover Kiro, the IDE for structured agentic development. In this builder’s session, explore how to use Kiro as your intelligent partner - helping to understand complex codebases, crystalize detailed requirements, and deliver quality solutions at unprecedented speed. You will iterate with Kiro to finalize your detailed design, before using Kiro to orchestrate AI agents and implement a fully working solution – all while maintaining complete control throughout the development process. You must bring a laptop to participate in this session.",
     "times": [
       {
@@ -37836,7 +37810,7 @@
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Room 104",
-        "venue": "Caesars Forum"
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -41522,8 +41496,8 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "Come with your team of four or join a team and meet new friends in the session. Are you ready to build and deploy agentic AI solutions on AWS? We provide hands-on environments where you can architect intelligent and production-ready agents. How do you orchestrate multi-step agent reasoning with tool use? How can you design agents that plan, act, and self-correct autonomously? Whether you are new to AWS or a seasoned Cloud Ninja, this Jam is your chance to demonstrate your skills and learn new ones. Structured for all experience levels, our sessions include guided exercises, helpful clues, and support from AWS experts to accelerate your agentic AI expertise. Team up, compete with others, climb the leaderboard, and win prizes based on speed and accuracy. With expert guidance every step of the way, all you need is a computer, a desire to learn, and a competitive spirit.",
     "times": [
       {
@@ -41536,7 +41510,7 @@
         "endTimeFormatted": "12:00 PM",
         "duration": 180,
         "room": "Caesars Palace | Emperors Level | Palace Ballroom I",
-        "venue": "Venetian"
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -47849,8 +47823,8 @@
     "times": [
       {
         "id": "1792103581117001pURD",
-        "date": "2026-12-04",
-        "day": "Friday",
+        "date": "2026-12-01",
+        "day": "Tuesday",
         "startTime": "11:30",
         "endTime": "12:30",
         "startTimeFormatted": "11:30 AM",
@@ -52018,7 +51992,7 @@
   },
   {
     "id": "1780441493872001Gs6G",
-    "code": "INV510",
+    "code": "INV510-R",
     "title": "Inside Amazon S3: How a one-page design reached planetary scale",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -53902,7 +53876,7 @@
   {
     "id": "1780441484436001GLfe",
     "code": "MAM215-S",
-    "title": "One Data Foundation for Agentic AI and Real-Time Analytics on AWS (sponsored by Databricks)",
+    "title": "How S&P Global Market Intelligence Brings Genie to Capital IQ Workbench",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -53923,7 +53897,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your team is under pressure to deliver real-time applications, AI agents, operational experiences, and analytics faster—but separate databases, serving layers, and pipelines create stale data, duplicated copies, governance gaps, and scaling challenges. In this session, we’ll explore how Databricks on AWS brings these workloads together with Lakehouse//RT, Lakebase, and the Lakehouse Transactional Application Platform (LTAP). See how teams serve low-latency, high-concurrency analytics, power operational applications and AI agents with live transactional data, and analyze data where it is created—all from one platform and one governed copy of data. You’ll leave with practical architecture guidance for building reliable real-time and AI applications on AWS. This presentation is brought to you by Databricks, an AWS Partner.",
+    "abstract": "Financial professionals need answers from trusted data, fast, and they don't want to write SQL or switch tools to get them. In this session, Databricks will introduce the Genie family: Genie One, Genie Agents and Genie Ontology. Then S&P Global Market Intelligence will show how it built Genie into Capital IQ Workbench, its analytics environment for clients on Databricks and AWS. Learn how the Capital IQ Solutions team combines domain-curated Genie Agents over S&P's financial datasets with an Agent Bricks supervisor agent. The supervisor sends each question either to Genie for answers from the data or to a Knowledge Assistant for answers from documentation. All of it is governed end to end by Unity Catalog and embedded right in the Workbench experience. Attendees will leave with a blueprint for delivering governed, conversational data products to customers at scale. ",
     "times": [
       {
         "id": "1790025507856001CQzz",
@@ -66204,8 +66178,8 @@
       "Cloud Security Specialist",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Your security team defines the controls, and your product teams build and deploy AI applications across dozens or hundreds of AWS accounts. This chalk talk shows how to enforce AI guardrails centrally without making your security team the bottleneck. We walk through an architecture for applying Amazon Bedrock Guardrails through controls at the AWS Organizations, account, and AI infrastructure layers. You see how controls inherit across those layers, which limitations to plan for, and how tiered governance lets teams tailor controls to their applications while the organizational baseline stays enforced.",
     "times": [
       {
@@ -66218,7 +66192,7 @@
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Chopin 4",
-        "venue": "Caesars Palace"
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -68007,7 +67981,7 @@
   {
     "id": "1780442222481001cQBa",
     "code": "SEC373",
-    "title": "Building a flexible and scalable AWS account access strategy with IAM Identity Center",
+    "title": "AWS and Nu: Building scalable architecture using IAM Account access manager",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -68021,7 +67995,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AWS Identity services are evolving to meet the demands of modern, multi-account environments. Learn how to use IAM Account Access Manager together with IAM Identity Center multi-Region replication and your existing IAM primitives to enable rule-based role assignment at scale across your organization; without recreating your roles or provisioning model. We'll then walk through how a customer migrated to this architecture, building a resilient identity solution across multiple AWS Regions and account structures without compromising security.",
+    "abstract": "As organizations grow across teams, AWS accounts, and countries, workforce access often becomes a bottleneck. This is especially true when you depend on existing IAM roles you don't want to re-engineer. Learn how IAM account access manager helps you assign your existing IAM roles to users and groups in IAM Identity Center, give native AWS CLI access to your workforce, and carry each user's identity into every role session, all on a resilient architecture. Then see how Nu, the largest digital bank in Latin America, modernized a decade-old authorization model across 11 organizations and hundreds of AWS accounts to securely scale for more than 140 million customers.",
     "times": [
       {
         "id": "1790025552998001CoJV",
