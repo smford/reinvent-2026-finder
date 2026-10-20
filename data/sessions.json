@@ -1249,6 +1249,43 @@
     ]
   },
   {
+    "id": "1790794144474001JL79",
+    "code": "AIM139-S",
+    "title": "From AI Pilots to Enterprise Impact: NJIT's Blueprint for AI Governance and Adoption",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Many organizations are racing to implement AI use cases but struggle to scale beyond isolated experiments. New Jersey Institute of Technology (NJIT) faced a similar challenge, with AI activity emerging across the institution without a unified strategy, governance model or operating framework. In partnership with Kyndryl, NJIT established an AI governance strategy, operating model and leadership alignment process that transformed fragmented experimentation into a coordinated, institution-wide programme. Join NJIT, Kyndryl and AWS to learn how governance, stakeholder alignment and dedicated operating models can accelerate AI innovation with confidence. Discover why successful AI transformation begins with strategy before technology, and how organisations can move from experimentation to scalable impact.",
+    "times": [
+      {
+        "id": "1792452209294001pZ7d",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442259472001c9p2",
     "code": "AIM201",
     "title": "What's new with the AWS Sustainability service",
@@ -11096,7 +11133,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Across Amazon, teams are solving challenges once considered impossible. From AI agents that autonomously resolve millions of customer interactions to viewing experiences that transcend the physical world. Prime Video reveals how they built a live sports Digital Twin of NBA games, using generative AI to create virtual cameras, on an architecture spanning Bedrock, Kiro, and EKS, that delivers physically impossible viewing angles and camera placement. Then hear how Amazon Pharmacy autonomously resolves 78% of monthly contacts via a multi-agent architecture on Bedrock Agents and Connect Customer, maintaining HIPAA compliance, and increased positive consumer sentiment. Two different use cases, both only made possible by leveraging AI tools and technology.",
+    "abstract": "Across Amazon, teams are solving challenges once considered impossible: from deploying AI agents that autonomously resolve millions of customer interactions, to creating viewing experiences that transcend the limitations of the physical world, to delivering real-time insights in milliseconds. In this session, hear from a variety of Amazon businesses as they share how AWS services like Amazon Bedrock, Amazon AgentCore, and Amazon SageMaker transform ambitious ideas into production-ready solutions at unprecedented scale. Learn the architectural patterns and AI-native practices that enable Amazon builders to achieve what was previously unimaginable, and how you can too.",
     "times": [
       {
         "id": "1790025518150001CxO1",
@@ -18844,20 +18881,7 @@
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "LLM-as-a-judge works beautifully when you already know what you're looking for. You write the rubric, validate it against human labels, and it catches the failure you designed it to catch. But agents in production don't fail the way you anticipated. They fail as they meet new tools, new users, and environments that shifted underneath them, and every new failure arrives after the rubric was written. This talk argues the evaluation layer itself must become agentic. Instead of specifying a metric, you describe the behavior you want, and a judge with tool access inspects the trace, finds the spans that matter, classifies what went wrong, and generates labels you can monitor against. We'll cover why this became viable only recently, where it fails, and how to keep an agentic judge honest against human labels, so you know when to reach for one and how to validate it. This presentation is brought to you by Arize AI, an AWS Partner.",
-    "times": [
-      {
-        "id": "1790025475738001Cc3x",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
+    "times": []
   },
   {
     "id": "1780442266865001cvNl",
@@ -39971,7 +39995,7 @@
   {
     "id": "1780441470557001G5s8",
     "code": "DVT338",
-    "title": "Make your multi-agent orchestration more deterministic",
+    "title": "Scale agentic development with automated orchestration",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -39988,7 +40012,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "As agents work on longer, more complex tasks, the context window fills up and the agent can lose track of its plan and execution steps. The manual setup required to get multi-agent orchestration to reliably complete these kinds of tasks can be complex and brittle. In this session, you'll learn best practices, tools, and patterns that power users have perfected to set up and scale your multi-agent workloads and take on hours-long tasks with confidence.",
+    "abstract": "As you delegate more complex development work to AI agents, manual coordination can limit how much you can take on. Learn how to automate multi-agent orchestration to reduce supervision while maintaining your quality standards. This session explores patterns for dividing work among focused agents and building reusable processes that include verification. Through examples from the Kiro team and HERE Technologies, see how these principles apply in Kiro workflows and learn the trade-offs in context management, execution time, and cost.",
     "times": [
       {
         "id": "1790025478854001CD11",
