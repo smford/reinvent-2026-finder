@@ -1,5 +1,114 @@
 [
   {
+    "id": "1789513462538001LdND",
+    "code": "ACT108",
+    "title": "AWS re:Invent 5K Race",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Allegiant Stadium",
+    "campus": "Allegiant Stadium Campus",
+    "abstract": "Get ready for a 5K unlike any other. Skip the traditional point to point course. Instead, you will conquer 3.1 miles in six high energy laps around the perimeter of Allegiant Stadium alongside the global AWS community. Completely free and open to all paces. This fun run supports AWS customer, the Michael J. Fox Foundation for Parkinson's Research. Sign up now at the attendee experience desk located in the artist foyer at Venetian.",
+    "times": [
+      {
+        "id": "1792597300876001RpE4",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "06:30",
+        "endTime": "08:30",
+        "startTimeFormatted": "06:30 AM",
+        "endTimeFormatted": "08:30 AM",
+        "duration": 120,
+        "room": "Allegiant Stadium",
+        "venue": "Allegiant Stadium"
+      }
+    ]
+  },
+  {
+    "id": "1792116355358001x1T9",
+    "code": "ACT153",
+    "title": "Networking Reception at Canonita, sponsored by CodeRabbit",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Join us at Canonita in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by CodeRabbit! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.",
+    "times": []
+  },
+  {
+    "id": "1792116475179001j2tj",
+    "code": "ACT154",
+    "title": "Networking Reception at Delmonico, sponsored by NVIDIA",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Join us at Delmonico in the Palazzo, Restaurant Row for a networking reception sponsored by NVIDIA! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
+    "times": []
+  },
+  {
+    "id": "1792116549080001L5ti",
+    "code": "ACT155",
+    "title": "Networking Reception at Flight Club, sponsored by AMD",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Join us at Flight Club in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by AMD! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
+    "times": []
+  },
+  {
+    "id": "1792116618219001Lqr7",
+    "code": "ACT156",
+    "title": "Networking Reception at Canonita, sponsored by Atos",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Join us at Canonita in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by Atos! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
+    "times": []
+  },
+  {
+    "id": "1792116680883001AAnj",
+    "code": "ACT157",
+    "title": "Networking Reception at Flight Club, sponsored by CockroachDB",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "TBD",
+    "campus": "Other / Virtual",
+    "abstract": "Join us at Flight Club in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by CockroachDB! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
+    "times": []
+  },
+  {
     "id": "1780441488667001GjOD",
     "code": "AIM101-S",
     "title": "Edge-to-Action: Powering Agentic AI via Cloudera's Anywhere Cloud (sponsored by Cloudera)",
@@ -794,7 +903,7 @@
   {
     "id": "1780441486214001GkYl",
     "code": "AIM124-S",
-    "title": "ServiceNow: The AI Control Tower for Business Reinvention (sponsored by ServiceNow)",
+    "title": "ServiceNow: The Super Intelligence Control Tower for Business Reinvention ",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -813,7 +922,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI without workflows is just expensive advice. The next generation of AI leaders are moving beyond disconnected copilots and isolated use cases to reinvent how work gets done. Join ServiceNow to learn how the AI Control Tower for Business Reinvention helps organizations govern AI, connect enterprise data, and orchestrate work across every agent, model, and workflow. Discover how AI that thinks and workflows that act enable enterprises to deploy AI quickly while maintaining trust, security, and control. This presentation is brought to you by ServiceNow, an AWS Partner.",
+    "abstract": "AI without workflows is just expensive advice. The next generation of AI leaders are moving beyond disconnected copilots and isolated use cases to reinvent how work gets done. Join ServiceNow to learn how the Super Intelligence Control Tower for Business Reinvention helps organizations govern AI, connect enterprise data, and orchestrate work across every agent, model, and workflow. Discover how AI that thinks and workflows that act enable enterprises to deploy AI quickly while maintaining trust, security, and control. This presentation is brought to you by ServiceNow, an AWS Partner.",
     "times": [
       {
         "id": "1790025501267001C4n8",
@@ -2207,7 +2316,7 @@
   {
     "id": "1780441474038001Gdkt",
     "code": "AIM2214",
-    "title": "Accelerating AI with Trusted Data on AWS Marketplace",
+    "title": "Accelerating Applications with Data on AWS Marketplace",
     "type": "Breakout session",
     "level": "",
     "topics": [
@@ -2219,7 +2328,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Every enterprise building AI applications hits the same wall: procuring third-party data and licensed content takes months of negotiations, bespoke contracts, and custom integrations. In this session, learn how AWS Marketplace is making it easier to discover, subscribe to, and access the trusted datasets and content your AI applications need, through the same procurement experience you already use. See how buyers can find the right data faster, subscribe with consolidated billing, and connect to providers who deliver data on their terms, going from data discovery to integration in minutes instead of months.",
+    "abstract": "Every enterprise building AI applications hits the same wall: procuring third-party data and licensed content takes months of negotiations, bespoke contracts, and custom integrations. In this session, learn how you can more easily discover, subscribe to, and access the datasets and content your applications and AI workloads demand.",
     "times": [
       {
         "id": "1792424881458001aTEg",
@@ -2279,21 +2388,21 @@
       "Monitoring & Observability"
     ],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "You're accountable for what your AI agents do, but they act faster than anyone can review. So capable agents wait while the work piles up. There's a way out of that bind. Join this panel for a candid discussion of how you build trust across the agent lifecycle: scope the agent to its job, know which agents are acting, bound what it does and says, and see what it did after. Then learn how provable bounds let you set how far an agent goes, and prove it stays there. Come ready to question your own systems. Leave able to answer.",
     "times": [
       {
         "id": "1790025516953001CfN4",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Blue Theater",
-        "venue": "MGM Grand"
+        "room": "Caesars Palace | Promenade Level | Roman I",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -8237,7 +8346,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations deploying AI face a critical decision at every step. Which service handles which job, and will those decisions hold up as you scale? This chalk talk delivers an opinionated decision framework for choosing between Amazon Bedrock and Amazon SageMaker AI, and when to combine both for unified security, governance, and models that move between services without rearchitecting. We cover model access patterns (API, custom model import, marketplace), deployment trade-offs between self-managed and fully managed inference, and cost-performance optimization at production scale.",
+    "abstract": "Organizations deploying AI workloads face a critical decision at every step: which AI service handles which job, and will it hold up at scale? This chalk talk delivers an opinionated framework for choosing between Amazon Bedrock and Amazon SageMaker AI, and when to use them together. We'll ground it in a real example: an agentic coding system pairing a Bedrock frontier model for complex coding with a fine-tuned open weight model on SageMaker AI for high-volume automated PR reviews. It runs on AgentCore, which supports any model or provider mix, including Bedrock and SageMaker AI, for cost- and performance-optimized architectures.",
     "times": [
       {
         "id": "1790025504943001Cc3H",
@@ -11040,7 +11149,9 @@
       "Artificial Intelligence",
       "Developer Tools"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Amazon Builds on AWS"
+    ],
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
@@ -11069,7 +11180,9 @@
     "topics": [
       "Industry Solutions"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Amazon Builds on AWS"
+    ],
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
@@ -11129,7 +11242,9 @@
       "Business Agents",
       "Industry Solutions"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Amazon Builds on AWS"
+    ],
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
@@ -11628,14 +11743,14 @@
     "times": [
       {
         "id": "1790025478288001CKyO",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -11773,14 +11888,14 @@
     "times": [
       {
         "id": "1790025550154001C5uC",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "05:00 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -11831,12 +11946,12 @@
     "times": [
       {
         "id": "1790025525061001CHhR",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
         "venue": "MGM Grand"
@@ -18858,6 +18973,32 @@
     ]
   },
   {
+    "id": "1780441486679001Gssl",
+    "code": "BIZ211-S",
+    "title": "You cannot write the eval for a failure you have not seen yet (sponsored by Arize AI)",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability",
+      "SaaS"
+    ],
+    "roles": [
+      "Business Executive",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "LLM-as-a-judge works beautifully when you already know what you're looking for. You write the rubric, validate it against human labels, and it catches the failure you designed it to catch. But agents in production don't fail the way you anticipated. They fail as they meet new tools, new users, and environments that shifted underneath them, and every new failure arrives after the rubric was written. This talk argues the evaluation layer itself must become agentic. Instead of specifying a metric, you describe the behavior you want, and a judge with tool access inspects the trace, finds the spans that matter, classifies what went wrong, and generates labels you can monitor against. We'll cover why this became viable only recently, where it fails, and how to keep an agentic judge honest against human labels, so you know when to reach for one and how to validate it. This presentation is brought to you by Arize AI, an AWS Partner.",
+    "times": []
+  },
+  {
     "id": "1780442266865001cvNl",
     "code": "BIZ212-S",
     "title": "Engineering AI Agents You Can Trust in Production (sponsored by Workato)",
@@ -20741,7 +20882,7 @@
   {
     "id": "1780441487581001G8Xq",
     "code": "CMP204-S",
-    "title": "Reshaping Agentic AI and Business Analytics with Databricks on Intel (sponsored by Intel)",
+    "title": "Agentic AI on AWS with Intel® Xeon® 6 (sponsored by Intel)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -26539,7 +26680,7 @@
   {
     "id": "1780442260783001cQnv",
     "code": "CON207",
-    "title": "Simplify ingress networking for applications on Amazon ECS",
+    "title": "Amazon ECS Gateway: Managed ingress for containerized applications",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -26554,7 +26695,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Exposing containerized applications on Amazon ECS often requires networking expertise, with every team creating target groups, writing routing rules, and managing listeners for each service. This slows teams down, inflates cost, and makes consistent networking standards hard to enforce. In this session, learn how Amazon ECS removes that complexity so you can run highly available web applications with minimal configuration and lower cost while keeping full visibility into the resources in your account. Join us to see where ingress networking on Amazon ECS is headed.",
+    "abstract": "Amazon ECS Gateway is a new account-level resource that simplifies ingress for containerized applications by provisioning and managing networking infrastructure in your account. In this lightning talk, learn how platform teams define organizational networking standards once on a gateway and associate it with one or more clusters, creating a centralized way to govern how traffic reaches ECS services. Service teams simply opt in and inherit those standards with no networking expertise required. We cover host-based routing with Application Load Balancers, how up to 25 services can share an ALB to optimize cost, and how ECS provisions, scales, and removes ALBs as services connect and disconnect. We close with gateway routes, ALB metrics, and service action logs that give you full visibility into every operation ECS performs on your behalf.",
     "times": [
       {
         "id": "1790963621803001QIhN",
@@ -44078,14 +44219,14 @@
     "times": [
       {
         "id": "1790025535293001CJoi",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -44113,14 +44254,14 @@
     "times": [
       {
         "id": "1790025512692001C60t",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Blue Theater",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -46076,26 +46217,27 @@
   {
     "id": "1780442267912001cGIF",
     "code": "IND3309-S",
-    "title": "Inside Bayer’s AI agent: Interpretability as governance (sponsored by Thoughtworks)",
+    "title": "Beyond Search: How Gilead Built a Multi-Agent AI That Reasons Like a Scientist",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
+      "Analytics",
       "Artificial Intelligence",
       "Industry Solutions"
     ],
     "areasOfInterest": [
       "Agentic AI",
       "Generative AI",
-      "Governance, Risk & Compliance"
+      "Machine Learning"
     ],
     "roles": [
-      "Academic / Researcher",
       "Business Executive",
-      "IT Executive"
+      "Data Scientist",
+      "Solution / Systems Architect"
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Enterprise AI governance has focused on controls around agents—identity, permissions, sandboxing, and audit trails. But what happens inside the model? This session explores a live production system: Bayer’s PRINCE research assistant, built with Thoughtworks on AWS to give researchers access to 18,000+ preclinical study reports. We’ll share how Thoughtworks’ AI Research Labs applies mechanistic interpretability research, published at ICML, NeurIPS, and AAAI, to understand why the assistant answers, cites, or refuses queries. See how sparse autoencoders identify internal circuits behind refusal, how targeted steering changes behavior without retraining, and why this matters in regulated environments. Leave with a practical framework for making interpretability a core component of AI governance. This presentation is brought to you by Thoughtworks, an AWS Partner.",
+    "abstract": "Gilead is pivoting from virology leader to oncology and immunology powerhouse, targeting 10+ transformative therapies by 2030. With Thoughtworks, Gilead built an AI co-scientist on AWS that reasons across 1M+ ELN assay records, 3M+ internal documents and external literature. It reads assay, compound and target data like a scientist, returning one cited answer with conflicts flagged. Scientists now reach evidence-backed decisions in minutes, not days. Gilead and Thoughtworks share how the solution earned scientists' trust.",
     "times": [
       {
         "id": "1790033122255001qe0X",
@@ -58385,7 +58527,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Deploying workloads across AWS accounts, whether across an organization, between business units, or alongside acquired entities, creates connectivity complexity that traditional networking options don't cleanly solve. You face IP coordination headaches, overly broad network surface exposure, and heavy per-resource infrastructure just to share a service privately. Bidirectional sharing doubles the problem. In this session, build a private service fabric, a federated architecture where multiple organizations share services privately and bidirectionally with independent governance. Combine Amazon VPC Lattice, resource gateways, AWS PrivateLink, and AWS Resource Access Manager into a cross-organization platform covering bidirectional topologies and federated governance.",
+    "abstract": "Deploying workloads across AWS accounts - whether across an organization, between business units, or alongside acquired entities - creates connectivity complexity that traditional networking options don’t cleanly solve. You face IP coordination headaches, overly broad network surface exposure, and heavy per-resource infrastructure just to share a service privately. In this session, build a private interconnectivity fabric: a federated architecture where multiple organizations share services privately and bidirectionally with independent governance. Combine Amazon VPC Lattice, resource gateways, AWS PrivateLink, and AWS Resource Access Manager into a cross-organization platform covering bidirectional topologies and federated governance.",
     "times": [
       {
         "id": "1790025502323001Cfzb",
@@ -58812,7 +58954,7 @@
   {
     "id": "1784738621075001yfqq",
     "code": "NET321-R",
-    "title": "Securing Amazon Bedrock agents with AWS WAF and a self-healing security agent",
+    "title": "Securing Amazon Bedrock AgentCore with AWS WAF and a self-healing security agent",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -59041,7 +59183,7 @@
   {
     "id": "1780442247890001cNv2",
     "code": "NET325-R",
-    "title": "Resilient by design: Simplifying last-mile connectivity with AWS",
+    "title": "Resilient by design: Last Mile and Multicloud Interconnect",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -59058,7 +59200,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Establishing resilient private connectivity from data centers and branch offices to AWS has traditionally required weeks of partner coordination, physical cross-connects, and manual resilience configurations. Yet true resilience demands more than provisioning a second connection. In this chalk talk, we will whiteboard how AWS Direct Connect and AWS Interconnect each address location diversity, device diversity, BGP routing policy, and failover validation. Compare dedicated links with full routing control to fully managed connections with built-in redundancy, explore integration with AWS Transit Gateway and AWS Cloud WAN, and evaluate maximum versus high resiliency models. Bring your hybrid connectivity challenges.",
+    "abstract": "Connecting a data center, a branch office, or another cloud to AWS has meant weeks of partner coordination, cross-connects, BGP configuration, and redundancy you design. AWS Interconnect - last mile and AWS Interconnect - multicloud move that work into the AWS Console and API, with resilient design built in. We start with the AWS Direct Connect building blocks and whiteboard what changes. You stop ordering cross-connects, configuring BGP, and designing redundancy. You still choose where it connects: a virtual private gateway, AWS Transit Gateway, or AWS Cloud WAN. Bring your hybrid and multicloud challenges.",
     "times": [
       {
         "id": "1790025547233001CUe2",
@@ -60064,7 +60206,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Point solutions don't scale globally. Stitching together and managing dozens of them creates blind spots. In this session, discover what's new in AWS Cloud WAN and AWS Direct Connect: simplified hybrid connectivity, smarter segmentation, and real-time visibility across global traffic. See how AWS Cloud WAN's policy engine and AWS Direct Connect's latest capabilities combine to deliver seamless connectivity from anywhere to anywhere. Discover patterns to build a borderless, resilient global network.",
+    "abstract": "Point solutions don't scale globally. Stitching together and managing dozens of them creates gaps. In this session, discover what's new in AWS Cloud WAN and AWS Direct Connect: simplified hybrid connectivity, smarter segmentation, and real-time visibility across global traffic. See how AWS Cloud WAN's policy engine and AWS Direct Connect's latest capabilities combine to deliver seamless connectivity from anywhere to anywhere. Discover patterns to build a borderless, resilient global network.",
     "times": [
       {
         "id": "1790025473035001CMRV",
