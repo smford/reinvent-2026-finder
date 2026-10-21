@@ -11133,7 +11133,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Across Amazon, teams are solving challenges once considered impossible: from deploying AI agents that autonomously resolve millions of customer interactions, to creating viewing experiences that transcend the limitations of the physical world, to delivering real-time insights in milliseconds. In this session, hear from a variety of Amazon businesses as they share how AWS services like Amazon Bedrock, Amazon AgentCore, and Amazon SageMaker transform ambitious ideas into production-ready solutions at unprecedented scale. Learn the architectural patterns and AI-native practices that enable Amazon builders to achieve what was previously unimaginable, and how you can too.",
+    "abstract": "Discover how two Amazon teams tackled seemingly impossible problems with agentic AI running on AWS. Prime Video enabled content discovery at a scale where personalized curation was never feasible, building an AI discovery assistant powered by agentic search on Amazon Bedrock and AgentCore, vector-powered retrieval, and frontier and custom LLMs on SageMaker. Launched to millions of Fire TV customers, it replaced endless scrolling with conversation starters like \"hidden gems from the '80s\" and natural voice exploration. Amazon Pharmacy now autonomously resolves most of its hundreds of thousands of monthly customer contacts while staying HIPAA compliant. Specialized agents on Amazon Bedrock Agents and Amazon Connect handle billing, fulfillment, and pharmacist workflows, hand off to humans, increasing satisfaction. Learn to apply their approaches to your own seemingly impossible problems.",
     "times": [
       {
         "id": "1790025518150001CxO1",
@@ -17613,7 +17613,7 @@
   {
     "id": "1780441483600001GEca",
     "code": "ARC338-S",
-    "title": "Thousands of Databases, $250 a Month: Operating an Agentic Database Estate on AWS (sponsored by CockroachDB)",
+    "title": "Thousands of Databases, $250 a Month: Operating an Agentic Database Estate on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -17633,7 +17633,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "What if ~1,000 production-grade databases cost $250/month? Most teams pay more to keep a few clusters idle, each sized for peak load, running at 85–95% unused capacity and provisioned ticket by ticket. That model is breaking. AI agents create databases faster than platform teams can provision, secure or retire them. One engineering group grew from 13 databases to 392 in four months. At 1,000, managing one cluster at a time stops working. This session shifts focus to the estate with three architectural changes on AWS: Separate storage from compute, eliminating upfront capacity. Run isolated virtual clusters on shared hosts without creating sprawl. Use agentic operations to observe the estate and recommend actions your team approves. See live demos, a reference architecture and cost model behind the numbers. Bring your hardest questions about running stateful workloads at agent speed. This presentation is brought to you by CockroachDB, an AWS Partner.",
+    "abstract": "What if ~1,000 production-grade databases cost $250/month? Most teams pay more to keep a few clusters idle, each sized for peak load, running at 85–95% unused capacity and provisioned ticket by ticket.\n\nThat model is breaking. AI agents create databases faster than platform teams can provision, secure or retire them. One engineering group grew from 13 databases to 392 in four months. At 1,000, managing one cluster at a time stops working.\n\nThis session shifts focus to the estate with 3 architectural changes on AWS:\n- Separate storage from compute, eliminating upfront capacity.\n- Run isolated virtual clusters on shared hosts without creating sprawl.\n- Use agentic operations to observe the estate and recommend actions your team approves.\n\nSee live demos, a reference architecture and cost model behind the numbers. Bring your hardest questions about running stateful workloads at agent speed.",
     "times": [
       {
         "id": "1791223851749001GRwc",
@@ -42009,7 +42009,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "While most workloads can run in the cloud, some remain on-premises or at the edge due to low latency, local data processing, or data residency needs. AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories extend AWS services, APIs, and tools to metro areas, on-premises data centers, and the far edge. Explore how these infrastructure offerings power a broad range of hybrid cloud and edge computing use cases such as financial trading, robotic control, and manufacturing. Learn how AWS can help you accelerate migration and modernization of virtualized, containerized, and bare-metal workloads with on-premises dependencies, meet digital sovereignty needs for regulated workloads, and run generative AI applications with on-premises and edge data.",
+    "abstract": "While most workloads can run in the cloud, some remain on-premises or at the edge due to low latency, local data processing, or data residency needs. AWS Local Zones, AWS Outposts, AWS Dedicated Local Zones, and AWS AI Factories extend AWS services, APIs, and tools to metro areas, on-premises data centers, and the far edge. Explore how these infrastructure offerings power a broad range of hybrid cloud and edge computing use cases such as financial trading, manufacturing, and AI. Learn how AWS helps you run regulated workloads with edge requirements, power generative AI with edge data, and migrate workloads with on-premises dependencies, featuring AT&T's migration and modernization at scale.",
     "times": [
       {
         "id": "1790025525646001Cejx",
@@ -42310,7 +42310,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations with data residency and digital sovereignty requirements face a critical question: how do you move workloads from on-premises infrastructure to AWS Outposts without disrupting compliance posture or operations? This Level 300 session distills lessons from migrating customers to Outposts across industries, organization sizes, and migration strategies. We walk through the processes that delivered results, the quantifiable outcomes we measured, and the critical mistakes we learned to avoid. Learn how to select the right migration approach and navigate common blockers. We also cover transitioning from first-generation to second-generation Outposts hardware.",
+    "abstract": "Organizations with data residency and digital sovereignty requirements face a critical question: how do you move workloads from on-premises infrastructure to AWS Outposts without disrupting compliance posture or operations? This Level 300 session distills lessons from migrating customers to Outposts across industries, organization sizes, and migration strategies, featuring SERPRO, Brazil's federal data processing company, and AT&T, migrating telecom workloads at scale. The session walks through the processes that delivered results, the quantifiable outcomes measured, and the critical mistakes to avoid. Learn how to select the right migration approach and navigate common blockers. The session also covers transitioning from first-generation to second-generation Outposts hardware.",
     "times": [
       {
         "id": "1790025477136001Cj4T",
@@ -44565,7 +44565,7 @@
   {
     "id": "1780442228149001cVk6",
     "code": "IND306",
-    "title": "Build a unified student insight platform on Amazon Quick",
+    "title": "Build a unified student insight platform on AWS Quick",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -44583,7 +44583,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "From advisors triaging at-risk students to deans auditing course difficulty to executives tracking retention trends, every role in a university needs student-success insights, but today they use disconnected tools. In this session, learn how Amazon Quick connects to your institutional data and delivers explainable, persona-aware insights through one unified architecture. Chat Agents explain early-warning signals with cited data, automated Flows trigger interventions, and Stories generate executive-ready narratives. Explore the architecture and take away patterns for explainable, natural-language analytics on AWS. ",
+    "abstract": "Advisors triaging at-risk students, deans auditing course difficulty, executives tracking retention: every university role needs student-success insights, but the tools they rely on today are disconnected, static, and slow to surface risk before it becomes attrition. In this builders’ session, learn how to use AWS Quick to understand your institutional data and deliver explainable, persona-aware insights through one architecture. See how advisors can identify at risk students with cited data, trigger early intervention when a student’s risk score changes, and generate executive ready reports that connect student outcomes to optimized resource allocation and institutional strategy. ",
     "times": [
       {
         "id": "1790025474757001CxEi",
@@ -46730,7 +46730,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Universities lose students to inadequate academic advising: advisors are overwhelmed, and students wait days for answers. In this chalk talk, we explore the end-to-end architecture of an AI student advising agent: specifying and building the agents with Kiro on Amazon Bedrock AgentCore, connecting it to student record systems via MCP, adding guardrails for sensitive student welfare queries, and surfacing the agents to students through Amazon Quick embedded in their existing LMS. We'll whiteboard real-world advising scenarios, turn them into agents you can evaluate, and discuss the trade-offs between automation and human escalation. ",
+    "abstract": "Universities lose students to inadequate academic advising: advisors are overwhelmed, and students wait days for answers. In this chalk talk, we explore the end-to-end architecture of an AI student advising agent: specifying and building the agents with Kiro on Amazon Bedrock AgentCore, connecting it to student record systems via MCP, adding guardrails for sensitive student welfare queries, and surfacing the agents to students through AWS Quick embedded in their existing LMS. We'll whiteboard real-world advising scenarios, turn them into agents you can evaluate, and discuss the trade-offs between automation and human escalation.",
     "times": [
       {
         "id": "1790025483409001CE5Z",
@@ -51269,7 +51269,7 @@
   {
     "id": "1787375092677001xENf",
     "code": "IND422",
-    "title": "Build an AI-powered student services contact center",
+    "title": "Build an AI-powered student services with Connect Customer",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -53590,7 +53590,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Enterprise organizations running commercial software on AWS face licensing decisions that directly impact cost and compliance. This session explores strategies for optimizing Microsoft and other enterprise software licenses across AWS services including Amazon EC2 and Amazon RDS. An AWS licensing expert walks through assessment approaches and optimization levers. Then hear from a customer who ran an AWS Optimization and Licensing Assessment across three workstreams: rightsizing, Availability Zone consolidation, and database modernization, and turned a one-time assessment into an ongoing optimization practice. You'll leave with strategies you can apply to your own licensing environment.",
+    "abstract": "Migrating to the cloud and running efficiently once you're there are two different disciplines. In this session, hear ExxonMobil's firsthand journey from a large-scale lift-and-shift migration to a disciplined, data-driven optimization practice, and the role the AWS Optimization and Licensing Assessment (OLA) played both before the move and after, for ongoing optimization. Parker Caputo (ExxonMobil) shares how his team used real utilization data to right-size 800+ EC2 instances and realize over $2M in annualized savings without sacrificing performance. We'll then explore the tools and programs that make optimization an informed decision at any stage, and close on the layer most native tools can't see on their own: Microsoft licensing. Learn why licensing can represent 30–50% of Windows and SQL Server workload TCO, and how to optimize it as part of your cloud cost strategy.",
     "times": [
       {
         "id": "1790025543688001Cnvw",
@@ -66729,7 +66729,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.",
+    "abstract": "Forensics is one of the hardest, most manual parts of incident response, and it usually requires a specialist. In this code talk, we work through a realistic Kubernetes cluster compromise where an Amazon GuardDuty finding kicks off the forensics investigation. We watch as an AI agent identifies injected code, and reconstructs the attack chain. Then we tackle the real problem. Forensic evidence needs determinism and a defensible chain of custody, and generative AI is not deterministic. We show the techniques that close that gap, so an AI-driven investigation produces evidence you can defend.",
     "times": [
       {
         "id": "1790033113066001qpyf",
