@@ -1487,7 +1487,7 @@
   {
     "id": "1780441463424001GYFh",
     "code": "AIM212",
-    "title": "Best practices to build, connect and optimize agents on AgentCore",
+    "title": "Best practices for production agents on AgentCore, with Nasdaq",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -1498,7 +1498,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Ship agents fast. Connect to anything. Optimize continuously. In this session, learn best practices for the full agent lifecycle on Amazon Bedrock AgentCore. Build: go from local to production with microVM isolation, persistent memory, and any framework. Connect: access MCP servers, knowledge bases, and APIs through Gateway with automatic authentication. Optimize: trace every model call with OpenTelemetry-compatible observability and run continuous evaluations. Walk away with architectural patterns and implementation strategies to ship your first agent in minutes, not months.",
+    "abstract": "Learn best practices for the full agent lifecycle on Amazon Bedrock AgentCore. Ship agents to production with microVM isolation, persistent memory, and any framework. Use gateway to connect agents to MCP servers, knowledge bases, and APIs with automatic authentication. Trace model calls with OpenTelemetry-compatible observability and run continuous evaluations. Nasdaq joins to share how its GenAI platform empowers 10,000 employees build agents for research, coding, and workflow automation. Hear how Nasdaq scales agent runtime infrastructure and handles multi-account isolation and agent identity, and the operational patterns required to run agentic AI reliably in a regulated financial services environment.",
     "times": [
       {
         "id": "1790025525312001C5PK",
@@ -7406,7 +7406,7 @@
   {
     "id": "1780441463591001Gksh",
     "code": "AIM340",
-    "title": "Build AI agents that serve customers like your best reps on AgentCore",
+    "title": "Build agents that take orders like your best sales reps, with PepsiCo",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -7416,7 +7416,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Chatbots answer questions. Your best reps remember context, pull up the right data, take action, and resolve the issue in one conversation. This session shows how to build conversational agents on AgentCore that work the same way: low-latency streaming on Runtime, multi-turn and cross-session context with Memory, Gateway-connected tools so the agent checks orders, modifies accounts, and triggers workflows mid-conversation, guardrails that keep every interaction on-policy, and human handoff when needed.",
+    "abstract": "Your best sales reps understand what a customer means, remember the conversation, check the right systems, and close the order in one exchange. This session shows how to build conversational agents on Amazon Bedrock AgentCore that work the same way: stateful sessions on runtime, memory for multi-turn context, enterprise APIs as tools, and deterministic controls that keep the agent accurate and on task. PepsiCo shares how it built a WhatsApp ordering agent for roughly one million retailers in India, where a shopkeeper can order by text, voice note, or a photo of a handwritten list in their own language. ",
     "times": [
       {
         "id": "1790025515313001Cix4",
@@ -8343,7 +8343,7 @@
   {
     "id": "1780441464812001Gai3",
     "code": "AIM368",
-    "title": "How ISVs ship agent products to customers faster with AgentCore",
+    "title": "How ISVs ship agent products faster: Twilio and Typeform on AgentCore",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -8353,7 +8353,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Every customer now expects AI agents in your software product. But shipping agents to thousands of customers means solving multi-tenancy, per-customer isolation, identity delegation, and cost attribution before you write a single line of agent logic. That is months of plumbing, not product. In this session, hear how Twilio and Typeform built agent products on Amazon Bedrock AgentCore - serving millions of end users without building custom infrastructure. Learn how they eliminated months of infrastructure work, stayed framework-neutral, and focused engineering on what their customers actually pay for — the agent experience, not the plumbing underneath.",
+    "abstract": "Customers now expect AI agents inside the software they buy. For an ISV, shipping agents to many customers means solving multi-tenancy, per-customer isolation, identity delegation, and cost attribution before writing any agent logic. This session shows how Amazon Bedrock AgentCore handles that undifferentiated work. Twilio and Typeform join on stage to share how they built agent products on AgentCore and serve large numbers of end users without building custom infrastructure. Both stayed framework-neutral and spent their engineering effort on the agent experience rather than the plumbing beneath it. Expect specific isolation, identity, and cost-attribution patterns that move an ISV's agent product from prototype into production.",
     "times": [
       {
         "id": "1790025480650001CR1H",
@@ -14089,7 +14089,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Most teams run observability across fragmented tools: one for metrics, another for logs and traces, each with its own cost model and blind spots. In this session, you work hands-on to consolidate your observability stack on Amazon OpenSearch Service. You integrate Amazon Managed Prometheus for metrics, configure native OpenTelemetry ingestion for traces and logs, and see how a single pane of glass eliminates the context-switching that slows down investigations. Then you optimize for cost and scale: warm tiering, direct query for infrequently accessed data, and O-series instances for log-heavy workloads. Finally, you use AI-powered investigation to perform natural-language root-cause analysis across your unified telemetry and monitor your agents' behavior in production. You leave with a working observability setup that scales, costs less, and investigates faster.",
+    "abstract": "As AI adoption accelerates, organizations need insight into who consumes Amazon Bedrock and how spend maps to business outcomes. In this builders' session, get hands-on with the latest Bedrock cost management capabilities. Tag API calls for granular cost attribution and learn how to track costs as they happen in Billing and Cost Management. Then query new product metadata in CUR2 and visualize cost-per-million-token trends in CUDOS. Leave with a framework to align AI spend to business outcomes.",
     "times": [
       {
         "id": "1790025504798001CsSE",
@@ -19314,7 +19314,7 @@
   {
     "id": "1780442236230001cn8Y",
     "code": "BIZ305",
-    "title": "Security → Zero-Trust Identity & Data Protection in the Agentic Era",
+    "title": "Security → Zero-Trust Identity & Data Protection in Amazon Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -19324,7 +19324,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Security reviews stall AI rollouts more than any capability gap, and agentic AI raises the bar. This chalk talk goes past \"is it secure?\" to the architecture that gets a CISO to yes. We'll whiteboard the full identity path: SSO through providers like Okta and Ping, with end-user identity propagated to the data so authorization is enforced per user, in real time, across 1P AWS and 3P sources. Then we extend that trust to agents: agent identity, deterministic policy checks on every tool call, and data protection—Purview DLP, default guardrails, deny-by-default, full SIEM auditability.",
+    "abstract": "Security reviews stall AI rollouts more than any capability gap, and agentic AI raises the bar. This chalk talk goes past \"is it secure?\" to the architecture that gets a CISO to yes for Amazon Quick. We'll whiteboard the full identity path in Quick: SSO through providers like Okta and Ping, with end-user identity propagated to the data so authorization is enforced per user, in real time, across 1P AWS and 3P sources. Then we extend that trust to Quick agents: agent identity, deterministic policy checks on every tool call, and data protection, including Purview DLP, default guardrails, deny-by-default, and full SIEM auditability.",
     "times": [
       {
         "id": "1790025490647001Cxgj",
@@ -31841,7 +31841,7 @@
   {
     "id": "1780442237415001cCre",
     "code": "COP331-R",
-    "title": "AIOps strategy: foundations before firefighting",
+    "title": "AIOps strategy: foundations before capabilities",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -31860,7 +31860,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Most teams turn on AI-driven operations before deciding what they actually want it to handle, investment is racing ahead of maturity. This chalk talk works through an AIOps strategy at the whiteboard, using real support-case patterns showing that most critical failures are catchable before they reach production. We map the two halves that teams miss: using AI to run operations and the operational foundations that let AI scale safely, such as cost, security, and organizational readiness. We discuss what to automate, what stays human, and where agents earn autonomy. Leave with a foundational framework and a maturity checklist for your team.",
+    "abstract": "Most teams turn on AI-driven operations before thinking about how they will scale. This chalk talk works through an AIOps strategy at the whiteboard, using real support-case patterns showing that most critical failures are catchable before they reach production. We discuss areas your strategy should consider that will allow you to scale to additional capabilities more quickly and where Frontier Agents could help. Leave with a foundational framework and a maturity discussion for your team.",
     "times": [
       {
         "id": "1790025545235001Cjud",
@@ -32174,7 +32174,7 @@
   {
     "id": "1780442237583001cOGX",
     "code": "COP339",
-    "title": "Follow that log from pipeline to intelligence",
+    "title": "Logging strategy for agentic investigations",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -32190,7 +32190,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "You've got logs flowing from everywhere, but when an issue spans multiple accounts or regions, you're stuck jumping between consoles trying to piece together what happened. In this chalk talk, we'll whiteboard the end-to-end path a log takes from ingestion pipeline to a unified data layer to log analytics. We'll break down where visibility gaps form and why. Learn how you can connect these layers to trace a problem across your entire environment without losing context.",
+    "abstract": "Most logging strategies get built one team at a time. Each team picks its own destination and format, so an AI agent investigating an incident has to search across accounts and reason over a dozen schemas. In this chalk talk, we'll whiteboard a CloudWatch logging design that centralizes logs and enriches them on ingest with service context, so your agents start every investigation with what they need. We'll debate what to transform at ingest versus keep raw, and which logs earn hot storage. Bring the log setup you run today and we'll redraw it with you.",
     "times": [
       {
         "id": "1790025544404001ChDX",
@@ -32821,7 +32821,7 @@
   {
     "id": "1780442227450001cFhR",
     "code": "COP356",
-    "title": "Evaluate and ship AI agents confidently",
+    "title": "Catch bad agent behavior before your users do",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -32839,7 +32839,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Amazon CloudWatch Omni converges application and AI agent observability into one AI-powered experience built on open standards. In this session, instrument an agent with a popular framework and trace every LLM call, tool invocation, and reasoning step in the Trace Explorer. Run built-in evaluators to score responses for correctness, coherence, and faithfulness, then test prompt variations in the Playground and compare configurations against golden datasets with Experiments. Explore auto-discovered topology, correlate agent behavior with downstream services, and investigate issues with AWS DevOps Agent using natural language. Leave with a working observability pipeline from IDE to production and the skills to evaluate, debug, and operate agents from one pane.",
+    "abstract": "AI agents are non-deterministic. The same prompt can call the wrong tool, pick up bad context, or quietly degrade and you won't know until users feel it. Amazon CloudWatch Omni gives agents a first-class observability home built on open standards. Instrument an agent and trace every LLM call, tool invocation, and reasoning step. Run built-in evaluators to score response quality, then compare configurations against golden datasets. Correlate agent behavior with the services it depends on and investigate in natural language. Leave able to evaluate, debug, and operate agents with confidence.",
     "times": [
       {
         "id": "1791575951674001tk6v",
@@ -32858,7 +32858,7 @@
   {
     "id": "1780442280072001cN7R",
     "code": "COP357",
-    "title": "Monitor AI workloads and agents end to end ",
+    "title": "Observe AI agents and workloads end to end",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -32875,7 +32875,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Get hands-on with Amazon CloudWatch Omni, the next evolution of CloudWatch that converges application and agent observability into one AI-powered solution. Instrument an agent, trace its execution, run evaluations, and experiment with prompts and models in your IDE. Explore auto-discovered topology, golden metrics, and AI-powered investigation with AWS DevOps Agent. ",
+    "abstract": "Get hands-on with Amazon CloudWatch Omni, the next evolution of CloudWatch that monitors your AI stack end to end, from the agent all the way down to the self-hosted inference workload serving it, converging application and agent observability into one AI-powered solution. Instrument an agent, trace its execution, and run evaluations against golden datasets. When something degrades, explore auto-discovered topology and golden metrics to pinpoint where latency or errors creep in. Navigate from alarm to the responsible inference workload, and let Omni's AI-powered investigation trace the root cause.",
     "times": [
       {
         "id": "1791224279582001tCGZ",
@@ -43209,7 +43209,7 @@
   {
     "id": "1780442221624001cqr7",
     "code": "HMC322",
-    "title": "How Fidelity built a cloud-agnostic AI Gateway",
+    "title": "How Uber brought AWS into its agentic AI stack across clouds",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -43229,7 +43229,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Fidelity Asset Management runs 40+ LLM models across AWS, Azure, and GCP, serving 100K+ daily requests to 20 business units. Rather than building separate integrations per provider, they built a cloud-agnostic AI gateway that provides a single abstraction layer for model access, governance, and observability. Learn how Fidelity Asset Management implemented three-tier rate limiting, centralized audit logging, fine-grained access controls, and real-time cost tracking across all providers without sacrificing developer velocity. Attendees will leave with a reusable pattern for building governed, multi-cloud AI platforms in regulated industries.",
+    "abstract": "Uber runs 100+ LLM-powered use cases such as rider support, fraud detection, developer tools, on a cloud-native AI platform built outside AWS. As it scales toward agentic workloads, Uber is bringing AWS in for Bedrock and AgentCore, creating a deliberately multicloud architecture, with agents that reason, retrieve, and act across data and services on more than one cloud. That transition surfaces challenges no single-cloud team hits. Federating identity across providers, orchestrating agents whose tools and data span clouds, and enforcing one governance and observability layer over all model traffic. In this session, Uber shares how the team weighed build-vs-buy for agent orchestration, memory, and observability, and the cloud-agnostic patterns they used to add a cloud without re-platforming. Walk away with a blueprint for extending an AI platform across clouds for agentic workloads.",
     "times": [
       {
         "id": "1791224292292001Zaqu",
@@ -43295,21 +43295,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "Marriott's guest-facing AI travel search, Ask Bonvoy, runs across two clouds by design: Gemini Flash on GCP handles conversational reasoning, while AWS powers the agentic backbone — EKS for orchestration, Aurora PostgreSQL with pgVector for RAG retrieval, and Bedrock Guardrails for real-time safety. This split lets Marriott pick the best model for the job without re-platforming, and scale across 9,000+ properties. In this lightning talk, learn how Marriott's engineering team wired a multi-cloud agentic architecture with model portability built in — and walk away with cloud-agnostic patterns for inference routing, agentic orchestration, and safety guardrails across clouds.",
     "times": [
       {
         "id": "1791837976505001orXn",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "11:30",
-        "endTime": "11:50",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "11:50 AM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:30",
+        "endTime": "16:50",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "04:50 PM",
         "duration": 20,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
-        "venue": "Wynn/Encore"
+        "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -48039,12 +48039,12 @@
         "id": "1790025500433001Cuno",
         "date": "2026-12-04",
         "day": "Friday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -53443,7 +53443,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Join us for the CEO Keynote at AWS re:Invent 2026. Hear the latest news and announcements, insights from AWS leaders, and stories from customers building what's next. Full session details coming soon.",
+    "abstract": "Join AWS CEO Matt Garman for the re:Invent 2026 CEO Keynote as he shares the latest innovations powering the agentic era. From AI infrastructure and inference to data, agent platforms, and the software agents AWS is building, see how AWS gives you the depth, breadth, and integration to build what's next with new announcements and stories from customers already doing it.",
     "times": [
       {
         "id": "1791838351591001YtM7",
@@ -54974,7 +54974,7 @@
   {
     "id": "1780442281828001cBdC",
     "code": "MAM307",
-    "title": "The EBA cloud party: compete to build agentic migration solutions",
+    "title": "Race to migrate and modernize with agentic AI at the EBA cloud party",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -55011,7 +55011,7 @@
   {
     "id": "1780442281885001czDv",
     "code": "MAM308-R",
-    "title": "Race to migrate and modernize with agentic AI at the EBA cloud party",
+    "title": "Drive multi-server migrations from discovery to cutover with AWS Transform",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
