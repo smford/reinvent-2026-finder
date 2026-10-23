@@ -37643,14 +37643,14 @@
     "times": [
       {
         "id": "1790963623833001QL6Z",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "room": "MGM Grand | Level 1 | Grand 117",
         "venue": "Caesars Forum"
       }
     ]
@@ -49934,7 +49934,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Contact center AI agents require critical architecture decisions around tool integration, voice prompt engineering, and quality evaluation. In this chalk talk, we'll explore when to use first-party tools, when AWS Lambda gives you more flexibility, and when MCP integrations make sense—with latency, operational complexity, and compliance requirements as the deciding factors. We’ll discuss patterns for voice prompt engineering with Amazon Connect Customer AI agents and automated evaluation pipelines using Contact Lens and generative AI to score 100% of interactions. You'll leave with a decision model you can apply to your own contact center, including guidance for financial services and regulated industries.",
+    "abstract": "Contact center AI agents require critical architecture decisions around tool integration, voice prompt engineering, and quality evaluation at regulatory scale. In this chalk talk, we walk through the decision framework for choosing first-party tools versus AWS Lambda versus MCP integrations based on latency, complexity, and compliance requirements. Explore deterministic state-machine patterns for voice prompt engineering with Amazon Connect Customer AI Agents. We discuss automated evaluation pipelines using Amazon Connect Customer Conversational Analytics and generative AI to score 100% of interactions. Debate trade-offs and leave with a decision model you can apply to your own contact center environment.",
     "times": [
       {
         "id": "1790025497108001CSYY",
@@ -53470,7 +53470,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Join us for the Data & AI Keynote at AWS re:Invent 2026. Hear the latest news and announcements, insights from AWS leaders, and stories from customers building what's next. Full session details coming soon.",
+    "abstract": "The future is already here...it's just not evenly distributed in production. Most teams have agents that shine in a demo and stall before they do real work. The ones who get to production changed three things: how agents reach their data, how they measure what agents are worth, and the limits they set. Join Swami Sivasubramanian and Andy Warfield to learn how to make these same shifts in your organization.",
     "times": [
       {
         "id": "1791838364258001LxwD",
@@ -74999,7 +74999,7 @@
   {
     "id": "1780441493015001GTe9",
     "code": "SVS203-R",
-    "title": "Building interactive web applications on AWS Serverless",
+    "title": "Building interactive web applications on AWS Lambda Web Functions",
     "type": "Builders' session",
     "level": "200 – Intermediate",
     "topics": [
@@ -75017,7 +75017,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Web applications need fast responses, server-side rendering, and real-time updates, but managing origin servers, CDN configurations, and scaling infrastructure pulls you away from building features. In this builders' session, deploy a full-stack web application entirely on AWS Serverless. Working in small groups with AWS experts, you'll configure routing and static asset delivery, implement server-side rendering with consistent low latency, and add real-time interactivity. Walk away with a working application and deployment patterns for production web workloads. Bring your laptop.",
+    "abstract": "You want to build web applications on Lambda without changing how you write code. Lambda Web Functions make that direct. In this builders' session, deploy a full-stack web application with AWS Lambda Web Functions. Working in small groups with AWS experts, run an HTTP server on Lambda, serve static assets alongside application routes, render a DynamoDB-backed product catalogue, and stream live activity with Server-Sent Events. Walk away with a working app and deployment patterns for interactive web workloads. Bring your laptop.",
     "times": [
       {
         "id": "1790025493907001CFe3",
@@ -75602,7 +75602,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Build production-ready AI agent architectures using AWS serverless services. In this builders' session, design and deploy an agentic system that uses AWS Lambda for tool execution, Amazon Bedrock for reasoning, and Amazon EventBridge for inter-agent communication. Working in small groups with AWS experts, you'll implement tool-calling patterns, configure agent memory, and wire up event-driven coordination between specialized agents. Walk away with a working multi-agent architecture you can extend for your own use cases. You must bring your laptop to participate.",
+    "abstract": "Build production-ready AI agent architectures using AWS serverless services. In this builders' session, design and deploy an agentic system that uses AWS Lambda for agent hosting, tool execution, Amazon Bedrock for reasoning, and Amazon EventBridge and AWS Step Functions for inter-agent communication and orchestration. Working in small groups with AWS experts, you'll implement tool-calling patterns, configure agent memory, and wire up event-driven and workflow-based coordination between specialized agents. Walk away with a working multi-agent architecture you can extend for your own use cases. You must bring your laptop to participate.",
     "times": [
       {
         "id": "1790025487012001CwzJ",
@@ -77109,7 +77109,7 @@
   {
     "id": "1780441481593001GlFY",
     "code": "SVS336",
-    "title": "Building Serverless AI agents",
+    "title": "Building production AI agents on AWS: compute, security, state, and cost",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -77127,7 +77127,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "AI agents need more than an LLM and a prompt. Production agents require tool execution with least-privilege isolation, orchestration that recovers from partial failures, and observability that tracks token spend alongside function duration. In this chalk talk, we discuss architectural patterns for Serverless AI agents: model routing across providers and cost tiers, fault-tolerant orchestration with Step Functions and Lambda durable functions, isolated code execution using MicroVMs, and state management for long-running multi-step workflows. We whiteboard the decisions that matter for your workload shape and where each pattern introduces complexity you may not need.",
+    "abstract": "Agents are moving from demos to production, and the compute you pick shapes security, state, and cost downstream. This session follows a real agent running on AWS and the decisions behind it. Explore serverless compute choices for agents: Lambda durable functions for orchestration and long-running workflows, and Lambda MicroVMs for running untrusted agent-generated code in isolation. Learn how to secure agents with IAM, AgentCore Identity, gateways, and secrets management, making agents stateful with RAG knowledge bases and AgentCore Memory. Control cost through token visibility, caching, pause-snapshot-resume, and right-sizing. Bring your agent architecture and the tradeoffs you're weighing.",
     "times": [
       {
         "id": "1790025501053001Cv5d",
@@ -77515,7 +77515,7 @@
   {
     "id": "1780442258406001clB2",
     "code": "SVS347-R",
-    "title": "Building and scaling low latency web apps with AWS Serverless",
+    "title": "Building and scaling low latency web applications with AWS Lambda Web Functions",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -77532,7 +77532,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Modern web applications demand fast iteration, automatic scaling, and minimal operational overhead. In this code talk, build a full-stack web application entirely on AWS serverless services, live in code: API endpoints, business logic, data persistence, and authentication. We walk through architectural patterns for handling HTTP routing, server-side rendering, static assets, and real-time features without managing servers, and show how serverless simplifies common web framework patterns while delivering built-in high availability and pay-per-use economics. Whether you're migrating an existing web app or starting from scratch, you'll leave with patterns you can apply to your own projects.",
+    "abstract": "Modern web applications demand fast iteration, automatic scaling, and minimal operational overhead. In this code talk, join us to build a full-stack application live with AWS Lambda Web Functions. See how each execution environment handles concurrent HTTP requests, serving server-sent event streams alongside API traffic while scaling on demand. Using Express and React without Lambda-specific adapters, add routing, static assets, runtime configuration, business logic, and DynamoDB persistence. Then go global with multi-Region latency routing, observability, canary deployments, and fast rollback. Leave with practical patterns for building and scaling low-latency web applications on AWS Lambda.",
     "times": [
       {
         "id": "1790033109641001qDpU",
