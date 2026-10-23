@@ -14927,14 +14927,14 @@
     "times": [
       {
         "id": "1790025497923001Cu5g",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "16:30",
-        "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "05:30 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Alliance 305",
+        "room": "Caesars Forum | Level 1 | Alliance 314",
         "venue": "Caesars Forum"
       }
     ]
@@ -15339,7 +15339,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Not every workflow needs an agent, and applying agentic AI where it doesn’t fit adds nondeterminism, cost, and failure modes a deterministic design would have avoided. This chalk talk introduces a capability-first methodology for architects and engineering leaders evaluating agentic paths in their workflows, manual or software-driven. We’ll ideate on a scoring framework that assesses the inherent nature of the work to reveal where agentic approaches thrive. You’ll apply the PERCEIVE-REASON-ACT pattern for isolating AI reasoning from orchestration, and walk away with a repeatable rubric your teams can adopt immediately. ",
+    "abstract": "Not every workflow needs an agent, and forcing agentic AI where it doesn't fit adds nondeterminism, cost, and failure modes a deterministic design would have avoided. This chalk talk introduces a capability-first methodology for architects and engineering leaders evaluating agentic paths in their workflows, manual or software-driven. At its core is the scoring framework that scores the inherent nature of the work across key dimensions to reveal where agents genuinely fit. You'll walk away with a repeatable rubric your teams can adopt immediately to decide whether agency is required in your workflows.",
     "times": [
       {
         "id": "1790025515174001CbeV",
@@ -20068,7 +20068,7 @@
   {
     "id": "1780442236832001c07O",
     "code": "BIZ324",
-    "title": "Let AI Teammates Build Trusted Supply Chain Forecasts on Day One",
+    "title": "Self-Tuning Demand Forecasts: How Agentic AI Puts Business Users in the Driver's Seat",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -20078,7 +20078,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Most forecasting stalls when history is thin or inputs disagree. See how Amazon Connect Decisions produces accurate forecasts from your first day, even with limited data. AI teammates orchestrate more than 18 forecasting tools and models trained on Amazon data, then harmonize statistical forecasts, customer commitments, and cross functional inputs into one consensus plan. You will leave knowing how to reach a forecast your whole team trusts, how the system keeps accuracy honest over time, and how to stop reconciling numbers in spreadsheets before every planning cycle.",
+    "abstract": "Amazon Connect Decisions is redefining how organizations approach demand forecast tuning. Traditionally, improving forecast accuracy meant navigating complex data engineering pipelines and hyperparameter optimization — work that was time-intensive, technically demanding, and largely inaccessible to business users. In this chalk talk, we unpack how Amazon Connect Decisions takes an agentic approach to solve this: intelligent agents continuously self-tune demand forecast models by incorporating business user feedback directly into the refinement loop, removing the undifferentiated heavy lifting. Walk through a live demonstration of self-tuning in action, learn how this business-first approach shifts forecast ownership to the people who understand the demand signals best, and discuss how Amazon Connect Decisions is shaping the future of agentic supply chain solutions.",
     "times": [
       {
         "id": "1790025498082001CoMj",
@@ -23225,7 +23225,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "There are now three ways to migrate Java from x86 to Graviton. AWS Transform Custom runs at scale across hundreds of repos with managed CI/CD and validation. The open-source Java skill runs locally in any agentic IDE, no AWS credentials needed. The Arm MCP server (in Kiro) goes broader, covering non-Java languages and general x86-to-Arm patterns. Each fits a different team size, repo count, and migration timeline. We demo all three on the same codebase, show where each succeeds and where it hands off, and give you a decision framework so you pick the right tool before you start.",
+    "abstract": "Three tools belong in your toolbelt for moving Java from x86 to AWS Graviton. AWS Transform custom runs across hundreds of repos and integrates with CI/CD. The open-source Java skill runs locally in your coding agent, no AWS credentials needed, with final validation on Graviton hardware. The APerf MCP server measures x86 vs. Graviton performance before and after you migrate so you can rightsize. Each fits a different team size, repo count, and timeline. Watch all three run live on one codebase, see where each succeeds and hands off, and leave with a decision framework for when to use each.",
     "times": [
       {
         "id": "1790033109530001qIws",
@@ -44378,7 +44378,7 @@
     "id": "1780442263748001ciSc",
     "code": "IND215",
     "title": "Deploying Governed AI Agents in Clinical AI",
-    "type": "Lightning talk",
+    "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
@@ -44397,15 +44397,15 @@
     "abstract": "Millions of patients wait too long for imaging each year as demand outpaces capacity, and the shortage is projected to worsen significantly by 2030. Radiology Partners is tackling this with MosaicOS, a full imaging lifecycle system powered by agentic AI that spans order placement through billing. In this lightning talk, learn how MosaicOS uses Amazon Bedrock AgentCore to orchestrate multiple AI models across the radiology workflow while maintaining governance and observability required in regulated clinical environments. See how agentic orchestration moves radiology from tool-level automation to coordinated, clinician-directed intelligence at scale.",
     "times": [
       {
-        "id": "1790033122802001qBix",
+        "id": "1792784959047001hhaw",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "17:00",
-        "endTime": "17:20",
-        "startTimeFormatted": "05:00 PM",
-        "endTimeFormatted": "05:20 PM",
-        "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
         "venue": "Venetian"
       }
     ]
@@ -44587,43 +44587,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1780441475373001GKRr",
-    "code": "IND305",
-    "title": "AI for Impact: Elevating human potential through inclusive innovation",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Responsible AI",
-      "Tech for Impact"
-    ],
-    "roles": [
-      "Business Executive",
-      "Developer / Engineer",
-      "IT Executive"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Learn how California's Department of Developmental Services (DDS) is leveraging AWS to modernize legacy systems and unify data for half a million individuals with intellectual and developmental disabilities across 21 regional centers and acute care hospitals. See how this aligns with HR.1 (the One Big Beautiful Bill Act) requirements for government modernization within CA Health and Human Services. Explore responsible AI agents with fairness scoring and bias detection that improve equitable service delivery. Discover how multi-agent architectures on Amazon Bedrock enable transparent, auditable decisions for vulnerable populations — a replicable blueprint for ethical AI at scale. ",
-    "times": [
-      {
-        "id": "1791224420201001vNpg",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -52072,7 +52035,7 @@
   },
   {
     "id": "1780441493639001GsJr",
-    "code": "INV506",
+    "code": "INV506-R",
     "title": "Deterministic control for probabilistic agents: proving safety holds",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
@@ -54771,14 +54734,14 @@
     "times": [
       {
         "id": "1792440471423001tEaY",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Caesars Forum"
       }
     ]
@@ -55665,7 +55628,7 @@
   {
     "id": "1780441478029001GecE",
     "code": "MAM318",
-    "title": "British Airways: Agentic AI for Java modernization at 48% lower cost",
+    "title": "British Airways: Using agentic AI to modernise Java services at scale",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -56558,7 +56521,7 @@
   },
   {
     "id": "1780442256912001cSvD",
-    "code": "MAM336",
+    "code": "MAM336-R",
     "title": "Adding agentic AI to your legacy app without a rewrite",
     "type": "Code talk",
     "level": "300 – Advanced",
@@ -60717,14 +60680,14 @@
     "times": [
       {
         "id": "1790033118343001qgji",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "17:00",
-        "endTime": "17:20",
-        "startTimeFormatted": "05:00 PM",
-        "endTimeFormatted": "05:20 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "10:50",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "10:50 AM",
         "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
         "venue": "Venetian"
       }
     ]
@@ -65843,7 +65806,7 @@
   {
     "id": "1780442230252001c47O",
     "code": "SEC309-R",
-    "title": "Network firewall deployment without the guesswork: codify, deploy, done",
+    "title": "Network firewall deployment without the guesswork: codify, deploy, done.",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -65857,7 +65820,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Level up your firewall policy operations at scale in this hands-on workshop. Learn to integrate AWS Network Firewall into an existing AWS environment using Terraform. Starting with a realistic multi-VPC setup with AWS Transit Gateway, you will deploy Network Firewall and configure routing, inspection, and logging in minutes using reusable modules. You will then implement the latest Network Firewall features such as web category filtering, JA4 fingerprinting, and EventBridge automation. By the end of this session you will have both practical experience adding Network Firewall to existing environments and reusable patterns ready for your own infrastructure.",
+    "abstract": "In this workshop, you deploy AWS Network Firewall and Route 53 Resolver DNS Firewall into a realistic multi-VPC environment using reusable Terraform modules. You start by adding egress and east-west traffic inspection, then get hands-on with recent launches including container-aware rules, domain category filtering for visibility into AI traffic, and managed threat intelligence. You leave with reusable patterns for adding network traffic inspection to your own infrastructure.",
     "times": [
       {
         "id": "1790025539345001Ck5y",
@@ -66042,7 +66005,7 @@
   {
     "id": "1780442284370001cNj2",
     "code": "SEC315-R",
-    "title": "Advanced AWS network security: defending against emerging threats",
+    "title": "Hands-on Network Defense with AWS Network Firewall and Route 53 DNS Firewall",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -66055,7 +66018,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In this hands-on workshop, master AWS network security techniques using AWS Network Firewall and Route 53 Resolver DNS Firewall. Gain practical experience configuring URL category filtering to detect unauthorized AI service usage, and explore recent feature improvements for container workload protection and advanced DNS-layer defenses. Through real-world scenarios, you'll implement IDS/IPS filtering, east-west traffic controls, and domain-based policies using fully managed AWS services. Leave equipped to build resilient network defenses that address both traditional and emerging threats.",
+    "abstract": "In this workshop, you'll build a comprehensive network security architecture using AWS Network Firewall and Route 53 Resolver DNS Firewall. You'll configure egress and VPC-to-VPC traffic inspection, IDS/IPS filtering, and container-aware rules for dynamic workload protection. Explore DNS-layer defenses, including DNS tunneling detection, and gain visibility into AI service traffic through domain category filtering. Through real-world scenarios, you'll cover the most common use cases and leave knowing how these services work together to defend your network. This workshop is for security and network engineers who are comfortable with Amazon VPC networking and AWS Transit Gateway.",
     "times": [
       {
         "id": "1790025502394001Claf",
