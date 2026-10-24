@@ -64380,7 +64380,7 @@
   {
     "id": "1780441485931001Goud",
     "code": "SEC211-S",
-    "title": "AI Threat Readiness: Securing AWS Workloads at Machine Speed (sponsored by Wiz)",
+    "title": "Shipping AI at Full Velocity: Securing the Agentic Pipeline from IDE to Runtime ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -64400,7 +64400,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As AI accelerates development in the cloud, it’s also increasingly expanding the cloud attack surface. With autonomous agents accelerating both software deployment and vulnerability exploitation, traditional security workflows can no longer keep pace. Organizations need a new operating model for AI Threat Readiness inside high-velocity AWS environments that builds agentic trust without slowing innovation. This session explores how combining full AWS visibility with agentic workflows, including Wiz Red, Green, and Blue Agents, transforms reactive cloud security into proactive, machine-speed defense across Amazon Bedrock, containers, and serverless architectures. This presentation is brought to you by Wiz, an AWS Partner.",
+    "abstract": " Autonomous AI agents are no longer just writing code; they are calling APIs, spinning up cloud resources, and executing commands across build pipelines. But with this level of autonomy, zero-day vulnerabilities can propagate across your stack faster than ever. Staying resilient requires shifting security directly into the agent’s execution loop.\n\nThrough live demos and an interview with Capita CISO, Luke Beeson, on their rapid AWS adoption, discover how to embed guardrails directly into agentic IDEs. Learn to catch vulnerabilities and overscoped tool permissions as code is written, and walk away with a battle-tested framework to ship agentic AI at full velocity on AWS.",
     "times": [
       {
         "id": "1790025482060001Cjvl",

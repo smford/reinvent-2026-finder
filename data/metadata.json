@@ -1,6 +1,6 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-24T09:57:28Z",
+  "lastUpdated": "2026-10-24T19:57:19Z",
   "totalSessions": 2273,
   "scheduledTimeSlots": 2273,
   "campuses": {
@@ -8,8 +8,8 @@
     "MGM Grand Campus": 671,
     "Caesars Campus": 740,
     "Venetian Campus": 271,
-    "Various Locations Campus": 9,
-    "Allegiant Stadium Campus": 1
+    "Allegiant Stadium Campus": 1,
+    "Various Locations Campus": 9
   },
   "venues": {
     "Wynn/Encore": 580,
@@ -17,8 +17,8 @@
     "Caesars Palace": 370,
     "Caesars Forum": 370,
     "Venetian": 271,
-    "Various Locations": 9,
-    "Allegiant Stadium": 1
+    "Allegiant Stadium": 1,
+    "Various Locations": 9
   },
   "levels": {
     "300 \u2013 Advanced": 1338,
@@ -37,11 +37,11 @@
     "Builders' session": 256,
     "Workshop": 300,
     "Code talk": 126,
-    "Event service": 9,
     "Bootcamp": 26,
+    "Lab": 45,
     "Exam prep": 10,
     "Featured experience": 3,
-    "Lab": 45,
+    "Event service": 9,
     "Keynote": 5
   },
   "days": {
