@@ -1633,7 +1633,7 @@
   {
     "id": "1780442234913001cm5a",
     "code": "AIM218",
-    "title": "Building conversational AI with Amazon Nova 2 Sonic",
+    "title": "Building conversational AI with Amazon Nova 2.5 Sonic",
     "type": "Chalk talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -3726,21 +3726,21 @@
       "IT Executive",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Every agent call carries cost, permission, and blast radius, and as agents multiply across tools, frameworks, and SaaS, the gaps compound: uncapped spend, unapproved permissions, no shared record. This session breaks down an AI infrastructure layer, running on AWS, that governs every model, agent, and system. A design-time layer publishes an approved catalog of agents, tools, and MCP servers; a runtime layer routes, meters, and enforces policy on every call before it executes. See how spend caps, in-tenant SLMs, and governed APIs turn cost into a controlled input, while one trace gives finance, security, and engineering a shared, audit-ready record. This presentation is brought to you by Boomi, an AWS Partner.",
     "times": [
       {
         "id": "1790025489692001C8Vj",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "13:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -6200,7 +6200,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI agents doing real work, like financial advising, coding, customer operations, reason across turns, call tools, and recover when steps fail mid-conversation. Prompting won't get you there; building multi-turn RL from scratch takes weeks. We'll whiteboard how SageMaker AI's managed MTRL connects your Strands, LangChain, or CrewAI agent under 10 lines of code - handling rollouts, trajectories, and checkpointing, auto-cataloged in SageMaker catalog. We'll cover reward design, rollouts in managed gym environments, decoupled training compute keeping GPUs from idling, and smaller specialized models outperforming larger ones at lower inference cost. Bring your agent use case for mapping the path.",
+    "abstract": "AI agents that do real work, such as financial advising, coding, and customer operations, reason across turns, call tools, and recover when steps fail mid-conversation. Prompting won't get you there, and building multi turn RL from scratch takes weeks. We'll whiteboard how SageMaker AI's managed MTRL connects your Strands, LangChain, or CrewAI agent under 10 lines of code, handling rollouts, trajectories, and checkpointing, auto cataloged in SageMaker AI catalog. We'll cover reward design, rollouts in managed gym environments, decoupled training compute keeping GPUs from idling, and smaller specialized models outperforming larger ones at lower inference cost. Bring your agent use case and we'll sketch how to train it. ",
     "times": [
       {
         "id": "1790025486017001Cwfc",
@@ -7906,7 +7906,7 @@
   {
     "id": "1780442224775001cY42",
     "code": "AIM352",
-    "title": "Build and deploy a voice agent with Amazon Nova 2 Sonic",
+    "title": "Build and deploy a voice agent with Amazon Nova 2.5 Sonic",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -7916,7 +7916,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Build and deploy a voice agent with Amazon Nova 2 SonicLearn how to build and deploy a voice agent using Nova 2 Sonic, Strands BidiAgent, AgentCore, and customized Skills. The session covers both bidirectional streaming architecture (Nova Sonic) and cascading architectures using Amazon Transcribe and Amazon Polly. Attendees will learn reference architectures, implementation patterns, deployment steps, and best practices for building scalable, production-ready voice agents using AI coding tools.",
+    "abstract": "Build and deploy a voice agent with Amazon Nova 2.5 Sonic. Learn how to build and deploy a voice agent using Nova 2.5 Sonic, Strands BidiAgent, AgentCore, and customized Skills. The session covers both bidirectional streaming architecture (Nova 2.5 Sonic) and cascading architectures using Amazon Transcribe and Amazon Polly. Attendees will learn reference architectures, implementation patterns, deployment steps, and best practices for building scalable, production-ready voice agents using AI coding tools.",
     "times": [
       {
         "id": "1790025526599001CeRT",
@@ -8138,7 +8138,7 @@
   {
     "id": "1780441464585001G8ee",
     "code": "AIM361",
-    "title": "Customize open models for accuracy, cost, and latency on SageMaker AI",
+    "title": "Model customization for industrial use cases on Amazon SageMaker AI",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -8148,7 +8148,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "An off-the-shelf model may not meet the accuracy, cost, or latency requirements of your specialized business task. Across businesses from retail to financial services, organizations are customizing open-weight models to unlock higher value. In this session, learn how to customize open-weight models with Amazon SageMaker AI, including for domain-specific workflows and agents. Intuit shares how it is using SageMaker AI with features such as serverless model customization and reinforcement learning, on its proprietary data to unlock business value and cut costs.",
+    "abstract": "AI/ML teams want to move fast, experimenting with models, fine tuning them on their data, and serving them in production, without stitching together separate tools at every step. In this session, see how Amazon SageMaker AI lets you build, customize, deploy, and run inference within one service. Learn how to match the right approach to each stage, including fast experimentation for quick iteration, fully managed environments for custom frameworks and training, persistent clusters for large scale research, and optimized endpoints for real time and batch serving in production. See a worked example that starts with a single model and scales to a production deployment without switching platforms.",
     "times": [
       {
         "id": "1790025490423001Cov3",
@@ -8177,7 +8177,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Off the shelf models work for prototyping, but production forces a choice, which technique, which service, which tradeoffs. In this chalk talk, we work through the decision framework live. When Supervised Fine Tuning is enough, when DPO or RLAIF earns its added cost, and when RLVR or multi-turn RL is the right call, and what data each demands. We will learn how to choose across SageMaker Serverless Customization, Training Jobs, HyperPod, and Bedrock Custom Model Import based on traffic, budget, and control needs. Bring a real use case and we'll place it on the map.",
+    "abstract": "Off the shelf models work for prototyping, but production forces a choice of technique and service. In this chalk talk, we work through that choice live. See when Supervised Fine Tuning is enough, when Direct Preference Optimization or Reinforcement Learning from AI Feedback earns its added cost, when Reinforcement Learning with Verifiable Rewards or multi turn reinforcement learning is the right call, and what data each needs. Compare Amazon SageMaker AI serverless model customization, SageMaker AI training jobs, Amazon SageMaker HyperPod, and Amazon Bedrock Custom Model Import by cost and control. Bring a real use case and we'll work through where it fits.",
     "times": [
       {
         "id": "1790025505697001CWTh",
@@ -8918,19 +8918,19 @@
       "IT Professional / Technical Manager"
     ],
     "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "campus": "Wynn Campus",
     "abstract": "Enterprises are waking up to a hard truth: the AI their business now depends on runs on infrastructure, models, and pricing they don't control. In this session, Boomi's engineering and AI leadership show a different path — AI agents that run anywhere you choose (your Amazon VPC, your data center, behind your firewall) powered by small language models fine-tuned to each agent's job and served entirely on infrastructure you govern. You'll see the full architecture on AWS — Amazon EKS, EC2 GPU instances, Amazon S3, Aurora, MSK, and Amazon Bedrock as a governed escalation path — plus the fine-tuning pipeline (LoRA SFT + DPO), the evaluation gate that decides when a small model is ready, and a live demo of an agent reasoning locally at a fraction of the latency and cost of a frontier LLM. This presentation is brought to you by Boomi, an AWS Partner.",
     "times": [
       {
         "id": "1790025506409001CCYc",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -9437,7 +9437,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Go from dataset to a custom foundation model in just a few hours, without the need to set up any infrastructure. In this hands-on workshop, you will fine-tune LLMs using Amazon SageMaker AI Serverless Model Customization, requiring no infrastructure setup or GPU management. You will walk through the entire workflow — preparing datasets, launching training jobs, registering assets in the SageMaker AI Registry, evaluating using the \"LLM-as-a-Judge\" technique, and deploying to a real-time endpoint — leveraging Supervised Fine-Tuning (SFT) with LoRA as a memory-efficient optimization method. By the end of the workshop, you will be ready to customize models at scale immediately.",
+    "abstract": "​Customize a foundation model on your own dataset in hours, with no infrastructure to provision and no GPUs to manage. In this workshop, fine tune LLMs using the Amazon SageMaker AI serverless model customization APIs. Work through five techniques, including Supervised Fine Tuning for task specific behavior, Direct Preference Optimization for alignment, Reinforcement Learning with Verifiable Rewards for reasoning, Reinforcement Learning from AI Feedback for scalable feedback, and multi turn reinforcement learning for agentic tasks. Prepare datasets, launch training jobs, register models in the SageMaker AI Registry, evaluate with LLM as a judge, and deploy to a real time endpoint. ",
     "times": [
       {
         "id": "1790025528843001CqEj",
@@ -10128,7 +10128,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Great models start with great data. In this hands-on workshop, use SageMaker AI Agent skills to profile, curate, and validate datasets for the full model customization lifecycle — no infrastructure to manage. Assess data completeness and distribution, apply auto-labeling at scale, run human-in-the-loop review for edge cases, and fix quality issues like deduplication and toxicity filtering. Generate synthetic data to fill coverage gaps, then prepare datasets for Supervised Fine-Tuning, Direct Preference Optimization, Reinforcement Learning with Verifiable Rewards, and RLAIF. Launch training, evaluate with LLM-as-a-Judge, and deploy. Walk away ready to go from raw data to custom model in hours.",
+    "abstract": "Great models start with great data. In this hands-on workshop, use SageMaker AI Agent skills to profile, curate, and validate datasets for the full model customization lifecycle — no infrastructure to manage. Assess data completeness and distribution, apply auto-labeling at scale, run human-in-the-loop review for edge cases, and fix quality issues like deduplication and toxicity filtering. Generate synthetic data to fill coverage gaps, then prepare datasets for Supervised Fine-Tuning, Direct Preference Optimization, Reinforcement Learning with Verifiable Rewards, and RLAIF. Launch training, evaluate with LLM-as-a-Judge, and deploy. Walk away ready to go from raw data to custom model in hours. ",
     "times": [
       {
         "id": "1790025528909001CfbJ",
@@ -42817,21 +42817,21 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "Enterprises running regulated workloads across multiple clouds face a compounding challenge: every platform decision — databases, message buses, orchestration — deepens lock-in and complicates compliance. The Royal Bank of Canada chose a different path. Over seven years, RBC built a multicloud Kubernetes platform spanning AWS, Azure, and on-premises, purpose-built for financial services under multi-jurisdictional oversight. RBC shares how they eliminated vendor lock-in by migrating to open-source databases and messaging, established a \"golden path\" that lets teams deploy to any cloud without rearchitecting, and extended that foundation into agentic AI operations for automated root-cause analysis and remediation. Walk away with a practical playbook for building a compliant, portable multicloud platform that strengthens your security posture at every layer.",
     "times": [
       {
         "id": "1792103614580001z6rd",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
-        "venue": "Caesars Forum"
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Blue Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -42876,7 +42876,7 @@
   {
     "id": "1780441500395001GnUf",
     "code": "HMC314",
-    "title": "Architecting for digital sovereignty: Choosing your AWS hybrid cloud infrastructure",
+    "title": "Architecting for digital sovereignty with AWS Hybrid Cloud solutions",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -42895,7 +42895,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Digital sovereignty requirements vary widely across government, defense, healthcare, and financial services. This session uses real-world case studies to compare the architectures of AWS Dedicated Local Zones and AWS Outposts, whether deployed in the AWS European Sovereign Cloud or in AWS Regions. It examines how data residency boundaries, network separation, operational controls, and cryptographic key management differ across these options. It then shows how to configure account access, data residency controls, and network ingress and egress policies for strict and moderate requirements. Finally, it covers how to detect and prevent unauthorized data flows between hybrid infrastructure, the parent Region, and on-premises environments.",
+    "abstract": "This session uses real-world case studies to understand how AWS hybrid cloud architectures such as AWS Local Zones, AWS Dedicated Local Zones, and AWS Outposts help customers meet their digital sovereignty needs. It examines data residency boundaries, network separation, operational controls, and security guardrail options available in hybrid cloud solutions. It then shows how to configure governance controls, including Service Control Policies (SCPs), to help customers comply with regulatory requirements. Finally, it covers how to detect and prevent unauthorized data flows between hybrid infrastructure and the parent Region.",
     "times": [
       {
         "id": "1790025512626001CrMb",
@@ -43082,21 +43082,21 @@
       "IT Administrator",
       "Solution / Systems Architect"
     ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
     "abstract": "Mission-critical workloads require extreme resilience without the latency penalty of multi-region architectures, especially when strong consistency and real-time external integrations are required. In this session, discover how cell-based and shard-based architectures reduce blast radius and contain failures across cloud providers while keeping latency within strict thresholds. Explore traffic management patterns between cloud providers, data replication strategies including synchronous and asynchronous approaches, and consistency models. Learn how architectural adapters enable workload portability and provider independence. Gain practical patterns for cross-cell replication and automated failover, with examples from Itaú Unibanco's production environment.",
     "times": [
       {
         "id": "1790034532896001p5D5",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Blue Theater",
-        "venue": "Venetian"
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Blue Theater",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -43227,21 +43227,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Palace",
+    "venue": "Caesars Forum",
     "campus": "Caesars Campus",
     "abstract": "Uber runs 100+ LLM-powered use cases such as rider support, fraud detection, developer tools, on a cloud-native AI platform built outside AWS. As it scales toward agentic workloads, Uber is bringing AWS in for Bedrock and AgentCore, creating a deliberately multicloud architecture, with agents that reason, retrieve, and act across data and services on more than one cloud. That transition surfaces challenges no single-cloud team hits. Federating identity across providers, orchestrating agents whose tools and data span clouds, and enforcing one governance and observability layer over all model traffic. In this session, Uber shares how the team weighed build-vs-buy for agent orchestration, memory, and observability, and the cloud-agnostic patterns they used to add a cloud without re-platforming. Walk away with a blueprint for extending an AI platform across clouds for agentic workloads.",
     "times": [
       {
         "id": "1791224292292001Zaqu",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Blue Theater",
-        "venue": "Caesars Palace"
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -52153,21 +52153,21 @@
       "Academic / Researcher",
       "Developer / Engineer"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Organizations want to automate enforcement of critical rules—financial, legal, regulatory—yet those rules live in ambiguous natural-language documents. Bridging this gap is error-prone and expensive. In this session, we show how neurosymbolic AI enables subject-matter experts to formalize natural-language rules into mathematical logic—capturing the original intent in an unambiguous, executable, and verifiable form. We cover the mathematical foundations and demonstrate through practical examples how formalized rules can serve as agent guardrails, compliance checks, and trusted knowledge sources. Attendees will leave with a deep understanding of how neurosymbolic techniques can help them formalize and operationalize their own domain rules.",
     "times": [
       {
         "id": "1792635477010001vJ62",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 1 | Boulevard 163",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Level 1 | Debussy 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -54258,7 +54258,7 @@
   {
     "id": "1780441484436001GLfe",
     "code": "MAM215-S",
-    "title": "How S&P Global Market Intelligence Brings Genie to Capital IQ Workbench (sponsored by Databricks)",
+    "title": "Conversational AI at Scale: S&P Global Energy's 30+ Genie Agents ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -54279,7 +54279,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Financial professionals need answers from trusted data, fast, and they don't want to write SQL or switch tools to get them. In this session, Databricks will introduce the Genie family: Genie One, Genie Agents and Genie Ontology. Then S&P Global Market Intelligence will show how it built Genie into Capital IQ Workbench, its analytics environment for clients on Databricks and AWS. Learn how the Capital IQ Solutions team combines domain-curated Genie Agents over S&P's financial datasets with an Agent Bricks supervisor agent. The supervisor sends each question either to Genie for answers from the data or to a Knowledge Assistant for answers from documentation. All of it is governed end to end by Unity Catalog and embedded right in the Workbench experience. Attendees will leave with a blueprint for delivering governed, conversational data products to customers at scale. This presentation is brought to you by Databricks, an AWS Partner.",
+    "abstract": "S&P Global Energy serves the world's largest financial institutions and energy traders with trusted commodities data — pricing, supply and demand, LNG cargoes, outages, and contracts. To make that data estate conversational, they built an external-facing AI product powered by 30+ Databricks Genie Agents, each scoped to a specific energy domain, then composed into cross-commodity endpoints via MCP servers. The system handles 300K+ queries per month, with customers asking complex analytical questions in natural language and getting governed, auditable answers backed by Unity Catalog. Subject-matter experts publish new conversational experiences in days — without writing agent code. Leave with a blueprint for turning governed data into production conversational AI on AWS. This presentation is brought to you by Databricks, an AWS Partner.",
     "times": [
       {
         "id": "1790025507856001CQzz",
