@@ -37950,7 +37950,7 @@
   {
     "id": "1780441488437001GGhk",
     "code": "DVT210-S",
-    "title": "What Observability at the Speed of AI Looks Like (sponsored by groundcover)",
+    "title": "When Telemetry Steers the Robot: Observability for Physical AI",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -37970,7 +37970,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "For a company like Polymarket, moving fast isn’t a nice-to-have. It’s a requirement. Failing to scale quickly enough can stall unprecedented momentum, while compromising its PII and security posture can carry even greater risk.\nBuilt on AWS, this session explores how Polymarket uses groundcover to shift infrastructure responsibilities to AI agents, build agentic development loops, maintain full data residency, and gain instant visibility into every change, no matter how quickly production evolves. We’ll also share the immediate impact: at least 50% lower MTTR for infrastructure escalations and an approximately 7% reduction in Polymarket’s AWS bill. This presentation is brought to you by groundcover, an AWS Partner.",
+    "abstract": "Path Robotics is pushing physical AI beyond the lab into tough industrial environments. Its Obsidian AI model autonomously welds production parts, while Rove brings that intelligence into shipyards on a Boston Dynamics quadruped.\nWhen AI moves into the physical world, observability becomes mission-critical. Built on AWS, Path needs visibility into AI applications, robot motion, and welding arcs, where traditional observability tools fall short.\nIn this session, Path Robotics and groundcover share how they replaced legacy SaaS observability with a BYOC architecture spanning commercial and sovereign environments. groundcover’s eBPF sensor delivers instant visibility into agentic applications and field robotics, providing critical production context.",
     "times": [
       {
         "id": "1790025478012001C9r9",
@@ -44082,7 +44082,7 @@
   {
     "id": "1780442272548001c81L",
     "code": "IND109-S",
-    "title": "Transforming Patient Engagement with AI and Cloud (sponsored by Incedo Inc.)",
+    "title": "Reimagining Patient Engagement with AI and Cloud (sponsored by Incedo Inc.)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -44092,7 +44092,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Business Intelligence",
+      "Generative AI",
       "Innovation & Transformation"
     ],
     "roles": [
@@ -44102,7 +44102,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Life sciences organizations are reimagining patient engagement through cloud data and artificial intelligence. This session explores how generative AI and intelligent automation can help create more connected personalized and responsive patient experiences across the patient journey. Drawing on real world transformation experiences the discussion will highlight practical opportunities to improve patient engagement reduce friction and enable more proactive interactions while addressing the data governance and adoption considerations required to scale AI responsibly. Attendees will gain practical perspectives on how life sciences organizations can move from AI experimentation to scalable solutions that deliver meaningful patient and business outcomes. This presentation is brought to you by Incedo Inc., an AWS Partner.",
+    "abstract": "Life sciences organizations are exploring how AI and cloud can transform engagement across the patient journey. This executive discussion will examine how connected data, generative AI and intelligent automation can enable more personalized, timely and responsive patient experiences.\n\nThe conversation will explore opportunities to reduce friction, improve engagement, drive adherence, and deliver more connected omnichannel experiences aligned with business priorities. It will also address the challenges of data fragmentation, governance, trust and adoption. Attendees will gain practical executive perspectives on moving beyond AI experimentation to scalable, responsible solutions that deliver meaningful value for patients and life sciences organizations.",
     "times": [
       {
         "id": "1790033123236001qbQ6",
