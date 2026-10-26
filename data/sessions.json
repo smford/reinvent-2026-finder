@@ -4569,7 +4569,7 @@
   {
     "id": "1780441489298001GfGp",
     "code": "AIM288-S",
-    "title": "How to run parallel coding agents without sitting in the loop (sponsored by Cursor)",
+    "title": "How to run parallel coding agents without sitting in the loop",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -4607,7 +4607,7 @@
   {
     "id": "1780441487636001Gazl",
     "code": "AIM289-S",
-    "title": "How the most advanced teams manage the full SDLC on an agentic stack (sponsored by Cursor)",
+    "title": "How the most advanced teams manage the full SDLC on an agentic stack",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -8138,7 +8138,7 @@
   {
     "id": "1780441464585001G8ee",
     "code": "AIM361",
-    "title": "Model customization for industrial use cases on Amazon SageMaker AI",
+    "title": "Customize open-weight models for accuracy, cost, and latency on SageMaker AI",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -8148,7 +8148,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI/ML teams want to move fast, experimenting with models, fine tuning them on their data, and serving them in production, without stitching together separate tools at every step. In this session, see how Amazon SageMaker AI lets you build, customize, deploy, and run inference within one service. Learn how to match the right approach to each stage, including fast experimentation for quick iteration, fully managed environments for custom frameworks and training, persistent clusters for large scale research, and optimized endpoints for real time and batch serving in production. See a worked example that starts with a single model and scales to a production deployment without switching platforms.",
+    "abstract": "An off-the-shelf frontier model may not meet the accuracy, cost, or latency requirements of your specialized business task. Across businesses from retail to financial services, organizations are customizing open-weight models to unlock higher value, including for domain-specific workflows and agents. In this session, learn why and how to customize open-weight models with Amazon SageMaker AI using features including serverless model customization and techniques such as supervised fine-tuning and reinforcement learning. Intuit shares how it customizes models on SageMaker AI with its proprietary financial datasets to deliver personalized customer experiences. See how Intuit is achieving up to 5% improved accuracy and 50% reduced latency compared to general-purpose LLMs, while delivering cost efficiency for certain accounting workloads.",
     "times": [
       {
         "id": "1790025490423001Cov3",
@@ -10389,7 +10389,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "You can build an agent in an afternoon. Getting it to production takes months. Not because the AI is hard, but because the infrastructure around it is: memory, tool access, identity, policy, observability, evaluation. This workshop closes that gap in three hours. Build a customer support agent from scratch and progressively add each production capability using the AgentCore CLI: runtime, memory, gateway, identity, policy, observability, and evaluation. AgentCore is framework and model agnostic, so everything applies whether you use LangGraph, CrewAI, Strands, or your own stack. Leave ready to ship.",
+    "abstract": "You can build an agent in an afternoon. Getting it to production takes months. Not because the AI is hard, but because the infrastructure around it is: memory, tool access, identity, policy, observability, evaluation. This workshop closes that gap in two hours. Build a customer support agent from scratch and progressively add each production capability using the AgentCore CLI: runtime, memory, gateway, identity, policy, observability, and evaluation. AgentCore is framework and model agnostic, so everything applies whether you use LangGraph, CrewAI, Strands, or your own stack. Leave ready to ship.",
     "times": [
       {
         "id": "1790025471783001CYIw",
@@ -15283,12 +15283,12 @@
   {
     "id": "1780442266564001c2mb",
     "code": "ARC101-S",
-    "title": "How Docusign built a scalable data foundation for AI (sponsored by Fivetran)",
+    "title": "Duck, Duck, Iceberg: Query Your Lake From Your Laptop",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
-      "Analytics",
-      "Architecture"
+      "Architecture",
+      "Industry Solutions"
     ],
     "areasOfInterest": [
       "Cost Optimization",
@@ -15302,7 +15302,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Modern analytics and AI depend on trusted data that teams can access without adding engineering overhead. In this session, learn how Docusign standardized ingestion and transformation with Fivetran + dbt Labs, reducing manual pipeline work and creating a scalable data foundation across finance, go-to-market, product analytics, customer data, and data science. Hear how simplifying the data stack frees engineering teams to focus less on pipeline maintenance and more on delivering trusted data that powers analytics and AI across the business. This presentation is brought to you by Fivetran, an AWS Partner.",
+    "abstract": "Vendor lock-in and rigid compute options prevent data teams from scaling efficiently, especially with AI agents added to the mix - Apache Iceberg fixes this. Join this session to see how a Fivetran Managed Data Lake automatically ingests data from your sources to open formats and also handles the table maintenance without manual overhead. Your data in your S3 bucket under your ownership. But landing data is just half the story though so we’ll also demonstrate querying the exact same dataset across multiple compute engines to show how open formats let you pair every workload with its ideal cost and performance profile.",
     "times": [
       {
         "id": "1790033118056001qSBV",
@@ -15618,7 +15618,7 @@
   {
     "id": "1780441488777001GRzl",
     "code": "ARC208-S",
-    "title": "Make AMD Your Default on AWS: Efficient EC2 for the Agentic AI Era with EPYC (sponsored by AMD)",
+    "title": "Make AMD Your Default on AWS: Agentic AI and LSEG’s Market Data Transformation",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -15638,7 +15638,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "What if you could run agentic AI for over 30% less on Amazon EC2—within the contracts you already have? As autonomous agents call inference models and tools, compute demand explodes and the CPU-to-GPU ratio inverts from 1:8 to 8:1, making processor choice the defining ROI decision. This session proves how 5th-Gen AMD EPYC \"Turin\" on EC2 runs general-purpose workloads faster and smaller, delivering >30% OpEx savings you can redirect from IT overhead into AI budgets. Partners see how MAP-aligned migration funding, POC support, and co-sell turn efficient, variety-ready AMD infrastructure on AWS into bigger, faster customer wins. This presentation is brought to you by AMD, an AWS Partner.",
+    "abstract": "Traditional 1:4 CPU-to-GPU architectures are evolving as agentic AI increases demand for orchestration, analytics, retrieval, and database processing. Join AWS, AMD, and LSEG to learn how organizations are building AI-ready infrastructure with Amazon EC2 and AWS Outposts powered by 5th Gen AMD EPYC™ processors. Hear how LSEG modernized a 7,500-system estate supporting 120 million financial instruments, achieved sub-4ms latency targets, and accelerated its cloud-native transformation. Discover how customers are improving price-performance, lowering infrastructure costs by more than 30%, and creating a scalable foundation for AI, analytics, and mission-critical workloads.",
     "times": [
       {
         "id": "1790034530877001psCi",
@@ -43207,45 +43207,6 @@
     ]
   },
   {
-    "id": "1780442221624001cqr7",
-    "code": "HMC322",
-    "title": "How Uber brought AWS into its agentic AI stack across clouds",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Artificial Intelligence",
-      "Cloud Operations",
-      "Hybrid Cloud & Multicloud"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "DevOps",
-      "Governance, Risk & Compliance"
-    ],
-    "roles": [
-      "Data Scientist",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Uber runs 100+ LLM-powered use cases such as rider support, fraud detection, developer tools, on a cloud-native AI platform built outside AWS. As it scales toward agentic workloads, Uber is bringing AWS in for Bedrock and AgentCore, creating a deliberately multicloud architecture, with agents that reason, retrieve, and act across data and services on more than one cloud. That transition surfaces challenges no single-cloud team hits. Federating identity across providers, orchestrating agents whose tools and data span clouds, and enforcing one governance and observability layer over all model traffic. In this session, Uber shares how the team weighed build-vs-buy for agent orchestration, memory, and observability, and the cloud-agnostic patterns they used to add a cloud without re-platforming. Walk away with a blueprint for extending an AI platform across clouds for agentic workloads.",
-    "times": [
-      {
-        "id": "1791224292292001Zaqu",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
     "id": "1780442221678001cLuM",
     "code": "HMC323",
     "title": "How Workday built multicloud data interoperability foundation for Agentic AI",
@@ -56558,6 +56519,44 @@
     ]
   },
   {
+    "id": "1792778222613001sYaC",
+    "code": "MAM336-R1",
+    "title": "Adding agentic AI to your legacy app without a rewrite",
+    "type": "Code talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Full legacy application rewrites take years. Agentic AI lets you deliver value now. In this code talk, we build an AI agent that wraps an existing legacy application without changing the core system. You'll see how the agent understands user intent, calls existing application functions, and helps users complete business tasks through a modern conversational experience. Ask questions as we go from legacy to AI-assisted workflow in real time. You'll leave ready to put agentic AI in front of your legacy application today.",
+    "times": [
+      {
+        "id": "1792778480927001UYoi",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Code Talk",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1786823244564001n319",
     "code": "MAM337",
     "title": "Watch AWS Transform convert SQL Server to Aurora PostgreSQL live",
@@ -58937,7 +58936,7 @@
   {
     "id": "1780442247653001cle8",
     "code": "NET317-R",
-    "title": "Origin management for multi-region applications with Amazon CloudFront",
+    "title": "Origin management for multi-region resilient applications with Amazon CloudFront",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -62008,7 +62007,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Generative AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62045,7 +62045,8 @@
     "areasOfInterest": [
       "Customer Enablement",
       "Generative AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62082,7 +62083,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62119,7 +62121,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62156,7 +62159,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62193,7 +62197,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62231,7 +62236,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Generative AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62268,6 +62274,7 @@
     "areasOfInterest": [
       "Automation",
       "Innovation & Transformation",
+      "Partner Enablement",
       "SaaS"
     ],
     "roles": [
@@ -62305,7 +62312,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62342,7 +62350,8 @@
     "areasOfInterest": [
       "Customer Enablement",
       "Generative AI",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62379,7 +62388,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Generative AI"
+      "Generative AI",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62416,7 +62426,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62453,7 +62464,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62490,7 +62502,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62524,7 +62537,9 @@
     "topics": [
       "Artificial Intelligence"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Partner Enablement"
+    ],
     "roles": [
       "Business Executive",
       "IT Executive",
@@ -62631,6 +62646,7 @@
     "areasOfInterest": [
       "Agentic AI",
       "Identity & Access Management",
+      "Partner Enablement",
       "SaaS"
     ],
     "roles": [
@@ -62669,7 +62685,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Innovation & Transformation",
-      "Machine Learning"
+      "Machine Learning",
+      "Partner Enablement"
     ],
     "roles": [
       "Developer / Engineer",
@@ -62707,7 +62724,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Innovation & Transformation",
-      "Machine Learning"
+      "Machine Learning",
+      "Partner Enablement"
     ],
     "roles": [
       "Developer / Engineer",
@@ -62744,6 +62762,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "SAP"
     ],
     "roles": [
@@ -62781,6 +62800,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "SAP"
     ],
     "roles": [
@@ -62818,6 +62838,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Responsible AI"
     ],
     "roles": [
@@ -62855,6 +62876,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Responsible AI"
     ],
     "roles": [
@@ -62893,7 +62915,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [],
     "venue": "Caesars Forum",
@@ -62927,7 +62950,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [],
     "venue": "MGM Grand",
@@ -62959,7 +62983,8 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Automation"
+      "Automation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -62996,7 +63021,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Advisor / Consultant",
@@ -63033,7 +63059,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Innovation & Transformation"
+      "Innovation & Transformation",
+      "Partner Enablement"
     ],
     "roles": [
       "Advisor / Consultant",
@@ -63071,7 +63098,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "DevOps",
-      "Governance, Risk & Compliance"
+      "Governance, Risk & Compliance",
+      "Partner Enablement"
     ],
     "roles": [
       "DevOps Engineer",
@@ -63109,7 +63137,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "DevOps",
-      "Governance, Risk & Compliance"
+      "Governance, Risk & Compliance",
+      "Partner Enablement"
     ],
     "roles": [
       "DevOps Engineer",
@@ -63146,6 +63175,7 @@
     "areasOfInterest": [
       "Agentic AI",
       "Governance, Risk & Compliance",
+      "Partner Enablement",
       "Responsible AI"
     ],
     "roles": [
@@ -63183,6 +63213,7 @@
     "areasOfInterest": [
       "Agentic AI",
       "Governance, Risk & Compliance",
+      "Partner Enablement",
       "Responsible AI"
     ],
     "roles": [
@@ -63218,10 +63249,13 @@
       "Industry Solutions"
     ],
     "areasOfInterest": [
+      "Partner Enablement",
       "SaaS"
     ],
     "roles": [
-      "Business Executive"
+      "Business Executive",
+      "Sales / Marketing",
+      "Solution / Systems Architect"
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
@@ -63251,10 +63285,13 @@
       "Industry Solutions"
     ],
     "areasOfInterest": [
+      "Partner Enablement",
       "SaaS"
     ],
     "roles": [
-      "Business Executive"
+      "Business Executive",
+      "Sales / Marketing",
+      "Solution / Systems Architect"
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
@@ -63281,12 +63318,15 @@
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
-      "Architecture"
+      "Architecture",
+      "Industry Solutions"
     ],
     "areasOfInterest": [
-      "Agentic AI"
+      "Agentic AI",
+      "Partner Enablement"
     ],
     "roles": [
+      "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "Caesars Forum",
@@ -63319,7 +63359,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Automation",
-      "Generative AI"
+      "Generative AI",
+      "Partner Enablement"
     ],
     "roles": [
       "Developer / Engineer",
@@ -63356,6 +63397,7 @@
     "areasOfInterest": [
       "Governance, Risk & Compliance",
       "Network & Infrastructure Security",
+      "Partner Enablement",
       "Threat Detection & Incident Response"
     ],
     "roles": [
@@ -63388,12 +63430,17 @@
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
     ],
     "areasOfInterest": [
-      "Agentic AI"
+      "Agentic AI",
+      "Partner Enablement"
     ],
     "roles": [
+      "Developer / Engineer",
+      "Sales / Marketing",
       "Solution / Systems Architect"
     ],
     "venue": "Caesars Forum",
@@ -63496,7 +63543,8 @@
       "Artificial Intelligence"
     ],
     "areasOfInterest": [
-      "Agentic AI"
+      "Agentic AI",
+      "Partner Enablement"
     ],
     "roles": [
       "Developer / Engineer",
@@ -63534,7 +63582,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Application Security",
-      "Automation"
+      "Automation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -63572,7 +63621,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "Application Security",
-      "Automation"
+      "Automation",
+      "Partner Enablement"
     ],
     "roles": [
       "Business Executive",
@@ -63610,6 +63660,7 @@
     "areasOfInterest": [
       "Agentic AI",
       "Generative AI",
+      "Partner Enablement",
       "Tech for Impact"
     ],
     "roles": [
@@ -63648,6 +63699,7 @@
     "areasOfInterest": [
       "Agentic AI",
       "Generative AI",
+      "Partner Enablement",
       "Tech for Impact"
     ],
     "roles": [
@@ -63683,9 +63735,11 @@
       "Industry Solutions"
     ],
     "areasOfInterest": [
-      "Agentic AI"
+      "Agentic AI",
+      "Partner Enablement"
     ],
     "roles": [
+      "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "Wynn/Encore",
@@ -63718,7 +63772,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "DevOps",
-      "Generative AI"
+      "Generative AI",
+      "Partner Enablement"
     ],
     "roles": [
       "Advisor / Consultant",
@@ -63755,7 +63810,8 @@
     "areasOfInterest": [
       "Agentic AI",
       "DevOps",
-      "Generative AI"
+      "Generative AI",
+      "Partner Enablement"
     ],
     "roles": [
       "Advisor / Consultant",
@@ -64726,6 +64782,7 @@
     "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
+      "Developer Tools",
       "Security & Identity"
     ],
     "areasOfInterest": [
@@ -64740,7 +64797,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "An AI agent can be easy to prototype but hard to take to production once it needs access to real systems. For developers, platform engineers, and security teams building with AWS AgentCore, this session shows how 1Password uses the same governed credential workflow from a local sandbox to the cloud without code changes. Attendees will see how this approach helps engineering teams move faster, limits the blast radius of a compromised agent, and gives security teams a clear audit trail. The session covers short-lived credential delivery through the AgentCore gateway and policies that apply consistently from development through production. This presentation is brought to you by 1Password, an AWS Partner.",
+    "abstract": "Giving an AI agent real work means connecting it to real systems without exposing their credentials. For developers, platform engineers, and security teams, this lightning talk demonstrates how 1Password, AWS Strands Box with AWS Credentials Daemon can give sandboxed agents access to the services they need while keeping secrets outside the agent. We’ll show how developers connect credentials managed in 1Password, how Box injects them into permitted requests, and how local policies restrict what the agent can do. We’ll also explore the path to centrally managed authorization, approvals, and time-limited access across local and cloud deployments.",
     "times": [
       {
         "id": "1790033125775001q0FS",
@@ -69556,9 +69613,9 @@
   {
     "id": "1780442249114001cK1l",
     "code": "SEC412",
-    "title": "Crossing the kill chain: IR when attackers pivot between clouds",
+    "title": "Crossing the Kill Chain: Detection and Response When Attackers Pivot Between Clouds",
     "type": "Chalk talk",
-    "level": "400 – Expert",
+    "level": "300 – Advanced",
     "topics": [
       "Security & Identity"
     ],
@@ -69572,7 +69629,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "When a threat actor compromises credentials in one cloud and pivots into another, the kill chain crosses boundaries that no single-cloud tool can follow. In this chalk talk, we whiteboard the detection and response patterns for cross-cloud lateral movement using Security Hub, Inspector, and multicloud telemetry sources.",
+    "abstract": "When an attacker gains a foothold in one cloud and pivots into another, the kill chain crosses boundaries that no single-cloud tool follows on its own. Detecting it starts before the incident, with the preparation that makes the cross-cloud seam visible: centralizing and normalizing telemetry across your estate. In this chalk talk, we work through how to prepare for, detect, and respond to cross-cloud lateral movement together. Using real attack sequences, we showcase how to build the detection and response using AWS Security Hub, Amazon CloudWatch, and multicloud telemetry sources. You'll leave with an alerting framework and correlation patterns you can run against your own environment.",
     "times": [
       {
         "id": "1790025531430001CMQn",
@@ -73602,44 +73659,6 @@
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Room 104",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1780441473214001GAn2",
-    "code": "STG368",
-    "title": "Deep dive into recent Amazon S3 launches",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Analytics",
-      "Storage"
-    ],
-    "areasOfInterest": [
-      "Cost Optimization",
-      "Innovation & Transformation",
-      "Open Data"
-    ],
-    "roles": [
-      "Data Engineer",
-      "Developer / Engineer",
-      "IT Executive"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Join this session to learn about the latest storage and AI innovations from Amazon S3, why they matter, and how to get started.",
-    "times": [
-      {
-        "id": "1790963622593001QfVj",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
-        "duration": 60,
-        "room": "MGM Grand | Level 1 | Grand 119",
         "venue": "MGM Grand"
       }
     ]
@@ -78300,6 +78319,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -78335,6 +78355,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -78370,6 +78391,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -78404,6 +78426,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -78439,6 +78462,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -78950,6 +78974,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -79755,6 +79780,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -79790,6 +79816,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -80406,6 +80433,7 @@
       "Migration & Modernization"
     ],
     "areasOfInterest": [
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
@@ -80440,6 +80468,7 @@
       "Migration & Modernization"
     ],
     "areasOfInterest": [
+      "Partner Enablement",
       "Training & Certification"
     ],
     "roles": [
