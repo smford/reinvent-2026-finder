@@ -1,24 +1,24 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-10-27T11:13:29Z",
-  "totalSessions": 2328,
-  "scheduledTimeSlots": 2328,
+  "lastUpdated": "2026-10-27T21:33:59Z",
+  "totalSessions": 2343,
+  "scheduledTimeSlots": 2343,
   "campuses": {
     "MGM Grand Campus": 679,
-    "Wynn Campus": 582,
-    "Caesars Campus": 745,
-    "Venetian Campus": 312,
+    "Wynn Campus": 583,
+    "Caesars Campus": 746,
+    "Venetian Campus": 313,
     "Allegiant Stadium Campus": 1,
-    "Various Locations Campus": 9
+    "Various Locations Campus": 21
   },
   "venues": {
     "MGM Grand": 679,
-    "Wynn/Encore": 581,
-    "Caesars Palace": 371,
+    "Wynn/Encore": 582,
+    "Caesars Palace": 372,
     "Caesars Forum": 374,
-    "Venetian": 306,
+    "Venetian": 307,
     "Allegiant Stadium": 1,
-    "Various Locations": 9,
+    "Various Locations": 21,
     "Madame Tussauds (located in The Venetian)": 1,
     "Canonita (located in The Venetian)": 2,
     "Delmonico (located in The Venetian)": 1,
@@ -26,38 +26,38 @@
     "TAP Sports Bar (located in MGM Grand)": 1
   },
   "levels": {
-    "300 \u2013 Advanced": 1341,
-    "200 \u2013 Intermediate": 362,
+    "300 \u2013 Advanced": 1343,
+    "200 \u2013 Intermediate": 363,
     "100 \u2013 Foundational": 88,
     "Unspecified": 8,
     "400 \u2013 Expert": 415,
     "500 \u2013 Distinguished": 48,
-    "No Level": 66
+    "No Level": 78
   },
   "sessionTypes": {
     "Chalk talk": 690,
-    "Breakout session": 520,
-    "Lightning talk": 233,
+    "Breakout session": 522,
+    "Lightning talk": 234,
     "Gamified learning": 35,
     "Builders' session": 257,
     "Workshop": 302,
     "Code talk": 127,
-    "Featured experience": 37,
-    "Lab": 45,
     "Bootcamp": 26,
     "Mainstage": 16,
+    "Lab": 45,
+    "Featured experience": 37,
     "Exam prep": 10,
-    "Event service": 9,
+    "Event service": 21,
     "Expo": 16,
     "Keynote": 5
   },
   "days": {
-    "Monday": 605,
-    "Wednesday": 632,
-    "Tuesday": 463,
-    "Thursday": 570,
-    "Friday": 55,
-    "Sunday": 3
+    "Monday": 607,
+    "Wednesday": 636,
+    "Tuesday": 464,
+    "Thursday": 573,
+    "Friday": 58,
+    "Sunday": 5
   },
   "topics": [
     "Analytics",
