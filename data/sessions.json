@@ -8,7 +8,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "TAP Sports Bar (located in MGM Grand)",
+    "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
     "abstract": "Join AWS Chief Evangelist Jeff Barr for an unforgettable trivia night where teams will test their AWS expertise.",
     "times": [
@@ -22,7 +22,7 @@
         "endTimeFormatted": "09:00 PM",
         "duration": 120,
         "room": "TAP Sports Bar (located in MGM Grand)",
-        "venue": "TAP Sports Bar (located in MGM Grand)"
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -758,15 +758,17 @@
   {
     "id": "1792450370692001snVp",
     "code": "ACT017",
-    "title": "In This Together Networking Reception",
+    "title": "Building Together Reception",
     "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Madame Tussauds (located in The Venetian)",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Join In This Together (ITT) at Madame Tussauds in the Venetian for an evening reception highlighting ITT inclusion initiatives in partnership with Deloitte. This centerpiece networking event provides an inclusive and welcoming environment complete with interactive elements, tech demonstrations, and specially curated music. The relaxed atmosphere gives attendees the opportunity to celebrate with their favorite wax figure celebrities, including Rihanna, Dwayne “The Rock” Johnson, Marvel Superheroes, Megan Thee Stallion, and Jack Harlow. The addition of dedicated quiet spaces ensures all attendees can participate comfortably.",
+    "abstract": "Join AWS and Amazon Together Community for an evening reception celebrating those who make the world better. Connect with builders and developers who use AWS AI and cloud technology for positive change. Over light bites and beverages at Tableau in the Wynn, explore skilling and social impact, spark new ideas, and celebrate the work we do best — together. All builders welcome.",
     "times": [
       {
         "id": "1793081400303001KyD2",
@@ -778,7 +780,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Madame Tussauds (located in The Venetian)",
-        "venue": "Madame Tussauds (located in The Venetian)"
+        "venue": "Venetian"
       }
     ]
   },
@@ -818,7 +820,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Canonita (located in The Venetian)",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Join us at Canonita in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by CodeRabbit! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.",
     "times": [
@@ -832,7 +834,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Canonita (located in The Venetian)",
-        "venue": "Canonita (located in The Venetian)"
+        "venue": "Venetian"
       }
     ]
   },
@@ -845,7 +847,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Delmonico (located in The Venetian)",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Join us at Delmonico in the Palazzo, Restaurant Row for a networking reception sponsored by NVIDIA! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
     "times": [
@@ -859,7 +861,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Delmonico (located in The Venetian)",
-        "venue": "Delmonico (located in The Venetian)"
+        "venue": "Venetian"
       }
     ]
   },
@@ -872,7 +874,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Flight Club (located in The Venetian)",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Join us at Flight Club in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by AMD! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
     "times": [
@@ -886,7 +888,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Flight Club (located in The Venetian)",
-        "venue": "Flight Club (located in The Venetian)"
+        "venue": "Venetian"
       }
     ]
   },
@@ -899,7 +901,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Canonita (located in The Venetian)",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Join us at Canonita in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by Atos! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
     "times": [
@@ -913,7 +915,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Canonita (located in The Venetian)",
-        "venue": "Canonita (located in The Venetian)"
+        "venue": "Venetian"
       }
     ]
   },
@@ -926,7 +928,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Flight Club (located in The Venetian)",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Join us at Flight Club in the Venetian, Palazzo Grand Canal Shoppes for a networking reception sponsored by CockroachDB! Stop by to pick up a patch and connect with sponsors and peers over food and drinks.\n",
     "times": [
@@ -940,7 +942,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Flight Club (located in The Venetian)",
-        "venue": "Flight Club (located in The Venetian)"
+        "venue": "Venetian"
       }
     ]
   },
@@ -1255,7 +1257,7 @@
   {
     "id": "1780441484976002GfZN",
     "code": "AIM109-S",
-    "title": "Build Trust in AI with Agent Observability​ (sponsored by Splunk, a Cisco Company)",
+    "title": "Build Trust in AI with Agent Observability​ (sponsored by Splunk by Cisco)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -1369,7 +1371,7 @@
   {
     "id": "1780442267034001cC3t",
     "code": "AIM112-S",
-    "title": "Give agents governed access to your APIs over MCP with a domain model",
+    "title": "Give agents governed access to your APIs over MCP with a domain model (sponsored by Apollo GraphQL)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -3690,7 +3692,7 @@
   {
     "id": "1780441482522001GpXn",
     "code": "AIM232-S",
-    "title": "4 primitives to evaluate your on-call agent's autonomy (sponsored by ResolveAI)",
+    "title": "4 primitives to evaluate your on-call agent's autonomy (sponsored by Resolve AI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -3765,7 +3767,7 @@
   {
     "id": "1780441482222001G135",
     "code": "AIM234-S",
-    "title": "Machines on Call for Humans: Agents to run and fix your prod (sponsored by ResolveAI)",
+    "title": "Machines on Call for Humans: Agents to run and fix your prod (sponsored by Resolve AI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -4101,7 +4103,7 @@
   {
     "id": "1780441483183001GUuU",
     "code": "AIM244-S",
-    "title": "Solving Problems Faster with AI SRE​ (sponsored by Splunk, a Cisco Company)",
+    "title": "Solving Problems Faster with AI SRE​ (sponsored by Splunk by Cisco)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -4176,7 +4178,7 @@
   {
     "id": "1780441483724001GLNR",
     "code": "AIM246-S",
-    "title": "Modernize the data layer, then scale the AI: A Cisco Case Study",
+    "title": "Modernize the data layer, then scale the AI: A Cisco Case Study (sponsored by MongoDB)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -4288,7 +4290,7 @@
   {
     "id": "1780441484694001GQSW",
     "code": "AIM249-S",
-    "title": "FinOps for AI: Open the black box on AI spend (sponsored by Apptio)",
+    "title": "FinOps for AI: Open the black box on AI spend (sponsored by Cloudability)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5671,7 +5673,7 @@
   {
     "id": "1780442271883001caZT",
     "code": "AIM291-S",
-    "title": "Architecting Intelligent Omni-Channel Communication Workflows with Twilio + AWS",
+    "title": "Architecting Intelligent Omni-Channel Communication Workflows with Twilio + AWS (sponsored by Twilio)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -5969,44 +5971,6 @@
         "endTimeFormatted": "10:50 AM",
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1780442269117001cYyA",
-    "code": "AIM299-S",
-    "title": "How Context Graphs Cut AI Token Usage by Up to 70% (sponsored by Sphinx AI)",
-    "type": "Lightning talk",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Analytics",
-      "Artificial Intelligence",
-      "Business Agents"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Business Intelligence",
-      "Generative AI"
-    ],
-    "roles": [
-      "Academic / Researcher",
-      "Entrepreneur (Founder/Co-Founder)"
-    ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Context graphs can reduce token usage by up to 70% while maintaining accuracy. This session explores how context graphs help AI agents understand relationships, definitions, and business meaning across enterprise data. We will look at how context graphs capture knowledge that traditional data models miss, and how organizations are applying them. You will see real examples of the architecture and results involved in giving AI the context it needs to reason effectively. This presentation is brought to you by Sphinx AI, an AWS Partner.",
-    "times": [
-      {
-        "id": "1790033123960001qVJz",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:30",
-        "endTime": "13:50",
-        "startTimeFormatted": "01:30 PM",
-        "endTimeFormatted": "01:50 PM",
-        "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
         "venue": "Venetian"
       }
     ]
@@ -8092,6 +8056,44 @@
     ]
   },
   {
+    "id": "1780442269117001cYyA",
+    "code": "AIM3325-S",
+    "title": "How In-Context Learning Delivers Interpretable AI at 90% Lower Cost (sponsored by Sphinx AI)",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Business Intelligence",
+      "Generative AI"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Enterprises have spent years building institutional knowledge, but AI agents still struggle to apply that expertise to complex business tasks. This session explores how scaling in-context learning (ICL) enables organizations to train AI on their existing work, allowing agents to reason and make decisions with the judgment of an organization's experts. We’ll examine how this approach makes institutional knowledge portable across models, achieves 95%+ accuracy and performance while reducing inference costs by 90%+ with the ability to swap to smaller models. Through real-world examples, we’ll demonstrate how organizations can customize AI for their business without costly fine-tuning while maintaining full interpretability into what agents learn, how that knowledge influences their outputs, and how errors can be corrected.\n",
+    "times": [
+      {
+        "id": "1790033123960001qVJz",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:30",
+        "endTime": "13:50",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "01:50 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1780442253517001cLD0",
     "code": "AIM333-R",
     "title": "The Agent Harness: Unifying Fragmented Tools for Mission AI Advisors",
@@ -10056,7 +10058,7 @@
       "IT Executive",
       "IT Professional / Technical Manager"
     ],
-    "venue": "MGM Grand",
+    "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Enterprises are waking up to a hard truth: the AI their business now depends on runs on infrastructure, models, and pricing they don't control. In this session, Boomi's engineering and AI leadership show a different path — AI agents that run anywhere you choose (your Amazon VPC, your data center, behind your firewall) powered by small language models fine-tuned to each agent's job and served entirely on infrastructure you govern. You'll see the full architecture on AWS — Amazon EKS, EC2 GPU instances, Amazon S3, Aurora, MSK, and Amazon Bedrock as a governed escalation path — plus the fine-tuning pipeline (LoRA SFT + DPO), the evaluation gate that decides when a small model is ready, and a live demo of an agent reasoning locally at a fraction of the latency and cost of a frontier LLM. This presentation is brought to you by Boomi, an AWS Partner.",
     "times": [
@@ -10070,7 +10072,7 @@
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
-        "venue": "MGM Grand"
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -12718,7 +12720,7 @@
   {
     "id": "1780441485872001GDVq",
     "code": "ANT202-S",
-    "title": "Stop Moving AWS Data. Turn It into Action with Splunk​ (sponsored by Splunk, a Cisco Company)",
+    "title": "Stop Moving AWS Data. Turn It into Action with Splunk​ (sponsored by Splunk by Cisco)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -19491,7 +19493,7 @@
     "code": "AWS015-R1",
     "title": "Global Impact Zone in Expo",
     "type": "Expo",
-    "level": "No Level",
+    "level": "100 – Foundational",
     "topics": [
       "Artificial Intelligence",
       "Business Agents",
@@ -19522,7 +19524,7 @@
     "code": "AWS015-R2",
     "title": "Global Impact Zone in Expo",
     "type": "Expo",
-    "level": "No Level",
+    "level": "100 – Foundational",
     "topics": [
       "Artificial Intelligence",
       "Business Agents",
@@ -19571,6 +19573,33 @@
         "endTimeFormatted": "04:00 PM",
         "duration": 360,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 177",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513461903001LZPi",
+    "code": "AWS017-R3",
+    "title": "Industry Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore hands-on demos across 10 industries and connect with peers and AWS experts.",
+    "times": [
+      {
+        "id": "1793085679749001QqXr",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
         "venue": "Venetian"
       }
     ]
@@ -19755,33 +19784,6 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1789513461903001LZPi",
-    "code": "AWS117-R3",
-    "title": "Industry Zone in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore hands-on demos across 10 industries and connect with peers and AWS experts.",
-    "times": [
-      {
-        "id": "1793085679749001QqXr",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
         "venue": "Venetian"
       }
@@ -21615,7 +21617,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Organizations are accelerating their deployment of AI agents, yet the critical gap remains: proving they work reliably and responding when they don't. This workshop delivers a hands-on framework for the complete testing and operational lifecycle of agentic AI on Amazon Connect Customer. First, build a layered testing strategy using native Testing & Simulation — functional, integration, and regression tests for flows and bots, wired to dashboard-driven observability. Then, implement automated operational responses such as threshold-based alerting triggers pre-approved remediations. You will leave with a reusable testing playbook and an implementable pattern for closed-loop operational automation — reducing manual validation effort and moving toward self-managing AI agents at scale.",
+    "abstract": "Organizations are accelerating their deployment of agentic journeys yet a critical gap remains - how reliable are they in handling self-service queries? This workshop delivers a hands-on framework for the complete testing and operational lifecycle of agentic on Amazon Connect Customer. First, build a layered testing strategy using native Testing & Simulation - functional, integration, and regression tests to validate self-service customer journeys, wired to dashboard-driven observability. Then, implement automated operational responses such as threshold-based alerting that triggers pre-approved remediations. You will leave with a reusable testing playbook and an implementable pattern for closed-loop operational automation - reducing manual validation effort and moving toward self-managing AI agents at scale.",
     "times": [
       {
         "id": "1790025542230001CRUd",
@@ -33650,6 +33652,7 @@
     "level": "300 – Advanced",
     "topics": [
       "Architecture",
+      "Cloud Operations",
       "Storage"
     ],
     "areasOfInterest": [
@@ -39300,8 +39303,8 @@
       "IT Professional / Technical Manager",
       "Solution / Systems Architect"
     ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
     "abstract": "Check back soon for more details about this session.",
     "times": [
       {
@@ -39314,7 +39317,7 @@
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Grand 117",
-        "venue": "Caesars Forum"
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -43902,7 +43905,7 @@
   {
     "id": "1780442270680001csK4",
     "code": "HMC206-S",
-    "title": "Stop paying for idle GPUs on Amazon EKS (sponsored by Apptio)",
+    "title": "Stop paying for idle GPUs on Amazon EKS (sponsored by Cloudability)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -44869,6 +44872,45 @@
         "duration": 60,
         "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780442221624001cqr7",
+    "code": "HMC322",
+    "title": "Designing Portable Multicloud Architectures with Open Specifications",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Cloud Operations",
+      "Hybrid Cloud & Multicloud"
+    ],
+    "areasOfInterest": [
+      "DevOps",
+      "Governance, Risk & Compliance",
+      "Kubernetes"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Enterprises pursuing multicloud strategies often equate portability with containerization, but true architectural portability requires deliberate decisions across the full stack. In this session, we start from the foundational layers of compute, storage, and networking and build outward through data, security, observability, AI, etc. At each layer, we explore how open specifications enable portability, in what parts of your architecture does portability matter most and how to make deliberate portability decisions across your stack.",
+    "times": [
+      {
+        "id": "1791224292292001Zaqu",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -46019,8 +46061,8 @@
       "Academic / Researcher",
       "Data Engineer"
     ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Millions of patients wait too long for imaging each year as demand outpaces capacity, and the shortage is projected to worsen significantly by 2030. Radiology Partners is tackling this with MosaicOS, a full imaging lifecycle system powered by agentic AI that spans order placement through billing. In this lightning talk, learn how MosaicOS uses Amazon Bedrock AgentCore to orchestrate multiple AI models across the radiology workflow while maintaining governance and observability required in regulated clinical environments. See how agentic orchestration moves radiology from tool-level automation to coordinated, clinician-directed intelligence at scale.",
     "times": [
       {
@@ -46033,7 +46075,7 @@
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
-        "venue": "Venetian"
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -55944,7 +55986,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "S&P Global Energy serves the world's largest financial institutions and energy traders with trusted commodities data — pricing, supply and demand, LNG cargoes, outages, and contracts. To make that data estate conversational, they built an external-facing AI product powered by 30+ Databricks Genie Agents, each scoped to a specific energy domain, then composed into cross-commodity endpoints via MCP servers. The system handles 300K+ queries per month, with customers asking complex analytical questions in natural language and getting governed, auditable answers backed by Unity Catalog. Subject-matter experts publish new conversational experiences in days — without writing agent code. Leave with a blueprint for turning governed data into production conversational AI on AWS. This presentation is brought to you by Databricks, an AWS Partner.",
+    "abstract": "Evaluating complex financial data shouldn't start with schema research and SQL. In this session, Databricks will introduce Genie Agents, which let business and technical users ask questions in plain language and get back trusted answers, tables and visualizations. S&P Global Market Intelligence will then show how it built Genie into S&P Capital IQ Workbench on Databricks and AWS, running Genie Agents across about 90 core datasets. Learn how automated AI bundles (dataset documentation, SQL examples, business definitions, joins and synonyms) and entity resolution keep answers accurate, and how notebooks let technical teams check and extend the results. All of it is governed end to end by Unity Catalog. Hear how this cut data evaluation time by and shortened sales cycles. Leave with a blueprint for turning data products into conversational experiences customers trust. ",
     "times": [
       {
         "id": "1790025507856001CQzz",
@@ -56393,8 +56435,8 @@
       "IT Administrator",
       "IT Professional / Technical Manager"
     ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "The biggest bottleneck in large-scale migrations isn't technical. It's the time between customer commitment and first workload moving. Agreements, partner funding approvals, and credit disbursement today require manual coordination across multiple teams and systems. AWS Transform automates the entire incentive lifecycle: one-click agreement acceptance, auto-populated partner fund requests, and threshold-based credit triggers that disburse automatically when tagged resources hit spend targets. In this session, learn how AWS Transform is removing administrative friction so incentives accelerate migrations instead of delaying them.",
     "times": [
       {
@@ -56407,7 +56449,7 @@
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
-        "venue": "Caesars Forum"
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -65615,7 +65657,7 @@
   {
     "id": "1780442389888001NPVg",
     "code": "SEC103-S",
-    "title": "Turn AWS Security Signals into Action with AI-First SecOps (sponsored by Splunk, a Cisco Company)",
+    "title": "Turn AWS Security Signals into Action with AI-First SecOps (sponsored by Splunk by Cisco)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -66674,25 +66716,27 @@
   {
     "id": "1780441488381001GPQl",
     "code": "SEC225-S",
-    "title": "Inside the Architecture: Building Secure AI Applications on AWS (sponsored by TrendAI™)",
+    "title": "Shrink zero-day exposure time: Lessons in AI-driven defense (sponsored by TrendAI™)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
+      "Artificial Intelligence",
+      "Hybrid Cloud & Multicloud",
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Agentic AI",
-      "Application Security",
-      "DevOps"
+      "Governance, Risk & Compliance",
+      "Monitoring & Observability",
+      "Threat Detection & Incident Response"
     ],
     "roles": [
-      "DevOps Engineer",
-      "Developer / Engineer",
+      "Cloud Security Specialist",
+      "IT Executive",
       "Solution / Systems Architect"
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI is rapidly moving from experimentation to production, creating new challenges for developers, architects, and security teams. In this technical session, explore the real-world architectures enterprises use to build and secure AI applications on AWS. Learn how organizations leverage Amazon Bedrock, EKS, ECS, Security Lake, CloudTrail, and cloud-native automation to protect AI workloads, monitor risk across multi-account environments, and streamline security operations. Through practical deployment patterns and lessons learned from large-scale AWS environments, discover how to build AI applications that are secure, scalable, and production-ready. The session draws on deployment patterns described for TrendAI Vision One on AWS, including AI workload protection, cloud telemetry integration, and AWS-native architecture approaches. This presentation is brought to you by TrendAI™, an AWS Partner.",
+    "abstract": "AI has changed who finds zero-days and how fast. Submissions to the TrendAI™ Zero Day Initiative™ (ZDI), a vendor-agnostic bug bounty program, are up 4x. For Pega, which runs thousands of AI-powered enterprise applications on AWS, any unknown flaw in its software stack becomes exposure for its customers. In this session, Pega and TrendAI™ share how they shrink that exposure window together. Learn how an agentic engine built on 20 years of ZDI research finds and validates zero-days, and how virtual patching protects AWS environments before a fix ships. Leave with practical steps to reduce zero-day exposure in your environment.",
     "times": [
       {
         "id": "1790025524651001CoUG",
@@ -70333,27 +70377,24 @@
   {
     "id": "1780441489175001Gjf8",
     "code": "SEC378-S",
-    "title": "Take Voice and Image AI into Production with OpenAI and Amazon Bedrock (sponsored by OpenAI)",
+    "title": "Inside the frontier: What builders are creating at OpenAI (sponsored by OpenAI)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
-      "Application Integration",
-      "Architecture",
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "areasOfInterest": [
       "Generative AI",
-      "Machine Learning",
-      "Monitoring & Observability"
+      "Innovation & Transformation"
     ],
     "roles": [
-      "Data Scientist",
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Build production AI workflows that turn language, vision, voice, and structured data into useful action. This session explores how developers can combine varied enterprise inputs with tool use on Amazon Bedrock. Learn approaches for model routing and evaluation, and explore the security and governance considerations involved in making voice and image workflows dependable in production. This presentation is brought to you by OpenAI, an AWS Partner.",
+    "abstract": "How are builders at OpenAI turning big bets into systems and new products used across the company? Through demos and firsthand stories, go behind the scenes of ambitious projects with the people who built them. Discover the problems they’re tackling, the frontier capabilities that made their ideas possible, and what they’ve learned putting them into practice. Leave with practical lessons for bringing your own ideas to life with OpenAI.",
     "times": [
       {
         "id": "1790034531017001pARJ",
@@ -70412,24 +70453,26 @@
   {
     "id": "1780441484569001GdsM",
     "code": "SEC380-S",
-    "title": "When AI Moves Money: Secure the Agentic Future of Financial Services (sponsored by TrendAI™)",
+    "title": "Threat research: how attackers use AI to persist and how to evict them",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
+      "Artificial Intelligence",
       "Security & Identity"
     ],
     "areasOfInterest": [
-      "Agentic AI",
-      "Application Security",
-      "Innovation & Transformation"
+      "Identity & Access Management",
+      "Threat Detection & Incident Response",
+      "Threat Intelligence"
     ],
     "roles": [
-      "Business Executive",
-      "IT Executive"
+      "Cloud Security Specialist",
+      "IT Executive",
+      "Solution / Systems Architect"
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Organizations are racing to adopt AI, but many struggle to balance innovation, governance, and security. In this session, learn how Discover how technology leaders are enabling AI innovation while reducing operational risk and complexity. enterprises are using TrendAI Vision One on AWS to accelerate AI initiatives, gain visibility across complex cloud environments, and reduce operational risk without slowing the business. Discover real-world deployment patterns, lessons learned, and the architectural principles that help security teams move from reactive defense to proactive risk management while enabling AI at scale. Built on AWS-native services and integrated across the cloud ecosystem, this approach helps organizations simplify operations, improve threat detection, and confidently embrace the next wave of transformation. This presentation is brought to you by TrendAI™, an AWS Partner.",
+    "abstract": "Patching a vulnerability doesn't remove an attacker who is already inside your environment, and AI workloads introduce new persistence surfaces: agents with standing permissions, compromised MCP servers, and poisoned vector stores that survive redeployment. In this session, a CISO and a threat research leader show how attackers establish persistence in modern environments and what to do about it. From long-lived IAM access keys to over-permissioned Amazon Bedrock agents, learn which persistence techniques to hunt first and how to evict attackers for good.",
     "times": [
       {
         "id": "1790034531451001pwBK",
@@ -71704,7 +71747,7 @@
   {
     "id": "1780442249290001csBt",
     "code": "SEC426",
-    "title": "How AWS Continuum validates security findings across the SDLC",
+    "title": "Penetration testing every deployment with AWS Continuum",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -71721,7 +71764,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AWS Continuum embeds security expertise at every stage of the software development lifecycle: AWS Continuum reviews architecture documents, AWS Continuum scans pull requests and full repositories, and AWS Continuum can pentest deployed applications. In this chalk talk, we dive deep into how AWS Continuum coordinates multiple analysis passes with built-in safety guardrails and multi-step validation to deliver high-confidence findings. Bring your questions about integrating security into CI/CD pipelines and scaling AppSec across multiple teams.",
+    "abstract": "Your applications ship far more often than they get a penetration test. AWS Continuum for Penetration Testing (formerly AWS Security Agent) uses AI agents to test running web apps and APIs, and it validates every finding before a developer sees it. In this chalk talk, we whiteboard how a test plans, runs, and proves its findings. Then we wire it into your pipeline as a gate that tests only the commits since the last cleared run and blocks promotion on validated findings. Bring your pipeline and your questions.",
     "times": [
       {
         "id": "1790025547514001C80U",
@@ -82618,7 +82661,7 @@
   {
     "id": "1784231861232001EXVp",
     "code": "TNC339-R",
-    "title": "AWS Partner: Your agent can wait. Go fix the app it depends on.",
+    "title": "AWS Partner: Unblock AI agents on legacy apps from assessment to fix",
     "type": "Bootcamp",
     "level": "300 – Advanced",
     "topics": [
@@ -82634,7 +82677,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "This bootcamp is for AWS Partners only. An agent is only as reliable as the services it calls. Before you fix anything, you need to know exactly what's broken. In this workshop you stress-test that claim — probing a service for gaps that break autonomous invocation, reading the findings against your own predictions, and making the call on what gets fixed first. Leave with a ranked fix list and a method that transfers to any service. You must bring your laptop to participate.",
+    "abstract": "This bootcamp is for AWS Partners only. An agent is only as reliable as the app underneath it. A ten-year-old booking platform stands between your customer and their first AI agent. Run an Agentic Readiness Analysis (ARA) with AWS Transform, predict what it finds, and read the findings by severity. Map the blockers to modernization routes, build a prioritized roadmap with Kiro, then apply an automated remediation: a machine identity for agents, plus an audit trail and idempotency. Leave with a repeatable method to assess any customer app and decide what to fix first. Bring your laptop.",
     "times": [
       {
         "id": "1790020454979001QGmJ",
@@ -82653,7 +82696,7 @@
   {
     "id": "1787372742473001zK0g",
     "code": "TNC339-R1",
-    "title": "AWS Partner: Your agent can wait. Go fix the app it depends on.",
+    "title": "AWS Partner: Unblock AI agents on legacy apps from assessment to fix",
     "type": "Bootcamp",
     "level": "300 – Advanced",
     "topics": [
@@ -82669,7 +82712,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "This bootcamp is for AWS Partners only. An agent is only as reliable as the services it calls. Before you fix anything, you need to know exactly what's broken. In this workshop you stress-test that claim — probing a service for gaps that break autonomous invocation, reading the findings against your own predictions, and making the call on what gets fixed first. Leave with a ranked fix list and a method that transfers to any service. You must bring your laptop to participate.",
+    "abstract": "This bootcamp is for AWS Partners only. An agent is only as reliable as the app underneath it. A ten-year-old booking platform stands between your customer and their first AI agent. Run an Agentic Readiness Analysis (ARA) with AWS Transform, predict what it finds, and read the findings by severity. Map the blockers to modernization routes, build a prioritized roadmap with Kiro, then apply an automated remediation: a machine identity for agents, plus an audit trail and idempotency. Leave with a repeatable method to assess any customer app and decide what to fix first. Bring your laptop.",
     "times": [
       {
         "id": "1790980247940001Xbr7",
