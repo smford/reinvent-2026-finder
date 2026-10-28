@@ -7893,7 +7893,7 @@
   {
     "id": "1788568014278001At0w",
     "code": "AIM3312",
-    "title": "Accelerate Apache Spark data processing with GPUs at lower cost ",
+    "title": "Accelerate analytics with GPUs at lower cost: Spark, DuckDB, and more",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -7913,7 +7913,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Data-intensive workloads like feature engineering, large-scale ETL, and real-time analytics push CPU-based clusters to their limits. In this session, learn how Amazon EMR with NVIDIA RAPIDS Accelerator for Apache Spark runs Spark workloads up to 3.7x faster on Amazon EC2 G7 instances—with no code changes. We share benchmarking results, walk through architecture and tuning patterns, and show how finishing jobs faster lowers the cost per run, even at a higher hourly rate.",
+    "abstract": "Feature engineering, ETL, and interactive analytics for AI push CPU-based clusters to their limits. In this session, learn how Amazon EMR with the NVIDIA cuDF Plugin for Apache Spark runs workloads up to 3.7x faster on Amazon EC2 G7 instances with no code changes. The session also covers DuckDB on GPU, presents benchmarks and tuning patterns, and shows how faster jobs lower cost per run, even at a higher hourly rate.",
     "times": [
       {
         "id": "1791209380608001Zbmw",
@@ -10595,7 +10595,7 @@
   {
     "id": "1780442223977001cED1",
     "code": "AIM403",
-    "title": "Build End-to-End AI Pipelines on SageMaker HyperPod",
+    "title": "Build and Optimize AI Pipelines with Ray on SageMaker HyperPod",
     "type": "Builders' session",
     "level": "400 – Expert",
     "topics": [
@@ -10605,7 +10605,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Modern AI pipelines demand unified frameworks for petabyte-scale data prep, large-model training, and low-latency serving. In this hands-on workshop, build a complete data processing → distributed training → model serving pipeline on Amazon SageMaker HyperPod, fine-tuning and serving an LLM end-to-end. Experience HyperPod's native distributed computing integration with managed orchestration, embedded observability, tiered checkpointing, hung-job detection, and managed KV cache for inference. Simulate a node failure and watch training auto-resume in seconds. Leave with a working serving endpoint, production patterns, and a resilient platform that eliminates the infrastructure toil of running distributed AI workloads at scale.",
+    "abstract": "Ray provides a unified Python framework for petabyte-scale data processing, large-model training, and low-latency inference. In this hands-on workshop, you will use Ray on SageMaker HyperPod to a model and set up endpoints. Create a Ray cluster from SageMaker Studio and attach a JupyterLab notebook to build the pipeline from Ray train to Ray Serve. Simulate a node failure and watch training auto-resume in seconds. Experience HyperPod's native Ray integration with embedded observability, tiered checkpointing, hung-job detection, and managed KV cache for inference. You leave with a working endpoint and patterns you can apply to your own workloads.",
     "times": [
       {
         "id": "1790025534576001Cw9p",
@@ -19651,7 +19651,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "abstract": "Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
     "times": [
       {
         "id": "1793085621492001LvBM",
@@ -42930,11 +42930,11 @@
         "id": "1790025528080001Cd4w",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "16:30",
+        "startTime": "16:00",
         "endTime": "17:30",
-        "startTimeFormatted": "04:30 PM",
+        "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "05:30 PM",
-        "duration": 60,
+        "duration": 90,
         "room": "MGM Grand | Level 1 | Grand 115",
         "venue": "MGM Grand"
       }
@@ -44655,7 +44655,7 @@
   {
     "id": "1780442243769001c38h",
     "code": "HMC316",
-    "title": "Designing Portable Multicloud Architectures with Open Specifications",
+    "title": "From prototype to production agents across clouds",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -44664,17 +44664,18 @@
       "Hybrid Cloud & Multicloud"
     ],
     "areasOfInterest": [
-      "DevSecOps",
+      "Agentic AI",
+      "Generative AI",
       "Management & Governance"
     ],
     "roles": [
-      "DevOps Engineer",
+      "Data Scientist",
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Enterprises pursuing multicloud strategies often equate portability with containerization — but true architectural portability requires deliberate decisions across the full stack. In this chalk talk, we start from the foundational layers of compute, storage, and networking and build outward through data, security, observability, and AI. At each layer, we explore how open specifications enable portability — and in what parts of your architecture does portability matter most. Along the way, we challenge common myths: that managed services equal lock-in, that Kubernetes equals portable, and that open source alone guarantees freedom. Through interactive whiteboarding, we'll design portable architecture patterns together — examining real trade-offs, open specifications like Apache Iceberg, OpenTelemetry, OPA, and MCP, and how to make deliberate portability decisions across your stack.",
+    "abstract": "Most agent prototypes share the same shape. One loop, a long lived key on every tool, memory in a side table, the rules in the prompt, and a trace that ends at the model call. It works in a demo. Production readiness and portability across clouds come down to the same four decisions, identity, tool access, state, and governance. In this chalk talk we draw that prototype and rebuild it live into a production agent, one decision at a time, with the room voting at every fork, including how to split the agent, where rules live, how identity federates across providers, where memory has its home, and how one governance layer sees every hop. Then we add a new cloud provider to the drawing and show how little changes.",
     "times": [
       {
         "id": "1790025490862001CEMr",
