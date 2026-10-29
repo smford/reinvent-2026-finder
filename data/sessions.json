@@ -1276,7 +1276,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AI agents behave (and fail) in unpredictable and nuanced ways that erode customer trust before engineering teams know anything is wrong. Teams want to deploy agents into critical business workflows, but it's hard to know if agents are behaving as intended or returning wrong answers.​\n\n​\n\nIn this talk, you’ll learn how to observe the entire AI stack,\noptimize tokenomics, and see a demo on how to evaluate\nand control agent behavior with guardrails to stop harmful\nor inaccurate outputs. All of this can be done in near real-\ntime and at low cost.​ This presentation is brought to you by Splunk, a Cisco Company, an AWS Partner.",
+    "abstract": "AI agents behave (and fail) in unpredictable and nuanced ways that erode customer trust before engineering teams know anything is wrong. Teams want to deploy agents into critical business workflows, but it's hard to know if agents are behaving as intended or returning wrong answers.​\n\n​\n\nIn this talk, you’ll learn how to observe the entire AI stack,\noptimize tokenomics, and see a demo on how to evaluate\nand control agent behavior with guardrails to stop harmful\nor inaccurate outputs. All of this can be done in near real-\ntime and at low cost.​ This presentation is brought to you by Splunk by Cisco, an AWS Partner.",
     "times": [
       {
         "id": "1790034533835001pFm4",
@@ -2229,6 +2229,45 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442271577001c6Tl",
+    "code": "AIM140-S",
+    "title": "Beyond AI Productivity, What It Takes to Deliver Real Business Value (sponsored by JetBrains)",
+    "type": "Lightning talk",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "AI is making it easier than ever to write code. But more code doesn't necessarily mean better software or better business results.\nAs companies invest in AI tools and agents, the bigger question is whether they're getting real value from them. How do they measure what's working, maintain quality, and keep costs under control? This presentation is brought to you by JetBrains, an AWS Partner.",
+    "times": [
+      {
+        "id": "1793255451450001vntP",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "17:00",
+        "endTime": "17:20",
+        "startTimeFormatted": "05:00 PM",
+        "endTimeFormatted": "05:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -3711,7 +3750,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AI that handles on-call autonomously requires agents to take on alert triage, investigations, acting on production, and learning from what happened. Autonomy progresses unevenly as investigations are bottlenecked on quality while actions are limited by trust. In this session we will walk through how we build each primitive of our autonomous agents at ResolveAI, and how we help engineering teams handle on-call and incident resolutions. This presentation is brought to you by ResolveAI, an AWS Partner.",
+    "abstract": "AI that handles on-call autonomously requires agents to take on alert triage, investigations, acting on production, and learning from what happened. Autonomy progresses unevenly as investigations are bottlenecked on quality while actions are limited by trust. In this session we will walk through how we build each primitive of our autonomous agents at ResolveAI, and how we help engineering teams handle on-call and incident resolutions. This presentation is brought to you by Resolve AI, an AWS Partner.",
     "times": [
       {
         "id": "1790034531593001poZB",
@@ -3786,7 +3825,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "We're entering a new era of software operations where the question is no longer whether intelligent agents have a role in production, but whether humans should still be the first responder. As production environments continue to grow more complex, agents are becoming part of the operations team, handling the repetitive work of operating production while engineers focus on the decisions that require judgment, creativity, and experience. This session explores how leading enterprises are rethinking on-call, improving reliability, and reshaping the way production is operated by putting machines on call for humans. This presentation is brought to you by ResolveAI, an AWS Partner.",
+    "abstract": "We're entering a new era of software operations where the question is no longer whether intelligent agents have a role in production, but whether humans should still be the first responder. As production environments continue to grow more complex, agents are becoming part of the operations team, handling the repetitive work of operating production while engineers focus on the decisions that require judgment, creativity, and experience. This session explores how leading enterprises are rethinking on-call, improving reliability, and reshaping the way production is operated by putting machines on call for humans. This presentation is brought to you by Resolve AI, an AWS Partner.",
     "times": [
       {
         "id": "1790025502604001Ci4n",
@@ -4122,7 +4161,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "The complexity of problems continues to grow, and smart organizations know that leveraging AI is the quickest way to get this complexity under control and keep customers happy.​ In this session, you’ll see a demo of and learn how to use\nAI SRE in Splunk Observability Cloud to troubleshoot and remediate problems faster no matter how complex or distributed your operating environment is, all powered by OpenTelemetry. ​ This presentation is brought to you by Splunk, a Cisco Company, an AWS Partner.",
+    "abstract": "The complexity of problems continues to grow, and smart organizations know that leveraging AI is the quickest way to get this complexity under control and keep customers happy.​ In this session, you’ll see a demo of and learn how to use\nAI SRE in Splunk Observability Cloud to troubleshoot and remediate problems faster no matter how complex or distributed your operating environment is, all powered by OpenTelemetry. ​ This presentation is brought to you by Splunk by Cisco, an AWS Partner.",
     "times": [
       {
         "id": "1790025506056001Cbdd",
@@ -4196,7 +4235,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Enterprise AI agents depend on applications running on data layers built for a different era. So, how do enterprises modernize applications at scale?\n\nCisco migrated a workflow automation platform running tens of millions of workflows a month—and the AI support assistant built on it—to MongoDB on Amazon EKS without disrupting live operations. The assistant has since resolved 1M+ support cases on its own and is on track to handle most of Cisco’s support volume.\n\nDiscover:\n• Modernization patterns MongoDB sees across enterprises on AWS, from tool-assisted migration to targeted rewrites, and how to choose between them\n• How Cisco’s distinguished engineer sequenced the migration and what had to change in the data model\n• What the AI assistant can do now that it couldn’t before\n\nLeave with a practical checklist for planning a modernization that supports AI and agentic workloads.",
+    "abstract": "Enterprise AI agents depend on applications running on data layers built for a different era. So, how do enterprises modernize applications at scale?\n\nCisco migrated a workflow automation platform running tens of millions of workflows a month—and the AI support assistant built on it—to MongoDB on Amazon EKS without disrupting live operations. The assistant has since resolved 1M+ support cases on its own and is on track to handle most of Cisco’s support volume.\n\nDiscover:\n• Modernization patterns MongoDB sees across enterprises on AWS, from tool-assisted migration to targeted rewrites, and how to choose between them\n• How Cisco’s distinguished engineer sequenced the migration and what had to change in the data model\n• What the AI assistant can do now that it couldn’t before\n\nLeave with a practical checklist for planning a modernization that supports AI and agentic workloads. This presentation is brought to you by MongoDB, an AWS Partner.",
     "times": [
       {
         "id": "1790034530742001pvHC",
@@ -4310,7 +4349,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "AI spend often arrives as a black box: a rising bill with little clarity into which teams, models or features drove it. In this breakout, learn how Cloudability helps teams apply FinOps discipline to AI on AWS by categorizing costs, connecting spend to business goals and identifying waste. Discover how we turn that visibility into action for AI workloads running on Amazon EKS, improving GPU efficiency, Kubernetes workload right-sizing and application performance. Then apply the same cost discipline to Amazon Bedrock, including smarter provisioned throughput decisions, so teams can explain, defend and optimize AI spend. This presentation is brought to you by Apptio, an AWS Partner.",
+    "abstract": "AI spend often arrives as a black box: a rising bill with little clarity into which teams, models or features drove it. In this breakout, learn how Cloudability helps teams apply FinOps discipline to AI on AWS by categorizing costs, connecting spend to business goals and identifying waste. Discover how we turn that visibility into action for AI workloads running on Amazon EKS, improving GPU efficiency, Kubernetes workload right-sizing and application performance. Then apply the same cost discipline to Amazon Bedrock, including smarter provisioned throughput decisions, so teams can explain, defend and optimize AI spend. This presentation is brought to you by Cloudability, an AWS Partner.",
     "times": [
       {
         "id": "1790025518427001C9FA",
@@ -8077,7 +8116,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Enterprises have spent years building institutional knowledge, but AI agents still struggle to apply that expertise to complex business tasks. This session explores how scaling in-context learning (ICL) enables organizations to train AI on their existing work, allowing agents to reason and make decisions with the judgment of an organization's experts. We’ll examine how this approach makes institutional knowledge portable across models, achieves 95%+ accuracy and performance while reducing inference costs by 90%+ with the ability to swap to smaller models. Through real-world examples, we’ll demonstrate how organizations can customize AI for their business without costly fine-tuning while maintaining full interpretability into what agents learn, how that knowledge influences their outputs, and how errors can be corrected.\n",
+    "abstract": "Enterprises have spent years building institutional knowledge, but AI agents still struggle to apply that expertise to complex business tasks. This session explores how scaling in-context learning (ICL) enables organizations to train AI on their existing work, allowing agents to reason and make decisions with the judgment of an organization's experts. We’ll examine how this approach makes institutional knowledge portable across models, achieves 95%+ accuracy and performance while reducing inference costs by 90%+ with the ability to swap to smaller models. Through real-world examples, we’ll demonstrate how organizations can customize AI for their business without costly fine-tuning while maintaining full interpretability into what agents learn, how that knowledge influences their outputs, and how errors can be corrected. This presentation is brought to you by Sphinx AI, an AWS Partner.",
     "times": [
       {
         "id": "1790033123960001qVJz",
@@ -9308,7 +9347,7 @@
   {
     "id": "1780442235071001cQ5J",
     "code": "AIM362",
-    "title": "Which customization path? A decision framework for fine-tuning on AWS",
+    "title": "Which customization compute? A decision approach for model fine-tuning",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -9318,7 +9357,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Off the shelf models work for prototyping, but production forces a choice of technique and service. In this chalk talk, we work through that choice live. See when Supervised Fine Tuning is enough, when Direct Preference Optimization or Reinforcement Learning from AI Feedback earns its added cost, when Reinforcement Learning with Verifiable Rewards or multi turn reinforcement learning is the right call, and what data each needs. Compare Amazon SageMaker AI serverless model customization, SageMaker AI training jobs, Amazon SageMaker HyperPod, and Amazon Bedrock Custom Model Import by cost and control. Bring a real use case and we'll work through where it fits.",
+    "abstract": "Off-the-shelf models work for prototyping, but production forces a choice: which technique and which compute to use. In this chalk talk, we work through the decision framework live, covering when to start fine-tuning after you've pushed the limits of in-context learning and which fine-tuning technique to use. Learn how to choose among Amazon SageMaker AI serverless model customization, training sessions, training jobs, and Amazon SageMaker HyperPod based on your traffic, budget, and control needs. We'll demo supervised fine-tuning (SFT) on SageMaker AI and use it to help you choose the right compute. Bring your questions.",
     "times": [
       {
         "id": "1790025505697001CWTh",
@@ -12740,7 +12779,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Machine data across AWS environments is growing faster than teams can move, normalize, and analyze it. What if you could stop moving all that data and start putting it to work? In this session, learn how Cisco Data Fabric, powered by Splunk, federates data across AWS and enterprise sources, correlates it at scale, and prepares it for AI and agentic workflows. Through practical architecture patterns and a live demonstration, you’ll see how to reduce data movement and operational cost while turning distributed telemetry into trusted context, faster decisions, and action.​ This presentation is brought to you by Splunk, a Cisco Company, an AWS Partner.",
+    "abstract": "Machine data across AWS environments is growing faster than teams can move, normalize, and analyze it. What if you could stop moving all that data and start putting it to work? In this session, learn how Cisco Data Fabric, powered by Splunk, federates data across AWS and enterprise sources, correlates it at scale, and prepares it for AI and agentic workflows. Through practical architecture patterns and a live demonstration, you’ll see how to reduce data movement and operational cost while turning distributed telemetry into trusted context, faster decisions, and action.​ This presentation is brought to you by Splunk by Cisco, an AWS Partner.",
     "times": [
       {
         "id": "1790034532679001pnmK",
@@ -17682,7 +17721,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Where should vector embeddings live? In your operational database, a dedicated vector store, or across several? In this session you evaluate the trade-offs across latency, data freshness, cost, and retrieval quality. You implement the same retrieval pattern across three engines: Amazon OpenSearch Service for combined lexical and vector search, Amazon Aurora PostgreSQL with pgvector for SQL-native filtered retrieval, and Amazon S3 Vectors for cost-optimized scale. You then combine them into a hybrid architecture that orchestrates a single query and merges the results with reciprocal rank fusion. You leave able to answer where your embeddings should live, backed by patterns you built yourself. Bring your laptop to participate.",
+    "abstract": "Where should vector embeddings live? In your operational database, a dedicated vector store, or across several? In this session you evaluate the trade-offs across latency, data freshness, cost, and retrieval quality. You implement the same retrieval pattern across three engines: Amazon OpenSearch Service for combined lexical and vector search, Amazon Aurora PostgreSQL with pgvector for SQL-native filtered retrieval, and Amazon S3 Vectors for cost-optimized scale. You learn the workload patterns these engines handle best, so you can tell where a single store is enough and where a hybrid architecture pays off. You leave able to answer where your embeddings should live, backed by patterns you built yourself. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790033113634001qFVz",
@@ -17791,7 +17830,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "When an AI agent crashes at step 20 of 30, you can't just start over. Once state accumulates, a blind retry becomes dangerous. Most teams default to the wrong recovery strategy because they apply stateless retry thinking to stateful workflows. In this session, we compare three approaches: replay-based recovery with idempotent tool execution, checkpoint-and-resume with human-in-the-loop pause/resume, and event-driven compensation across trust boundaries. We'll whiteboard each pattern, map it to real failure scenarios, and build a decision framework based on your agent's state model and fault domain.",
+    "abstract": "When an AI agent crashes at step 20 of 30, you can't just start over. Once state accumulates, an unexamined retry becomes dangerous. Most teams default to the wrong recovery strategy because they apply stateless retry thinking to stateful workflows. In this session, we compare three approaches: replay-based recovery with idempotent tool execution, checkpoint-and-resume with human-in-the-loop pause/resume, and event-driven compensation across trust boundaries. We'll whiteboard each pattern, map it to real failure scenarios, and build a decision framework based on your agent's state model and fault domain.",
     "times": [
       {
         "id": "1790025542953001CZy8",
@@ -19337,7 +19376,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 884",
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
         "venue": "Venetian"
       }
     ]
@@ -19367,7 +19406,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 884",
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
         "venue": "Venetian"
       }
     ]
@@ -19394,185 +19433,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "04:00 PM",
         "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 884",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034046001jO69",
-    "code": "AWS014-R1",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085597086001MRrJ",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1502",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034150001jjQs",
-    "code": "AWS014-R2",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085601020001C53W",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1502",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034298001jIKi",
-    "code": "AWS014-R3",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085606239001ihME",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1502",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852033701001jSzn",
-    "code": "AWS015-R1",
-    "title": "Global Impact Zone in Expo",
-    "type": "Expo",
-    "level": "100 – Foundational",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
-    "times": [
-      {
-        "id": "1793085626276001KFB5",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 177",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852033828001j4da",
-    "code": "AWS015-R2",
-    "title": "Global Impact Zone in Expo",
-    "type": "Expo",
-    "level": "100 – Foundational",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
-    "times": [
-      {
-        "id": "1793085630144001gsbA",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 177",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852033927001jPsu",
-    "code": "AWS015-R3",
-    "title": "Global Impact Zone in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
-    "times": [
-      {
-        "id": "1793085634078001ITwf",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 177",
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
         "venue": "Venetian"
       }
     ]
@@ -19629,7 +19490,7 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 884",
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
         "venue": "Venetian"
       }
     ]
@@ -19660,7 +19521,96 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1502",
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034046001jO69",
+    "code": "AWS114-R1",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085597086001MRrJ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034150001jjQs",
+    "code": "AWS114-R2",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085601020001C53W",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034298001jIKi",
+    "code": "AWS114-R3",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085606239001ihME",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
         "venue": "Venetian"
       }
     ]
@@ -19691,7 +19641,96 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 177",
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852033701001jSzn",
+    "code": "AWS115-R1",
+    "title": "Global Impact Zone in Expo",
+    "type": "Expo",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "times": [
+      {
+        "id": "1793085626276001KFB5",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852033828001j4da",
+    "code": "AWS115-R2",
+    "title": "Global Impact Zone in Expo",
+    "type": "Expo",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "times": [
+      {
+        "id": "1793085630144001gsbA",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852033927001jPsu",
+    "code": "AWS115-R3",
+    "title": "Global Impact Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "times": [
+      {
+        "id": "1793085634078001ITwf",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
         "venue": "Venetian"
       }
     ]
@@ -19785,6 +19824,117 @@
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852032924001jCcA",
+    "code": "AWS119-R",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257361549001vcA6",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:00",
+        "endTime": "19:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "07:00 PM",
+        "duration": 180,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513461971001Ljcg",
+    "code": "AWS119-R1",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257483170001dIuy",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034911001jLZG",
+    "code": "AWS119-R2",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257491808001dlGp",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852035034001j3b0",
+    "code": "AWS119-R3",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257498765001qcEj",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
         "venue": "Venetian"
       }
     ]
@@ -25639,7 +25789,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Build and run a real genomics variant-calling Slurm pipeline on AWS PCS using a mixed Graviton + GPU fleet. This session will cover PCS queue design, Slurm partition strategy, FSx for Lustre, EFA networking, and result aggregation to Amazon S3. By the end, you’ll create a reproducible, production-grade HPC workflow for life-sciences workloads. ",
+    "abstract": "Build and run a real genomics variant-calling Slurm pipeline on AWS PCS using a mixed Graviton + GPU fleet. This session will cover PCS queue design, Slurm partition strategy, FSx for Lustre, and result aggregation to Amazon S3. By the end, you’ll create a reproducible, production-grade HPC workflow for life-sciences workloads.",
     "times": [
       {
         "id": "1790025530158001CyGr",
@@ -43923,7 +44073,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AI workloads can consume millions of dollars in infrastructure before anyone notices whether they're being used efficiently. GPUs sit idle, clusters become overprovisioned, and engineering teams struggle to balance performance with rapidly growing costs. In this session, learn how engineering teams running Amazon EKS can identify wasted GPU capacity, understand the true cost of AI workloads, and automate optimization without sacrificing application performance. We'll share practical techniques to improve utilization, reduce waste, and optimize AI infrastructure at scale. This presentation is brought to you by Apptio, an AWS Partner.",
+    "abstract": "AI workloads can consume millions of dollars in infrastructure before anyone notices whether they're being used efficiently. GPUs sit idle, clusters become overprovisioned, and engineering teams struggle to balance performance with rapidly growing costs. In this session, learn how engineering teams running Amazon EKS can identify wasted GPU capacity, understand the true cost of AI workloads, and automate optimization without sacrificing application performance. We'll share practical techniques to improve utilization, reduce waste, and optimize AI infrastructure at scale. This presentation is brought to you by Cloudability, an AWS Partner.",
     "times": [
       {
         "id": "1790033124282001qmqq",
@@ -55986,7 +56136,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Evaluating complex financial data shouldn't start with schema research and SQL. In this session, Databricks will introduce Genie Agents, which let business and technical users ask questions in plain language and get back trusted answers, tables and visualizations. S&P Global Market Intelligence will then show how it built Genie into S&P Capital IQ Workbench on Databricks and AWS, running Genie Agents across about 90 core datasets. Learn how automated AI bundles (dataset documentation, SQL examples, business definitions, joins and synonyms) and entity resolution keep answers accurate, and how notebooks let technical teams check and extend the results. All of it is governed end to end by Unity Catalog. Hear how this cut data evaluation time by and shortened sales cycles. Leave with a blueprint for turning data products into conversational experiences customers trust. ",
+    "abstract": "Evaluating complex financial data shouldn't start with schema research and SQL. In this session, Databricks will introduce Genie Agents, which let business and technical users ask questions in plain language and get back trusted answers, tables and visualizations. S&P Global Market Intelligence will then show how it built Genie into S&P Capital IQ Workbench on Databricks and AWS, running Genie Agents across about 90 core datasets. Learn how automated AI bundles (dataset documentation, SQL examples, business definitions, joins and synonyms) and entity resolution keep answers accurate, and how notebooks let technical teams check and extend the results. All of it is governed end to end by Unity Catalog. Hear how this cut data evaluation time by and shortened sales cycles. Leave with a blueprint for turning data products into conversational experiences customers trust. This presentation is brought to you by Databricks, an AWS Partner.",
     "times": [
       {
         "id": "1790025507856001CQzz",
@@ -63051,7 +63201,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "\"The OpenSearch project has shipped its most transformative year ever. From agentic search with autonomous relevance tuning and persistent memory, to GPU-accelerated vector search with 58% throughput gains, to a reimagined observability stack with Prometheus and Apache Iceberg support, the 3.x release train delivers capabilities builders can use today.\nOpenSearch Ambassador Dotan Horovits and TSC Chair Andrew Ross walk you through what's new, what it means for your architecture, and how to put it to work, whether you're building RAG pipelines, deploying monitoring, or creating AI agents.\"\n",
+    "abstract": "The OpenSearch project has shipped its most transformative year ever. From agentic search with persistent memory, to GPU-accelerated vector search with 58% throughput gains, to a reimagined observability stack with Prometheus and Apache Iceberg support, the 3.x release train delivers capabilities builders can use today.\nOpenSearch Ambassador Dotan Horovits and TSC Chair Andrew Ross walk you through what's new, what it means for your architecture, and how to put it to work, whether you're building RAG pipelines, deploying monitoring, or creating AI agents.",
     "times": [
       {
         "id": "1790025475387001Cdud",
@@ -65676,7 +65826,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Security teams operating on AWS need a faster path from signals to action without adding more operational complexity. In this session, Splunk and AWS will explore a new approach to cloud and AI-native security operations designed for faster onboarding, earlier detection, and more efficient investigation and response. You’ll leave with practical insights into AI-first SecOps and how AWS-centered security teams can improve outcomes, regardless of the size or maturity of their security operations. This presentation is brought to you by Splunk, a Cisco Company, an AWS Partner.",
+    "abstract": "Security teams operating on AWS need a faster path from signals to action without adding more operational complexity. In this session, Splunk and AWS will explore a new approach to cloud and AI-native security operations designed for faster onboarding, earlier detection, and more efficient investigation and response. You’ll leave with practical insights into AI-first SecOps and how AWS-centered security teams can improve outcomes, regardless of the size or maturity of their security operations. This presentation is brought to you by Splunk by Cisco, an AWS Partner.",
     "times": [
       {
         "id": "1790025539741001C00m",
@@ -66736,7 +66886,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI has changed who finds zero-days and how fast. Submissions to the TrendAI™ Zero Day Initiative™ (ZDI), a vendor-agnostic bug bounty program, are up 4x. For Pega, which runs thousands of AI-powered enterprise applications on AWS, any unknown flaw in its software stack becomes exposure for its customers. In this session, Pega and TrendAI™ share how they shrink that exposure window together. Learn how an agentic engine built on 20 years of ZDI research finds and validates zero-days, and how virtual patching protects AWS environments before a fix ships. Leave with practical steps to reduce zero-day exposure in your environment.",
+    "abstract": "AI has changed who finds zero-days and how fast. Submissions to the TrendAI™ Zero Day Initiative™ (ZDI), a vendor-agnostic bug bounty program, are up 4x. For Pega, which runs thousands of AI-powered enterprise applications on AWS, any unknown flaw in its software stack becomes exposure for its customers. In this session, Pega and TrendAI™ share how they shrink that exposure window together. Learn how an agentic engine built on 20 years of ZDI research finds and validates zero-days, and how virtual patching protects AWS environments before a fix ships. Leave with practical steps to reduce zero-day exposure in your environment. This presentation is brought to you by TrendAI™, an AWS Partner.",
     "times": [
       {
         "id": "1790025524651001CoUG",
@@ -70394,7 +70544,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "How are builders at OpenAI turning big bets into systems and new products used across the company? Through demos and firsthand stories, go behind the scenes of ambitious projects with the people who built them. Discover the problems they’re tackling, the frontier capabilities that made their ideas possible, and what they’ve learned putting them into practice. Leave with practical lessons for bringing your own ideas to life with OpenAI.",
+    "abstract": "How are builders at OpenAI turning big bets into systems and new products used across the company? Through demos and firsthand stories, go behind the scenes of ambitious projects with the people who built them. Discover the problems they’re tackling, the frontier capabilities that made their ideas possible, and what they’ve learned putting them into practice. Leave with practical lessons for bringing your own ideas to life with OpenAI. This presentation is brought to you by OpenAI, an AWS Partner.",
     "times": [
       {
         "id": "1790034531017001pARJ",
@@ -70453,7 +70603,7 @@
   {
     "id": "1780441484569001GdsM",
     "code": "SEC380-S",
-    "title": "Threat research: how attackers use AI to persist and how to evict them",
+    "title": "Threat research: how attackers use AI to persist and how to evict them (sponsored by TrendAI™)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -70472,7 +70622,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Patching a vulnerability doesn't remove an attacker who is already inside your environment, and AI workloads introduce new persistence surfaces: agents with standing permissions, compromised MCP servers, and poisoned vector stores that survive redeployment. In this session, a CISO and a threat research leader show how attackers establish persistence in modern environments and what to do about it. From long-lived IAM access keys to over-permissioned Amazon Bedrock agents, learn which persistence techniques to hunt first and how to evict attackers for good.",
+    "abstract": "Patching a vulnerability doesn't remove an attacker who is already inside your environment, and AI workloads introduce new persistence surfaces: agents with standing permissions, compromised MCP servers, and poisoned vector stores that survive redeployment. In this session, a CISO and a threat research leader show how attackers establish persistence in modern environments and what to do about it. From long-lived IAM access keys to over-permissioned Amazon Bedrock agents, learn which persistence techniques to hunt first and how to evict attackers for good. This presentation is brought to you by TrendAI™, an AWS Partner.",
     "times": [
       {
         "id": "1790034531451001pwBK",
