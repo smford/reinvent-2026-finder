@@ -5586,7 +5586,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Organizations are deploying copilots, AI agents, and LLM-driven workflows faster than governance and security can adapt. Non-deterministic AI creates a new attack surface across prompts, agents, data, and runtime behavior, and acts as both defensive force multiplier and adversarial accelerant. Static guardrails are necessary but insufficient: they miss novel behavior, unsafe tool use, and risk that only surfaces when AI interacts with identities and downstream systems. This session presents a defense-in-depth model for securing AI at runtime, using NIST's Secure/Defend/Thwart framing: an identity control plane for agents, least-privilege and JIT access, runtime observability, behavior detection, and autonomous investigation and containment. We'll share a blueprint for a minimum viable AI security baseline, and why behavioral oversight is the decisive layer for securing AI at scale. This presentation is brought to you by Darktrace, an AWS Partner.",
+    "abstract": "Organizations are deploying copilots, agents, and LLM-driven workflows into production faster than governance and security can adapt. This is no longer just “model risk.” Non-deterministic AI opens a new attack surface across prompts, agents, data pipelines, and runtime behavior, while AI itself acts as both defender and adversary. Guardrails and policy controls remain necessary but cannot reliably detect novel behavior, unsafe tool use, or risk that only emerges when AI interacts with identities and systems in context.\n \nThis session presents a defense-in-depth model for securing AI, including a practical blueprint for where foundational controls end. It explains why AI must be treated as both an attack surface and an operational system requiring continuous monitoring and containment, and why behavioral oversight is becoming the decisive layer for securing AI at scale.",
     "times": [
       {
         "id": "1790033117814001qHIJ",
@@ -8654,7 +8654,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI/ML teams want to move fast - experiment with models, fine-tune them on their data, and serve them in production, without stitching together separate tools at every step. In this session, see how Amazon SageMaker AI lets you build, customize, deploy, and run inference, all within one service. Learn how to match the right approach to each stage: serverless experimentation for fast iteration, fully managed environments for custom frameworks and training, persistent clusters for large-scale research, and optimized inference for real-time and batch serving in production. Walk away with a practical decision framework and a reference architecture to start simple and scale without switching platforms.",
+    "abstract": "AI/ML teams want to move fast, experimenting with models, fine-tuning them on their data, and serving them in production. This session is for customers that want to learn how Amazon SageMaker AI lets you build, customize, deploy, and run inference, how it fits within the AWS AI Platform, and introduces new features we have recently launched. We will then dive into the end-to-end journey from idea to customized open-weight model, deployed, optimized, and monitored in production. See a demo of some new features such as model customization training loops and inference optimization. ",
     "times": [
       {
         "id": "1790025529689001CPAD",
@@ -11279,7 +11279,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Join this interactive chalk talk to explore how SageMaker HyperPod serves as a unified GPU pool for data processing, training, post-training, and inference without re-platforming. Through live whiteboarding, demos, and production architectures; we'll cover how customers are maximizing GPU utilization across workloads, regions, and multiple teams with shared architectures and GPUs. Then learn how SageMaker Studio gives give data scientists, AI researchers, and machine learning engineers an easy way to to iterate on jobs all on the shared pool of resources. We'll also see how Humain has optimized utilization of compute resources across two large HyperPod clusters, onboarding multiple teams of researchers with team isolation and advanced task submission strategies. Participants will walk away with practical patterns for running the full model lifecycle on resilient, shared infrastructure",
+    "abstract": "Join this chalk talk to explore how SageMaker HyperPod serves as a unified GPU pool for data processing, training, post-training, and inference — no re-platforming required. Through live whiteboarding and demos, we cover how customers like HUMAIN maximize GPU utilization across workloads and multiple teams on shared clusters using advanced scheduling techniques. We also show how SageMaker Studio gives AI practitioners a single place to iterate on generative AI development, with team isolation. You will leave with practical patterns for running the full model lifecycle on resilient, shared infrastructure",
     "times": [
       {
         "id": "1790025492589001Ca1b",
@@ -12387,7 +12387,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Discover how two Amazon teams tackled seemingly impossible problems with agentic AI running on AWS. Prime Video enabled content discovery at a scale where personalized curation was never feasible, building an AI discovery assistant powered by agentic search on Amazon Bedrock and AgentCore, vector-powered retrieval, and frontier and custom LLMs on SageMaker. Launched to millions of Fire TV customers, it replaced endless scrolling with conversation starters like \"hidden gems from the '80s\" and natural voice exploration. Amazon Pharmacy now autonomously resolves most of its hundreds of thousands of monthly customer contacts while staying HIPAA compliant. Specialized agents on Amazon Bedrock Agents and Amazon Connect handle billing, fulfillment, and pharmacist workflows, hand off to humans, increasing satisfaction. Learn to apply their approaches to your own seemingly impossible problems.",
+    "abstract": "Discover how two Amazon teams tackled seemingly impossible problems with agentic AI running on AWS. Prime Video enabled content discovery at a scale where personalized curation was never feasible, building an AI discovery assistant powered by agentic search on Amazon Bedrock and AgentCore, vector-powered retrieval, and frontier and custom LLMs on SageMaker. Launched to millions of customers, it replaced endless scrolling with conversation starters like \"hidden gems from the '80s\" and natural voice exploration. Amazon Pharmacy now autonomously resolves most of its hundreds of thousands of monthly customer contacts while staying HIPAA compliant. Specialized agents on Amazon Bedrock Agents and Amazon Connect handle billing, fulfillment, and pharmacist workflows, hand off to humans, increasing satisfaction. Learn to apply their approaches to your own seemingly impossible problems.",
     "times": [
       {
         "id": "1790025518150001CxO1",
@@ -13665,7 +13665,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Agents don't search like humans. They fire hundreds of sub-queries per task, maintain stateful memory, and demand verified answers before acting. As organizations move agents into production, they hit the same walls: wrong retrieval cascades into wrong actions; without efficient memory, agents re-retrieve the same data, inflating cost and returning inconsistent results; and as agents become workloads of their own, teams need to keep them accountable. In this session, we show how Amazon OpenSearch Service addresses all three, find, remember, and observe, on one open engine, and how customers like Intuit are already running production AI agents on it.",
+    "abstract": "Agents don't search like humans. They fire hundreds of sub-queries per task, need to carry knowledge across sessions, and act on whatever they retrieve. In production, teams hit the same walls: wrong retrieval cascades into wrong actions; when knowledge disappears between sessions, agents repeat work and mistakes; and teams need to see what an agent retrieved, why it acted, and what happened downstream. In this session, learn how Amazon OpenSearch Service helps agents find, remember, and observe on one open foundation, see it in a live demo, and hear how Intuit uses OpenSearch Service across its platform and products.",
     "times": [
       {
         "id": "1790025542876001CK86",
@@ -15306,7 +15306,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As AI adoption accelerates, organizations need insight into who consumes Amazon Bedrock and how spend maps to business outcomes. In this builders' session, get hands-on with the latest Bedrock cost management capabilities. Tag API calls for granular cost attribution and learn how to track costs as they happen in Billing and Cost Management. Then query new product metadata in CUR2 and visualize cost-per-million-token trends in CUDOS. Leave with a framework to align AI spend to business outcomes.",
+    "abstract": "Most teams run observability across fragmented tools: one for metrics, another for logs and traces, each with its own cost model and blind spots. In this session, you work hands-on to consolidate your observability stack on Amazon OpenSearch Service. You integrate Amazon Managed Prometheus for metrics, configure native OpenTelemetry ingestion for traces and logs, and see how a single pane of glass eliminates the context-switching that slows down investigations. Then you optimize for cost and scale: warm tiering, direct query for infrequently accessed data, and O-series instances for log-heavy workloads. Finally, you use AI-powered investigation to perform natural-language root-cause analysis across your unified telemetry and monitor your agents' behavior in production. You leave with a working observability setup that scales, costs less, and investigates faster.",
     "times": [
       {
         "id": "1790025504798001CsSE",
@@ -16835,7 +16835,7 @@
   {
     "id": "1780441488777001GRzl",
     "code": "ARC208-S",
-    "title": "Make AMD Your Default on AWS: Agentic AI and LSEG’s Market Data Transformation (sponsored by AMD)",
+    "title": "Powering Agentic AI with Real - Time Market Data Transformation for LSEG",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -20155,7 +20155,7 @@
   {
     "id": "1780441465715001GHij",
     "code": "BIZ108",
-    "title": "Trust, built in seconds: AI-powered banking at scale",
+    "title": "Customer Care Reimagined: How a leading bank connects AI end to end",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -20165,7 +20165,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In financial services, trust is earned in seconds: the lost card, the emergency funds, the vulnerable customer who nearly gave up. Those seconds demand that you know who the customer is, understand their need, and resolve it on the spot. Hear how one of the UK's largest banks reimagined customer experience on Amazon Connect Customer, reaching 96% first-point-of-contact resolution across millions of calls monthly. Trace a multi-year journey: real-time AI that helps agents act in seconds, analytics and self-service at scale, and an active-active, multi-region architecture that keeps service running under strict European regulatory and data-residency requirements.",
+    "abstract": "Discover how a leading bank is reimagining Customer Care by connecting AI across the end-to-end journey. Instead of isolated pilots, they built joined-up capabilities on Amazon Connect Customer and Amazon Bedrock, delivered as incremental releases with governance from day one. Hear how four AI capabilities, from real-time colleague assistance to automated coaching across 100% of interactions, are already live and making a measurable difference for colleagues and customers. We will share the reusable architecture, lessons learned, and what comes next as these capabilities reach customer-facing journeys.",
     "times": [
       {
         "id": "1790025534878001C3Sl",
@@ -21148,7 +21148,7 @@
   {
     "id": "1780442236283001csyO",
     "code": "BIZ306",
-    "title": "Bring Your Own Ontology: Ground Amazon Quick in Enterprise Context",
+    "title": "Bring Your Own Ontology: Ground Amazon Quick in Enterprise Knowledge with AWS Context",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -23407,7 +23407,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Take a Windows .NET application, run AWS Transform end-to-end (assess, modernize, deploy), and benchmark on Graviton. Compare against the original x86 baseline, inspect what Q got wrong, and tune the result. Covers .NET Framework to modern .NET migration, Lambda packaging on Graviton, and CI integration patterns from production migrations.",
+    "abstract": "Take a Windows .NET application, run AWS Transform end-to-end (assess, modernize, deploy), and benchmark on Graviton. Compare against the original x86 baseline, inspect what Kiro and Transform got wrong, and tune the result. Covers .NET Framework to modern .NET migration and CI integration patterns from production migrations.",
     "times": [
       {
         "id": "1790025474212001CC4G",
@@ -25501,7 +25501,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Artists, engineers, and scientists need GPU-powered virtual workstations, but managing VDI at scale means navigating instance selection, capacity, and cost. In this chalk talk, learn how to match EC2 G instances to user personas, from fractional GPU for task workers to full GPU for power users running 3D modeling, compositing, or subsurface visualization. Explore the decision framework covering instance types, DCV streaming, storage, security, and fleet orchestration with Research and Engineering Studio (RES). Whether supporting a VFX render farm's artist desktops, an oil company's subsurface workstations, or an automotive design studio, leave with guidance balancing performance, cost, and simplicity.",
+    "abstract": "Artists, engineers, and scientists need GPU-powered virtual workstations, but managing VDI at scale means navigating instance selection, capacity, and cost. In this chalk talk, learn how to match EC2 G instances to user personas, from fractional GPU for task workers to full GPU for power users running 3D modeling, compositing, or subsurface visualization. Explore the decision framework covering instance types, DCV streaming, storage, security, and fleet orchestration. Whether supporting a VFX render farm's artist desktops, an oil company's subsurface workstations, or an automotive design studio, leave with guidance balancing performance, cost, and simplicity.",
     "times": [
       {
         "id": "1790025491937001CsV8",
@@ -31786,41 +31786,6 @@
         "endTimeFormatted": "03:30 PM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 318",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1780441471620001G7Hs",
-    "code": "COP210",
-    "title": "Fewer Incidents, Faster Fixes: Expert-led Cloud Operations on AWS",
-    "type": "Breakout session",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Architecture",
-      "Cloud Operations",
-      "Migration & Modernization"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "Business Executive",
-      "DevOps Engineer",
-      "Developer / Engineer"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Automation can close tickets, but it takes human expertise to understand your business, anticipate what's coming, and make the judgment calls that keep your cloud resilient at scale. See how AWS combines deep human expertise with AI-powered capabilities to go beyond automated remediation. AWS cloud experts, armed with intelligent tooling and deep environmental context, proactively identify risks, guide architectural decisions, and help your team navigate complex challenges automation alone can't solve. Through real-world examples, see how this expert-led approach reduces incidents, accelerates resolution, and frees engineers to focus on innovation.",
-    "times": [
-      {
-        "id": "1791575950565001tZAN",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
-        "duration": 60,
-        "room": "MGM Grand | Level 1 | Grand 115",
         "venue": "MGM Grand"
       }
     ]
@@ -53924,6 +53889,39 @@
     ]
   },
   {
+    "id": "1780441496270001GI4R",
+    "code": "INV506-R1",
+    "title": "Deterministic control for probabilistic agents: proving safety holds",
+    "type": "Chalk talk",
+    "level": "500 – Distinguished",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Academic / Researcher"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI agents are probabilistic: vulnerable to prompt injection, hallucination, and unexpected tool composition. The controls around them must be deterministic. This session explores how to define provable safety envelopes for autonomous agents, drawing from the authorization and formal verification research behind AgentCore policy. We examine how automated reasoning guarantees policy correctness, how neuro-symbolic approaches combine LLM flexibility with mathematical verification for policy authoring, and how agents' action spaces can be reduced before execution. Attendees will also get a first look at new research extending these guarantees to emerging agentic authorization challenges.",
+    "times": [
+      {
+        "id": "1793283377476001NmE5",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 163",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441493696001GIAp",
     "code": "INV507",
     "title": "Encoding Authorization in Logic from Puzzles to Production",
@@ -64530,6 +64528,39 @@
     ]
   },
   {
+    "id": "1780442261412001cARm",
+    "code": "PEX218",
+    "title": "Connecting sellers with their AWS Marketplace buyers",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture"
+    ],
+    "areasOfInterest": [
+      "Customer Enablement"
+    ],
+    "roles": [
+      "Business Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AWS Marketplace connects buyers and software sellers at subscription. In this lightning talk, explore how you can capture a buyer's contact details earlier during procurement to reduce friction from purchase to onboarding, support, and initial product engagement.Â ",
+    "times": [
+      {
+        "id": "1791224280075001tjP3",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:30",
+        "endTime": "11:50",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "11:50 AM",
+        "duration": 20,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441480069001Gm7U",
     "code": "PEX301",
     "title": "Multi-Tenant Agentic Platforms: A Scalable Reference Architecture",
@@ -65392,39 +65423,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Builders' Session 1",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1780442261412001cARm",
-    "code": "PEX321",
-    "title": "Connecting sellers with their AWS Marketplace buyers",
-    "type": "Lightning talk",
-    "level": "300 – Advanced",
-    "topics": [
-      "Architecture"
-    ],
-    "areasOfInterest": [
-      "Customer Enablement"
-    ],
-    "roles": [
-      "Business Executive"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "AWS Marketplace connects buyers and software sellers at subscription. In this lightning talk, explore how you can capture a buyer's contact details earlier during procurement to reduce friction from purchase to onboarding, support, and initial product engagement.Â ",
-    "times": [
-      {
-        "id": "1791224280075001tjP3",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "11:30",
-        "endTime": "11:50",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "11:50 AM",
-        "duration": 20,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -68774,6 +68772,38 @@
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
         "room": "Wynn/Encore | Lower Convention Promenade | Castillon",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1792170893898001Ij0L",
+    "code": "SEC3308-S",
+    "title": "When Agents Go Rogue: Runtime AIDR and MCP Response Workflows on AWS (sponsored by Wiz)",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "The agent is off to work as soon as execution rights are granted. A coding agent in YOLO mode begins searching a developer workstation for secrets to expand its cloud permissions. In this session, discover how to detect and stop rogue or compromised agents at runtime by connecting behavioral detections directly to automated cloud remediation. We’ll break down AI agent threat challenges: intent drift, an expanded blast radius driven by broad runtime permissions, and the shrinking window to respond when a critical zero-day vulnerability emerges. You’ll also see how the Model Context Protocol (MCP) can connect to your security toolchain to build automated response workflow to answer: Are we affected? Are we protected? Through tangible AWS examples, explore key architectural patterns and leave with an actionable checklist for securely building and governing agents in AWS.  This presentation is brought to you by Wiz, an AWS Partner.",
+    "times": [
+      {
+        "id": "1792170935824001e0zN",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
