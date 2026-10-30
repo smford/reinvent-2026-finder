@@ -947,6 +947,303 @@
     ]
   },
   {
+    "id": "1792694810498001JfrL",
+    "code": "ACT059",
+    "title": "Road to re:Invent",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Watch Road to re:Invent | The official re:Invent Hackathon in-person and on livestream, starting at 12 PM. Get up front as teams compete in an in-person hackathon where the pressure is on. Be sure to catch the Special Guests, VIP Cameos, and the thrilling finale where these talented developers showcase their innovative solutions and one team will be crowned 2026 champion walking away with $100K. Don't miss the excitement as we celebrate the creativity of building and technical excellence of the AWS community.",
+    "times": [
+      {
+        "id": "1793080702737001ihhe",
+        "date": "2026-11-29",
+        "day": "Sunday",
+        "startTime": "12:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 360,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792712458978001Zo05",
+    "code": "ACT060-R",
+    "title": "Showcase Theater",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
+    "times": [
+      {
+        "id": "1793083613814001uOfE",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992996001o2pT",
+    "code": "ACT060-R1",
+    "title": "Showcase Theater",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
+    "times": [
+      {
+        "id": "1793083625752001Ljiu",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 300,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992912001ooUU",
+    "code": "ACT060-R2",
+    "title": "Showcase Theater",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
+    "times": [
+      {
+        "id": "1793083647881001Ynkj",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713993085001oMYd",
+    "code": "ACT060-R3",
+    "title": "Showcase Theater",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
+    "times": [
+      {
+        "id": "1793083654900001IqJQ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713374992001DD0B",
+    "code": "ACT063-R",
+    "title": "AWS Builder Loft",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The community and co-working space for professional and early career builders to grow their skills, explore AWS technologies, and connect with like-minded innovators through focused activities and collaborative opportunities. New this year - the Loft is also featuring Builder Cards, AI League, and Agentic Football!",
+    "times": [
+      {
+        "id": "1793080103485001JEZh",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "18:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 600,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992399001oM2b",
+    "code": "ACT063-R1",
+    "title": "AWS Builder Loft",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The community and co-working space for professional and early career builders to grow their skills, explore AWS technologies, and connect with like-minded innovators through focused activities and collaborative opportunities. New this year - the Loft is also featuring Builder Cards, AI League, and Agentic Football!",
+    "times": [
+      {
+        "id": "1793080111254001JFQJ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:00",
+        "endTime": "18:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 630,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992486001oeXk",
+    "code": "ACT063-R2",
+    "title": "AWS Builder Loft",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The community and co-working space for professional and early career builders to grow their skills, explore AWS technologies, and connect with like-minded innovators through focused activities and collaborative opportunities. New this year - the Loft is also featuring Builder Cards, AI League, and Agentic Football!",
+    "times": [
+      {
+        "id": "1793080121114001CzU7",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "18:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 600,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992302001ofEQ",
+    "code": "ACT063-R3",
+    "title": "AWS Builder Loft",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The community and co-working space for professional and early career builders to grow their skills, explore AWS technologies, and connect with like-minded innovators through focused activities and collaborative opportunities. New this year - the Loft is also featuring Builder Cards, AI League, and Agentic Football!",
+    "times": [
+      {
+        "id": "1793080129366001IMlB",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 540,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793078795272001Kr7e",
+    "code": "ACT065",
+    "title": "Amazon’s World Famous Chicken Wing Eating Competition",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Allegiant Stadium",
+    "campus": "Allegiant Stadium Campus",
+    "abstract": "Join us at re:Play for Amazon's World Famous Chicken Wing Eating Competition, where brave competitors will face off at 6:45 PM. Competitors must register prior at the Attendee Experiences Desk (Venetian | Level 2 | Artist Foyer) to devour as many wings as possible in this epic battle of endurance for a chance at a re:Invent 2027 Ticket. This is one of re:Invent's most memorable and exciting spectacles.",
+    "times": [
+      {
+        "id": "1793316620205001KTlY",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "06:45",
+        "endTime": "07:35",
+        "startTimeFormatted": "06:45 AM",
+        "endTimeFormatted": "07:35 AM",
+        "duration": 50,
+        "room": "Allegiant Stadium",
+        "venue": "Allegiant Stadium"
+      }
+    ]
+  },
+  {
+    "id": "1793079602760001CwbM",
+    "code": "ACT066",
+    "title": "re:Play",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Allegiant Stadium",
+    "campus": "Allegiant Stadium Campus",
+    "abstract": "Don't miss the official party of re:Invent! re:Play is hosted at Allegiant Stadium this year, bringing an even bigger lineup of entertainment and experiences. Catch live performances from St. Vincent with headliner Calvin Harris and explore activations throughout the stadium. Join us Thursday, December 3, 2026, for a night of music, food, and fun. Shuttles to Allegiant Stadium start at 6:15 PM.",
+    "times": [
+      {
+        "id": "1793079662188001IGtN",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "18:30",
+        "endTime": "22:30",
+        "startTimeFormatted": "06:30 PM",
+        "endTimeFormatted": "10:30 PM",
+        "duration": 240,
+        "room": "Allegiant Stadium",
+        "venue": "Allegiant Stadium"
+      }
+    ]
+  },
+  {
     "id": "1780441488667001GjOD",
     "code": "AIM101-S",
     "title": "Edge-to-Action: Powering Agentic AI via Cloudera's Anywhere Cloud (sponsored by Cloudera)",
@@ -19439,6 +19736,68 @@
     ]
   },
   {
+    "id": "1787852034046001jO69",
+    "code": "AWS014-R1",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085597086001MRrJ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034150001jjQs",
+    "code": "AWS014-R2",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085601020001C53W",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1789513461903001LZPi",
     "code": "AWS017-R3",
     "title": "Industry Zone in Expo",
@@ -19461,6 +19820,66 @@
         "endTimeFormatted": "04:00 PM",
         "duration": 360,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513461971001Ljcg",
+    "code": "AWS019-R1",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Business Agents",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257483170001dIuy",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034911001jLZG",
+    "code": "AWS019-R2",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Business Agents",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257491808001dlGp",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
         "venue": "Venetian"
       }
     ]
@@ -19521,68 +19940,6 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034046001jO69",
-    "code": "AWS114-R1",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085597086001MRrJ",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034150001jjQs",
-    "code": "AWS114-R2",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085601020001C53W",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
         "venue": "Venetian"
       }
@@ -19853,60 +20210,6 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1789513461971001Ljcg",
-    "code": "AWS119-R1",
-    "title": "AWS Village in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
-    "times": [
-      {
-        "id": "1793257483170001dIuy",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034911001jLZG",
-    "code": "AWS119-R2",
-    "title": "AWS Village in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
-    "times": [
-      {
-        "id": "1793257491808001dlGp",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
         "venue": "Venetian"
       }
@@ -50213,7 +50516,7 @@
   {
     "id": "1780442244523001cu6i",
     "code": "IND353-R",
-    "title": "Agents under oath: HIPAA-compliant agentic AI on AWS",
+    "title": "Agents under oath: Designing agentic AI to support HIPAA compliance on AWS",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -61087,7 +61390,7 @@
   {
     "id": "1784738621075001yfqq",
     "code": "NET321-R",
-    "title": "Securing Amazon Bedrock AgentCore with AWS WAF and a self-healing security agent",
+    "title": "Protect MCP endpoints on Amazon Bedrock AgentCore Gateway with AWS WAF",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -61107,7 +61410,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement, not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC Interface Endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the Gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll build an agent that pulls signals from AWS WAF, and autonomously remediates threats and generating a plain-English incident summary.",
+    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement - not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC Interface Endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the Gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll leverage an agent that pulls signals from AWS WAF, helps you remediate threats, and generates a plain-English incident summary.",
     "times": [
       {
         "id": "1790025508930001CCxU",
@@ -76688,6 +76991,346 @@
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1791492157747001U5N1",
+    "code": "SUP102",
+    "title": "When FDE pays off: A VC lens on enterprise AI deployments",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Venture Capitalist"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The first 90 days after an enterprise contract can determine whether an AI deployment earns renewal or stalls. Forward Deployed Engineering places engineers inside customer teams to own production code and business outcomes. This session explains when startups need FDE and how it differs from solutions engineering and customer success. An interactive scenario follows one startup’s deployment into its second year. The room decides how to scope the work, handle a security review, respond to a one-off feature request, and hire the first FDE. We examine the consequences, including which customer-specific work becomes reusable product and when embedded engineering pays.",
+    "times": [
+      {
+        "id": "1793317189352001Sjr7",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:20",
+        "endTime": "12:20",
+        "startTimeFormatted": "11:20 AM",
+        "endTimeFormatted": "12:20 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159080001U9Id",
+    "code": "SUP105",
+    "title": "Wonderful brings enterprise voice AI to 30+ countries",
+    "type": "Lightning talk",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Wonderful builds enterprise voice agents for regulated markets where English-first platforms struggle with local speech patterns and compliance requirements. Its platform handles conversations in more than 30 countries, supported by locally embedded teams. CEO Bar Winkler explains the Forward Deployed Engineer model, with senior engineers working inside customer environments and owning delivery through deployment. He shares how Wonderful deployed for a major telecom provider in two weeks, compared with the months typically required. The session examines how local expertise shapes agent performance, how to staff engineering teams across regions, and what technical accountability requires when deploying voice AI in customer environments.",
+    "times": [
+      {
+        "id": "1793317830340001XLxq",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:40",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:40 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492160417001UwPV",
+    "code": "SUP107",
+    "title": "Sequoia + Edelbyte: What VCs Really Look For in AI-First Startups",
+    "type": "Lightning talk",
+    "level": "100 – Foundational",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Venture Capitalist"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "A fireside chat with Sequoia Capital to explore why the choose AI-first companies with seed investments of $50 million to $75 million. Drawing on investments in cybersecurity and data infrastructure, they examine how founders demonstrate technical defensibility and a credible path to enterprise adoption. The conversation covers unit economics and go-to-market strategy, including why deployment speed matters alongside model quality. Founders raising capital will hear how these investors assess competitive advantages, evaluate business models, and judge whether customers can adopt a product quickly. The fireside chat offers insight into the evidence investors seek when evaluating ambitious AI companies.",
+    "times": [
+      {
+        "id": "1793317700839001KWVu",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:20",
+        "endTime": "13:40",
+        "startTimeFormatted": "01:20 PM",
+        "endTimeFormatted": "01:40 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492157840001Uycj",
+    "code": "SUP201",
+    "title": "Beyond the hardware: The intelligence powering robots",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Press / Media Analyst"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Making humanoid and autonomous robots useful requires more than a capable chassis. Leaders from NEURA Robotics, 1X, and Highlanders discuss the intelligence behind their robots, in a panel moderated by Deap Ubhi. The conversation examines how teams train and simulate robot behaviors, which AI models they use, and how data pipelines support development. Panelists also explore the application layer that turns robotic capabilities into products customers can use. Startup founders and robotics builders will hear how these teams connect training and simulation with application development as they bring robots out of the lab and into real-world use by customers. **",
+    "times": [
+      {
+        "id": "1793317278107001tjQa",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "03:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158423001UkhQ",
+    "code": "SUP203",
+    "title": "Containment vs. offense: security leaders debate the future",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Press / Media Analyst"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Recent AI agent incidents revealed systems acting with agency their creators didn't authorize. But the security community is divided on the response. One view: it's a systemic containment failure that requires rethinking how we design agent environments. The other: containment is a losing game, and the only scaling answer is better AI defense. This debate explores two competing worldviews and what they mean for startups deploying agents in production right now.",
+    "times": [
+      {
+        "id": "1793317353601001btxd",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159262001Uwh1",
+    "code": "SUP205",
+    "title": "How Clay turns CRM + first-party data into a context graph for AI agents",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Analytics",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Clay, a Forbes AI 50 2026-listed market leader in go-to-market intelligence, helps sales teams identify promising accounts and decide how to engage them. Solange Levy, Head of AI, demonstrates how Clay combines CRM and first-party data into a context graph that guides AI agents through account research and prioritization. A product demo connects customer data to recommended sales actions, with examples from AI-native companies such as Cursor. The session examines how the emerging GTM Engineer role changes sales work and supports outbound campaigns. Founders and sales operations leaders can assess how this approach could shorten sales cycles and improve targeting of new accounts.",
+    "times": [
+      {
+        "id": "1793317631207001RQ8t",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:40",
+        "endTime": "09:00",
+        "startTimeFormatted": "08:40 AM",
+        "endTimeFormatted": "09:00 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492160227001UGOY",
+    "code": "SUP206",
+    "title": "Simile models consumer decisions with interview-trained AI twins",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Scientist",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Market research can be slow and expensive. Simile, a Stanford spinout, builds agentic twins: AI stand-ins trained on in-depth interviews with hundreds of people. Companies use these models to simulate consumer decisions instead of conducting a new survey for every question. Customers include CVS Health and Gallup. Joon Park, CEO and co-founder, explains how Simile collects interview data and turns it into behavioral models, then develops products for enterprises seeking better consumer understanding. The session examines what it takes to build and sell AI simulations for market research, with a focus on using interview-based models to explore consumer choices and test research questions. **VC Lightning Talks**",
+    "times": [
+      {
+        "id": "1793317772258001GwwL",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:20",
+        "endTime": "09:40",
+        "startTimeFormatted": "09:20 AM",
+        "endTimeFormatted": "09:40 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158983001UZQ3",
+    "code": "SUP304",
+    "title": "Triomics speeds cancer trial matching with Amazon Bedrock",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Each week, over 10,000 cancer patients wait for a clinical trial match, but delayed chart reviews can prevent timely identification. Triomics uses Amazon Bedrock to process patient records at 10 million tokens per minute, reducing weeks of review to hours. Bedrock initially appeared 67% more expensive than GCP for its primary model. By matching Standard, Flex, and Batch tiers to workload patterns, Triomics achieved 25% net cost savings while preserving vendor flexibility. Hrituraj Singh, co-founder and CTO, explains the cost analysis and validation behind migrating off Azure, showing how workload-based pricing supports faster clinical review while controlling inference costs and preserving model choice.",
+    "times": [
+      {
+        "id": "1793317455464001KBdd",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "13:20",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:20 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159350001Ufcy",
+    "code": "SUP305",
+    "title": "From 1,500 to 1M+ databases a week: how Supabase provisions at scale",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Databases",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "With Supabase, developers can use AI agents to build application backends in minutes instead of weeks. Adoption grew from 1,500 databases launched daily in early 2024 to more than one million in a single week in Q3 2026. Running entirely on AWS, Supabase uses Amazon S3 and Amazon EC2 instances with AWS Graviton processors alongside Amazon EKS and Amazon CloudWatch to support that growth. This session shows how startups can use Supabase to launch AI applications quickly and examines the infrastructure behind its database provisioning at scale. Builders of developer tools and AI applications will explore how simpler backend setup reduces the time needed to test ideas.",
+    "times": [
+      {
+        "id": "1793317408283001HI0d",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "15:20",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:20 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158706001UoLh",
+    "code": "SUP401",
+    "title": "Vega runs AI threat detection directly on Amazon S3",
+    "type": "Lightning talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity",
+      "Storage"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Vega Security’s AI-native Security Analytics Mesh runs threat detection directly on customer data in Amazon S3, avoiding costly ingestion and migration. Co-founder Eli Rozen explains the architecture behind the platform and how Vega reduced mean triage time from 25 minutes to under eight minutes and false positives by 48% for Fortune 500 customers. The session examines how Vega uses Amazon Bedrock and AWS Graviton for production AI inference, with AWS consumption reaching $2.3 million and growing 880% year over year. Security leaders and builders will explore the design choices behind detection on customer data and running untrusted AI workloads safely.",
+    "times": [
+      {
+        "id": "1793317532088001GM0t",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:20",
+        "endTime": "12:40",
+        "startTimeFormatted": "12:20 PM",
+        "endTimeFormatted": "12:40 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
