@@ -324,6 +324,87 @@
     ]
   },
   {
+    "id": "1789513462609001LHcX",
+    "code": "ACT005",
+    "title": "Magic the Gathering: Learn to Play",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "New to the game? Join us for an exclusive collaboration with Wizards of the Coast! Jump into a dedicated \"Learn to Play\" session complete with provided decks and expert guided instruction.",
+    "times": [
+      {
+        "id": "1793379460583001obRq",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "19:00",
+        "endTime": "22:00",
+        "startTimeFormatted": "07:00 PM",
+        "endTimeFormatted": "10:00 PM",
+        "duration": 180,
+        "room": "Caesars Palace | Emperors Level | Augustus Ballroom III",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513462758001Ltq7",
+    "code": "ACT006",
+    "title": "Game Night",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Dive into everything from fast paced party games to deep strategy challenges. Just grab a box, claim a table, and play.",
+    "times": [
+      {
+        "id": "1793379386612001plqV",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "startTimeFormatted": "06:30 PM",
+        "endTimeFormatted": "08:30 PM",
+        "duration": 120,
+        "room": "Caesars Palace | Emperors Level | Augustus Ballroom I",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513462951001LN17",
+    "code": "ACT007",
+    "title": "Dungeons and Dragons: Minature Mixer",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Bring your custom hero to life with hands on miniature painting and character creation. Grab a drink, grab a brush, and see if you have what it takes to conquer Faerûn.",
+    "times": [
+      {
+        "id": "1793379282147001Koef",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "18:30",
+        "endTime": "20:30",
+        "startTimeFormatted": "06:30 PM",
+        "endTimeFormatted": "08:30 PM",
+        "duration": 120,
+        "room": "Caesars Palace | Emperors Level | Augustus Ballroom III",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1789513463021001LmHI",
     "code": "ACT008-R",
     "title": "Kiro Galaxy Run ",
@@ -621,6 +702,222 @@
     ]
   },
   {
+    "id": "1789513464161001LKVW",
+    "code": "ACT010-R",
+    "title": "Byte Club",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Come check out our three-hole mini golf course, where AWS services come to life through creative physical challenges at every turn. Grab a putter, rally your crew, and see who can conquer all three holes. Fair warning: this isn't your average back nine.",
+    "times": [
+      {
+        "id": "1793377492741001jVip",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Caesars Palace | Emperors Level | Pre-Function II",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513464236001LHlV",
+    "code": "ACT010-R1",
+    "title": "Byte Club",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Come check out our three-hole mini golf course, where AWS services come to life through creative physical challenges at every turn. Grab a putter, rally your crew, and see who can conquer all three holes. Fair warning: this isn't your average back nine.",
+    "times": [
+      {
+        "id": "1793377639628001I0Mg",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Caesars Palace | Emperors Level | Pre-Function II",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513464305001LNk0",
+    "code": "ACT010-R2",
+    "title": "Byte Club",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Come check out our three-hole mini golf course, where AWS services come to life through creative physical challenges at every turn. Grab a putter, rally your crew, and see who can conquer all three holes. Fair warning: this isn't your average back nine.",
+    "times": [
+      {
+        "id": "1793377710127001KUgE",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Caesars Palace | Emperors Level | Pre-Function II",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513464459001LpfS",
+    "code": "ACT010-R3",
+    "title": "Byte Club",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Come check out our three-hole mini golf course, where AWS services come to life through creative physical challenges at every turn. Grab a putter, rally your crew, and see who can conquer all three holes. Fair warning: this isn't your average back nine.",
+    "times": [
+      {
+        "id": "1793377755240001AWYB",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Caesars Palace | Emperors Level | Pre-Function II",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513464662001Lxo6",
+    "code": "ACT011-R",
+    "title": "Bling Bar",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Express your personal style by making a custom bracelet or design a one-of-a-kind keychain, and add your own flair with unique beads, charms, and colors. It's the perfect hands-on way to make something memorable you'll want to keep (or swap!). ",
+    "times": [
+      {
+        "id": "1793377881967001hIXx",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "MGM Grand | Level 1 | Pre-Function",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789513464762001La7I",
+    "code": "ACT011-R1",
+    "title": "Bling Bar",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Express your personal style by making a custom bracelet or design a one-of-a-kind keychain, and add your own flair with unique beads, charms, and colors. It's the perfect hands-on way to make something memorable you'll want to keep (or swap!). ",
+    "times": [
+      {
+        "id": "1793377926364001MaKV",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "MGM Grand | Level 1 | Pre-Function",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789513464920001LVVW",
+    "code": "ACT011-R2",
+    "title": "Bling Bar",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Express your personal style by making a custom bracelet or design a one-of-a-kind keychain, and add your own flair with unique beads, charms, and colors. It's the perfect hands-on way to make something memorable you'll want to keep (or swap!). ",
+    "times": [
+      {
+        "id": "1793377970164001MHiV",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "MGM Grand | Level 1 | Pre-Function",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789513465004001LBqA",
+    "code": "ACT011-R3",
+    "title": "Bling Bar",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Express your personal style by making a custom bracelet or design a one-of-a-kind keychain, and add your own flair with unique beads, charms, and colors. It's the perfect hands-on way to make something memorable you'll want to keep (or swap!). ",
+    "times": [
+      {
+        "id": "1793378032115001Qw22",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "MGM Grand | Level 1 | Pre-Function",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1789513465073001LJyg",
     "code": "ACT012-R",
     "title": "Attendee Experience Desk",
@@ -756,6 +1053,303 @@
     ]
   },
   {
+    "id": "1789513465590001Lwex",
+    "code": "ACT013-R",
+    "title": "AWS Connect Lounge: Meet the Team ",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Great teams start with great introductions. Stop by the AWS Connect Lounge to meet AI teammates designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI teammates can drive results for your business. Four teammates, four demos, four pieces of swag. ",
+    "times": [
+      {
+        "id": "1793313496330001ltnl",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789513465662001LTzl",
+    "code": "ACT013-R1",
+    "title": "AWS Connect Lounge: Meet the Team",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Great teams start with great introductions. Stop by the AWS Connect Lounge to meet AI teammates designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI teammates can drive results for your business. Four teammates, four demos, four pieces of swag. ",
+    "times": [
+      {
+        "id": "1793313590096001tbI8",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789513465800001LrwW",
+    "code": "ACT013-R2",
+    "title": "AWS Connect Lounge: Meet the Team",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Great teams start with great introductions. Stop by the AWS Connect Lounge to meet AI teammates designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI teammates can drive results for your business. Four teammates, four demos, four pieces of swag. ",
+    "times": [
+      {
+        "id": "1793313636819001DDfx",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "18:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 600,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789513465877001LcNq",
+    "code": "ACT013-R3",
+    "title": "AWS Connect Lounge: Meet the Team",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Great teams start with great introductions. Stop by the AWS Connect Lounge to meet AI teammates designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI teammates can drive results for your business. Four teammates, four demos, four pieces of swag. ",
+    "times": [
+      {
+        "id": "1793313690664001XDwL",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789513465957001LyT4",
+    "code": "ACT014-R",
+    "title": "Wishing Booths",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words. Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "times": [
+      {
+        "id": "1793378133434001MGlI",
+        "date": "2026-11-29",
+        "day": "Sunday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 1 | Expo Upper Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466024001Lsrh",
+    "code": "ACT014-R1",
+    "title": "Wishing Booths",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words. Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "times": [
+      {
+        "id": "1793378213775001jCaq",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "07:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "07:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 630,
+        "room": "Venetian | Level 1 | Expo Upper Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466090001LB2y",
+    "code": "ACT014-R2",
+    "title": "Wishing Booths",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words.  Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "times": [
+      {
+        "id": "1793378307420001IHrB",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 1 | Expo Upper Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466158001LhDV",
+    "code": "ACT014-R3",
+    "title": "Wishing Booths",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words. Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "times": [
+      {
+        "id": "1793378379863001DHlx",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "07:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "07:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 630,
+        "room": "Venetian | Level 1 | Expo Upper Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466222001L6ca",
+    "code": "ACT014-R4",
+    "title": "Wishing Booths",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words. Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "times": [
+      {
+        "id": "1793378442310001Igu4",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "07:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "07:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 630,
+        "room": "Venetian | Level 1 | Expo Upper Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466434001LgpE",
+    "code": "ACT014-R5",
+    "title": "Wishing Booths",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words. Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "times": [
+      {
+        "id": "1793378498827001Ff3k",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "07:30",
+        "endTime": "12:00",
+        "startTimeFormatted": "07:30 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 270,
+        "room": "Venetian | Level 1 | Expo Upper Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1792116735578001plqc",
+    "code": "ACT015",
+    "title": "Networking reception at Tableau",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Tableau (located in Wynn)",
+    "campus": "Wynn Campus",
+    "abstract": "Join us at Tableau in the Wynn for a networking reception!\n",
+    "times": [
+      {
+        "id": "1793322855026001jMbF",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "startTimeFormatted": "06:00 PM",
+        "endTimeFormatted": "08:00 PM",
+        "duration": 120,
+        "room": "Tableau (located in Wynn)",
+        "venue": "Tableau (located in Wynn)"
+      }
+    ]
+  },
+  {
     "id": "1789513466503001Lgd8",
     "code": "ACT016-R",
     "title": "Patch'd",
@@ -779,6 +1373,114 @@
         "duration": 570,
         "room": "Various Locations",
         "venue": "Various Locations"
+      }
+    ]
+  },
+  {
+    "id": "1789513466580001L6HF",
+    "code": "ACT016-R1",
+    "title": "Patch'd",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Various Locations",
+    "campus": "Various Locations Campus",
+    "abstract": "Collect exclusive commemorative patches as you explore the AWS re:Invent campus, then bring your swag tote and patches to any of our dedicated heat pressing stations. In just a few minutes, our team will permanently press them onto your bag creating a custom wearable map of your re:Invent journey. Locations: Caesars Palace | Reg Desk 5; MGM Grand | Level 1 | Pre-Function; Caesars Forum | Forum Pre-Function 2; Venetian | Level 1 | Expo Lower Foyer",
+    "times": [
+      {
+        "id": "1793389073206001jghv",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 60,
+        "room": "Various Locations",
+        "venue": "Various Locations"
+      }
+    ]
+  },
+  {
+    "id": "1789513466722001LjW4",
+    "code": "ACT016-R2",
+    "title": "Patch'd",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Various Locations",
+    "campus": "Various Locations Campus",
+    "abstract": "Collect exclusive commemorative patches as you explore the AWS re:Invent campus, then bring your swag tote and patches to any of our dedicated heat pressing stations. In just a few minutes, our team will permanently press them onto your bag creating a custom wearable map of your re:Invent journey. Locations: Caesars Palace | Reg Desk 5; MGM Grand | Level 1 | Pre-Function; Caesars Forum | Forum Pre-Function 2; Venetian | Level 1 | Expo Lower Foyer",
+    "times": [
+      {
+        "id": "1793389073302001jb8n",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "08:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "08:00 AM",
+        "duration": 60,
+        "room": "Various Locations",
+        "venue": "Various Locations"
+      }
+    ]
+  },
+  {
+    "id": "1789513466861001LzCB",
+    "code": "ACT016-R3",
+    "title": "Patch'd",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Various Locations",
+    "campus": "Various Locations Campus",
+    "abstract": "Collect exclusive commemorative patches as you explore the AWS re:Invent campus, then bring your swag tote and patches to any of our dedicated heat pressing stations. In just a few minutes, our team will permanently press them onto your bag creating a custom wearable map of your re:Invent journey. Locations: Caesars Palace | Reg Desk 5; MGM Grand | Level 1 | Pre-Function; Caesars Forum | Forum Pre-Function 2; Venetian | Level 1 | Expo Lower Foyer",
+    "times": [
+      {
+        "id": "1793389073398001jAmy",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:00",
+        "endTime": "08:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "08:00 AM",
+        "duration": 60,
+        "room": "Various Locations",
+        "venue": "Various Locations"
+      }
+    ]
+  },
+  {
+    "id": "1789513466963001LSPe",
+    "code": "ACT016-R4",
+    "title": "Patch'd",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Collect exclusive commemorative patches as you explore the AWS re:Invent campus, then bring your swag tote and patches to any of our dedicated heat pressing stations. In just a few minutes, our team will permanently press them onto your bag creating a custom wearable map of your re:Invent journey.",
+    "times": [
+      {
+        "id": "1793389073488001jZit",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:00",
+        "endTime": "12:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 240,
+        "room": "Venetian | Level 1 | Expo Lower Foyer",
+        "venue": "Venetian"
       }
     ]
   },
@@ -1104,6 +1806,141 @@
         "endTimeFormatted": "05:00 PM",
         "duration": 480,
         "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713175951001l4rx",
+    "code": "ACT061-R",
+    "title": "Customer Showcase",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "An immersive, hands-on experience where pioneering organizations demonstrate how they're building the future of their industries. Anchored in real implementations and measurable outcomes, attendees engage shoulder-to-shoulder with customer counterparts and technical architects tackling the same challenges they face. Every story reveals the full arc of innovation: the breakthroughs, the missteps, and the hard-won lessons that shaped better outcomes. Attendees walk away with actionable insights they can apply immediately, along with the confidence that their goals are within reach, enabled by AWS to experiment boldly and innovate beyond what they thought possible.",
+    "times": [
+      {
+        "id": "1793376744624001MpBc",
+        "date": "2026-11-29",
+        "day": "Sunday",
+        "startTime": "11:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 390,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Customer Showcase",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992570001osRo",
+    "code": "ACT061-R1",
+    "title": "Customer Showcase",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "An immersive, hands-on experience where pioneering organizations demonstrate how they're building the future of their industries. Anchored in real implementations and measurable outcomes, attendees engage shoulder-to-shoulder with customer counterparts and technical architects tackling the same challenges they face. Every story reveals the full arc of innovation: the breakthroughs, the missteps, and the hard-won lessons that shaped better outcomes. Attendees walk away with actionable insights they can apply immediately, along with the confidence that their goals are within reach, enabled by AWS to experiment boldly and innovate beyond what they thought possible.",
+    "times": [
+      {
+        "id": "1793376923953001Ij2r",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 570,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Customer Showcase",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992657001oUW4",
+    "code": "ACT061-R2",
+    "title": "Customer Showcase",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "An immersive, hands-on experience where pioneering organizations demonstrate how they're building the future of their industries. Anchored in real implementations and measurable outcomes, attendees engage shoulder-to-shoulder with customer counterparts and technical architects tackling the same challenges they face. Every story reveals the full arc of innovation: the breakthroughs, the missteps, and the hard-won lessons that shaped better outcomes. Attendees walk away with actionable insights they can apply immediately, along with the confidence that their goals are within reach, enabled by AWS to experiment boldly and innovate beyond what they thought possible.",
+    "times": [
+      {
+        "id": "1793376967710001IEHR",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 570,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Customer Showcase",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992744001oa57",
+    "code": "ACT061-R3",
+    "title": "Customer Showcase",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "An immersive, hands-on experience where pioneering organizations demonstrate how they're building the future of their industries. Anchored in real implementations and measurable outcomes, attendees engage shoulder-to-shoulder with customer counterparts and technical architects tackling the same challenges they face. Every story reveals the full arc of innovation: the breakthroughs, the missteps, and the hard-won lessons that shaped better outcomes. Attendees walk away with actionable insights they can apply immediately, along with the confidence that their goals are within reach, enabled by AWS to experiment boldly and innovate beyond what they thought possible.",
+    "times": [
+      {
+        "id": "1793377009461001Ifp3",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 570,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Customer Showcase",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713992827001ooGg",
+    "code": "ACT061-R4",
+    "title": "Customer Showcase",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "An immersive, hands-on experience where pioneering organizations demonstrate how they're building the future of their industries. Anchored in real implementations and measurable outcomes, attendees engage shoulder-to-shoulder with customer counterparts and technical architects tackling the same challenges they face. Every story reveals the full arc of innovation: the breakthroughs, the missteps, and the hard-won lessons that shaped better outcomes. Attendees walk away with actionable insights they can apply immediately, along with the confidence that their goals are within reach, enabled by AWS to experiment boldly and innovate beyond what they thought possible.",
+    "times": [
+      {
+        "id": "1793377110145001Jv8w",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 570,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Customer Showcase",
         "venue": "Caesars Forum"
       }
     ]
@@ -6893,7 +7730,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Supervised fine-tuning enables your model to follow instructions, but teaching it to reason requires reinforcement learning. RL workflows demand iterative loops that multiply compute costs, making the price performance of AWS Trainium, a chip built specifically for deep learning AI, critical. In this chalk talk, we explore what techniques like RLHF and GRPO bring to the table and how to run them on Trainium with the AWS Neuron software stack, Torchtitan, HuggingFace TRL, vLLM, and native PyTorch. We compare co-located and disaggregated RL architectures. You'll leave ready to implement cost-effective RL loops that train agents to reason.",
+    "abstract": "Supervised fine-tuning teaches a model to follow instructions, and reinforcement learning (RL) teaches it to reason. In this chalk talk, explore what RLHF and GRPO add beyond fine-tuning and how to run them on AWS Trainium. See a disaggregated loop on Ray and verl, in which TorchTitan trains the policy and vLLM generates rollouts, and a colocated GRPO loop in Hugging Face TRL on native PyTorch. Learn when each architecture fits, and leave ready to use the AWS Neuron SDK to implement RL loops that train agents to reason.",
     "times": [
       {
         "id": "1790025485873001CnrA",
@@ -10941,7 +11778,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "​Customize a foundation model on your own dataset in hours, with no infrastructure to provision and no GPUs to manage. In this workshop, fine tune LLMs using the Amazon SageMaker AI serverless model customization APIs. Work through five techniques, including Supervised Fine Tuning for task specific behavior, Direct Preference Optimization for alignment, Reinforcement Learning with Verifiable Rewards for reasoning, Reinforcement Learning from AI Feedback for scalable feedback, and multi turn reinforcement learning for agentic tasks. Prepare datasets, launch training jobs, register models in the SageMaker AI Registry, evaluate with LLM as a judge, and deploy to a real time endpoint. ",
+    "abstract": "Go from dataset to a custom foundation model in just a few hours, without the need to set up any infrastructure. In this hands-on workshop, you will fine-tune LLMs using Amazon SageMaker AI Serverless Model Customization, requiring no infrastructure setup or GPU management. You will walk through the entire workflow: preparing datasets, launching training jobs, registering assets in the SageMaker AI Registry, evaluating using the \"LLM-as-a-Judge\" technique, and deploying to a real-time endpoint, leveraging Supervised Fine-Tuning (SFT) with LoRA as a memory-efficient optimization method. By the end of the workshop, you will be ready to customize models at scale immediately.",
     "times": [
       {
         "id": "1790025528843001CqEj",
@@ -25059,7 +25896,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Achieving optimal compute efficiency on Amazon EKS demands more than choosing the right instance -- it requires an intelligent infrastructure layer that continuously optimizes on your behalf. In this chalk talk, learn how teams use EKS Auto Mode to eliminate infrastructure toil with up to 40% faster node boot times, over 40% faster scale-out, and up to 70% faster consolidation. Discover how pairing Auto Mode with AWS Graviton5 (M9g, C9g) and EC2 Spot can reduce total cluster spend by up to 40%. You'll leave with actionable strategies for multi-architecture scheduling, right-sizing, and EFA placement for ML workloads.",
+    "abstract": "Achieving optimal compute efficiency on Amazon EKS demands more than choosing the right instance. It requires an intelligent infrastructure layer that continuously optimizes on your behalf. In this chalk talk, learn how teams use EKS Auto Mode to eliminate infrastructure toil with up to 40% faster node boot times, over 40% faster scale-out, and up to 70% faster consolidation. Discover how pairing Auto Mode with AWS Graviton5 (M9g, C9g) and EC2 Spot can reduce total cluster spend by up to 40%. You'll leave with actionable strategies for multi-architecture scheduling, right-sizing, and Spot diversification.",
     "times": [
       {
         "id": "1790025519866001CEe3",
@@ -25573,7 +26410,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Explore the latest PyTorch optimizations for Arm-based hardware, from improved kernel performance on AWS Graviton to faster training and inference at lower compute cost. We cover real benchmark results, the open-source contributions driving these improvements, and what it looks like to run modern AI workloads on Arm today. Whether you are tuning a model, contributing upstream, or just curious about what the community has been shipping, come get a grounded view of where things stand and where they are heading.",
+    "abstract": "Small language models are a great fit for CPUs: cheap to run, simple to deploy, and good enough for many real workloads. In this session we explore the latest PyTorch optimizations for Arm-based hardware and how to get the most out of them on AWS Graviton, from the kernel performance that decides inference speed to lower cost per token and more users per instance. We cover real benchmark results on live instances and what it looks like to run small models on Arm today. Whether you are tuning a model, sizing instances for production, or just curious about what the community has been shipping, come get a grounded view of where things stand.",
     "times": [
       {
         "id": "1790033115373001qijG",
@@ -45724,7 +46561,7 @@
   {
     "id": "1780441500339001GuHM",
     "code": "HMC407",
-    "title": "What FanDuel learned running containers on hundreds of AWS Outposts ",
+    "title": "What FanDuel learned running containers on dozens of AWS Outposts",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -45739,7 +46576,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Running containerized workloads across dozens of AWS Local Zones and hundreds of AWS Outposts demands operational patterns that hold up at fleet scale. In this session, learn how FanDuel operates Amazon EKS across a huge hybrid edge fleet with a focus on high availability, patching, observability, service disruption handling, and autoscaling. The session digs into how workloads respond gracefully to service link and hardware disruptions, and how autoscaling behaves when compute is fixed and on-rack. Discover the operational model that keeps a large edge fleet healthy without growing the platform team at the same rate.",
+    "abstract": "Running containerized workloads across dozens of AWS Local Zones and  AWS Outposts demands operational patterns that hold up at fleet scale. In this session, learn how FanDuel operates Amazon EKS across a huge hybrid edge fleet with a focus on high availability, patching, observability, service disruption handling, and autoscaling. The session digs into how workloads respond gracefully to service link and hardware disruptions, and how autoscaling behaves when compute is fixed and on-rack. Discover the operational model that keeps a large edge fleet healthy without growing the platform team at the same rate.",
     "times": [
       {
         "id": "1790025528146001CRlO",
@@ -47898,7 +48735,7 @@
   {
     "id": "1780441476879001GkOz",
     "code": "IND3301",
-    "title": "Content at the Speed of Live: AI-Powered Media Ops at Live Nation",
+    "title": "Instant Fan Gratification: AI-Powered Media Ops for Austin City Limits",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -47916,7 +48753,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Live Nation's subsidiaries generate petabytes of live event content across siloed storage. When an artist creates a viral moment, teams need it in fans' hands in minutes not days. In this session, learn how Live Nation built a platform that unifies fragmented media silos so teams can search, create, and publish in near-real time. Built using the guidance for a Media Lake on AWS, along with Amazon Bedrock, the platform uses AI-driven moment detection to surface key content automatically. We cover architecture, lessons from festival-scale deployment, and impact on fan experience.",
+    "abstract": "Austin City Limits (ACL), an annual festival in Austin, Texas, is innovating the fan experience for live music. When an artist creates a viral moment, teams like ACL need it in fans' hands in minutes not days. In this session, learn how ACL built a platform that unifies fragmented media silos so teams can search, create, and publish in near-real time. Built using the guidance for a Media Lake on AWS, along with Amazon Bedrock, the platform uses AI-driven moment detection to surface key content automatically. We cover architecture, lessons from festival-scale deployment, and impact on fan experience.",
     "times": [
       {
         "id": "1790025490934001CHrh",
@@ -76990,7 +77827,7 @@
   {
     "id": "1791492157747001U5N1",
     "code": "SUP102",
-    "title": "When FDE pays off: A VC lens on enterprise AI deployments",
+    "title": "Beyond the pilot: Why VCs are betting on FDE-led growth",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -77005,7 +77842,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "The first 90 days after an enterprise contract can determine whether an AI deployment earns renewal or stalls. Forward Deployed Engineering places engineers inside customer teams to own production code and business outcomes. This session explains when startups need FDE and how it differs from solutions engineering and customer success. An interactive scenario follows one startup’s deployment into its second year. The room decides how to scope the work, handle a security review, respond to a one-off feature request, and hire the first FDE. We examine the consequences, including which customer-specific work becomes reusable product and when embedded engineering pays.",
+    "abstract": "Successful AI pilots no longer guarantee revenue. As enterprise pricing shifts to consumption and outcomes, startups get paid only when customers deploy, adopt, and realize value, and forward deployed engineering (FDE) is how AI-native companies close that gap. In this panel discussion moderated by [AWS FDE startup leader], Asa Kalvade (VP, AWS Forward Deployed Engineering), Anu Bharadwaj (Partner, ICONIQ), and a [insert second VC partner] discuss whether FDE is consulting under a new name or a compounding moat, how to separate margin-diluting services from deployment that drives retention and expansion, and when founders should tap AWS FDE rather than build the function alone. Series A+ founders and investors will leave knowing when to invest in FDE, which metrics prove deployment creates durable value, and how to get stalled enterprise deals into production.",
     "times": [
       {
         "id": "1793317189352001Sjr7",
@@ -77057,7 +77894,7 @@
   {
     "id": "1791492160417001UwPV",
     "code": "SUP107",
-    "title": "Sequoia + Edelbyte: What VCs Really Look For in AI-First Startups",
+    "title": "Sequoia + Edelbyte: What VCs really look for in AI-first startups",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -77071,7 +77908,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "A fireside chat with Sequoia Capital to explore why the choose AI-first companies with seed investments of $50 million to $75 million. Drawing on investments in cybersecurity and data infrastructure, they examine how founders demonstrate technical defensibility and a credible path to enterprise adoption. The conversation covers unit economics and go-to-market strategy, including why deployment speed matters alongside model quality. Founders raising capital will hear how these investors assess competitive advantages, evaluate business models, and judge whether customers can adopt a product quickly. The fireside chat offers insight into the evidence investors seek when evaluating ambitious AI companies.",
+    "abstract": "Sequoia and Edelbyte share what VCs are really looking for when evaluating AI-first startups. This session covers how investment criteria have shifted for AI-native companies, what separates fundable AI startups from the rest, and what founders should understand about how VCs are thinking about AI-first business models today.",
     "times": [
       {
         "id": "1793317700839001KWVu",
@@ -77090,7 +77927,7 @@
   {
     "id": "1791492157840001Uycj",
     "code": "SUP201",
-    "title": "Beyond the hardware: The intelligence powering robots",
+    "title": "Training and simulation turn robot capabilities into useful products",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -77105,7 +77942,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Making humanoid and autonomous robots useful requires more than a capable chassis. Leaders from NEURA Robotics, 1X, and Highlanders discuss the intelligence behind their robots, in a panel moderated by Deap Ubhi. The conversation examines how teams train and simulate robot behaviors, which AI models they use, and how data pipelines support development. Panelists also explore the application layer that turns robotic capabilities into products customers can use. Startup founders and robotics builders will hear how these teams connect training and simulation with application development as they bring robots out of the lab and into real-world use by customers. **",
+    "abstract": "Making humanoid and autonomous robots useful takes more than a capable chassis. In this panel moderated by Deap Ubhi, who leads startup Solutions Architects globally at AWS, leaders from NEURA Robotics, 1X, and Highlanders dig into the intelligence behind their robots: how they train and simulate behaviors, which AI models they rely on, and how data pipelines support development. They also explore the application layer that turns raw capability into products. Founders and robotics builders will hear how these teams connect training and simulation with real-world deployment.",
     "times": [
       {
         "id": "1793317278107001tjQa",
@@ -77124,7 +77961,7 @@
   {
     "id": "1791492158423001UkhQ",
     "code": "SUP203",
-    "title": "Containment vs. offense: security leaders debate the future",
+    "title": "Containment or defense: a debate on securing agents in production",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -77139,7 +77976,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Recent AI agent incidents revealed systems acting with agency their creators didn't authorize. But the security community is divided on the response. One view: it's a systemic containment failure that requires rethinking how we design agent environments. The other: containment is a losing game, and the only scaling answer is better AI defense. This debate explores two competing worldviews and what they mean for startups deploying agents in production right now.",
+    "abstract": "METR and Horizon3 debate containment versus defense as the right approach to securing AI agents in production. This session covers the tradeoffs between containing agent behavior through strict boundaries versus building defenses that let agents operate with more autonomy, and what security teams should weigh when deciding how to secure agents running in production environments.",
     "times": [
       {
         "id": "1793317353601001btxd",
@@ -77158,7 +77995,7 @@
   {
     "id": "1791492159262001Uwh1",
     "code": "SUP205",
-    "title": "How Clay turns CRM + first-party data into a context graph for AI agents",
+    "title": "How Clay turns CRM and first-party data into a context graph for GTM AI",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -77173,7 +78010,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Clay, a Forbes AI 50 2026-listed market leader in go-to-market intelligence, helps sales teams identify promising accounts and decide how to engage them. Solange Levy, Head of AI, demonstrates how Clay combines CRM and first-party data into a context graph that guides AI agents through account research and prioritization. A product demo connects customer data to recommended sales actions, with examples from AI-native companies such as Cursor. The session examines how the emerging GTM Engineer role changes sales work and supports outbound campaigns. Founders and sales operations leaders can assess how this approach could shorten sales cycles and improve targeting of new accounts.",
+    "abstract": "Clay built a platform that turns CRM and first-party data into a context graph that powers go-to-market AI. This session covers how Clay structures that context graph, how it feeds AI-driven GTM workflows, and what founders building GTM AI products can learn from Clay's approach to combining and enriching first-party data at scale.",
     "times": [
       {
         "id": "1793317631207001RQ8t",
@@ -77192,7 +78029,7 @@
   {
     "id": "1791492160227001UGOY",
     "code": "SUP206",
-    "title": "Simile models consumer decisions with interview-trained AI twins",
+    "title": "Simile: Making interview-trained AI that predicts consumer decisions",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -77207,7 +78044,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Market research can be slow and expensive. Simile, a Stanford spinout, builds agentic twins: AI stand-ins trained on in-depth interviews with hundreds of people. Companies use these models to simulate consumer decisions instead of conducting a new survey for every question. Customers include CVS Health and Gallup. Joon Park, CEO and co-founder, explains how Simile collects interview data and turns it into behavioral models, then develops products for enterprises seeking better consumer understanding. The session examines what it takes to build and sell AI simulations for market research, with a focus on using interview-based models to explore consumer choices and test research questions. **VC Lightning Talks**",
+    "abstract": "Simile built AI models trained on interviews that predict consumer decisions, essentially a “what-if” machine for consumer behavior. This session covers how Simile trains these interview-based models, the architecture behind predicting consumer decisions, and what it unlocks for companies trying to understand how customers will respond before they build.",
     "times": [
       {
         "id": "1793317772258001GwwL",
@@ -77239,7 +78076,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Turn customer signals into AI products worth shipping. In this practical session, an AWS expert walks product owners through AIDLC-Discovery: an operating model for lean teams to validate demand, build with AI agents, and move beyond the prototype. See where agents compress the work across the entire lifecycle and how startups gain an edge by learning what to build sooner. Leave with a repeatable approach to getting from customer insight to a validated AI feature, plus open-source tools you can put to work the same week.",
+    "abstract": "Startups building AI products face a different speed problem than traditional software: models change weekly, and what worked last month may already be outdated. This session covers how to build AI products that keep pace, drawing on patterns for iterating quickly, evaluating new models, and shipping AI features without getting stuck re-architecting every time the underlying technology shifts.",
     "times": [
       {
         "id": "1793394732381001DmEv",
@@ -77273,7 +78110,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Each week, over 10,000 cancer patients wait for a clinical trial match, but delayed chart reviews can prevent timely identification. Triomics uses Amazon Bedrock to process patient records at 10 million tokens per minute, reducing weeks of review to hours. Bedrock initially appeared 67% more expensive than GCP for its primary model. By matching Standard, Flex, and Batch tiers to workload patterns, Triomics achieved 25% net cost savings while preserving vendor flexibility. Hrituraj Singh, co-founder and CTO, explains the cost analysis and validation behind migrating off Azure, showing how workload-based pricing supports faster clinical review while controlling inference costs and preserving model choice.",
+    "abstract": "Triomics speeds up cancer clinical trial matching using Amazon Bedrock. This session covers how Triomics built its trial-matching pipeline on Bedrock, the challenges of applying AI to clinical trial workflows, and what it takes to speed up matching patients to trials in a high-stakes healthcare setting.",
     "times": [
       {
         "id": "1793317455464001KBdd",
@@ -77327,7 +78164,7 @@
   {
     "id": "1791492158706001UoLh",
     "code": "SUP401",
-    "title": "Vega runs AI threat detection directly on Amazon S3",
+    "title": "Cyber defense at the frontier: What we learned building Vega on Amazon S3",
     "type": "Lightning talk",
     "level": "400 – Expert",
     "topics": [
@@ -77343,7 +78180,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Vega Security’s AI-native Security Analytics Mesh runs threat detection directly on customer data in Amazon S3, avoiding costly ingestion and migration. Co-founder Eli Rozen explains the architecture behind the platform and how Vega reduced mean triage time from 25 minutes to under eight minutes and false positives by 48% for Fortune 500 customers. The session examines how Vega uses Amazon Bedrock and AWS Graviton for production AI inference, with AWS consumption reaching $2.3 million and growing 880% year over year. Security leaders and builders will explore the design choices behind detection on customer data and running untrusted AI workloads safely.",
+    "abstract": "Vega runs AI threat detection directly on data sitting in Amazon S3. This session covers what the Vega team learned building AI-driven threat detection directly against data in S3, the architecture behind that approach, and what it means for the frontier of cyber defense as AI threat detection moves closer to where the data lives.",
     "times": [
       {
         "id": "1793317532088001GM0t",
@@ -83672,6 +84509,249 @@
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1793254906409001O5vF",
+    "code": "rec4e46eINvocCYth",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793314821871001RPU1",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "20:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "08:00 PM",
+        "duration": 600,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793080305350001hme2",
+    "code": "rec5HhOs4FQwIxUGu",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793312811534001XT9I",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793256708562001NsZG",
+    "code": "rec5wqOI4qbCHOUDM",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793314873334001u3m0",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "06:30",
+        "endTime": "20:00",
+        "startTimeFormatted": "06:30 AM",
+        "endTimeFormatted": "08:00 PM",
+        "duration": 810,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793080484863001IrG4",
+    "code": "recCJS9bz3B6bjHxB",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793312912226001lG9T",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793080517831001iJWn",
+    "code": "recQYmqcMJtFF5pke",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793313032372001XANN",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793256744087001MGNY",
+    "code": "recbBLOIoDrlIRBu7",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793314984786001ze0b",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "06:30",
+        "endTime": "18:30",
+        "startTimeFormatted": "06:30 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 720,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793080554566001Hr1Z",
+    "code": "recbKAWRHdwoNQo22",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793312861556001X55Q",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793256779608001Y4T0",
+    "code": "rececGs8g9Whcckwz",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793315080836001J0wE",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "06:30",
+        "endTime": "18:30",
+        "startTimeFormatted": "06:30 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 720,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793256814383001LCtY",
+    "code": "recuwjYcKK6DFnayr",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793315148253001tdMs",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "07:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "07:00 AM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 600,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
       }
     ]
   }
