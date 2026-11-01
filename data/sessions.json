@@ -84513,6 +84513,33 @@
     ]
   },
   {
+    "id": "1793375087994001Oe3P",
+    "code": "rec3wtIQtXowJVl5E",
+    "title": "Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
+    "times": [
+      {
+        "id": "1793380300979001iOoy",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1793254906409001O5vF",
     "code": "rec4e46eINvocCYth",
     "title": "re:Invent SWAG",
@@ -84621,6 +84648,33 @@
     ]
   },
   {
+    "id": "1793375296537001ZmXr",
+    "code": "recLw6DPwGaKziCzS",
+    "title": "Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
+    "times": [
+      {
+        "id": "1793380428223001MCms",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1793080517831001iJWn",
     "code": "recQYmqcMJtFF5pke",
     "title": "AWS BuilderCards: Learn about AWS security while you play!",
@@ -84698,6 +84752,33 @@
         "duration": 480,
         "room": "Caesars Forum | Level 1 | West Alcove | South",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793375389147001GUtP",
+    "code": "recdfUy8EEy2L8DyL",
+    "title": "Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
+    "times": [
+      {
+        "id": "1793380370233001Z7X2",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B",
+        "venue": "Venetian"
       }
     ]
   },
