@@ -67517,7 +67517,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Tighten the detection rule and you miss the variant. Loosen them and you drown the on-call. Deviate too far either way and you risk missing attackers and getting compromised. FanDuel handled adjustments by hand for years, until attackers started moving faster than the tuning backlog. Join FanDuel and Datadog to see detection rebuilt around automation: SIEM logic as code, orchestrated enrichment and triage, vulnerability workflows in the same pipeline. Attendees will leave with practical patterns for scaling detection engineering, reducing analyst toil, and knowing where AI helps and where it creates new work. This presentation is brought to you by Datadog, an AWS Partner.",
+    "abstract": "Detection teams can't hire fast enough, so agents are arriving in every SOC. But how do you know they work? We ran Datadog's threat hunting agent on our own environment first. This session covers hunting, analyst, and detection engineering agents, four golden signals of rule efficacy, and one metric that matters: human hours saved. You'll see the real results, what went wrong, and a framework to evaluate agents against your own AWS telemetry before you trust them with your SOC.",
     "times": [
       {
         "id": "1790034532752001pgpk",
@@ -84509,33 +84509,6 @@
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1793375087994001Oe3P",
-    "code": "rec3wtIQtXowJVl5E",
-    "title": "Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
-    "times": [
-      {
-        "id": "1793380300979001iOoy",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B",
-        "venue": "Venetian"
       }
     ]
   },
