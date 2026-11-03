@@ -137,7 +137,7 @@
   {
     "id": "1789513466793001LV1e",
     "code": "ACT003-R3",
-    "title": "Tattoos & Piercing Studio",
+    "title": "Tattoos & Piercing Studio ",
     "type": "Featured experience",
     "level": "No Level",
     "topics": [],
@@ -488,7 +488,7 @@
   {
     "id": "1789513463202001LOS7",
     "code": "ACT008-R3",
-    "title": "Kiro Galaxy Run",
+    "title": "Kiro Galaxy Run ",
     "type": "Featured experience",
     "level": "No Level",
     "topics": [],
@@ -594,6 +594,33 @@
     ]
   },
   {
+    "id": "1789513463957001LbU2",
+    "code": "ACT009-R3",
+    "title": "Datadog Observaball ",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Pull the plunger and try your luck! Your ball navigates Observability, Security & AI obstacles like Malware Mire and Agent Loop Lagoon. Make it through the course and win a prize! Spoiler Alert: Everyone’s a winner with Datadog!",
+    "times": [
+      {
+        "id": "1793081911939001M3oc",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "19:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "07:30 PM",
+        "duration": 540,
+        "room": "Venetian | Level 1 | Casanova Foyer",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1789513463502001Lv80",
     "code": "ACT009-S-R",
     "title": "Datadog Observaball ",
@@ -615,33 +642,6 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "07:30 PM",
         "duration": 570,
-        "room": "Venetian | Level 1 | Casanova Foyer",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1789513463957001LbU2",
-    "code": "ACT009-S-R3",
-    "title": "Datadog Observaball",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Pull the plunger and try your luck! Your ball navigates Observability, Security & AI obstacles like Malware Mire and Agent Loop Lagoon. Make it through the course and win a prize! Spoiler Alert: Everyone’s a winner with Datadog!",
-    "times": [
-      {
-        "id": "1793081911939001M3oc",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:30",
-        "endTime": "19:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "07:30 PM",
-        "duration": 540,
         "room": "Venetian | Level 1 | Casanova Foyer",
         "venue": "Venetian"
       }
@@ -1136,7 +1136,7 @@
   {
     "id": "1789513465877001LcNq",
     "code": "ACT013-R3",
-    "title": "AWS Connect Lounge: Meet the Team",
+    "title": "AWS Connect Lounge: Meet the Team ",
     "type": "Featured experience",
     "level": "No Level",
     "topics": [],
@@ -2108,6 +2108,33 @@
     ]
   },
   {
+    "id": "1793080517831001iJWn",
+    "code": "ACT064-R3",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793313032372001XANN",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1793078795272001Kr7e",
     "code": "ACT065",
     "title": "Amazon’s World Famous Chicken Wing Eating Competition",
@@ -2162,6 +2189,60 @@
     ]
   },
   {
+    "id": "1793256814383001LCtY",
+    "code": "ACT068-R",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793315148253001tdMs",
+        "date": "2026-11-29",
+        "day": "Sunday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793254906409001O5vF",
+    "code": "ACT068-R0",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793314821871001RPU1",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "07:30",
+        "endTime": "19:30",
+        "startTimeFormatted": "07:30 AM",
+        "endTimeFormatted": "07:30 PM",
+        "duration": 720,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1793256708562001NsZG",
     "code": "ACT068-R1",
     "title": "re:Invent SWAG",
@@ -2179,10 +2260,10 @@
         "date": "2026-12-01",
         "day": "Tuesday",
         "startTime": "06:30",
-        "endTime": "20:00",
+        "endTime": "18:30",
         "startTimeFormatted": "06:30 AM",
-        "endTimeFormatted": "08:00 PM",
-        "duration": 810,
+        "endTimeFormatted": "06:30 PM",
+        "duration": 720,
         "room": "Venetian | Level 2 | Hall C | SWAG",
         "venue": "Venetian"
       }
@@ -2205,11 +2286,38 @@
         "id": "1793314984786001ze0b",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "06:30",
-        "endTime": "18:30",
-        "startTimeFormatted": "06:30 AM",
-        "endTimeFormatted": "06:30 PM",
-        "duration": 720,
+        "startTime": "09:30",
+        "endTime": "18:00",
+        "startTimeFormatted": "09:30 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 510,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793256779608001Y4T0",
+    "code": "ACT068-R3",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793315080836001J0wE",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "09:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 420,
         "room": "Venetian | Level 2 | Hall C | SWAG",
         "venue": "Venetian"
       }
@@ -2640,7 +2748,7 @@
   {
     "id": "1780442267034001cC3t",
     "code": "AIM112-S",
-    "title": "Give agents governed access to your APIs over MCP with a domain model ",
+    "title": "Give agents governed access to your APIs over MCP with a domain model (sponsored by Apollo GraphQL)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -7838,7 +7946,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Supervised fine-tuning teaches a model to follow instructions, and reinforcement learning (RL) teaches it to reason. In this chalk talk, explore what RLHF and GRPO add beyond fine-tuning and how to run them on AWS Trainium. See a disaggregated loop on Ray and verl, in which TorchTitan trains the policy and vLLM generates rollouts, and a colocated GRPO loop in Hugging Face TRL on native PyTorch. Learn when each architecture fits, and leave ready to use the AWS Neuron SDK to implement RL loops that train agents to reason.",
+    "abstract": "Supervised fine-tuning teaches a model to follow instructions, and reinforcement learning (RL) teaches it to reason. In this chalk talk, explore what RLHF and GRPO add beyond fine-tuning and how to run them on AWS Trainium, purpose-built for price performance. Start with a co-located GRPO loop in Hugging Face TRL on native PyTorch, then see a disaggregated loop on Ray and verl, in which TorchTitan trains the policy and vLLM generates rollouts, so each side can be sized for its own load. Learn when each architecture fits, and leave ready to use the AWS Neuron SDK to implement RL loops that train agents to reason.",
     "times": [
       {
         "id": "1790025485873001CnrA",
@@ -7875,7 +7983,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Supervised fine-tuning enables your model to follow instructions, but teaching it to reason requires reinforcement learning. RL workflows demand iterative loops that multiply compute costs, making the price performance of AWS Trainium, a chip built specifically for deep learning AI, critical. In this chalk talk, we explore what techniques like RLHF and GRPO bring to the table and how to run them on Trainium with the AWS Neuron software stack, Torchtitan, HuggingFace TRL, vLLM, and native PyTorch. We compare co-located and disaggregated RL architectures. You'll leave ready to implement cost-effective RL loops that train agents to reason.",
+    "abstract": "Supervised fine-tuning teaches a model to follow instructions, and reinforcement learning (RL) teaches it to reason. In this chalk talk, explore what RLHF and GRPO add beyond fine-tuning and how to run them on AWS Trainium. See a disaggregated loop on Ray and verl, in which TorchTitan trains the policy and vLLM generates rollouts, and a colocated GRPO loop in Hugging Face TRL on native PyTorch. Learn when each architecture fits, and leave ready to use the AWS Neuron SDK to implement RL loops that train agents to reason.",
     "times": [
       {
         "id": "1790360397685001ARRe",
@@ -9705,7 +9813,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "We live-build a multi-agent system where specialized agents — a document searcher, a data analyst, a claims verifier, and a synthesizer — collaborate to produce evidence-backed summaries from unstructured sources. Using Bedrock's multi-model routing, each agent selects the optimal foundation model for its task. Along the way we solve hard coordination problems: message routing, shared state, deadlock avoidance, and cost control. One presenter codes; the other narrates architecture decisions. Whether you synthesize research literature, member feedback, grant requirements, or compliance updates — leave with replicable patterns for your domain. ",
+    "abstract": "Turning messy, unstructured sources into summaries you can trust takes more than one model. We walk through a working multi-agent system where four specialized agents (a searcher, an analyst, a verifier, and a synthesizer) collaborate to produce cited, evidence-backed results, each running on the Bedrock model best suited to its job. We dissect the hard parts of multi-agent design (message routing, shared state, bounded retries, and cost control). Leave with patterns you can replicate for evidence-backed synthesis in your own domain.",
     "times": [
       {
         "id": "1790033115209001qk08",
@@ -9799,7 +9907,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Agentic and coding workloads are multiplying token consumption, and paying frontier prices on every call adds up fast. This chalk talk shows how open weight models on Amazon Bedrock let you scale that growth affordably without giving up quality or security. We walk through multi-model strategies for agentic and code generation workloads, the unit economics of open weight versus frontier, and how Bedrock's inference engine design keeps security strong regardless of where a model came from. You leave with a practical path to cost-efficient inference at scale.",
+    "abstract": "Agentic and coding workloads are multiplying token consumption, and paying frontier prices on every call adds up fast. This chalk talk shows how open-weight models on Amazon Bedrock let you scale that growth affordably without giving up quality or security. We walk through multi-model strategies for agentic and code generation workloads, the unit economics of open-weight versus frontier, and how Bedrock's inference engine design keeps security strong regardless of where a model came from. You leave with a practical path to cost-efficient inference at scale.",
     "times": [
       {
         "id": "1790360365999001Adxn",
@@ -10597,7 +10705,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "An off-the-shelf frontier model may not meet the accuracy, cost, or latency requirements of your specialized business task. Across businesses from retail to financial services, organizations are customizing open-weight models to unlock higher value, including for domain-specific workflows and agents. In this session, learn why and how to customize open-weight models with Amazon SageMaker AI using features including serverless model customization and techniques such as supervised fine-tuning and reinforcement learning. Intuit shares how it customizes models on SageMaker AI with its proprietary financial datasets to deliver personalized customer experiences. See how Intuit is achieving up to 5% improved accuracy and 50% reduced latency compared to general-purpose LLMs, while delivering cost efficiency for certain accounting workloads.",
+    "abstract": "Off-the-shelf frontier models often fall short on accuracy, cost, or latency your specialized tasks demand. That's why organizations from retail to financial services are customizing open-weight models to power domain-specific workflows and agents. In this session, learn why and how to customize open-weight models with Amazon SageMaker AI, including using serverless model customization and techniques such as supervised fine-tuning and reinforcement learning. Then hear how Intuit customizes models on its proprietary financial data to deliver personalized customer experiences, achieving up to 5% higher accuracy and 50% lower latency than general-purpose LLMs, while cutting costs on key accounting workloads.",
     "times": [
       {
         "id": "1790025490423001Cov3",
@@ -10742,7 +10850,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Organizations deploying AI face a critical decision at every step. Which service handles which job, and will those decisions hold up as you scale? This chalk talk delivers an opinionated decision framework for choosing between Amazon Bedrock and Amazon SageMaker AI, and when to combine both for unified security, governance, and models that move between services without rearchitecting. We cover model access patterns (API, custom model import, marketplace), deployment trade-offs between self-managed and fully managed inference, and cost-performance optimization at production scale.",
+    "abstract": "Organizations deploying AI workloads face a critical decision at every step: which AI service handles which job, and will it hold up at scale? This chalk talk delivers an opinionated framework for choosing between Amazon Bedrock and Amazon SageMaker AI, and when to use them together. We'll ground it in a real example: an agentic coding system pairing a Bedrock frontier model for complex coding with a fine-tuned open weight model on SageMaker AI for high-volume automated PR reviews. It runs on AgentCore, which supports any model or provider mix, including Bedrock and SageMaker AI, for cost- and performance-optimized architectures.",
     "times": [
       {
         "id": "1790360399106001AmOx",
@@ -11199,7 +11307,7 @@
   {
     "id": "1780441482700001GnHK",
     "code": "AIM381-S",
-    "title": "Inside the frontier: What builders are creating at OpenAI ",
+    "title": "Inside the frontier: What builders are creating at OpenAI (sponsored by OpenAI)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -12461,7 +12569,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you deploy to Lambda and EKS. Leave with a reference architecture for agents you can actually ship. Laptop required. ",
+    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production, including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you deploy to Lambda and EKS. Leave with a reference architecture for agents you can actually ship. Laptop required.",
     "times": [
       {
         "id": "1790360378850001Ao7x",
@@ -12799,7 +12907,7 @@
   {
     "id": "1790358220656001imY5",
     "code": "AIM438-R1",
-    "title": "Switch models without disrupting customers on Amazon Bedrock",
+    "title": "Switch models in production without disrupting customers on Amazon Bedrock",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -12809,7 +12917,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Your application is working in production, and then a newer model arrives with better benchmarks or lower cost. You need to decide whether moving is worth the risk. A switch can change outputs, break prompts, raise costs, and create weeks of retesting. This session shows how to reduce that disruption on Amazon Bedrock. Test candidate models against your own use cases, compare quality, latency, and cost, and update prompts without rewriting them by hand. See how Bedrock Evaluations and Advanced Prompt Optimization help you measure the impact before rollout. Leave with a practical plan for switching models without disrupting customers.",
+    "abstract": " Your application is working in production, and then a newer model arrives with better benchmarks or lower cost. You need to decide whether moving is worth the risk. A switch can change outputs, break prompts, raise costs, and create weeks of retesting. This session shows how to reduce that disruption on Amazon Bedrock. Test candidate models against your own use cases, compare quality, latency, and cost, and update prompts without rewriting them by hand. See how Advanced Prompt Optimization scores your current model against candidates on your own data, giving each candidate a fair prompt, so you can measure the impact before rollout. Leave with a practical plan for switching models without disrupting customers.",
     "times": [
       {
         "id": "1790360375075001ATZM",
@@ -13309,7 +13417,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Traditional SRE was built to restore systems quickly, but today’s complex, distributed environments demand more than reactive operations. This lightning session explores how agentic AI is redefining SRE by enabling autonomous detection, decision-making, remediation, and continuous learning. It examines how observability can extend beyond infrastructure metrics to connect system health with customer experience and business outcomes. Attendees will learn how AI, observability, and operations are converging to create resilient, self-optimizing environments, why autonomous resilience is becoming a competitive advantage, and the practical steps organizations can take to progress toward Level 5 autonomous operations while retaining appropriate human oversight and governance This presentation is brought to you by HCLTech, an AWS Partner.",
+    "abstract": "Traditional SRE was built to restore systems quickly, but today’s complex, distributed environments demand more than reactive operations. This lightning session explores how agentic AI is redefining SRE by enabling autonomous detection, decision-making, remediation, and continuous learning. It examines how observability can extend beyond infrastructure metrics to connect system health with customer experience and business outcomes. Attendees will learn how HCLTech and AWS are helping enterprises to create resilient, self-optimizing environments by converging AI, observability and operations. The speakers will highlight why autonomous resilience is becoming a competitive advantage and the practical steps organizations can take to progress toward Level 5 autonomous operations while retaining appropriate human oversight and governance.",
     "times": [
       {
         "id": "1790033123130001qVfG",
@@ -14528,7 +14636,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn practical strategies for working with Apache Iceberg on Amazon Redshift — from schema design and file sizing to partition pruning, compaction, sort order optimization, predicate pushdown, materialized views, and metadata management. Walk away with an actionable checklist to improve your Iceberg workloads.",
+    "abstract": "Learn practical strategies for working with Apache Iceberg on Amazon Redshift - from schema design and file sizing to partition pruning, compaction, sort order optimization, predicate pushdown, materialized views, and metadata management. Walk away with an actionable checklist to improve your Iceberg workloads.",
     "times": [
       {
         "id": "1790360396238001AG81",
@@ -14866,7 +14974,7 @@
   {
     "id": "1780441462444001GDdl",
     "code": "ANT335",
-    "title": "Drive AI and ML ROI with cost-efficient data analytics on AWS",
+    "title": "Optimize AI ROI with cost-efficient data analytics on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -15021,7 +15129,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Landing streaming data into Apache  Iceberg at scale is a complex undertaking. In this chalk talk, we dissect practical reference architectures for real-time ingestion into Iceberg tables, covering  Kafka to Flink, Kinesis to Firehose, and managed pipelines through Amazon S3  Tables. Learn which architecture fits your latency and cost requirements, how  to keep Iceberg tables query-ready under continuous writes, and how these  pipelines feed downstream analytics and AI workloads. ",
+    "abstract": "Landing streaming data into Apache Iceberg at scale is a complex undertaking. In this chalk talk, we dissect three reference architectures for real-time ingestion into Iceberg tables on Amazon S3 Tables: zero-code delivery with streaming tables for Amazon MSK and Amazon Kinesis Data Streams, in-stream enrichment with Amazon Managed Service for Apache Flink, and change data capture from operational databases with Apache Flink CDC and zero-ETL integrations. Learn which architecture fits your latency and cost requirements, how to keep Iceberg tables query-ready under continuous writes, and how these pipelines feed downstream analytics and AI workloads.",
     "times": [
       {
         "id": "1790025517629001C0rw",
@@ -18104,7 +18212,7 @@
   {
     "id": "1780441488777001GRzl",
     "code": "ARC208-S",
-    "title": "Powering Agentic AI with Real - Time Market Data Transformation for LSEG",
+    "title": "Powering Agentic AI with Real - Time Market Data Transformation for LSEG (sponsored by AMD)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -19026,7 +19134,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Where should vector embeddings live? In your operational database, a dedicated vector store, or across several? In this session you evaluate the trade-offs across latency, data freshness, cost, and retrieval quality. You implement the same retrieval pattern across three engines: Amazon OpenSearch Service for combined lexical and vector search, Amazon Aurora PostgreSQL with pgvector for SQL-native filtered retrieval, and Amazon S3 Vectors for cost-optimized scale. You then combine them into a hybrid architecture that orchestrates a single query and merges the results with reciprocal rank fusion. You leave able to answer where your embeddings should live, backed by patterns you built yourself. Bring your laptop to participate.",
+    "abstract": "Where should vector embeddings live? In your operational database, a dedicated vector store, or across several? In this session you evaluate the trade-offs across latency, data freshness, cost, and retrieval quality. You implement the same retrieval pattern across three engines: Amazon OpenSearch Service for combined lexical and vector search, Amazon Aurora PostgreSQL with pgvector for SQL-native filtered retrieval, and Amazon S3 Vectors for cost-optimized scale. You learn the workload patterns these engines handle best, so you can tell where a single store is enough and where a hybrid architecture pays off. You leave able to answer where your embeddings should live, backed by patterns you built yourself. Bring your laptop to participate.",
     "times": [
       {
         "id": "1790360403012001A684",
@@ -19136,7 +19244,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "When an AI agent crashes at step 20 of 30, you can't just start over. Once state accumulates, a blind retry becomes dangerous. Most teams default to the wrong recovery strategy because they apply stateless retry thinking to stateful workflows. In this session, we compare three approaches: replay-based recovery with idempotent tool execution, checkpoint-and-resume with human-in-the-loop pause/resume, and event-driven compensation across trust boundaries. We'll whiteboard each pattern, map it to real failure scenarios, and build a decision framework based on your agent's state model and fault domain.",
+    "abstract": "When an AI agent crashes at step 20 of 30, you can't just start over. Once state accumulates, an unexamined retry becomes dangerous. Most teams default to the wrong recovery strategy because they apply stateless retry thinking to stateful workflows. In this session, we compare three approaches: replay-based recovery with idempotent tool execution, checkpoint-and-resume with human-in-the-loop pause/resume, and event-driven compensation across trust boundaries. We'll whiteboard each pattern, map it to real failure scenarios, and build a decision framework based on your agent's state model and fault domain.",
     "times": [
       {
         "id": "1790360374975001A0Bl",
@@ -20659,7 +20767,9 @@
     "level": "No Level",
     "topics": [
       "Artificial Intelligence",
-      "Business Agents"
+      "Business Agents",
+      "Developer Tools",
+      "Industry Solutions"
     ],
     "areasOfInterest": [],
     "roles": [],
@@ -20718,7 +20828,11 @@
     "title": "Expo",
     "type": "Expo",
     "level": "No Level",
-    "topics": [],
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Industry Solutions"
+    ],
     "areasOfInterest": [],
     "roles": [],
     "venue": "Venetian",
@@ -20735,236 +20849,6 @@
         "endTimeFormatted": "04:00 PM",
         "duration": 360,
         "room": "Venetian | Level 2 | Hall B",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034046001jO69",
-    "code": "AWS014-R1",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085597086001MRrJ",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034150001jjQs",
-    "code": "AWS014-R2",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085601020001C53W",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034298001jIKi",
-    "code": "AWS014-R3",
-    "title": "Builder Zone in the Expo ",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
-    "times": [
-      {
-        "id": "1793085606239001ihME",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852033927001jPsu",
-    "code": "AWS015-R3",
-    "title": "Global Impact Zone in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
-    "times": [
-      {
-        "id": "1793085634078001ITwf",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1789513461903001LZPi",
-    "code": "AWS017-R3",
-    "title": "Industry Zone in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore hands-on demos across 10 industries and connect with peers and AWS experts.",
-    "times": [
-      {
-        "id": "1793085679749001QqXr",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1789513461971001Ljcg",
-    "code": "AWS019-R1",
-    "title": "AWS Village in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Business Agents",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
-    "times": [
-      {
-        "id": "1793257483170001dIuy",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852034911001jLZG",
-    "code": "AWS019-R2",
-    "title": "AWS Village in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [
-      "Business Agents",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
-    "times": [
-      {
-        "id": "1793257491808001dlGp",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1787852035034001j3b0",
-    "code": "AWS019-R3",
-    "title": "AWS Village in Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
-    "times": [
-      {
-        "id": "1793257498765001qcEj",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
         "venue": "Venetian"
       }
     ]
@@ -21005,7 +20889,10 @@
     "title": "Partner Advantage Zone in Expo",
     "type": "Expo",
     "level": "No Level",
-    "topics": [],
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
     "areasOfInterest": [],
     "roles": [],
     "venue": "Venetian",
@@ -21062,7 +20949,10 @@
     "title": "Partner Advantage Zone in Expo",
     "type": "Expo",
     "level": "No Level",
-    "topics": [],
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
     "areasOfInterest": [],
     "roles": [],
     "venue": "Venetian",
@@ -21115,6 +21005,99 @@
     ]
   },
   {
+    "id": "1787852034046001jO69",
+    "code": "AWS114-R1",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085597086001MRrJ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034150001jjQs",
+    "code": "AWS114-R2",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085601020001C53W",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034298001jIKi",
+    "code": "AWS114-R3",
+    "title": "Builder Zone in the Expo ",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore emerging tech, learn new skills, and connect with fellow builders. Your journey starts here.",
+    "times": [
+      {
+        "id": "1793085606239001ihME",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1402",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1787852032549001jMSe",
     "code": "AWS115-R",
     "title": "Global Impact Zone in Expo",
@@ -21160,7 +21143,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "abstract": "Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
     "times": [
       {
         "id": "1793085626276001KFB5",
@@ -21191,7 +21174,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Explore how builders drive social impact through technology\n\nBody:  Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "abstract": "Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
     "times": [
       {
         "id": "1793085630144001gsbA",
@@ -21202,6 +21185,37 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852033927001jPsu",
+    "code": "AWS115-R3",
+    "title": "Global Impact Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Engage regional experts, explore nonprofit initiatives, and learn how AWS tackles global challenges.",
+    "times": [
+      {
+        "id": "1793085634078001ITwf",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 180",
         "venue": "Venetian"
       }
@@ -21301,6 +21315,37 @@
     ]
   },
   {
+    "id": "1789513461903001LZPi",
+    "code": "AWS117-R3",
+    "title": "Industry Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Explore hands-on demos across 10 industries and connect with peers and AWS experts.",
+    "times": [
+      {
+        "id": "1793085679749001QqXr",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 111",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1787852032924001jCcA",
     "code": "AWS119-R",
     "title": "AWS Village in Expo",
@@ -21325,6 +21370,96 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513461971001Ljcg",
+    "code": "AWS119-R1",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Business Agents",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257483170001dIuy",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034911001jLZG",
+    "code": "AWS119-R2",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Business Agents",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257491808001dlGp",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852035034001j3b0",
+    "code": "AWS119-R3",
+    "title": "AWS Village in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Business Agents",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "New launches land here first. Test what's new the day it's announced, go hands-on with agentic AI and the latest AWS innovations, and get direct time with the experts building it all.",
+    "times": [
+      {
+        "id": "1793257498765001qcEj",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 752",
         "venue": "Venetian"
       }
@@ -21420,7 +21555,7 @@
   {
     "id": "1780441484193001GaES",
     "code": "BIZ104-S",
-    "title": "From On-Premises to Agentic AI: Bayer's Amazon Connect Transformation Journey (sponsored by Capgemini)",
+    "title": "AgentX: Agentic solution for customer service transformation and insights",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -21440,7 +21575,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Capgemini transformed 414 contact center hotlines across more than 68 countries by replacing Cisco UCCE with Amazon Connect and introducing AgentX, an AWS-native agentic AI platform deployed across the Bayer enterprise. Built on Amazon Bedrock, Amazon Connect, Amazon Lex, AWS Lambda, and other AWS services, AgentX delivers real-time agent assistance, automated call summarization, governance controls, predictive analytics, and autonomous workflow execution. Learn how Bayer established a \"build once, deploy globally\" operating model that enables consistent AI innovation across business units while reducing operational complexity, improving agent productivity, and delivering significant cost savings. This presentation is brought to you by Capgemini, an AWS Partner.",
+    "abstract": "Capgemini and Bayer developed AgentX, an AWS-native agentic AI solution that empowers customer service agents with GenAI insights and turns customer interactions into actionable business intelligence. AgentX combines knowledge retrieval, real-time agent assistance, automated summaries, governance controls, predictive analytics, and AI-enabled workflows with human oversight. It helps agents work faster and more consistently, supporting higher-quality interactions and a better customer experience. Built using Amazon Connect, Amazon Bedrock, AWS Lambda and other AWS services, AgentX provides a reusable, scalable foundation for AI-enabled customer service. Discover how Bayer and Capgemini use a customer-centric, business-driven approach to create value for agents, supervisors and business leaders. This presentation is brought to you by Capgemini, an AWS Partner.",
     "times": [
       {
         "id": "1790034532172001pm5w",
@@ -22433,7 +22568,7 @@
   {
     "id": "1780442269942001cgBn",
     "code": "BIZ221-S",
-    "title": "Your Business Is Multiplayer. Your AI Should Be Too.",
+    "title": "Your Business Is Multiplayer. Your AI Should Be Too. (sponsored by PromptQL)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -23164,7 +23299,7 @@
   {
     "id": "1780442277105001cLEI",
     "code": "BIZ321-R",
-    "title": "Never Start Over: Chat to Co-Browse, Voice and Video on Amazon Connect Customer",
+    "title": "Never Start Over: Chat, Voice, Video, Screen Share on Connect Customer",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -23261,7 +23396,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Organizations are accelerating their deployment of AI agents, yet the critical gap remains: proving they work reliably and responding when they don't. This workshop delivers a hands-on framework for the complete testing and operational lifecycle of agentic AI on Amazon Connect Customer. First, build a layered testing strategy using native Testing & Simulation — functional, integration, and regression tests for flows and bots, wired to dashboard-driven observability. Then, implement automated operational responses such as threshold-based alerting triggers pre-approved remediations. You will leave with a reusable testing playbook and an implementable pattern for closed-loop operational automation — reducing manual validation effort and moving toward self-managing AI agents at scale.",
+    "abstract": "Organizations are accelerating their deployment of agentic journeys yet a critical gap remains - how reliable are they in handling self-service queries? This workshop delivers a hands-on framework for the complete testing and operational lifecycle of agentic on Amazon Connect Customer. First, build a layered testing strategy using native Testing & Simulation - functional, integration, and regression tests to validate self-service customer journeys, wired to dashboard-driven observability. Then, implement automated operational responses such as threshold-based alerting that triggers pre-approved remediations. You will leave with a reusable testing playbook and an implementable pattern for closed-loop operational automation - reducing manual validation effort and moving toward self-managing AI agents at scale.",
     "times": [
       {
         "id": "1790360398210001AREn",
@@ -24835,7 +24970,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Take a Windows .NET application, run AWS Transform end-to-end (assess, modernize, deploy), and benchmark on Graviton. Compare against the original x86 baseline, inspect what Kiro and Transform got wrong, and tune the result. Covers .NET Framework to modern .NET migration and CI integration patterns from production migrations.",
+    "abstract": "Take a Windows .NET Framework application, run AWS Transform (assess, approve and modernize), and benchmark on Graviton. Compare against the original x86 baseline, inspect what the Transform build missed, fix the result with Kiro and deploy it on Graviton 5. Covers .NET Framework to modern .NET migration and how to apply the method to your own applications. (edited)",
     "times": [
       {
         "id": "1790025474212001CC4G",
@@ -25597,7 +25732,7 @@
   {
     "id": "1780441497737001GDj4",
     "code": "CMP327-R",
-    "title": "Optimize AI inference costs: Compare token economics on AWS silicon",
+    "title": "Optimize AI value: Compare token economics on AWS silicon",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -25616,7 +25751,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Most enterprises run their entire AI pipeline on GPU and can overpay. AWS's silicon portfolio (Trainium & Graviton) along with NVIDIA GPU, Intel, and AMD all offer radically different cost-per-token economics for different workloads. This session delivers a decision framework for matching silicon to workload: training and inference on Trainium, RAG pipelines on Graviton, real-time agents on GPU, batch on Intel/AMD. Includes Bedrock vs. self-host crossover analysis, volume thresholds, and the architecture patterns to put the savings into practice.",
+    "abstract": "Most enterprises run their entire AI pipeline on GPU and can overpay. AWS's silicon portfolio (Trainium & Graviton) along with NVIDIA GPU, Intel, and AMD all offer radically different economics for different workloads, and the cheapest token rarely delivers the cheapest business outcome. This session delivers a decision framework for matching silicon to workload: training and inference on Trainium, RAG pipelines on Graviton, real-time agents on GPU, batch on Intel/AMD. Includes Bedrock vs. self-host crossover analysis, volume thresholds, and the architecture patterns to put the savings into practice.",
     "times": [
       {
         "id": "1790025507212001CmLq",
@@ -26161,7 +26296,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Achieving optimal compute efficiency on Amazon EKS demands more than choosing the right instance -- it requires an intelligent infrastructure layer that continuously optimizes on your behalf. In this chalk talk, learn how teams use EKS Auto Mode to eliminate infrastructure toil with up to 40% faster node boot times, over 40% faster scale-out, and up to 70% faster consolidation. Discover how pairing Auto Mode with AWS Graviton5 (M9g, C9g) and EC2 Spot can reduce total cluster spend by up to 40%. You'll leave with actionable strategies for multi-architecture scheduling, right-sizing, and EFA placement for ML workloads.",
+    "abstract": "Achieving optimal compute efficiency on Amazon EKS demands more than choosing the right instance. It requires an intelligent infrastructure layer that continuously optimizes on your behalf. In this chalk talk, learn how teams use EKS Auto Mode to eliminate infrastructure toil with up to 40% faster node boot times, over 40% faster scale-out, and up to 70% faster consolidation. Discover how pairing Auto Mode with AWS Graviton5 (M9g, C9g) and EC2 Spot can reduce total cluster spend by up to 40%. You'll leave with actionable strategies for multi-architecture scheduling, right-sizing, and Spot diversification.",
     "times": [
       {
         "id": "1790360396700001A9KL",
@@ -27402,7 +27537,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Interactive simulation needs RTX-class GPUs engineers lack; rendering millions of frames needs a fleet nobody wants to babysit. Amazon DCV streams a full NVIDIA Omniverse and Isaac Sim workstation from EC2 G instances to any browser, while AWS Batch runs the same scenes headless across GPU fleets for scale. The AWS Visual Asset Management System is the control plane: launching jobs, tracking runs, and versioning outputs. Watch an engineer open a cloud viewport and fan out a thousand-frame jobs live.",
+    "abstract": "Interactive simulation needs RTX-class GPUs engineers lack; rendering millions of frames needs a fleet nobody wants to babysit. Amazon DCV streams a full NVIDIA Omniverse and Isaac Sim workstation from EC2 G instances to any browser, while AWS Batch runs the same scenes headless across GPU fleets for scale. The AWS Visual Asset Management System is the control plane: launching jobs, tracking runs, and versioning outputs. Walk through the architecture behind a cloud viewport and a thousand-run batch job.",
     "times": [
       {
         "id": "1790025488421001C5QJ",
@@ -30072,7 +30207,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Transform your Kubernetes development workflow using generative AI. In this workshop, use Kiro CLI and the EKS MCP Server to automate complex operations, troubleshoot applications through natural language, and deploy micro services on Amazon EKS — all with AI-powered assistance. Work through hands-on labs: explore clusters using natural language, fix connectivity and ingress issues by orchestrating EKS MCP with Terraform MCP, and deploy new application components using AI-guided analysis. Leave with practical skills to integrate AI-powered automation into your existing Kubernetes workflows and dramatically improve developer productivity.",
+    "abstract": "Transform your Kubernetes development workflow using generative AI. In this workshop, use your choice of agentic AI CLI, Kiro CLI, Claude Code, or Codex, with the EKS MCP Server to automate complex operations, troubleshoot applications through natural language, and deploy microservices on Amazon EKS. Work through hands-on labs: explore clusters using natural language, fix connectivity and ingress issues by orchestrating the EKS MCP Server with Terraform, and deploy new application components using AI-guided analysis. Leave with practical skills to integrate AI-powered automation into your existing Kubernetes workflows and dramatically improve developer productivity.",
     "times": [
       {
         "id": "1790360386273001AXyO",
@@ -31690,7 +31825,7 @@
   {
     "id": "1790358220749001iZuN",
     "code": "CON334-R1",
-    "title": "Network observability on Amazon EKS: from blind spots to insights",
+    "title": "Network observability on Amazon EKS: From coverage gaps to insights",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -32375,7 +32510,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Platform teams struggle to balance developer velocity with operational efficiency. Self-service platforms promise faster delivery, but require orchestrating multiple tools, managing infrastructure complexity, and maintaining governance. In this workshop, you'll build an Internal Developer Platform using Amazon EKS Capabilities, which provides fully managed Argo CD for continuous deployment, ACK for AWS resource management, and kro for Kubernetes resource orchestration. You'll deploy polyglot applications, implement progressive delivery strategies, and automate infrastructure management while leveraging AI to boost productivity. Leave with practical experience in platform engineering patterns to ship faster without sacrificing control. You must bring your laptop to participate.",
+    "abstract": "Build an Internal Developer Platform on Amazon EKS using managed capabilities — ArgoCD, AWS Controllers for Kubernetes (ACK), and kro. In this hands-on workshop, deploy a hub-and-spoke architecture, enable developer self-service for cloud resources, and choose your delivery path: ship a polyglot application, or deploy AI agents as first-class Kubernetes resources with the Open Agentic Platform (model gateway, agent identity, and MCP tools). Implement progressive delivery with GitOps automation, and measure platform success with DORA metrics. Walk away with a production-ready blueprint featuring multi-environment promotions via Kargo and canary deployments with Argo Rollouts.",
     "times": [
       {
         "id": "1790025508067001CKz4",
@@ -34170,7 +34305,8 @@
     "level": "300 – Advanced",
     "topics": [
       "Architecture",
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "Cloud Operations"
     ],
     "areasOfInterest": [
       "Generative AI",
@@ -34184,7 +34320,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Most teams discover resilience gaps during outages, not before. In this interactive chalk talk, you'll use the next generation of AWS Resilience Hub to map user journeys, define recovery objectives, discover dependencies, and run AI-powered failure mode assessments. You'll implement high availability improvements, deploy multi-region disaster recovery, and run the right automated disaster recovery tests that fit your architecture and use case. Walk away with a repeatable framework you can plug into your own environment next week.",
+    "abstract": "Most teams discover resilience gaps during outages, not before. In this interactive chalk talk, we'll walk through the next generation of AWS Resilience Hub to map user journeys, define recovery objectives, identify dependencies, and run AI-powered failure mode assessments. We'll explore how to get prescriptive HA and DR recommendations and automate your DR mechanisms with meaningful tests for your architecture and use case. Walk away with a step-by-step approach to strengthen the resilience posture of your critical applications, from identifying their business impact all the way to test and automate their recovery.",
     "times": [
       {
         "id": "1790360375480001AxkH",
@@ -35320,7 +35456,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Agentic applications need different access patterns and tooling than traditional apps. Teams often stitch together several tools and act as the human orchestrator just to answer a basic question: is my agent doing what the business needs? That gets harder when the agent runs on one cloud and calls models or APIs on another. In this session, we show how CloudWatch Omni brings AI agents and applications across clouds into one view, accelerating root cause whether its due to performance, availability or response quality.",
+    "abstract": "When an agent fails, it rarely throws an error. It gives the wrong answer, and diagnosis takes hours. The cause may be the model, the prompt, or bad downstream data, with evidence scattered across tools. Learn techniques to identify issues across agents and services and correlate them into one incident. We look ahead to AI agents investigating incidents alongside engineers, using open-standard telemetry accessible to engineers and agents with purpose-built tools and system context. See how CloudWatch Omni addresses each, and leave with agent development techniques, reference architectures for agentic observability, and ways to optimize observability with OpenTelemetry.",
     "times": [
       {
         "id": "1790025520581001C8Fk",
@@ -36421,7 +36557,7 @@
   {
     "id": "1780441471509001G0sH",
     "code": "COP367",
-    "title": "End-to-end resilience for your cloud workloads",
+    "title": "Operationalizing resilience with AWS Resilience Hub",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -36437,7 +36573,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this session, learn how to continuously assess and validate the operational resilience of your end-to-end business services using AWS Resilience Hub. See how GenAI agents automatically discover and map your application dependencies to give you a holistic picture of your resilience posture. Get actionable recommendations to close gaps, generate regulatory compliance artifacts to meet your compliance needs, and put it all to the test with end-to-end resilience testing to prove it.",
+    "abstract": "You can’t validate resilience by manually reviewing every service, dependency, and failover plan, especially as systems grow. In this session, learn how the next generation of AWS Resilience Hub helps teams assess and prove the operational resilience of their end-to-end services. Through a real-world example, follow a finding from assessment to remediation, validation and re-assessment, using DevOps Agent to investigate. See how to automate quarterly DR tests with your own test templates and finally, learn how to turn those results into failover audit reports, leadership summaries, and a custom resilience score your organization can track over time.",
     "times": [
       {
         "id": "1791224278582001t8i1",
@@ -40687,7 +40823,7 @@
   {
     "id": "1780441469758001GsMn",
     "code": "DAT449",
-    "title": "Design a governed ontology in Neptune that any agent can query",
+    "title": "Build consistent, explainable agents with ontologies and graph memory in Neptune",
     "type": "Breakout session",
     "level": "400 – Expert",
     "topics": [
@@ -40705,7 +40841,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your agents can answer questions. Can they explain why, and would two agents give the same answer? Most enterprise AI stalls in pilot because business meaning lives in scattered prompts, pipelines, and code. In this session, learn how to use Amazon Neptune to turn entities, relationships, policies, and rules into a governed ontology and knowledge graph that any agent framework can query. See how AI-assisted authoring cuts modeling from months to hours, where one rule update propagates across every agent and each answer carries an inspectable reasoning trace. The graph stays in your account.",
+    "abstract": "Your agents can answer questions. Can they explain why, and would two agents give the same answer? Most enterprise AI stalls in pilot because business meaning lives in scattered prompts, pipelines, and code. In this session, learn how to use Amazon Neptune to turn entities, relationships, policies, and rules into an ontology and knowledge graph that any agent framework can query and use to organize memories. See how LLM-assisted ontology generation cuts modeling from months to hours. Learn how one rule update propagates across every agent and each answer carries an inspectable reasoning trace. Designed for architects building production agentic systems.",
     "times": [
       {
         "id": "1790025535086001CJVG",
@@ -42568,7 +42704,7 @@
   {
     "id": "1780441470257001GLe4",
     "code": "DVT316",
-    "title": "What's new in full-stack AWS app development",
+    "title": "What's new in web and mobile app development on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -43977,7 +44113,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Experience a dynamic simulation of leading a digital transformation initiative. Navigate cloud migration, security automation, and operational excellence challenges. Architect secure cloud environments while balancing stakeholder needs and compliance. Compete to optimize speed, security, and innovation amid real-world obstacles. Gain actionable insights into cloud security governance and risk-aligned architecture.",
+    "abstract": "Experience a dynamic simulation of leading a digital transformation initiative. Navigate cloud migration, security automation, and operational excellence challenges. Architect secure cloud environments while balancing stakeholder needs and compliance. Compete to optimize speed, security, and innovation amid real-world obstacles. Gain actionable insights into cloud security governance and risk-aligned architecture. Walk-ins welcome.",
     "times": [
       {
         "id": "1791311023190001OnlK",
@@ -44050,7 +44186,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Quantum computing is advancing—is your cryptographic infrastructure ready? In this immersive tabletop, executives will confront the urgent reality that current public-key cryptographic standards face obsolescence. Make high-stakes decisions on migration timelines, technology selection, and stakeholder coordination as quantum threats loom over customer data, transaction systems, and competitive intelligence. Balance budget constraints against discovery, risk prioritization, and implementation speed while navigating regulatory requirements and operational continuity. Compete to build quantum-resistant infrastructure before adversaries exploit today's vulnerabilities. Leave with actionable strategies for leading a post-quantum cryptography migration that protects trust and secures competitive advantage.",
+    "abstract": "Quantum computing is advancing—is your cryptographic infrastructure ready? In this immersive tabletop, executives will confront the urgent reality that current public-key cryptographic standards face obsolescence. Make high-stakes decisions on migration timelines, technology selection, and stakeholder coordination as quantum threats loom over customer data, transaction systems, and competitive intelligence. Balance budget constraints against discovery, risk prioritization, and implementation speed while navigating regulatory requirements and operational continuity. Compete to build quantum-resistant infrastructure before adversaries exploit today's vulnerabilities. Leave with actionable strategies for leading a post-quantum cryptography migration that protects trust and secures competitive advantage. Walk-ins welcome.",
     "times": [
       {
         "id": "1791311264122001ADZq",
@@ -44124,7 +44260,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Embark on \"Third Party Risk Management,\" an engaging tabletop designed to challenge and refine your approach to managing external partnerships and vendor relationships. In this immersive experience, leaders are thrust into a high-stakes environment where they must navigate complex scenarios involving third-party risks. This tabletop not only enhances your ability to manage third-party risks effectively but also equips you with practical insights and strategies to safeguard your organization’s interests and strengthen its external partnerships. Join us to elevate your risk management acumen and drive resilient, forward-thinking approaches in an interconnected business landscape.",
+    "abstract": "Embark on \"Third Party Risk Management,\" an engaging tabletop designed to challenge and refine your approach to managing external partnerships and vendor relationships. In this immersive experience, leaders are thrust into a high-stakes environment where they must navigate complex scenarios involving third-party risks. This tabletop not only enhances your ability to manage third-party risks effectively but also equips you with practical insights and strategies to safeguard your organization’s interests and strengthen its external partnerships. Join us to elevate your risk management acumen and drive resilient, forward-thinking approaches in an interconnected business landscape.  Walk-ins welcome. ",
     "times": [
       {
         "id": "1791311510114001O5em",
@@ -44199,7 +44335,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Navigate AI-driven security threats as they escalate in real time. In this immersive executive tabletop, participants allocate a constrained governance budget, then respond to live crisis events scored across six dimensions. Practice navigating high-stakes scenarios including autonomous AI deployment failures, third-party security incidents, and emerging regulatory obligations. Confront real attack techniques, compliance frameworks, and enterprise liability exposure while aligning cross-functional teams under pressure. This experience sharpens governance instincts and crisis fluency—equipping leaders to govern Agentic AI risks, enforce accountability, and make decisive resource allocation calls before a real crisis demands it.",
+    "abstract": "Navigate AI-driven security threats as they escalate in real time. In this immersive executive tabletop, participants allocate a constrained governance budget, then respond to live crisis events scored across six dimensions. Practice navigating high-stakes scenarios including autonomous AI deployment failures, third-party security incidents, and emerging regulatory obligations. Confront real attack techniques, compliance frameworks, and enterprise liability exposure while aligning cross-functional teams under pressure. This experience sharpens governance instincts and crisis fluency—equipping leaders to govern Agentic AI risks, enforce accountability, and make decisive resource allocation calls before a real crisis demands it. Walk-ins welcome.",
     "times": [
       {
         "id": "1791311600343001ofSI",
@@ -44312,7 +44448,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Join the \"Supply Chain Incident Response\" tabletop exercise, where executive leaders tackle supply chain disruptions in a realistic, interactive simulation. Collaborate to develop and execute strategies for managing crises, explore decision-making and risk assessment, and enhance communication skills. This exercise strengthens your organization's preparedness and resilience, helping you safeguard operations and improve response capabilities. Build robust strategies to handle and recover from supply chain disruptions effectively.",
+    "abstract": "Join the \"Supply Chain Incident Response\" tabletop exercise, where executive leaders tackle supply chain disruptions in a realistic, interactive simulation. Collaborate to develop and execute strategies for managing crises, explore decision-making and risk assessment, and enhance communication skills. This exercise strengthens your organization's preparedness and resilience, helping you safeguard operations and improve response capabilities. Build robust strategies to handle and recover from supply chain disruptions effectively. Walk-ins welcome.",
     "times": [
       {
         "id": "1791311712335001OIlI",
@@ -47379,7 +47515,7 @@
   {
     "id": "1780441483894001GgWj",
     "code": "IND210-S",
-    "title": "Molecule to Market: Bayer & Capgemini Accelerate Drug Discovery with NVIDIA BioNeMo (sponsored by NVIDIA)",
+    "title": "Target to Molecule: Bayer & Capgemini accelerate Crop Protection R&D with BioNeMo (sponsored by NVIDIA)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -47451,7 +47587,7 @@
   {
     "id": "1780442272017001c7O4",
     "code": "IND212-S",
-    "title": "Building Trust in AI Agents through Skills-Based Verification",
+    "title": "Building Trust in AI Agents through Skills-Based Verification (sponsored by Pearson)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -48139,7 +48275,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Security teams need to detect, correlate, and respond to threats faster than manual processes allow. In this chalk talk, explore how AWS Continuum orchestrates event-driven AI agents that triage, investigate, and escalate security incidents in real time. We walk through how alerts from Amazon GuardDuty and AWS Security Hub flow through Amazon EventBridge, triggering AWS Lambda functions that invoke agents on Amazon Bedrock AgentCore, with human-in-the-loop controls for high-severity events. Discover best practices for reducing alert fatigue, accelerating MTTR, and scaling security operations for financial services and other regulated industries where every response must be explainable and audit ready.",
+    "abstract": "Security teams need to detect, correlate, and respond to threats faster than manual processes allow. AWS Continuum validates exploitable findings and AI coding agents on Amazon Bedrock AgentCore close the loop. Agents remediate critical and high-severity findings, re-scan them, and open a pull request that AWS DevOps Agent reviews. For regulated industries, agents never merge their own fixes. Unresolved or new issues escalate to humans, and every fix has an audit trail. We walk through a real-world example in which a fix inadvertently introduced a new vulnerability and show how the automated loop caught it before it reached production. Leave with patterns to cut time-to-remediate and keep every change explainable.",
     "times": [
       {
         "id": "1790025474955001Cccr",
@@ -49742,7 +49878,7 @@
   {
     "id": "1780441477099001GHEi",
     "code": "IND3319",
-    "title": "How FINRA Brings Governed Agentic AI to Its Member Firms on AWS",
+    "title": "How FINRA Explores Governed Agentic AI to Its Member Firms on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -57857,7 +57993,7 @@
   {
     "id": "1780441489064001G8MJ",
     "code": "MAM227-S",
-    "title": "Sovereign Transformations: From Legacy to an AI-Ready Estate You Own",
+    "title": "Sovereign Transformations: From Legacy to an AI-Ready Estate You Own (sponsored by Concierto by Trianz)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -58233,7 +58369,7 @@
   {
     "id": "1790358248563001iG6w",
     "code": "MAM308-R1",
-    "title": "Race to migrate and modernize with agentic AI at the EBA cloud party",
+    "title": "Drive multi-server migrations from discovery to cutover with AWS Transform",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -59595,7 +59731,7 @@
   {
     "id": "1790358231906001iTNH",
     "code": "MAM332-R1",
-    "title": "Build an AI agent that completes desktop tasks with WorkSpaces",
+    "title": "Build AI agents to operate desktop and mainframe apps on WorkSpaces",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -62235,7 +62371,7 @@
   {
     "id": "1790358223663001iYna",
     "code": "NET317-R1",
-    "title": "Origin management for multi-region applications with Amazon CloudFront",
+    "title": "Origin management for multi-region resilient applications with Amazon CloudFront",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -62494,7 +62630,7 @@
   {
     "id": "1790358247195001iGDV",
     "code": "NET321-R1",
-    "title": "Securing Amazon Bedrock agents with AWS WAF and a self-healing security agent",
+    "title": "Protect MCP endpoints on Amazon Bedrock AgentCore Gateway with AWS WAF",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -62514,7 +62650,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement, not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC Interface Endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the Gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll build an agent that pulls signals from AWS WAF, and autonomously remediates threats and generating a plain-English incident summary.",
+    "abstract": "As enterprises move generative AI agents from prototype to production, securing the Amazon Bedrock AgentCore Gateway becomes a first-class requirement - not an afterthought. In this hands-on workshop, you'll attach AWS WAF natively to a Bedrock AgentCore Gateway with no ALB, no VPC Interface Endpoint, and no Lambda proxy required, enabling managed rule groups, rate-based rules, and IP-based access controls that protect every tool behind the Gateway with a single configuration. We will launch simulated attacks and watch AWS WAF block them in real time. Finally, you'll leverage an agent that pulls signals from AWS WAF, helps you remediate threats, and generates a plain-English incident summary.",
     "times": [
       {
         "id": "1790360384884001AF3R",
@@ -62816,8 +62952,8 @@
     "times": [
       {
         "id": "1790025527207001C5Us",
-        "date": "2026-11-29",
-        "day": "Sunday",
+        "date": "2026-11-30",
+        "day": "Monday",
         "startTime": "08:30",
         "endTime": "09:30",
         "startTimeFormatted": "08:30 AM",
@@ -66645,7 +66781,7 @@
   {
     "id": "1780442227899001cBAI",
     "code": "PEX317",
-    "title": "Grow Adoption Where Customers Work with AWS Bedrock and Quick",
+    "title": "The Last Mile of Agentic AI: Get Agents Adopted with Bedrock & Quick",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -66653,7 +66789,6 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "Automation",
       "Generative AI",
       "Partner Enablement"
     ],
@@ -67082,7 +67217,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Every organisation's modernization journey is unique — we whiteboard how to build, deploy, and share custom transformation agents using the AWS Transform Agent Builder Toolkit — from orchestrator architectures and MCP patterns to one-command Bedrock AgentCore deployment. Bring your challenges.",
+    "abstract": "Partners spent years building their modernization tooling. AWS Transform now meets them where they are, ATX agents exposed via MCP, callable from any partner-native orchestrator. We'll cover the integration pattern, agent-card model, and field-tested wins from GSI and ISV partners already in production.",
     "times": [
       {
         "id": "1790360364156001A50W",
@@ -69030,7 +69165,7 @@
   {
     "id": "1780442222070001cCsu",
     "code": "SEC307",
-    "title": "How SCHUFA strengthened security operations with AWS Security Hub",
+    "title": "How Infor strengthened security operations with AWS Security Hub",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -69045,7 +69180,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Across complex cloud environments, security teams must sift through a growing volume of signals to prioritize the risks that matter most. AWS Security Hub correlates these signals across AWS and multicloud environments to surface critical attack paths and help you respond at scale. Hear firsthand from SCHUFA, Germany's main credit scoring agency, on how they adopted Security Hub to streamline security operations under strict regulatory requirements. We'll also dive into the latest capabilities, including multicloud visibility, enhanced risk correlation, AI-powered detections, and visibility into AI workloads.",
+    "abstract": "Across complex cloud environments, security teams must sift through a growing volume of signals to prioritize the risks that matter most. AWS Security Hub correlates these signals across AWS and multicloud environments to surface critical attack paths, provide relevant context, prioritize risk, and help you respond at scale. Hear firsthand from Infor, on how they adopted Security Hub to improve their visibility and security operations across regularly changing environments operating at large scale. We'll also dive into the latest capabilities of Security Hub, including multicloud visibility, enhanced risk correlation and impact analysis, and visibility into AI workloads deployed throughout your organization.",
     "times": [
       {
         "id": "1790025473306001Ca9Z",
@@ -69361,7 +69496,7 @@
   {
     "id": "1790358243580001i5PH",
     "code": "SEC315-R1",
-    "title": "Advanced AWS network security: defending against emerging threats",
+    "title": "Hands-on Network Defense with AWS Network Firewall and Route 53 DNS Firewall",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -70541,7 +70676,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.In a live demo, we deploy malware built from APT41 tradecraft onto a Kubernetes cluster and watch an AI agent autonomously investigate the forensic evidence — acquiring volatile memory, identifying injected code, and tracing the attack chain without human intervention.",
+    "abstract": "Forensics is one of the hardest, most manual parts of incident response, and it usually requires a specialist. In this code talk, we work through a realistic Kubernetes cluster compromise where an Amazon GuardDuty finding kicks off the forensics investigation. We watch as an AI agent identifies injected code, and reconstructs the attack chain. Then we tackle the real problem. Forensic evidence needs determinism and a defensible chain of custody, and generative AI is not deterministic. We show the techniques that close that gap, so an AI-driven investigation produces evidence you can defend.",
     "times": [
       {
         "id": "1790876225375001dvAd",
@@ -77432,7 +77567,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "When ransomware compromises your account, your backups are the last line of defense. The question is whether they're isolated, verified, and accessible when you need them most. In this workshop, you'll build ransomware recovery capabilities using AWS Backup logically air-gapped vaults, restore testing, and Backup Audit Manager. Working through a simulated account compromise scenario, you'll implement protection across three pillars: immutability with isolation, integrity validation, and predictable availability. Configure vault isolation policies, validate backup integrity, orchestrate recovery when primary credentials are compromised, and walk away with a tested recovery playbook. Participants must bring a laptop for this session.",
+    "abstract": "When ransomware compromises your account, your backups are the last line of defense. The question is whether they're isolated, verified, and accessible when you need them most. In this workshop, you'll work through a simulated account compromise using AWS Backup logically air-gapped vaults. You'll configure vault isolation policies to put backups out of reach, validate their integrity through restore testing, and orchestrate recovery when primary credentials are compromised. Backup Audit Manager ties it together with compliance monitoring to prove your posture holds. You'll finish with a tested recovery playbook built against a live compromise scenario. Participants must bring a laptop.",
     "times": [
       {
         "id": "1790360384431001A7EF",
@@ -77824,7 +77959,7 @@
   {
     "id": "1790358246469001ia8x",
     "code": "STG418-R1",
-    "title": "AWS Transfer Family: From SFTP to Agentic AI Workflows",
+    "title": "AWS Transfer Family: SFTP meets agentic AI workflows",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -77842,7 +77977,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Learn how to build enterprise-grade file transfer solutions using AWS Transfer Family and extend them into agentic AI workflows. In this chalk talk, we'll walk through building secure SFTP servers, integrating with enterprise identity providers like Okta and Azure AD, and automating file processing using Terraform. We'll explore how event-driven architectures handle malware scanning with GuardDuty, and how AI agents via Amazon Bedrock AgentCore take over downstream tasks like data extraction and fraud detection. Bring your questions. You'll walk away with practical patterns for evolving traditional managed file transfer into intelligent, agentic processing pipelines.",
+    "abstract": "Learn how to build enterprise-grade file transfer solutions using AWS Transfer Family and extend them into agentic AI workflows. In this chalk talk, we'll walk through building secure SFTP servers, integrating with enterprise identity providers like Okta and Azure AD, and automating file processing using Terraform. We'll explore how event-driven architectures handle malware scanning with GuardDuty, and how AI agents via Amazon Bedrock AgentCore take over downstream tasks like data extraction and fraud detection. Bring your questions. We'll dig into how each layer connects so you can extend your own Transfer Family deployment the same way.",
     "times": [
       {
         "id": "1790360377264001A8ow",
@@ -80133,7 +80268,7 @@
   {
     "id": "1790358234889001iGyQ",
     "code": "SVS203-R1",
-    "title": "Building interactive web applications on AWS Serverless",
+    "title": "Building interactive web applications on AWS Lambda Web Functions",
     "type": "Builders' session",
     "level": "200 – Intermediate",
     "topics": [
@@ -80151,7 +80286,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Web applications need fast responses, server-side rendering, and real-time updates, but managing origin servers, CDN configurations, and scaling infrastructure pulls you away from building features. In this builders' session, deploy a full-stack web application entirely on AWS Serverless. Working in small groups with AWS experts, you'll configure routing and static asset delivery, implement server-side rendering with consistent low latency, and add real-time interactivity. Walk away with a working application and deployment patterns for production web workloads. Bring your laptop.",
+    "abstract": "You want to build web applications on Lambda without changing how you write code. Lambda Web Functions make that direct. In this builders' session, deploy a full-stack web application with AWS Lambda Web Functions. Working in small groups with AWS experts, run an HTTP server on Lambda, serve static assets alongside application routes, render a DynamoDB-backed product catalogue, and stream live activity with Server-Sent Events. Walk away with a working app and deployment patterns for interactive web workloads. Bring your laptop.",
     "times": [
       {
         "id": "1790360385715001AH0o",
@@ -81116,7 +81251,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Runtime deprecations pile up. API migrations stall. Legacy code sits untouched because manual upgrades across hundreds of functions take weeks your team doesn't have. In this builders' session, use AWS Transform Custom to assess, plan, and execute Lambda runtime upgrades and API migrations at scale. Working hands-on, you'll run the full agentic loop: codebase assessment, transformation planning, incremental code changes committed to Git, and self-validating test execution. You'll scale transformations across hundreds of functions in parallel using AWS Batch and Fargate. Walk away with patterns for automated, large-scale modernization. Bring your laptop.",
+    "abstract": "Runtime deprecations pile up. Legacy code sits untouched because manual upgrades across hundreds of functions take weeks your team doesn't have. In this builders' session, use AWS Transform Custom to assess, plan, and execute Lambda runtime upgrades at scale. Working hands-on, you'll run the full agentic loop: codebase assessment, transformation planning, incremental code changes committed to Git, and self-validating test execution. You'll scale transformations across hundreds of functions in parallel using AWS Batch and Fargate. Walk away with patterns for automated, large-scale modernization. Bring your laptop.",
     "times": [
       {
         "id": "1790025547668001CG6q",
@@ -84238,7 +84373,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In this session, you will be given time to attempt a microcredential exam of your choice on AWS Skill Builder. These timed, hands-on exams test your skills in a live, provisioned AWS environment and test on popular topics. The product and developer team will be onsite to walk you through the UI and introduce the exam. Please note - this is an individual exam, and you will not be provided any hints or guidance outside of what is provided in the typical test environment. This exam is free to take on AWS Skill Builder. Attendees are required to bring their own device to complete the exam. Those who pass will be issued a microcredential badge on Credly.",
+    "abstract": "In this session, you will be given time to attempt a microcredential exam of your choice on AWS Skill Builder. These timed, hands-on exams test your skills in a live, provisioned AWS environment and test on popular topics. \n\nThe product and developer team will be onsite to walk you through the UI and introduce the exam. Please note - this is an individual exam, and you will not be provided any hints or guidance outside of what is provided in the typical test environment. This exam is free to take on AWS Skill Builder. \n\nAttendees are required to bring their own device to complete the exam. Those who pass will be issued a microcredential badge on Credly.",
     "times": [
       {
         "id": "1790892831342001rnTW",
@@ -84270,7 +84405,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In this session, you will be given time to attempt a microcredential exam of your choice on AWS Skill Builder. These timed, hands-on exams test your skills in a live, provisioned AWS environment and test on popular topics. The product and developer team will be onsite to walk you through the UI and introduce the exam. Please note - this is an individual exam, and you will not be provided any hints or guidance outside of what is provided in the typical test environment. This exam is free to take on AWS Skill Builder. Attendees are required to bring their own device to complete the exam. Those who pass will be issued a microcredential badge on Credly.",
+    "abstract": "In this session, you will be given time to attempt a microcredential exam of your choice on AWS Skill Builder. These timed, hands-on exams test your skills in a live, provisioned AWS environment and test on popular topics. \n\nThe product and developer team will be onsite to walk you through the UI and introduce the exam. Please note - this is an individual exam, and you will not be provided any hints or guidance outside of what is provided in the typical test environment. This exam is free to take on AWS Skill Builder. \n\nAttendees are required to bring their own device to complete the exam. Those who pass will be issued a microcredential badge on Credly.",
     "times": [
       {
         "id": "1791232313142001lVfK",
@@ -84302,7 +84437,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In this session, you will be given time to attempt a microcredential exam of your choice on AWS Skill Builder. These timed, hands-on exams test your skills in a live, provisioned AWS environment and test on popular topics. The product and developer team will be onsite to walk you through the UI and introduce the exam. Please note - this is an individual exam, and you will not be provided any hints or guidance outside of what is provided in the typical test environment. This exam is free to take on AWS Skill Builder. Attendees are required to bring their own device to complete the exam. Those who pass will be issued a microcredential badge on Credly.",
+    "abstract": "In this session, you will be given time to attempt a microcredential exam of your choice on AWS Skill Builder. These timed, hands-on exams test your skills in a live, provisioned AWS environment and test on popular topics. \n\nThe product and developer team will be onsite to walk you through the UI and introduce the exam. Please note - this is an individual exam, and you will not be provided any hints or guidance outside of what is provided in the typical test environment. This exam is free to take on AWS Skill Builder. \n\nAttendees are required to bring their own device to complete the exam. Those who pass will be issued a microcredential badge on Credly.",
     "times": [
       {
         "id": "1790893242938001dFvu",
@@ -84616,9 +84751,11 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
+      "Artificial Intelligence",
       "Business Agents"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -85300,9 +85437,12 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
-      "Business Agents"
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -85443,9 +85583,13 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
-      "Business Agents"
+      "Artificial Intelligence",
+      "Business Agents",
+      "Networking & Content Delivery",
+      "Security & Identity"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -85455,7 +85599,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AI agents decide at runtime which endpoints to call, and that decision can bypass your security review. In this SimuLearn session, you deploy an agent on Amazon Bedrock AgentCore in VPC mode and route its outbound traffic through AWS Network Firewall. You configure a default-deny policy with an approved-domain allow list, then prove it works: an approved call succeeds while an unapproved call gets dropped. The firewall log becomes your audit evidence. ",
+    "abstract": "A customer runs a support agent on Amazon Bedrock AgentCore that reaches destinations nobody reviewed and takes requests from any caller. In this SimuLearn session, you work the case as their security expert. Behind Amazon API Gateway, AWS WAF Bot Control labels each script and AI crawler, and you write the rule that refuses them with a 403 that names the reason. On the way out, AWS Network Firewall tags every destination by content category. You watch in alert mode, then reject AI and search categories while permitted sites still load. You leave knowing how to classify, then control, what enters and leaves an agent.",
     "times": [
       {
         "id": "1790979927421001XEZk",
@@ -85723,9 +85867,12 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
-      "Business Agents"
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -85780,33 +85927,6 @@
     ]
   },
   {
-    "id": "1793254906409001O5vF",
-    "code": "rec4e46eINvocCYth",
-    "title": "re:Invent SWAG",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
-    "times": [
-      {
-        "id": "1793314821871001RPU1",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "10:00",
-        "endTime": "20:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "08:00 PM",
-        "duration": 600,
-        "room": "Venetian | Level 2 | Hall C | SWAG",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
     "id": "1793080305350001hme2",
     "code": "rec5HhOs4FQwIxUGu",
     "title": "AWS BuilderCards: Learn about AWS security while you play!",
@@ -85830,87 +85950,6 @@
         "duration": 480,
         "room": "Caesars Forum | Level 1 | West Alcove | South",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1793080517831001iJWn",
-    "code": "recQYmqcMJtFF5pke",
-    "title": "AWS BuilderCards: Learn about AWS security while you play!",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
-    "times": [
-      {
-        "id": "1793313032372001XANN",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "08:30",
-        "endTime": "16:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "04:30 PM",
-        "duration": 480,
-        "room": "Caesars Forum | Level 1 | West Alcove | South",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1793256779608001Y4T0",
-    "code": "rececGs8g9Whcckwz",
-    "title": "re:Invent SWAG",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
-    "times": [
-      {
-        "id": "1793315080836001J0wE",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "06:30",
-        "endTime": "18:30",
-        "startTimeFormatted": "06:30 AM",
-        "endTimeFormatted": "06:30 PM",
-        "duration": 720,
-        "room": "Venetian | Level 2 | Hall C | SWAG",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1793256814383001LCtY",
-    "code": "recuwjYcKK6DFnayr",
-    "title": "re:Invent SWAG",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
-    "times": [
-      {
-        "id": "1793315148253001tdMs",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "07:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "07:00 AM",
-        "endTimeFormatted": "05:00 PM",
-        "duration": 600,
-        "room": "Venetian | Level 2 | Hall C | SWAG",
-        "venue": "Venetian"
       }
     ]
   }
