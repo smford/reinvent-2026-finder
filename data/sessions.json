@@ -3658,7 +3658,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Data sovereignty, data gravity, and latency requirements prevent many organizations from running all AI workloads in the public cloud. AWS AI Factories bring AWS and NVIDIA AI infrastructure directly into your data center, fully operated, maintained, and continuously updated by AWS. Run leading foundation models on premises for training and inference without building and managing AI infrastructure yourself or negotiating separate agreements with model providers. In this session, learn how organizations are accelerating AI adoption, reducing time to value, and maintaining full control of their data while benefiting from the AWS experience in their own facilities.",
+    "abstract": "Data sovereignty, data gravity, and latency requirements prevent many organizations from running all AI workloads in the public cloud. AWS AI Factories with Amazon Bedrock bring Frontier intelligence including Claude on-premises for the first time to customers highest classifications of data, with dedicated AWS Trainium and NVIDIA GPUs fully operated, maintained, and continuously updated by AWS. In this session, hear from Anthropic on how organizations will be able to accelerate AI adoption, reduce time to value, and maintain full control and isolation of their data with the AWS experience in their own facilities.",
     "times": [
       {
         "id": "1790034532967001psIb",
@@ -12915,7 +12915,7 @@
   {
     "id": "1780442234858001cKYd",
     "code": "AIM441",
-    "title": "First principles at LLM scale: Architecting Forge",
+    "title": "Set the Bar, Then Beat It: Architecting Tailored AI with Forge",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -12925,7 +12925,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "When we set out to build Forge, Amazon's foundation model customization platform, we assumed the hardest problems would be ML problems. They weren't. They were classical problems Amazon's been solving for years, at a new scale. Same Well-Architected principles, evolved techniques. We will deep-dive into three workloads from the team behind Forge. First, serverless training of large language models on AWS. Second, enterprise-grade inference serving. Third, observability and evaluation tools optimizing toward smaller, performant models. Leave with lessons for your own AI platform.",
+    "abstract": "When we set out to build Forge, Amazon's foundation model customization platform, we learned that the fastest path to the tailored AI solution is a disciplined loop with one measurable bar that governs every decision. The team behind Forge will whiteboard it end to end: (1) set the bar by defining and measuring \"good\" as explicit accuracy, latency, and cost thresholds, then build a candidate leaderboard against it; (2) improve toward that same bar by optimizing prompts, context, and inference serving; and (3) when optimization still falls short of the bar, choose a customization approach that modifies model weights at the pre- or post-training stage. Leave with lessons to design the optimal AI solution tailored to your use case.",
     "times": [
       {
         "id": "1790025514045001CAlu",
@@ -47451,7 +47451,7 @@
   {
     "id": "1780442272017001c7O4",
     "code": "IND212-S",
-    "title": "Proof of What You Know: Building Trust in an AI Skills Economy (sponsored by Pearson)",
+    "title": "Building Trust in AI Agents through Skills-Based Verification",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -47471,7 +47471,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "As AI reshapes hiring and learning, proving what you know is becoming just as important as proving who you are. Pearson's digital wallet vision connects verified credentials, skills, and identity into a trusted, portable record that learners can use across certification, education, and employment journeys, helping employers and institutions move beyond self-reported claims to verified evidence of capability. This presentation is brought to you by Pearson, an AWS Partner.",
+    "abstract": "As AI agents become part of the enterprise workforce, organizations face a critical question: How can they trust that these digital teammates are capable, reliable, and ready to work? Pearson and IBM are exploring how enterprise AI expertise, skills assessment, and verification can help organizations address this challenge. This session will offer a preview of their collaborative approach to that joint agent verification solution, examining how skills-based evaluation could help organizations build confidence in AI agents as they scale adoption and integrate human and digital talent across the workforce.",
     "times": [
       {
         "id": "1790033122309001q58Z",
@@ -57857,7 +57857,7 @@
   {
     "id": "1780441489064001G8MJ",
     "code": "MAM227-S",
-    "title": "Sovereign Transformations: From Legacy to an AI-Ready Estate You Own (sponsored by Concierto by Trianz)",
+    "title": "Sovereign Transformations: From Legacy to an AI-Ready Estate You Own",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -57876,7 +57876,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Enterprises are caught in a catch-22. Legacy estates must modernize to become AI-ready, yet the fastest path to AI runs through shared inference services where your transformation intelligence leaks to competitors. Modernize to build advantage & hand it away. Concierto's Sovereign Transformations breaks the bind. \nRavi Kumar R, CTO, Trianz, presents a sovereign, unified platform that migrates, modernizes, manages, & prepares enterprises for agentic AI entirely within customer boundaries. Dual-engine architecture combines deterministic rules with private AI inference under oversight, all in your VPC. Intelligence compounds as a proprietary asset, sharpening transformations. Built on 100+ enterprises in 19 countries, Concierto delivers versatility at scale. Sovereign Transformations is an architectural choice about protecting and growing your intelligence solely for your company's benefit. This presentation is brought to you by Concierto by Trianz, an AWS Partner.",
+    "abstract": "Enterprises are caught in a catch-22. Legacy estates must modernize to become AI-ready, yet the fastest path to AI runs through shared inference services where your transformation intelligence leaks to competitors. Modernize to build advantage & hand it away. Concierto's Sovereign Transformations breaks the bind. \nThe speakers present a sovereign, unified platform that migrates, modernizes, manages, & prepares enterprises for agentic AI entirely within customer boundaries. Dual-engine architecture combines deterministic rules with private AI inference under oversight, all in your VPC. Intelligence compounds as a proprietary asset, sharpening transformations. Built on 100+ enterprises in 19 countries, Concierto delivers versatility at scale. Sovereign Transformations is an architectural choice about protecting and growing your intelligence solely for your company's benefit.",
     "times": [
       {
         "id": "1791998631433001Hcj1",
@@ -79422,7 +79422,7 @@
   {
     "id": "1791492159823001U0GI",
     "code": "SUP406",
-    "title": "Voice AI on AWS silicon: Cartesia’s sub-250ms AWS Trainium stack",
+    "title": "Voice AI on AWS silicon: Cartesia’s AWS Trainium stack",
     "type": "Lightning talk",
     "level": "400 – Expert",
     "topics": [
@@ -79436,7 +79436,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Cartesia built a voice AI platform that runs sub-250ms end-to-end latency on AWS Trainium silicon. This session covers how Cartesia architected their stack to hit that latency bar, the tradeoffs of building on custom silicon, and what it takes to make voice AI feel truly real-time in production.",
+    "abstract": "Cartesia built a voice AI platform that runs end-to-end latency on AWS Trainium silicon. This session covers how Cartesia architected their stack to hit that latency bar, the tradeoffs of building on custom silicon, and what it takes to make voice AI feel truly real-time in production.",
     "times": [
       {
         "id": "1793643790666001T662",
