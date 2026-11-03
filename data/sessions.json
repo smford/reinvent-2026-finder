@@ -1082,7 +1082,7 @@
   {
     "id": "1789513465662001LTzl",
     "code": "ACT013-R1",
-    "title": "AWS Connect Lounge: Meet the Team",
+    "title": "AWS Connect Lounge: Meet the Team ",
     "type": "Featured experience",
     "level": "No Level",
     "topics": [],
@@ -1109,7 +1109,7 @@
   {
     "id": "1789513465800001LrwW",
     "code": "ACT013-R2",
-    "title": "AWS Connect Lounge: Meet the Team",
+    "title": "AWS Connect Lounge: Meet the Team ",
     "type": "Featured experience",
     "level": "No Level",
     "topics": [],
@@ -1225,7 +1225,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words.  Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
+    "abstract": "Step into one of our Wishing Booths and take a quiet moment to put your hopes into words. Share a wish for the year ahead, whether it's for your team, your career, or the technology you want to build, and add it to the collective list of wishes rising across the activation.",
     "times": [
       {
         "id": "1793378307420001IHrB",
@@ -1331,7 +1331,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Tableau (located in Wynn)",
+    "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
     "abstract": "Join us at Tableau in the Wynn for a networking reception!\n",
     "times": [
@@ -1345,7 +1345,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Tableau (located in Wynn)",
-        "venue": "Tableau (located in Wynn)"
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -2054,6 +2054,60 @@
     ]
   },
   {
+    "id": "1793080484863001IrG4",
+    "code": "ACT064-R1",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793312912226001lG9T",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "16:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "04:30 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793080554566001Hr1Z",
+    "code": "ACT064-R2",
+    "title": "AWS BuilderCards: Learn about AWS security while you play!",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
+    "times": [
+      {
+        "id": "1793312861556001X55Q",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 480,
+        "room": "Caesars Forum | Level 1 | West Alcove | South",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1793078795272001Kr7e",
     "code": "ACT065",
     "title": "Amazon’s World Famous Chicken Wing Eating Competition",
@@ -2104,6 +2158,60 @@
         "duration": 240,
         "room": "Allegiant Stadium",
         "venue": "Allegiant Stadium"
+      }
+    ]
+  },
+  {
+    "id": "1793256708562001NsZG",
+    "code": "ACT068-R1",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793314873334001u3m0",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "06:30",
+        "endTime": "20:00",
+        "startTimeFormatted": "06:30 AM",
+        "endTimeFormatted": "08:00 PM",
+        "duration": 810,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793256744087001MGNY",
+    "code": "ACT068-R2",
+    "title": "re:Invent SWAG",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
+    "times": [
+      {
+        "id": "1793314984786001ze0b",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "06:30",
+        "endTime": "18:30",
+        "startTimeFormatted": "06:30 AM",
+        "endTimeFormatted": "06:30 PM",
+        "duration": 720,
+        "room": "Venetian | Level 2 | Hall C | SWAG",
+        "venue": "Venetian"
       }
     ]
   },
@@ -2532,7 +2640,7 @@
   {
     "id": "1780442267034001cC3t",
     "code": "AIM112-S",
-    "title": "Give agents governed access to your APIs over MCP with a domain model (sponsored by Apollo GraphQL)",
+    "title": "Give agents governed access to your APIs over MCP with a domain model ",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -2553,7 +2661,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Enterprises have spent years building APIs for applications and developers. They now need to make those systems available to AI agents, and connecting them through MCP is only the beginning. How do agents discover how to use APIs accurately, retrieve only the fields they need without runaway token costs, and access only what they're authorized to see? This session demonstrates an architecture that answers all three questions. A domain model built with GraphQL describes what each API means and how the data connects. Each agent gets its own identity, policy is set on individual fields, and every call is logged. This presentation is brought to you by Apollo GraphQL, an AWS Partner.",
+    "abstract": "Enterprises have spent years building APIs for applications and developers. They now need to make those systems available to AI agents, and connecting them through MCP is only the beginning. How do agents discover how to use APIs accurately, retrieve only the fields they need without runaway token costs, and access only what they're authorized to see? This session demonstrates an architecture that answers all three questions. A domain model built on a graph describes what each API means and how the data connects. Each agent gets its own identity, policy is set on individual fields, and every call is logged. This presentation is brought to you by Apollo GraphQL, an AWS Partner.",
     "times": [
       {
         "id": "1790033119844001qxNp",
@@ -5589,7 +5697,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI moves fast until it hits production. Then agents that looked solid in a POC start making calls they shouldn't, hammering the vector database, or failing quietly under load, because the API layer underneath wasn't built for it. This session covers what a strong API foundation does for AI at scale: fine-grained authorization keeps context retrieval inside its data privacy boundaries, touching only what it's permitted to touch; rate limiting protects vector databases from resource exhaustion; edge caching cuts query latency without extra engineering; and circuit breaking plus canary deployments let teams ship changes without compromising security or compliance. You'll leave with architectural blueprints and real enterprise examples showing how the right API foundation turns governance from a blocker into what lets AI teams move faster. Presented by Kong an AWS Partner, alongside FanDuel. This presentation is brought to you by Kong, an AWS Partner.",
+    "abstract": "AI moves fastest when it moves along a governed path. Lanes, on-ramps, and speed limits are what let a highway run at full speed. Your agents are no different. Their path is the data path: every API call, model request, and event stream they touch. Kong shows how an AI control tower across API, AI, and event traffic governs all of it, and how it fits with your AWS infrastructure. FanDuel's Bryce Macher, VP of AI and Jonathan Kindberg, Sr Dir AI, then share how they built theirs in a regulated industry, from the AI platform and ops layer to use cases like chat enablement and automated casino games testing.\n",
     "times": [
       {
         "id": "1790025499101001CDyu",
@@ -9813,21 +9921,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "AI/ML teams want to move fast, experimenting with models, fine-tuning them on their data, and serving them in production. This session is for customers that want to learn how Amazon SageMaker AI lets you build, customize, deploy, and run inference, how it fits within the AWS AI Platform, and introduces new features we have recently launched. We will then dive into the end-to-end journey from idea to customized open-weight model, deployed, optimized, and monitored in production. See a demo of some new features such as model customization training loops and inference optimization. ",
     "times": [
       {
         "id": "1790025529689001CPAD",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Purple Theater",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -9980,7 +10088,7 @@
   {
     "id": "1790358215351001iDQk",
     "code": "AIM346-R1",
-    "title": "Deploy, scale, and tune AI model serving with self-managed agents",
+    "title": "Deploy, tune, and scale AI workloads on AWS with self-managed agents",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -9998,21 +10106,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Setting up AI infrastructure, tuning model performance, and benchmarking throughput could mean navigating brittle tooling, context rot in long sessions, irrelevant retrieval, missing guardrails for irreversible actions, bursty GPU and CPU demands, and observability gaps. In this chalk talk, explore how to set up, manage, and scale self-managed autonomous agents on AWS to address these challenges with built-in memory, safety boundaries, and audit trails. We will walk through how to quickly deploy a reference architecture on Amazon EKS, tune a 550B-parameter model for inference using disaggregated serving with NVIDIA Dynamo and vLLM, and scale with Elastic Fabric Adapter for cross-node KV cache transfer.",
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Setting up AI infrastructure, deploying AI workloads, evaluating and tuning performance, and scaling up are tasks that require deep domain knowledge and substantial time investment. In this chalk talk, learn how to simplify these tasks by using self-managed agents on AWS. Explore an agentic architecture capable of autonomous operation, knowledge management, and self-improvement. Review a reference implementation and watch a demo of agent-driven AI workload deployment and performance benchmarking. Then discuss how to build and run your own self-managed agentic harness on AWS.",
     "times": [
       {
         "id": "1790360392763001Aj2o",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "14:30",
-        "endTime": "15:30",
-        "startTimeFormatted": "02:30 PM",
-        "endTimeFormatted": "03:30 PM",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Convention Promenade | Montrachet 1",
-        "venue": "Wynn/Encore"
+        "room": "MGM Grand | Level 1 | Boulevard 167",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -11091,7 +11199,7 @@
   {
     "id": "1780441482700001GnHK",
     "code": "AIM381-S",
-    "title": "Build Production Grade Agents with OpenAI and Amazon Bedrock (sponsored by OpenAI)",
+    "title": "Inside the frontier: What builders are creating at OpenAI ",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -11111,7 +11219,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Learn how to ship agents for your applications with Amazon Bedrock Managed Agents, powered by OpenAI, and accelerate development with Codex agents. Explore architecture patterns for reliable, governable workflows across enterprise systems, covering tool use, evaluations, observability, identity, and permissions. See how to keep agent behavior measurable, access secure, and actions aligned with organizational policies. This presentation is brought to you by OpenAI, an AWS Partner.",
+    "abstract": "How are builders at OpenAI turning big bets into systems and new products used across the company? Through demos and firsthand stories, go behind the scenes of ambitious projects with the people who built them. Discover the problems they’re tackling, the frontier capabilities that made their ideas possible, and what they’ve learned putting them into practice. Leave with practical lessons for bringing your own ideas to life with OpenAI.",
     "times": [
       {
         "id": "1790025505271001CW0f",
@@ -11204,7 +11312,7 @@
   {
     "id": "1780441485793001GCv2",
     "code": "AIM384-S",
-    "title": "Build Your Defense Factory for Continuous Defense with OpenAI (sponsored by OpenAI)",
+    "title": "Inside OpenAI’s Cyber Defense Factory (sponsored by OpenAI)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -11224,7 +11332,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Put agents to work discovering vulnerabilities and driving fixes autonomously with OpenAI and AWS. Learn how to implement continuous defense with OpenAI tooling, Daybreak cyber models, and AWS infrastructure including Amazon Bedrock, drawing on lessons from OpenAI's internal Defense Factory. Explore routing findings to the right owners, reducing duplicate findings, and using development environments to validate vulnerabilities and test fixes. As broadly available cyber models help threat actors find decade-old vulnerabilities, this session focuses on how defenders can put continuous defense into practice. This presentation is brought to you by OpenAI, an AWS Partner.",
+    "abstract": "Drawing on lessons from OpenAI's internal Defense Factory, see how you can put agents to work discovering vulnerabilities and driving fixes autonomously. Learn how to implement continuous defense with OpenAI tooling, Daybreak cyber models, and AWS infrastructure including Amazon Bedrock, drawing on lessons from OpenAI's internal Defense Factory. Explore routing findings to the right owners, reducing duplicate findings, and using development environments to validate vulnerabilities and test fixes. As broadly available cyber models help threat actors find decade-old vulnerabilities, this session focuses on how defenders can put continuous defense into practice.",
     "times": [
       {
         "id": "1790034534484001pVXn",
@@ -12117,7 +12225,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn how to cut the cost of your AI workloads without sacrificing quality. In this builders session, you work through a curated set of representative prompts and apply three high-impact levers: prompt caching, Intelligent Prompt Routing, and model right-sizing. You measure token cost before and after each change, so you see exactly which levers move the needle and which do not. You're welcome to bring a prompt from your own workload to test alongside the guided examples. Leave with a repeatable cost optimization playbook and the evidence to support each decision.",
+    "abstract": "Learn how to cut the cost of your AI workloads without sacrificing quality. In this builders session, you work through a curated set of representative prompts and apply three high-impact levers: prompt caching, Intelligent Prompt Routing, and right-sizing model choice. You measure token cost before and after each change, so you see exactly which levers move the needle and which do not. You're welcome to bring a prompt from your own workload to test alongside the guided examples. Leave with a repeatable cost optimization playbook and the evidence to support each decision.",
     "times": [
       {
         "id": "1790360390537001AIHf",
@@ -13018,21 +13126,21 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "An agent is only as good as what fills its context window. System prompts, skills, tool definitions, conversation history, retrieved documents, long-term memory, they all compete for limited space. Get the mix wrong and you waste tokens, degrade reasoning, or lose critical instructions mid-conversation. This chalk talk breaks down every layer of context that shapes agent behavior on Amazon Bedrock AgentCore. We cover how to structure system prompts, define skills effectively, manage tool context through gateway, retain the right conversation history, and use Memory strategies to persist what matters across sessions. Bring your agents, we optimize them live.",
     "times": [
       {
         "id": "1790025517780001CYkX",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 1 | Boulevard 167",
-        "venue": "MGM Grand"
+        "room": "Wynn/Encore | Convention Promenade | Montrachet 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -16119,7 +16227,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Organizations are  accelerating innovation with generative and agentic AI—and getting there  depends on a handful of real-time data primitives: durable, high-throughput  ingestion; stream processing and enrichment; low-latency, event-driven  delivery; and a scalable place to land and serve data. In this session, learn  how these primitives come together to power the real-time patterns behind  agentic AI—and where each one fits: streaming into a real-time semantic layer  for fresh retrieval context, event-driven agent invocation so agents act the  instant something happens, and continuously sourcing agentic data stores with  live data. We'll show how to satisfy each primitive—spanning multi-Region  resilience, seamless migration off self-managed infrastructure, direct  landing into open table formats and object storage, and simplified networking",
+    "abstract": "Organizations are accelerating innovation with generative and agentic AI and getting there depends on a handful of real-time data primitives: durable, high-throughput ingestion; stream processing and enrichment; low-latency, event-driven delivery; and a scalable place to land and serve data. In this session, learn how these primitives come together to power the real-time patterns behind agentic AI and where each one fits: streaming into a real-time semantic layer for fresh retrieval context, event-driven agent invocation so agents act the instant something happens, and continuously sourcing agentic data stores with live data. Following a single transaction end to end, we'll show where each primitive breaks when the consumer is an agent, the design decisions you still own, and a reference architecture you can apply right away.",
     "times": [
       {
         "id": "1790025546245001CRZk",
@@ -16496,7 +16604,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "As AI adoption accelerates, organizations need insight into who consumes Amazon Bedrock and how spend maps to business outcomes. In this builders' session, get hands-on with the latest Bedrock cost management capabilities. Tag API calls for granular cost attribution and learn how to track costs as they happen in Billing and Cost Management. Then query new product metadata in CUR2 and visualize cost-per-million-token trends in CUDOS. Leave with a framework to align AI spend to business outcomes.",
+    "abstract": "Most teams run observability across fragmented tools: one for metrics, another for logs and traces, each with its own cost model and blind spots. In this session, you work hands-on to consolidate your observability stack on Amazon OpenSearch Service. You integrate Amazon Managed Prometheus for metrics, configure native OpenTelemetry ingestion for traces and logs, and see how a single pane of glass eliminates the context-switching that slows down investigations. Then you optimize for cost and scale: warm tiering, direct query for infrequently accessed data, and O-series instances for log-heavy workloads. Finally, you use AI-powered investigation to perform natural-language root-cause analysis across your unified telemetry and monitor your agents' behavior in production. You leave with a working observability setup that scales, costs less, and investigates faster.",
     "times": [
       {
         "id": "1790360399994001AVMm",
@@ -17754,7 +17862,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Not every workflow needs an agent, and applying agentic AI where it doesn’t fit adds nondeterminism, cost, and failure modes a deterministic design would have avoided. This chalk talk introduces a capability-first methodology for architects and engineering leaders evaluating agentic paths in their workflows, manual or software-driven. We’ll ideate on a scoring framework that assesses the inherent nature of the work to reveal where agentic approaches thrive. You’ll apply the PERCEIVE-REASON-ACT pattern for isolating AI reasoning from orchestration, and walk away with a repeatable rubric your teams can adopt immediately. ",
+    "abstract": "Not every workflow needs an agent, and forcing agentic AI where it doesn't fit adds nondeterminism, cost, and failure modes a deterministic design would have avoided. This chalk talk introduces a capability-first methodology for architects and engineering leaders evaluating agentic paths in their workflows, manual or software-driven. At its core is the scoring framework that scores the inherent nature of the work across key dimensions to reveal where agents genuinely fit. You'll walk away with a repeatable rubric your teams can adopt immediately to decide whether agency is required in your workflows.",
     "times": [
       {
         "id": "1790360366287001AJci",
@@ -17791,7 +17899,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Not every workflow needs an agent, and applying agentic AI where it doesn’t fit adds nondeterminism, cost, and failure modes a deterministic design would have avoided. This chalk talk introduces a capability-first methodology for architects and engineering leaders evaluating agentic paths in their workflows, manual or software-driven. We’ll ideate on a scoring framework that assesses the inherent nature of the work to reveal where agentic approaches thrive. You’ll apply the PERCEIVE-REASON-ACT pattern for isolating AI reasoning from orchestration, and walk away with a repeatable rubric your teams can adopt immediately. ",
+    "abstract": "Not every workflow needs an agent, and forcing agentic AI where it doesn't fit adds nondeterminism, cost, and failure modes a deterministic design would have avoided. This chalk talk introduces a capability-first methodology for architects and engineering leaders evaluating agentic paths in their workflows, manual or software-driven. At its core is the scoring framework that scores the inherent nature of the work across key dimensions to reveal where agents genuinely fit. You'll walk away with a repeatable rubric your teams can adopt immediately to decide whether agency is required in your workflows.",
     "times": [
       {
         "id": "1790360365812001AwvH",
@@ -20531,8 +20639,8 @@
     "times": [
       {
         "id": "1793380215436001Adg1",
-        "date": "2026-12-01",
-        "day": "Tuesday",
+        "date": "2026-11-30",
+        "day": "Monday",
         "startTime": "16:00",
         "endTime": "19:00",
         "startTimeFormatted": "04:00 PM",
@@ -20546,7 +20654,7 @@
   {
     "id": "1787852034416001jKVN",
     "code": "AWS013-R1",
-    "title": "Partner Advantage Zone in Expo",
+    "title": "Expo",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -20557,7 +20665,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AWS Partner Network, Marketplace, Specialized Solutions, New to AWS, and Partners LIVE — all here.",
+    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
     "times": [
       {
         "id": "1793085556196001IucJ",
@@ -20568,29 +20676,30 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
+        "room": "Venetian | Level 2 | Hall B",
         "venue": "Venetian"
       }
     ]
   },
   {
-    "id": "1787852034532001jG0R",
+    "id": "1793375296537001ZmXr",
     "code": "AWS013-R2",
-    "title": "Partner Advantage Zone in Expo",
+    "title": "Expo",
     "type": "Expo",
     "level": "No Level",
     "topics": [
       "Artificial Intelligence",
-      "Business Agents"
+      "Developer Tools",
+      "Industry Solutions"
     ],
     "areasOfInterest": [],
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AWS Partner Network, Marketplace, Specialized Solutions, New to AWS, and Partners LIVE — all here.",
+    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
     "times": [
       {
-        "id": "1793085559849001WQPD",
+        "id": "1793380428223001MCms",
         "date": "2026-12-02",
         "day": "Wednesday",
         "startTime": "10:00",
@@ -20598,15 +20707,15 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
         "duration": 480,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
+        "room": "Venetian | Level 2 | Hall B",
         "venue": "Venetian"
       }
     ]
   },
   {
-    "id": "1787852034634001j1XE",
+    "id": "1793375389147001GUtP",
     "code": "AWS013-R3",
-    "title": "Partner Advantage Zone in Expo",
+    "title": "Expo",
     "type": "Expo",
     "level": "No Level",
     "topics": [],
@@ -20614,10 +20723,10 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "AWS Partner Network, Marketplace, Specialized Solutions, New to AWS, and Partners LIVE — all here.",
+    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
     "times": [
       {
-        "id": "1793085564905001gt2g",
+        "id": "1793380370233001Z7X2",
         "date": "2026-12-03",
         "day": "Thursday",
         "startTime": "10:00",
@@ -20625,7 +20734,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "04:00 PM",
         "duration": 360,
-        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
+        "room": "Venetian | Level 2 | Hall B",
         "venue": "Venetian"
       }
     ]
@@ -20885,6 +20994,90 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "07:00 PM",
         "duration": 180,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1793375087994001Oe3P",
+    "code": "AWS113-R1",
+    "title": "Partner Advantage Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "AWS Partner Network, Marketplace, Specialized Solutions, New to AWS, and Partners LIVE — all here.",
+    "times": [
+      {
+        "id": "1793380300979001iOoy",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034532001jG0R",
+    "code": "AWS113-R2",
+    "title": "Partner Advantage Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "AWS Partner Network, Marketplace, Specialized Solutions, New to AWS, and Partners LIVE — all here.",
+    "times": [
+      {
+        "id": "1793085559849001WQPD",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1787852034634001j1XE",
+    "code": "AWS113-R3",
+    "title": "Partner Advantage Zone in Expo",
+    "type": "Expo",
+    "level": "No Level",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "AWS Partner Network, Marketplace, Specialized Solutions, New to AWS, and Partners LIVE — all here.",
+    "times": [
+      {
+        "id": "1793085564905001gt2g",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 360,
         "room": "Venetian | Level 2 | Hall B | Expo | Booth 1686",
         "venue": "Venetian"
       }
@@ -21957,6 +22150,45 @@
     ]
   },
   {
+    "id": "1780441486679001Gssl",
+    "code": "BIZ211-S",
+    "title": "You cannot write the eval for a failure you have not seen yet (sponsored by Arize AI)",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability",
+      "SaaS"
+    ],
+    "roles": [
+      "Business Executive",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "LLM-as-a-judge works beautifully when you already know what you're looking for. You write the rubric, validate it against human labels, and it catches the failure you designed it to catch. But agents in production don't fail the way you anticipated. They fail as they meet new tools, new users, and environments that shifted underneath them, and every new failure arrives after the rubric was written. This talk argues the evaluation layer itself must become agentic. Instead of specifying a metric, you describe the behavior you want, and a judge with tool access inspects the trace, finds the spans that matter, classifies what went wrong, and generates labels you can monitor against. We'll cover why this became viable only recently, where it fails, and how to keep an agentic judge honest against human labels, so you know when to reach for one and how to validate it. This presentation is brought to you by Arize AI, an AWS Partner.",
+    "times": [
+      {
+        "id": "1792778748065001LpWc",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442266865001cvNl",
     "code": "BIZ212-S",
     "title": "Engineering AI Agents You Can Trust in Production (sponsored by Workato)",
@@ -22195,6 +22427,41 @@
         "duration": 60,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Purple Theater",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1780442269942001cgBn",
+    "code": "BIZ221-S",
+    "title": "Your Business Is Multiplayer. Your AI Should Be Too.",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Your company runs on a network of teams, partners and stakeholders. Yet most AI works with one person at a time and forgets everything between sessions, so the work and the context stay trapped in private chats. This session introduces a different model: multiplayer AI built on shared context. When teams and their AI draw on one governed, continuously updated source of organizational knowledge, work moves across people without starting over, answers stay consistent, and each person's permissions are respected. Come see what it takes to make your AI as multiplayer as your business already is.",
+    "times": [
+      {
+        "id": "1793628689547001PAz1",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:20",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -23914,43 +24181,6 @@
     ]
   },
   {
-    "id": "1780442241765001ciwG",
-    "code": "CMP252",
-    "title": "Running larger, higher-fidelity quantum experiments on Amazon Braket",
-    "type": "Chalk talk",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Compute"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Cost Optimization",
-      "Management & Governance"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Amazon Braket offers access to the latest trapped-ion quantum hardware alongside advanced error mitigation techniques, unlocking the largest, highest-fidelity quantum workloads on the platform. In this chalk talk, we demonstrate how error mitigation combines noise-aware transpilation and error suppression to expand usable circuit volume, and how trapped-ion connectivity enables deeper, more complex circuits. We will whiteboard a real workload to estimate cost, runtime, and expected fidelity gains.",
-    "times": [
-      {
-        "id": "1790963621708001QIrw",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Academy 414",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
     "id": "1780442225615001chs0",
     "code": "CMP301-R",
     "title": "Unlock your AWS Graviton potential using Graviton Savings Dashboard and AI skills",
@@ -24497,7 +24727,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Discover how to leverage the latest high-performance Nitro SSDs in EC2 storage-optimized instances for data-intensive workloads. This technical session explores new capabilities for monitoring and managing NVMe instance storage, including enhanced performance metrics—latency, IOPS, and throughput—to optimize and troubleshoot your workloads. We also demonstrate the new AWS Local Instance Storage (LIS) CSI driver for simplified NVMe volume management in Amazon EKS. Learn best practices for storage performance monitoring and integrating the LIS CSI driver in containerized applications.",
+    "abstract": "Discover how to leverage the latest high-performance Nitro SSDs in EC2 storage-optimized instances for data-intensive workloads. This technical session explores new capabilities for monitoring and managing NVMe instance storage, including enhanced performance metrics like latency, IOPS, and throughput to optimize and troubleshoot your workloads. We will also dive into the new AWS Local Instance Storage (LIS) CSI driver for simplified NVMe volume management in Amazon EKS. Learn best practices for storage performance monitoring and integrating the LIS CSI driver in containerized applications.",
     "times": [
       {
         "id": "1790025486297001C78t",
@@ -30032,7 +30262,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Raise the bar on your software supply chain security with AWS. In this chalk talk, we will discuss DevOps security best-practices, threat detection and incident response for containers, and how to leverage AWS security services including Amazon ECR, Amazon GuardDuty, and Amazon Inspector to protect your Amazon EKS workloads. Discover how you can ensure CVE patching while optimizing storage to accelerate image delivery through seamless integration with open-source tools for publishing and deploying containerized workloads at scale. Learn how to efficently streamline your software supply chain while mitigating risks.",
+    "abstract": "Your software supply chain gets harder to manage as you grow. In this interactive chalk talk, we whiteboard the decisions teams face at each stage of that lifecycle: securing the supply chain against real threats, launching large images fast, operating at scale across accounts and Regions, and managing the lifecycle to cut cost and attack surface. We go deep on security with Amazon ECR, Amazon Inspector, and Amazon GuardDuty, including hardened base images, scanning, SBOMs, signing, admission control, and runtime threat detection on Amazon EKS and Amazon ECS. You leave with patterns you can apply across your container estate. Bring your questions and your own architecture.",
     "times": [
       {
         "id": "1790025484559001CjoQ",
@@ -30695,7 +30925,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI agents are easy to prototype but hard to run in production. They have unique compute requirements, isolation between tenants, networking that connects to tools and APIs, and infrastructure that scales with unpredictable workloads. In this builder's session, deploy an agentic AI application on Amazon ECS with AWS Fargate and take advantage of what containers give you, including hardware-level task isolation, unlimited runtime for long-running agent conversations, VPC networking for secure tool access, and Service Connect for multi-agent communication. Bring your laptop to build alongside an AWS expert.",
+    "abstract": "AI agents are easy to prototype but hard to run in production. They have unique compute requirements, isolation between tenants, networking that connects to tools and APIs, and infrastructure that scales with unpredictable workloads. In this builders session, deploy an agentic AI application on Amazon ECS with AWS Fargate and take advantage of what containers give you, including task isolation, unlimited runtime for long-running agent conversations, VPC networking for secure tool access, and Service Connect for multi-agent communication. Bring your laptop to build alongside an AWS expert.",
     "times": [
       {
         "id": "1790360380936001ARjZ",
@@ -32007,7 +32237,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Running containers on Amazon EC2 often means paying for capacity you never use, from idle instances to fleets that drift out of shape as workloads change. This chalk talk shows how Amazon ECS Managed Instances tackles that waste through consolidation and infrastructure optimization, automatically right sizing instances to real demand and repacking workloads off underutilized capacity. Work through practical scenarios on the whiteboard to see how these decisions play out and how instance selection and capacity provider design shape your monthly bill. Bring the cost and utilization challenges from your own clusters, because this session is driven by group discussion.",
+    "abstract": "Running containers on Amazon EC2 often means paying for capacity you never use, from idle instances to fleets that drift out of shape as workloads change. This chalk talk shows how Amazon ECS Managed Instances tackles that waste through consolidation and infrastructure optimization, automatically right sizing instances to real demand and repacking workloads off underutilized capacity. See how the Amazon ECS scheduler can bin pack workloads efficiently and the latest consolidation features non disruptively increase cluster utilization to reduce costs. We'll work through practical scenarios on the whiteboard to see how these decisions play out and how instance selection and capacity provider design shape your monthly bill. Bring the cost and utilization challenges from your own clusters, because this session is driven by group discussion.\n",
     "times": [
       {
         "id": "1790963622695001QpSh",
@@ -43595,6 +43825,7 @@
     "level": "400 – Expert",
     "topics": [
       "Architecture",
+      "Artificial Intelligence",
       "Developer Tools"
     ],
     "areasOfInterest": [
@@ -47077,7 +47308,7 @@
   {
     "id": "1780441475490001GopZ",
     "code": "IND205",
-    "title": "Modernizing Care for the Underserved: Montefiore's Cloud Journey",
+    "title": "Modernizing Care for Medicaid and Medicare Patients: Montefiore's Cloud Journey",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -48421,7 +48652,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Telecom customers demand fast, accurate service, yet IVR systems frustrate them, and when calls reach a human agent, context from the automated interaction is lost. Based on real-world implementations, this chalk talk explores alternatives to IVR using AI powered agents. We will walk through architectural options for customer facing agents built on Amazon Connect, how to pass conversation context to human agents when they step in, and options for integrating with OSS/BSS services using MCP and prebuilt integrations in Amazon Connect. We will examine the trade-offs that come with each design choice, so bring your questions!",
+    "abstract": "IVR frustrates telecom customers, and the context from the automated interaction is gone when a human finally receives the call. Come to this chalk talk ready to work on what replaces it. After a short framing of the design space, the group takes on three questions. How should a customer-facing AI agent on Amazon Connect be built, and where do its boundaries sit? How does full conversation context survive the handoff? Should OSS and BSS integration use MCP, prebuilt Amazon Connect integrations, or both? Bring your toughest scenarios. In this working session, we will reason through the trade-offs live.",
     "times": [
       {
         "id": "1790360362971001AqZ4",
@@ -48735,7 +48966,7 @@
   {
     "id": "1780441476879001GkOz",
     "code": "IND3301",
-    "title": "Instant Fan Gratification: AI-Powered Media Ops for Austin City Limits",
+    "title": "Instant Fan Gratification: AI-Powered Media Ops for Austin City Limits Music Festival",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -48753,7 +48984,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Austin City Limits (ACL), an annual festival in Austin, Texas, is innovating the fan experience for live music. When an artist creates a viral moment, teams like ACL need it in fans' hands in minutes not days. In this session, learn how ACL built a platform that unifies fragmented media silos so teams can search, create, and publish in near-real time. Built using the guidance for a Media Lake on AWS, along with Amazon Bedrock, the platform uses AI-driven moment detection to surface key content automatically. We cover architecture, lessons from festival-scale deployment, and impact on fan experience.",
+    "abstract": "Austin City Limits Music Festival is innovating the fan experience for live music. When an artist creates a viral moment, festival teams have an opportunity to share it with fans while the excitement is still building. In this session, learn how Austin City Limits Music Festival built a platform that brings media assets together so teams can search, create, and publish in near-real time. Built using the guidance for a Media Lake on AWS, along with Amazon Bedrock, the platform uses AI-driven moment detection to surface key content automatically. We cover architecture, lessons from festival-scale deployment, and impact on fan experience.",
     "times": [
       {
         "id": "1790025490934001CHrh",
@@ -51328,7 +51559,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Simulate commanding autonomous drone fleets for search-and-rescue using Amazon Bedrock Agents, IoT Greengrass, and SageMaker. We demo a Human-Machine Teaming architecture where AI operates autonomously within trust boundaries, escalating to humans via configurable confidence thresholds.",
+    "abstract": "Participants build and command autonomous drone fleets to identify rogue devices using Amazon Bedrock AgentCore, Amazon Bedrock Knowledge Bases, AWS IoT Greengrass, and Strands Agents. This gamified scenario showcases a Human-Machine Teaming architecture in which AI operates autonomously within defined trust boundaries, with human-in-the-loop escalation at configurable confidence thresholds.",
     "times": [
       {
         "id": "1790360400265001Ai3n",
@@ -51385,7 +51616,7 @@
   {
     "id": "1790358245269001ipnL",
     "code": "IND353-R1",
-    "title": "Agents under oath: HIPAA-compliant agentic AI on AWS",
+    "title": "Agents under oath: Designing agentic AI to support HIPAA compliance on AWS",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -55533,20 +55764,23 @@
   {
     "id": "1780441494284001GZiL",
     "code": "INV517",
-    "title": "Prefill, decode, schedule: LLM inference without bubbles",
+    "title": "Inside the engine that powers Bedrock inference at scale",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
     "topics": [
       "Artificial Intelligence",
       "Serverless"
     ],
-    "areasOfInterest": [],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
     "roles": [
       "Academic / Researcher"
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Disaggregated inference separates prefill and decode onto distinct GPU pools, but creates new problems. Head-of-line blocking on prefill, stragglers on decode, and pipeline bubbles when phases switch. This session goes deep on how to solve them. We cover temporally-disaggregated pipeline parallelism to eliminate phase-switching bubbles, adaptive scheduling across heterogeneous instances, tensor vs. pipeline parallelism tradeoffs for latency and throughput, constrained decoding with context-sensitive grammars for structured output without sacrificing token throughput, and KV-cache parallelism for multi-million context serving.",
+    "abstract": "Serving large language models at scale means running two phases: processing the prompt (prefill) and generating tokens (decode). Prefill is compute-bound, while decode is limited by memory bandwidth, so running both on the same hardware can leave capacity idle. This session goes inside the engine that powers Amazon Bedrock inference. We examine how disaggregated inference runs each phase on its own pool of accelerators, and the challenges that follow: moving the KV cache between pools, keeping both pools busy as traffic shifts, and choosing parallelism strategies for unpredictable long-context workloads. Leave with a deeper understanding of the tradeoffs involved in optimizing inference latency, throughput, and cost at scale.",
     "times": [
       {
         "id": "1790025480305001C7la",
@@ -62486,7 +62720,7 @@
   {
     "id": "1790358239334001isYb",
     "code": "NET325-R1",
-    "title": "Resilient by design: Simplifying last-mile connectivity with AWS",
+    "title": "Resilient by design: Last Mile and Multicloud Interconnect",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -62503,7 +62737,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Establishing resilient private connectivity from data centers and branch offices to AWS has traditionally required weeks of partner coordination, physical cross-connects, and manual resilience configurations. Yet true resilience demands more than provisioning a second connection. In this chalk talk, we will whiteboard how AWS Direct Connect and AWS Interconnect each address location diversity, device diversity, BGP routing policy, and failover validation. Compare dedicated links with full routing control to fully managed connections with built-in redundancy, explore integration with AWS Transit Gateway and AWS Cloud WAN, and evaluate maximum versus high resiliency models. Bring your hybrid connectivity challenges.",
+    "abstract": "Connecting a data center, a branch office, or another cloud to AWS has meant weeks of partner coordination, cross-connects, BGP configuration, and redundancy you design. AWS Interconnect - last mile and AWS Interconnect - multicloud move that work into the AWS Console and API, with resilient design built in. We start with the AWS Direct Connect building blocks and whiteboard what changes. You stop ordering cross-connects, configuring BGP, and designing redundancy. You still choose where it connects: a virtual private gateway, AWS Transit Gateway, or AWS Cloud WAN. Bring your hybrid and multicloud challenges.",
     "times": [
       {
         "id": "1790360397228001A0tI",
@@ -62582,12 +62816,12 @@
     "times": [
       {
         "id": "1790025527207001C5Us",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "05:00 PM",
+        "date": "2026-11-29",
+        "day": "Sunday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
         "venue": "MGM Grand"
@@ -63479,12 +63713,12 @@
     "times": [
       {
         "id": "1790025473035001CMRV",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Red Theater",
         "venue": "MGM Grand"
@@ -69140,7 +69374,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "In this hands-on workshop, master AWS network security techniques using AWS Network Firewall and Route 53 Resolver DNS Firewall. Gain practical experience configuring URL category filtering to detect unauthorized AI service usage, and explore recent feature improvements for container workload protection and advanced DNS-layer defenses. Through real-world scenarios, you'll implement IDS/IPS filtering, east-west traffic controls, and domain-based policies using fully managed AWS services. Leave equipped to build resilient network defenses that address both traditional and emerging threats.",
+    "abstract": "In this workshop, you'll build a comprehensive network security architecture using AWS Network Firewall and Route 53 Resolver DNS Firewall. You'll configure egress and VPC-to-VPC traffic inspection, IDS/IPS filtering, and container-aware rules for dynamic workload protection. Explore DNS-layer defenses, including DNS tunneling detection, and gain visibility into AI service traffic through domain category filtering. Through real-world scenarios, you'll cover the most common use cases and leave knowing how these services work together to defend your network. This workshop is for security and network engineers who are comfortable with Amazon VPC networking and AWS Transit Gateway.",
     "times": [
       {
         "id": "1790360367665001AC6b",
@@ -70823,7 +71057,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI agents built on Amazon Bedrock AgentCore accept untrusted input and make outbound API calls, creating both ingress and egress attack surfaces. In this session, learn how to defend both paths using AWS WAF and AWS Network Firewall. See how WAF authenticates callers, enforces rate limits, and blocks prompt-injection payloads before they reach your agent, while Network Firewall applies managed threat-intelligence categories to drop egress traffic to malicious destinations without maintaining custom deny lists. Walk away with a deployable defense-in-depth boundary pattern for your agentic AI workloads.",
+    "abstract": "Teams deploying AI agents inherit two exposures. Any client reaching the endpoint can invoke the agent, and it can reach any destination its tools name. In this builders' session, learn to close both gaps with AWS managed controls. Put AWS WAF Bot Control in front of your Amazon Bedrock AgentCore Gateway to classify callers and admit only the classes you choose, then route the agent through AWS Network Firewall and use domain category filtering to decide which destination categories it may reach. Run each control in count or alert mode, then enforce it and verify the allowed and the refused path. Leave with a two-boundary pattern you can apply to your own agent deployments.",
     "times": [
       {
         "id": "1790872433780001dAst",
@@ -71690,7 +71924,7 @@
   {
     "id": "1780441489175001Gjf8",
     "code": "SEC378-S",
-    "title": "Inside the frontier: What builders are creating at OpenAI (sponsored by OpenAI)",
+    "title": "Your agent wants a bigger job: The next era of agents at work (sponsored by OpenAI)",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -71707,7 +71941,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "How are builders at OpenAI turning big bets into systems and new products used across the company? Through demos and firsthand stories, go behind the scenes of ambitious projects with the people who built them. Discover the problems they’re tackling, the frontier capabilities that made their ideas possible, and what they’ve learned putting them into practice. Leave with practical lessons for bringing your own ideas to life with OpenAI. This presentation is brought to you by OpenAI, an AWS Partner.",
+    "abstract": "What would you make AI responsible for if it could work across days, teams, and business systems? Drawing on lessons from inside OpenAI, explore how agents can expand the work your organization takes on. Learn how OpenAI’s frontier models, agent runtimes, and connectors bring intelligence and organizational context together, enabling agents to act as coworkers and collaborate across teams and functions. See how dots and Bedrock Managed Agents for OpenAI can take on bigger jobs. ",
     "times": [
       {
         "id": "1790034531017001pARJ",
@@ -77367,7 +77601,8 @@
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
-      "Security & Identity"
+      "Security & Identity",
+      "Storage"
     ],
     "areasOfInterest": [
       "Automation",
@@ -77514,7 +77749,7 @@
   {
     "id": "1790358248382001i9HT",
     "code": "STG417-R1",
-    "title": "Protecting hundreds of accounts from one place with AWS Backup",
+    "title": "The multi-account AWS Backup playbook: centralized data protection",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -77533,7 +77768,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Protecting a single workload is straightforward. But when every team owns their own accounts, organizations need a centralized approach to enforce consistent data protection across all of them. We'll dig into how to build backup architectures that scale across your entire AWS estate, covering Organizations backup policies to enforce protection standards across accounts, cross-account and cross-region copy strategies, and Backup Audit Manager for compliance monitoring and audit evidence. Whether you're onboarding new accounts or tightening controls on existing ones, we'll walk through patterns for centralized data protection you can prove.",
+    "abstract": "Deploying AWS Backup across hundreds of accounts brings challenges that a single-account setup never surfaces: centralized policy enforcement, cross-account and cross-Region copy, delegated administration, and consistent compliance evidence across the organization. This chalk talk walks through the patterns that hold up in large AWS Organizations - backup policies at the OU level, delegated administrator setup, cross-account vaults, and monitoring that scales. Bring your toughest multi-account backup questions; we'll whiteboard the architecture and trade-offs together.",
     "times": [
       {
         "id": "1790360374503001AzQE",
@@ -77859,6 +78094,73 @@
     ]
   },
   {
+    "id": "1791492157931001UyDn",
+    "code": "SUP103",
+    "title": "Winning enterprise customers with AWS Global Startup Program",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The AWS Global Startup Program helps startups win and expand enterprise accounts. This session covers how the program drives growth for startups moving into enterprise customers, the resources and support it provides, and how founders can tap into it to accelerate their own path to winning and expanding enterprise business.",
+    "times": [
+      {
+        "id": "1793659420107001Nxxm",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158123001UKPl",
+    "code": "SUP104",
+    "title": "Serving world models in under 40ms across 10,000 concurrent sessions",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Reactor serves world models in under 40ms of latency across 10,000 concurrent sessions. This session covers the infrastructure and architecture decisions that let Reactor hit that latency and scale bar, the tradeoffs involved in serving world models at that speed, and what it takes to run this class of model in production at scale.",
+    "times": [
+      {
+        "id": "1793659376221001EzeZ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:20",
+        "endTime": "10:20",
+        "startTimeFormatted": "09:20 AM",
+        "endTimeFormatted": "10:20 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1791492159080001U9Id",
     "code": "SUP105",
     "title": "Wonderful brings enterprise voice AI to 30+ countries",
@@ -77925,6 +78227,170 @@
     ]
   },
   {
+    "id": "1792018978486001LaNd",
+    "code": "SUP110",
+    "title": "Enterprise buying trends and the startup playbook for AWS Marketplace",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "An interactive session on how enterprises actually buy today, with a working walk-through of getting a startup's product discoverable and co-sell ready on AWS Marketplace. Selling into the enterprise is one of the biggest hurdles for the founders in the Zone, so programming that demystifies the buying process meets them with exactly what they need to grow. It connects the founder audience directly to a durable go-to-market path on AWS, turning a session into a tangible next step for revenue rather than just inspiration. Could be repeated during the week.",
+    "times": [
+      {
+        "id": "1793395036282001BrKK",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018978570001LxX4",
+    "code": "SUP111",
+    "title": "Founder's therapy",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Founders get real about building a company—the wins, the mistakes, the 3 a.m. moments when everything feels impossible. In this intimate session, you'll hear candid stories about what actually works and what doesn't, and have space to share your own struggles and ask the questions you're afraid to ask on a conference floor. Expect honest conversation with peers who've been where you are. No slides, no polish, just founders talking to founders.",
+    "times": [
+      {
+        "id": "1793395115638001xVLC",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "09:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979656001L5hr",
+    "code": "SUP113",
+    "title": "FDE for startups: What it is, why you need it, and how to run it",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The enterprise contract is signed. The next ninety days decide whether it renews, grows, or becomes a pilot nobody mentions again. Forward Deployed Engineering (FDE) is how a growing number of AI startups make those ninety days count: engineers who sit inside the customer, own production code, and answer for a business result rather than a ticket queue. This session starts with what FDE is and how it differs from solutions engineering, customer success and professional services. We follow one AI startup through a single enterprise deployment and into its second year. You’ll leave with a practical guide to scoping a deployment around a business outcome, getting through enterprise security and production, turning each deployment into reusable product, and knowing when to hire your first FDE.",
+    "times": [
+      {
+        "id": "1793395079537001YX23",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:20",
+        "endTime": "15:20",
+        "startTimeFormatted": "02:20 PM",
+        "endTimeFormatted": "03:20 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018978724001LvG9",
+    "code": "SUP114",
+    "title": "Building a brain in under an hour: The knowledge layer for physical AI agents",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Agents don't fail because the model is weak. They fail because they lack context. In this hands-on session, we will build a live demo: a Raspberry Pi robot dog powered by Amazon Bedrock. You'll see how to layer context from the ground up: live camera and voice input, memory, and safety guardrails that keep it from doing something dangerous. Walk away with a reference architecture for agent knowledge layers, patterns for connecting Bedrock to physical hardware, and a blueprint for prototyping embodied AI on low-cost hardware.",
+    "times": [
+      {
+        "id": "1793394987035001LCrb",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:40",
+        "endTime": "13:40",
+        "startTimeFormatted": "12:40 PM",
+        "endTimeFormatted": "01:40 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979266001Lno9",
+    "code": "SUP115",
+    "title": "Catch risky changes and triage incidents with AWS DevOps agent",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents",
+      "Cloud Operations",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Downtime can cost startups customers, yet early-stage teams rarely staff a dedicated operations engineer, even as they own both release safety and on-call. The AWS DevOps Agent, delivered through AWS Startup Advisor, runs inside the IDEs and coding agents engineers already use. It surfaces risky changes before they ship and helps triage production incidents by correlating signals, suggesting likely causes, and guiding remediation, all without a context switch. In this chalk talk, we trace one release and incident scenario end to end on the whiteboard, covering agent setup and cost model. Bring your on-call questions and we'll pressure-test it against your stack.",
+    "times": [
+      {
+        "id": "1793658956141001n0HG",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1791492157840001Uycj",
     "code": "SUP201",
     "title": "Training and simulation turn robot capabilities into useful products",
@@ -77986,6 +78452,39 @@
         "endTime": "11:00",
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158516001UBIt",
+    "code": "SUP204",
+    "title": "Building faster: AI-native development workflows (SDLC)",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Superblocks and Starfolk AI rebuild the software development lifecycle around AI-native workflows. This session covers how they build faster with AI woven into the development workflow itself, the patterns that make AI-native SDLC work in practice, and what founders can take from their approach to rethinking how software gets built.",
+    "times": [
+      {
+        "id": "1793658638625001WmPP",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "12:00 PM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
         "venue": "Caesars Forum"
@@ -78061,6 +78560,67 @@
     ]
   },
   {
+    "id": "1791492160699001Unn8",
+    "code": "SUP207",
+    "title": "Scaling AI agents: How Forlex turned failures into mechanisms",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Forlex uses production failures to set boundaries for 150+ AI agents operating in regulated workflows. Silent regressions, runaway tail latency, and privilege creep emerged as Forlex scaled its agent fleet. This session covers how Forlex turned each failure into a durable mechanism, covering the guardrails, monitoring, and operational practices that let them scale agents safely in production.",
+    "times": [
+      {
+        "id": "1793658563985001opAC",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:40",
+        "endTime": "12:00",
+        "startTimeFormatted": "11:40 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492160881001UoAR",
+    "code": "SUP209",
+    "title": "Can self-improving AI overcome reward hacking and hardware limits?",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Core Automation explores whether self-improving AI systems can overcome reward hacking and hardware constraints. This session covers the technical challenges of building AI that improves itself without gaming its own reward signals, the hardware limits that constrain self-improvement loops, and what it takes to build self-improving systems that actually hold up in practice.",
+    "times": [
+      {
+        "id": "1793658494423001olHt",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:20",
+        "endTime": "16:40",
+        "startTimeFormatted": "04:20 PM",
+        "endTimeFormatted": "04:40 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1791492161456001Upa5",
     "code": "SUP215",
     "title": "Building AI products at startup speed",
@@ -78086,6 +78646,270 @@
         "endTime": "08:20",
         "startTimeFormatted": "08:00 AM",
         "endTimeFormatted": "08:20 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018978877001LrRt",
+    "code": "SUP221",
+    "title": "Shipping your startup idea, not the plumbing, with AgentCore",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Startups burn precious time building infrastructure plumbing instead of shipping their actual idea. AgentCore handles the plumbing, agent identity, memory, gateway, and runtime, so you can focus on the product. In this session, we walk through standing up an agent on AgentCore end to end, covering what it handles for you and what you still own. You'll leave with a clear picture of how to go from idea to a running agent without building infrastructure from scratch.",
+    "times": [
+      {
+        "id": "1793394808623001IlUT",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:20",
+        "endTime": "17:20",
+        "startTimeFormatted": "04:20 PM",
+        "endTimeFormatted": "05:20 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979110001L3ir",
+    "code": "SUP222",
+    "title": "Beyond the coding assistant: Build a software factory for your startup",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Startups need to turn customer requests into reliable releases without overwhelming a small engineering team. This demo-driven session explores how software factories combine AI agents, repeatable workflows, independent verification, and human judgment to handle engineering work from request to delivery. We'll follow a bounded change through implementation, testing, review, and release, and show what happens when the generated solution fails a required check. Attendees will learn how to start with one useful workflow, measure its value, and expand delegation as evidence builds confidence.",
+    "times": [
+      {
+        "id": "1793658037291001oX6H",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:40",
+        "endTime": "15:40",
+        "startTimeFormatted": "02:40 PM",
+        "endTimeFormatted": "03:40 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979189001LEQm",
+    "code": "SUP223",
+    "title": "Reshape AI-driven software development for your startup with harness engineering",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Startups build software with AI coding agents, but new models ship every few weeks, and open-weight models rival frontier ones at a fraction of the cost. An agent is a combination of the model along with a harness: the context, tools, deterministic checks, and human decision points. In this session, we will walk you through how a lean team can build a thin configurable harness incrementally, enabling them to swap models underneath as needed and build context from continual learning loops. You'll leave knowing what to set up first, when to let agents run autonomously, and what decisions stay human.",
+    "times": [
+      {
+        "id": "1793657769670001ofKx",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979497001LXa7",
+    "code": "SUP225",
+    "title": "Zero to one: Crafting a GTM playbook for frontier AI startups",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "You built a model the world hasn't seen before. Now you need your first ten enterprise customers and the playbook that got the last generation of SaaS startups to market won't work for frontier AI. Pricing is different, buyer psychology is different, and the competitive window is measured in months, not years. In this chalk talk, we whiteboard what a go-to-market strategy actually looks like for frontier AI startups navigating the zero-to-one phase while still searching for product-market fit. We'll cover how to identify your beachhead customers, position against incumbents and leverage AWS distribution channels to accelerate enterprise traction.",
+    "times": [
+      {
+        "id": "1793657182345001M89k",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979573001LXXb",
+    "code": "SUP226",
+    "title": "Kiro as your founding engineer ",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The habits you establish in your first 90 days can shape your codebase for years. This session examines how to work with Kiro as your founding engineer, starting with the project context it needs to produce useful code. We cover how to structure development work so output stays consistent as your product grows, and which early mistakes make a codebase harder to maintain. Founders will learn how to give Kiro clear context and maintain consistent code quality as delivery accelerates. The focus is on decisions you can make early to keep the codebase maintainable as the pace of delivery increases.",
+    "times": [
+      {
+        "id": "1793657653496001GcLE",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018979343001LDuS",
+    "code": "SUP227",
+    "title": "Get from idea to app in seconds",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Application Integration",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI coding agents help startups ship faster. In this session, see how startup builders use Kiro, Q Developer, and other agents to turn an idea into a working app in seconds. We'll show prompt-to-app flows, common pitfalls, and how to go from prototype to something you can actually ship.",
+    "times": [
+      {
+        "id": "1793657023907001fVQe",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "14:20",
+        "startTimeFormatted": "01:20 PM",
+        "endTimeFormatted": "02:20 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158227001Uxdg",
+    "code": "SUP301",
+    "title": "Building AI agents you can trust: From models to supply chain",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Deploying AI agents across the enterprise requires trust at every step: the models powering them, the orchestration layer controlling them, and the ecosystem of tools they consume. OpenAI provides the foundation—state-of-the-art language models that can reason, plan, and act autonomously. Runlayer solves the orchestration challenge: giving every employee a safe, governed path to delegate work to agents, with policy enforcement, identity integration, and audit trails built in. AIR addresses an emerging concern—the AI supply chain—ensuring the skills, plugins, and MCP servers agents use are vetted and secure. From capable models to controlled deployment to verified tooling, this panel illustrates how organizations can scale agent adoption while maintaining security, auditability, and control.",
+    "times": [
+      {
+        "id": "1793650761658001IAqi",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158608001UyZ1",
+    "code": "SUP303",
+    "title": "How KOHO governs banking AI agents with Amazon Bedrock AgentCore",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "KOHO, a Canadian fintech, governs its banking AI agents using Amazon Bedrock AgentCore. This session covers the governance model KOHO built to keep AI agents compliant and auditable in a regulated banking environment, and what other Fintechs can learn from applying AgentCore to agent governance in regulated industries.",
+    "times": [
+      {
+        "id": "1793648927452001IG2w",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:20",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:20 PM",
         "duration": 20,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
         "venue": "Caesars Forum"
@@ -78162,6 +78986,302 @@
     ]
   },
   {
+    "id": "1791492159636001U7N8",
+    "code": "SUP307",
+    "title": "Training Agility’s Digit robot for manufacturing with Amazon SageMaker",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Agility Robotics' humanoid robot Digit is being trained for manufacturing work using Amazon SageMaker. This session walks through the training pipeline that gets Digit from simulation to real-world manufacturing tasks, covering the data, simulation, and SageMaker-based training workflow that makes it possible. You'll leave with a view into what it actually takes to get a humanoid robot production-ready for manufacturing environments.",
+    "times": [
+      {
+        "id": "1793648883160001XZSR",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:20",
+        "endTime": "10:40",
+        "startTimeFormatted": "10:20 AM",
+        "endTimeFormatted": "10:40 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159730001UmXY",
+    "code": "SUP308",
+    "title": "How AWS and Sierra are shaping agent-to-agent collaboration",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Entrepreneur (Founder/Co-Founder)",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Sierra pairs Amazon Connect voice agents with outcome-based pricing to build agent-to-agent collaboration patterns. This session covers how AWS and Sierra are shaping the emerging space of agents interacting with other agents, the architecture behind that collaboration, and what it means for the future of customer-facing AI.",
+    "times": [
+      {
+        "id": "1793648846835001Np9M",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:20",
+        "endTime": "11:40",
+        "startTimeFormatted": "11:20 AM",
+        "endTimeFormatted": "11:40 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492160019001URRQ",
+    "code": "SUP309",
+    "title": "From AI to enterprise impact: Deploy decision agents on AWS in one day",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "What if your enterprise could go from AI ambition to AI-powered decisions in just one day? This session examines how Aily Labs orchestrates agents across business functions and supports deployment in regulated enterprises.",
+    "times": [
+      {
+        "id": "1793648805608001TIGT",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "11:20",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:20 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492160322001UoKZ",
+    "code": "SUP310",
+    "title": "171 agents at scale: How Halter automated internal ops and engineering",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Halter built and deployed 171 AI agents across its internal operations and engineering functions, saving 215 engineering hours. This session covers how Halter identified which workflows to automate, how they built and scaled that many agents, and what it takes to get an organization comfortable running that much of its internal work through AI agents.",
+    "times": [
+      {
+        "id": "1793648767042001zUxK",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:40",
+        "endTime": "15:00",
+        "startTimeFormatted": "02:40 PM",
+        "endTimeFormatted": "03:00 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018978801001Lgnu",
+    "code": "SUP312",
+    "title": "For startups: Bringing vibe-coded apps to AWS",
+    "type": "Featured experience",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "You vibe-coded an app over the weekend. Now you want to move it to production on AWS with auth, a database, and an architecture that scales. In this hands-on session, walk your prototype from code to live app on AWS. You'll generate a migration plan, provision infrastructure with the Agent Toolkit, and deploy with AWS Blocks. Bring your own startup scenarios, and we'll work through them together with the people who built the tools.",
+    "times": [
+      {
+        "id": "1793656377404001MHxU",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018978955001Lvui",
+    "code": "SUP313",
+    "title": "Run agent evals and tuning on AgentCore without a QA team",
+    "type": "Featured experience",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Startups shipping AI agents often lack a dedicated QA team to catch regressions before they reach customers. This session shows how to run agent evaluations and tuning directly on AgentCore, covering how to set up evals, catch regressions early, and iterate on agent behavior without a dedicated QA function. You'll leave with a practical approach to testing and tuning agents as a small team.",
+    "times": [
+      {
+        "id": "1793394896473001E6Fx",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:40",
+        "endTime": "12:40",
+        "startTimeFormatted": "11:40 AM",
+        "endTimeFormatted": "12:40 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792018978647001LQCt",
+    "code": "SUP316",
+    "title": "Designing real-time voice AI experiences",
+    "type": "Featured experience",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Voice is becoming a primary interface for AI products, but building voice experiences that feel natural is hard: latency, interruption handling, and turn-taking all have to work together. In this session, we walk through the design and architecture decisions behind real-time voice AI experiences on AWS, covering latency budgets, interruption handling, and how to keep conversations feeling natural. You'll leave with a practical framework for designing and building your own voice AI product.",
+    "times": [
+      {
+        "id": "1793656326753001nSME",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:20",
+        "endTime": "09:20",
+        "startTimeFormatted": "08:20 AM",
+        "endTimeFormatted": "09:20 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158893001ULYR",
+    "code": "SUP317",
+    "title": "The economics of inference: Where startups are finding efficiency",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI companies are finding it harder to earn margins even as inference prices have dropped twentyfold. This session covers where startups are finding efficiency and margin in an environment of falling inference prices, and what RadixArk has learned about the economics of running AI workloads profitably as the underlying cost curve keeps shifting.",
+    "times": [
+      {
+        "id": "1793648701823001ArSg",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:20",
+        "endTime": "12:40",
+        "startTimeFormatted": "12:20 PM",
+        "endTimeFormatted": "12:40 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158024001UxU3",
+    "code": "SUP318",
+    "title": "AI security without borders: A global defense strategy",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "7AI, OAK, and CloudSEK  makes the case for AI security without borders, arguing for a global defense strategy against AI-driven threats. This session covers why security approaches need to transcend regional and organizational boundaries as AI threats scale globally, what a global defense strategy looks like in practice, and what these industry leaders have learned building security products meant to defend against borderless AI threats.",
+    "times": [
+      {
+        "id": "1793648661516001I4Y2",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:40",
+        "endTime": "14:40",
+        "startTimeFormatted": "01:40 PM",
+        "endTimeFormatted": "02:40 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1791492158706001UoLh",
     "code": "SUP401",
     "title": "Cyber defense at the frontier: What we learned building Vega on Amazon S3",
@@ -78190,6 +79310,142 @@
         "endTime": "12:40",
         "startTimeFormatted": "12:20 PM",
         "endTimeFormatted": "12:40 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492158800001UeSJ",
+    "code": "SUP402",
+    "title": "From $0 to $100M ARR: Scaling real-time voice AI on AWS",
+    "type": "Lightning talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Compute",
+      "Containers"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Retell AI went from $0 to $100M ARR building real-time voice AI agents on AWS. This session covers the architecture and scaling decisions behind that growth, the infrastructure choices that let Retell AI handle real-time voice at scale, and what founders building voice AI products can learn from their path to $100M ARR.",
+    "times": [
+      {
+        "id": "1793648593867001Tobj",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:40",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:40 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159175001UDdZ",
+    "code": "SUP404",
+    "title": "How Dharma-AI cut LLM costs 99% with fine-tuned models on AWS",
+    "type": "Lightning talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Compute",
+      "Containers"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Dharma-AI cut its LLM costs by 99% by moving from general-purpose foundation models to fine-tuned models running on AWS. This session walks through the fine-tuning and deployment approach that got them there, covering the tradeoffs between general-purpose and fine-tuned models, and what legal AI and other cost-sensitive AI applications can learn from Dharma-AI's approach to driving down inference costs.",
+    "times": [
+      {
+        "id": "1793648546701001uSUV",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:20",
+        "endTime": "13:40",
+        "startTimeFormatted": "01:20 PM",
+        "endTimeFormatted": "01:40 PM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159535001U6jO",
+    "code": "SUP405",
+    "title": "Manifold Bio scales drug discovery workloads 4x across AWS regions",
+    "type": "Lightning talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Compute",
+      "Containers",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Academic / Researcher",
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Manifold Bio scaled its drug discovery compute workloads 4x by distributing them across multiple AWS regions. This session covers the architecture behind that scale-out, the challenges of running scientific compute workloads across regions, and what other biotech and drug discovery startups can learn from Manifold Bio's approach to scaling compute-intensive research on AWS.",
+    "times": [
+      {
+        "id": "1793643865365001j6eb",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:40",
+        "endTime": "09:00",
+        "startTimeFormatted": "08:40 AM",
+        "endTimeFormatted": "09:00 AM",
+        "duration": 20,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492159823001U0GI",
+    "code": "SUP406",
+    "title": "Voice AI on AWS silicon: Cartesia’s sub-250ms AWS Trainium stack",
+    "type": "Lightning talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Compute"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Cartesia built a voice AI platform that runs sub-250ms end-to-end latency on AWS Trainium silicon. This session covers how Cartesia architected their stack to hit that latency bar, the tradeoffs of building on custom silicon, and what it takes to make voice AI feel truly real-time in production.",
+    "times": [
+      {
+        "id": "1793643790666001T662",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:40",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:40 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 20,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
         "venue": "Caesars Forum"
@@ -82660,9 +83916,11 @@
     "type": "Lab",
     "level": "200 – Intermediate",
     "topics": [
+      "Artificial Intelligence",
       "Business Agents"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -82729,9 +83987,11 @@
     "type": "Lab",
     "level": "200 – Intermediate",
     "topics": [
+      "Artificial Intelligence",
       "Business Agents"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -83250,7 +84510,8 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
-      "Business Agents"
+      "Business Agents",
+      "Migration & Modernization"
     ],
     "areasOfInterest": [
       "Agentic AI",
@@ -83426,7 +84687,10 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
-      "Business Agents"
+      "Architecture",
+      "Artificial Intelligence",
+      "Business Agents",
+      "Security & Identity"
     ],
     "areasOfInterest": [
       "Agentic AI",
@@ -83438,7 +84702,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In this SimuLearn session, you leverage the entire Amazon Bedrock AgentCore platform ito build production-grade wealth management advisor. You create Memory resources for client personalization, configure a Gateway with MCP tool targets for account and market data, deploy specialist agents and a supervisor to Runtime, and authenticate users through Cognito. The result is a multi-agent advisor that recognizes each client, remembers their goals, and produces auditable financial guidance through governed tools. ",
+    "abstract": "In this SimuLearn session, you leverage the entire Amazon Bedrock AgentCore platform ito build production-grade wealth management advisor. You create Memory resources for client personalization, configure a Gateway with MCP tool targets for account and market data, deploy specialist agents and a supervisor to Runtime, and authenticate users through Cognito. The result is a multi-agent advisor that recognizes each client, remembers their goals, and produces auditable financial guidance through governed tools. ",
     "times": [
       {
         "id": "1790981504003001qyuw",
@@ -83497,9 +84761,12 @@
     "type": "Lab",
     "level": "300 – Advanced",
     "topics": [
-      "Business Agents"
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
     ],
     "areasOfInterest": [
+      "Agentic AI",
       "Training & Certification"
     ],
     "roles": [
@@ -84567,87 +85834,6 @@
     ]
   },
   {
-    "id": "1793256708562001NsZG",
-    "code": "rec5wqOI4qbCHOUDM",
-    "title": "re:Invent SWAG",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
-    "times": [
-      {
-        "id": "1793314873334001u3m0",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "06:30",
-        "endTime": "20:00",
-        "startTimeFormatted": "06:30 AM",
-        "endTimeFormatted": "08:00 PM",
-        "duration": 810,
-        "room": "Venetian | Level 2 | Hall C | SWAG",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1793080484863001IrG4",
-    "code": "recCJS9bz3B6bjHxB",
-    "title": "AWS BuilderCards: Learn about AWS security while you play!",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
-    "times": [
-      {
-        "id": "1793312912226001lG9T",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:30",
-        "endTime": "16:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "04:30 PM",
-        "duration": 480,
-        "room": "Caesars Forum | Level 1 | West Alcove | South",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1793375296537001ZmXr",
-    "code": "recLw6DPwGaKziCzS",
-    "title": "Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
-    "times": [
-      {
-        "id": "1793380428223001MCms",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "10:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 360,
-        "room": "Venetian | Level 2 | Hall B",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
     "id": "1793080517831001iJWn",
     "code": "recQYmqcMJtFF5pke",
     "title": "AWS BuilderCards: Learn about AWS security while you play!",
@@ -84671,87 +85857,6 @@
         "duration": 480,
         "room": "Caesars Forum | Level 1 | West Alcove | South",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1793256744087001MGNY",
-    "code": "recbBLOIoDrlIRBu7",
-    "title": "re:Invent SWAG",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Eligible attendees can collect their exclusive conference swag at designated pickup locations in Hall C of the Venetian Convention Center. Attendees must present their valid conference badge to receive their items. Swag availability is limited and distributed on a first-come, first-served basis during official event hours. Note that eligibility for items may depend on your attendee pass type.",
-    "times": [
-      {
-        "id": "1793314984786001ze0b",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "06:30",
-        "endTime": "18:30",
-        "startTimeFormatted": "06:30 AM",
-        "endTimeFormatted": "06:30 PM",
-        "duration": 720,
-        "room": "Venetian | Level 2 | Hall C | SWAG",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1793080554566001Hr1Z",
-    "code": "recbKAWRHdwoNQo22",
-    "title": "AWS BuilderCards: Learn about AWS security while you play!",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Build your strategy and your cloud skills with BuilderCards- a fun, interactive deck-building game challenging you to connect AWS services and architect scalable solutions. Come share laughs, strategize together, and engage in a friendly competition, no matter where you are on your cloud journey.",
-    "times": [
-      {
-        "id": "1793312861556001X55Q",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "08:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "04:00 PM",
-        "duration": 480,
-        "room": "Caesars Forum | Level 1 | West Alcove | South",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1793375389147001GUtP",
-    "code": "recdfUy8EEy2L8DyL",
-    "title": "Expo",
-    "type": "Expo",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Explore Cloud and AI at the re:Invent Expo! Go hands-on across the AWS Village, Partner Advantage, Builder, Global Impact, and Industry Zones.",
-    "times": [
-      {
-        "id": "1793380370233001Z7X2",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
-        "room": "Venetian | Level 2 | Hall B",
-        "venue": "Venetian"
       }
     ]
   },
