@@ -4738,6 +4738,39 @@
     ]
   },
   {
+    "id": "1780441473693001Gv44",
+    "code": "AIM2218",
+    "title": "[NEW LAUNCH] Coming soon!",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Check back soon for more details about this session.",
+    "times": [
+      {
+        "id": "1793734906849001A4da",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Blue Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442285389001cIeO",
     "code": "AIM222-S",
     "title": "Hands-On Workshop: Build & Deploy AI Agents with Cloudera Agent Studio (sponsored by Cloudera)",
@@ -9410,6 +9443,72 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780441473949001Gols",
+    "code": "AIM3318",
+    "title": "Guardrails for What Your Agent Does, Not Just What It Says",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Checked one message at a time, a guardrail blocks a coding agent told to \"ignore generated files,\" then passes a retrieved file that tells the agent to delete production logs. This session maps failures that only appear across a session: legitimate instructions misread as attacks, attacks spread across turns, injected instructions in tool results, and tool calls the user never asked for. We explore how Amazon Bedrock Guardrails evaluates prompts and proposed actions against application purpose and session history, where checks belong in an agent loop, and how to act on each result before a tool runs.",
+    "times": [
+      {
+        "id": "1793734907321001A5D9",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Blue Theater",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780441473754001GQFE",
+    "code": "AIM3319",
+    "title": "[NEW LAUNCH] Coming soon!",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Check back soon for more details about this session.",
+    "times": [
+      {
+        "id": "1793734907089001A9Wq",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Red Theater",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -21555,7 +21654,7 @@
   {
     "id": "1780441484193001GaES",
     "code": "BIZ104-S",
-    "title": "AgentX: Agentic solution for customer service transformation and insights",
+    "title": "AgentX: Agentic customer service transformation (sponsored by Capgemini) (BIZ104-S)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -24242,7 +24341,7 @@
   {
     "id": "1780441487581001G8Xq",
     "code": "CMP204-S",
-    "title": "Agentic AI on AWS with Intel® Xeon® 6 (sponsored by Intel)",
+    "title": "Agentic AI on AWS with Intel and Databricks (sponsored by Intel)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -24262,7 +24361,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Intel and Databricks are collaborating to optimize price-performance for workloads running on AWS. This session covers optimizations for ISVs running Photon/Spark on Databricks leveraging custom Amazon EC2 instances powered by Intel Xeon processors, delivering advanced AI capabilities and high core density. This presentation is brought to you by Intel, an AWS Partner.",
+    "abstract": "Intel and Databricks are collaborating to optimize price-performance for workloads running on AWS. This session covers optimizations for ISVs running Photon/Spark on Databricks leveraging custom Amazon EC2 instances powered by Intel® Xeon® processors, delivering advanced AI capabilities and high core density. This presentation is brought to you by Intel, an AWS Partner.",
     "times": [
       {
         "id": "1790025527412001CdLp",
@@ -78195,6 +78294,40 @@
     ]
   },
   {
+    "id": "1791492157642001UYqf",
+    "code": "SUP101",
+    "title": "The state of commercial open source in the age of AI",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [
+      "Industry Solutions",
+      "Open Source"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Venture Capitalist"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "How do open source companies turn adoption into revenue? Matthieu Lavergne shares findings from the Linux Foundation's State of Commercial Open Source 2026 report, produced with AWS and French venture capital firm Serena for the second consecutive year. The research examines what fast-growing companies in open source are doing differently to monetize adoption, and what founders building on open source can learn from the data on what separates commercially successful open source companies from the rest.",
+    "times": [
+      {
+        "id": "1793317114892001DKRQ",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:40",
+        "endTime": "16:40",
+        "startTimeFormatted": "03:40 PM",
+        "endTimeFormatted": "04:40 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1791492157747001U5N1",
     "code": "SUP102",
     "title": "Beyond the pilot: Why VCs are betting on FDE-led growth",
@@ -79157,21 +79290,21 @@
   {
     "id": "1791492159730001UmXY",
     "code": "SUP308",
-    "title": "How AWS and Sierra are shaping agent-to-agent collaboration",
+    "title": "The future of Agents with Sierra and AWS",
     "type": "Lightning talk",
-    "level": "300 – Advanced",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
       "Business Agents"
     ],
     "areasOfInterest": [],
     "roles": [
-      "Entrepreneur (Founder/Co-Founder)",
-      "Solution / Systems Architect"
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)"
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Sierra pairs Amazon Connect voice agents with outcome-based pricing to build agent-to-agent collaboration patterns. This session covers how AWS and Sierra are shaping the emerging space of agents interacting with other agents, the architecture behind that collaboration, and what it means for the future of customer-facing AI.",
+    "abstract": "Enterprise AI agents are reshaping customer experience, and success requires infrastructure and architecture built for enterprise scale. Join Pol Sanchez, founder of Sierra, in this fireside chat to explore the infrastructure demands that separate agents that work at scale from those that only work in demos: reliability, low latency, burst capacity, and the security and compliance posture that regulated industries demand. Discover why the winning architecture isn't locked to a single model. Instead, choose and swap models based on the task, with Amazon Bedrock enabling that diversity at scale. Learn how the future of agents extends beyond smarter individual agents to specialized agents collaborating directly in real conversations, sharing context, and resolving more customer issues in fewer interactions while keeping customers in control.",
     "times": [
       {
         "id": "1793648846835001Np9M",
