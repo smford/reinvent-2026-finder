@@ -4995,15 +4995,17 @@
   {
     "id": "1780442267355001cmRv",
     "code": "AIM228-S",
-    "title": "Building the Intelligent Utility: PG&E’s AI and Cloud Transformation on AWS (sponsored by PwC)",
+    "title": "From Data Overload to Action: A Voice-Enabled Digital Assistant for O&G Field Ops",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
-      "Cloud Operations"
+      "Cloud Operations",
+      "Industry Solutions"
     ],
     "areasOfInterest": [
       "Automation",
+      "Innovation & Transformation",
       "Monitoring & Observability"
     ],
     "roles": [
@@ -5012,7 +5014,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "PG&E and PwC will share how they are harnessing AWS to modernize utility operations through AI, automation, and cloud-native engineering. Learn how a unified data and observability foundation delivers real-time operational intelligence, improves system resilience, and enables faster, more informed decision-making. Hear practical lessons on scaling AI responsibly, operationalizing automation, and creating measurable business outcomes across complex enterprise environments. Attendees will leave with a blueprint for transforming traditional operations into intelligent, data-driven services while building a foundation that can support the next wave of generative AI and autonomous operations capabilities. This presentation is brought to you by PwC, an AWS Partner.",
+    "abstract": "Field operators in oil and gas often have to piece together production data, equipment alarms, safety notifications, and maintenance priorities from multiple systems to decide how to spend their day. Join Continental Resources and PwC to discover how they collaborated to develop a voice-enabled, mobile-first AI solution built on AWS that brings prioritized route-based worklists, well-health visibility, shift handover insights, and voice work note capture into one place. The session covers the journey from frontline challenges to scaling across multiple basins, including the phased delivery approach and lessons learned from field operators, and shows how to move beyond AI experimentation to solutions embedded in everyday workflows.",
     "times": [
       {
         "id": "1790033124067001qa8U",
@@ -7983,7 +7985,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Supervised fine-tuning teaches a model to follow instructions, and reinforcement learning (RL) teaches it to reason. In this chalk talk, explore what RLHF and GRPO add beyond fine-tuning and how to run them on AWS Trainium, purpose-built for price performance. Start with a co-located GRPO loop in Hugging Face TRL on native PyTorch, then see a disaggregated loop on Ray and verl, in which TorchTitan trains the policy and vLLM generates rollouts, so each side can be sized for its own load. Learn when each architecture fits, and leave ready to use the AWS Neuron SDK to implement RL loops that train agents to reason.",
+    "abstract": "Supervised fine-tuning teaches a model to follow instructions, and reinforcement learning (RL) teaches it to reason. In this chalk talk, explore what RLHF and GRPO add beyond fine-tuning and how to run them on AWS Trainium, purpose-built for price performance. Start with a co-located GRPO loop in Hugging Face TRL on native PyTorch, then see a disaggregated loop on Ray and verl or SkyRL, in which TorchTitan trains the policy and vLLM generates rollouts, so each side can be sized for its own load. Learn when each architecture fits, and leave ready to use the AWS Neuron SDK to implement RL loops that train agents to reason.",
     "times": [
       {
         "id": "1790025485873001CnrA",
@@ -33201,7 +33203,7 @@
   {
     "id": "1780442239228001cqYn",
     "code": "CON413",
-    "title": "Scale financial risk simulations with AWS Batch and Amazon ECS ",
+    "title": "Scale financial Risk and Quant Research with AWS Batch and Amazon ECS",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -38406,7 +38408,7 @@
   {
     "id": "1780441483373001GDUV",
     "code": "DAT319-S",
-    "title": "Building the data architecture that survives agentic analytics (sponsored by Edelbyte)",
+    "title": "Edelbyte: The data platform for curious humans and tireless agents",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -38426,7 +38428,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Human queries are bounded, repeatable, and predictable, so techniques like caching, sampling, and precomputation keep them fast and affordable. AI agents are none of those. One prompt becomes dozens of novel, complex queries at machine speed, so caching an agent's curiosity is nearly impossible. At a leading automotive R&D group, 1,400 engineers and their agents query 200 petabytes of vehicle telemetry, with 600 terabytes ingested daily, to engineer higher-quality, more reliable vehicles and reach production faster. This session shows the AWS architecture behind it and how it delivers real-time analytics with full retention at the scale agents have made standard. This presentation is brought to you by Edelbyte, an AWS Partner.",
+    "abstract": "Performance, scale, cost, functionality: most data platforms let you pick one, few let you pick two. AI agents make that trade worse. One prompt fans out into dozens of novel queries at machine speed, and caching, sampling and precomputation stop working. Edelbyte's founders spent more than a decade at Microsoft building and operating Azure Data Explorer, also known as Kusto. In our first session since leaving stealth, we show what they built next: an agent answering natural-language questions live on data attached straight from Amazon S3. We reveal the results of an independent benchmark. We close with how our business model works and what drives ingestion and query cost. Performance. Scale. Cost. Functionality. Pick all four and don’t look back.",
     "times": [
       {
         "id": "1790025481873001C4ZU",
@@ -78634,9 +78636,9 @@
   {
     "id": "1791492159080001U9Id",
     "code": "SUP105",
-    "title": "Wonderful brings enterprise voice AI to 30+ countries",
+    "title": "Turning AI deserts into markets — 0 to 30+ countries in 18 months",
     "type": "Lightning talk",
-    "level": "100 – Foundational",
+    "level": "200 – Intermediate",
     "topics": [
       "Artificial Intelligence",
       "Business Agents"
@@ -78648,7 +78650,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Wonderful builds enterprise voice agents for regulated markets where English-first platforms struggle with local speech patterns and compliance requirements. Its platform handles conversations in more than 30 countries, supported by locally embedded teams. CEO Bar Winkler explains the Forward Deployed Engineer model, with senior engineers working inside customer environments and owning delivery through deployment. He shares how Wonderful deployed for a major telecom provider in two weeks, compared with the months typically required. The session examines how local expertise shapes agent performance, how to staff engineering teams across regions, and what technical accountability requires when deploying voice AI in customer environments.",
+    "abstract": "There is a major gap between what AI can achieve and where enterprises are extracting value from it today. Closing that gap requires strong execution, deep partnerships and a new approach to implementation. Drawing on Wonderful’s experience across 100+ deployments in 35+ markets, Moritz Amann, GTM Switzerland, will explain what it takes to put AI into production across entire enterprises and workflows, particularly in fast-moving, complex markets. The session will explore how enterprises can use the AWS ecosystem to move beyond isolated AI initiatives and deploy AI at scale without compromising security, compliance or governance. Attendees will leave with a practical view of the infrastructure, integrations and implementation discipline required to turn AI’s potential into measurable enterprise value.",
     "times": [
       {
         "id": "1793317830340001XLxq",
@@ -86433,6 +86435,64 @@
         "endTime": "18:00",
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "06:00 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall C",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466364001L6Qq",
+    "code": "recX6D9fCEcXywvZK",
+    "title": "Hydrate & Help",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [
+      "Open Source"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Your visit to the Hydrate & Help activation at re:Invent unlocks donations for clean and safe water around the world. Stop by to learn more about the global water crisis and discover how you can make a real impact. Sponsorsed by Capgemini.",
+    "times": [
+      {
+        "id": "1793833108453001w2h2",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "09:30 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 480,
+        "room": "Venetian | Level 2 | Hall C",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789513466651001LCL0",
+    "code": "recYb7yIZBzBEcR5Z",
+    "title": "Hydrate & Help",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [
+      "Open Source"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Your visit to the Hydrate & Help activation at re:Invent unlocks donations for clean and safe water around the world. Stop by to learn more about the global water crisis and discover how you can make a real impact. Sponsorsed by Capgemini.",
+    "times": [
+      {
+        "id": "1793833162136001dEEX",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "09:30 AM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 480,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
