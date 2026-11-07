@@ -1535,7 +1535,7 @@
         "startTimeFormatted": "06:00 PM",
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
-        "room": "Madame Tussauds (located in The Venetian)",
+        "room": "Tableau (located in Wynn)",
         "venue": "Venetian"
       }
     ]
@@ -1724,114 +1724,6 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "06:00 PM",
         "duration": 360,
-        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1792712458978001Zo05",
-    "code": "ACT060-R",
-    "title": "Showcase Theater",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
-    "times": [
-      {
-        "id": "1793083613814001uOfE",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "09:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "05:00 PM",
-        "duration": 480,
-        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1792713992996001o2pT",
-    "code": "ACT060-R1",
-    "title": "Showcase Theater",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
-    "times": [
-      {
-        "id": "1793083625752001Ljiu",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "12:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "05:00 PM",
-        "duration": 300,
-        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1792713992912001ooUU",
-    "code": "ACT060-R2",
-    "title": "Showcase Theater",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
-    "times": [
-      {
-        "id": "1793083647881001Ynkj",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "09:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "05:00 PM",
-        "duration": 480,
-        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1792713993085001oMYd",
-    "code": "ACT060-R3",
-    "title": "Showcase Theater",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Where re:Invent steps into the conversations shaping technology. Across four days, this stage brings external voices (open-source icons, researchers, cultural commentators, and cross-disciplinary thinkers) into candid discussions about the questions the industry is wrestling with: the future of frontier AI, robotics, quantum, privacy, sustainability, healthcare, access, and the gaps between what AI promises and what it delivers. Catch debates, interviews, and unexpected pairings that will grab your attention and make you think.",
-    "times": [
-      {
-        "id": "1793083654900001IqJQ",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "09:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "05:00 PM",
-        "duration": 480,
         "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
         "venue": "Caesars Forum"
       }
@@ -2513,10 +2405,10 @@
         "date": "2026-11-29",
         "day": "Sunday",
         "startTime": "10:00",
-        "endTime": "18:00",
+        "endTime": "20:00",
         "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
+        "endTimeFormatted": "08:00 PM",
+        "duration": 600,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
       }
@@ -2541,11 +2433,11 @@
         "id": "1793832979781001VwFd",
         "date": "2026-11-30",
         "day": "Monday",
-        "startTime": "10:00",
-        "endTime": "18:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "06:00 PM",
-        "duration": 480,
+        "startTime": "07:30",
+        "endTime": "20:30",
+        "startTimeFormatted": "07:30 AM",
+        "endTimeFormatted": "08:30 PM",
+        "duration": 780,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
       }
@@ -2571,10 +2463,10 @@
         "date": "2026-12-01",
         "day": "Tuesday",
         "startTime": "06:30",
-        "endTime": "14:30",
+        "endTime": "18:30",
         "startTimeFormatted": "06:30 AM",
-        "endTimeFormatted": "02:30 PM",
-        "duration": 480,
+        "endTimeFormatted": "06:30 PM",
+        "duration": 720,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
       }
@@ -2600,10 +2492,10 @@
         "date": "2026-12-02",
         "day": "Wednesday",
         "startTime": "09:30",
-        "endTime": "17:30",
+        "endTime": "18:30",
         "startTimeFormatted": "09:30 AM",
-        "endTimeFormatted": "05:30 PM",
-        "duration": 480,
+        "endTimeFormatted": "06:30 PM",
+        "duration": 540,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
       }
@@ -2629,10 +2521,10 @@
         "date": "2026-12-03",
         "day": "Thursday",
         "startTime": "09:30",
-        "endTime": "17:30",
+        "endTime": "17:00",
         "startTimeFormatted": "09:30 AM",
-        "endTimeFormatted": "05:30 PM",
-        "duration": 480,
+        "endTimeFormatted": "05:00 PM",
+        "duration": 450,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
       }
@@ -3703,7 +3595,7 @@
   {
     "id": "1780442265981001crq3",
     "code": "AIM134-S",
-    "title": "When Software Builds and Improves Itself (sponsored by Factory)",
+    "title": "Beyond Coding Agents: Inside the Self-Improving Software Factory",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -3723,7 +3615,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Software is becoming more than something companies build. It is becoming the system through which they improve. The next generation of software factories will turn business signals into production software, measure the outcomes, and use those outcomes to improve each cycle of development. Engineers set the goals, architecture, policies, and approval gates, while the system handles execution and continuously improves itself. Factory cofounder Eno Reyes will share what this future looks like, what has to be true to build it, and why self-improving software will fundamentally change how every company operates. This presentation is brought to you by Factory, an AWS Partner.",
+    "abstract": "Top engineering teams have outgrown simple coding agents and are automating their entire development lifecycle with Software Factories.\n\nAgents proactively pick up signals like alerts and bug reports, carrying work through triage, design, implementation, testing, review, QA, deployment, and monitoring. Engineers set goals and approve what ships, and every run makes the loop better.\n\nThis session answers the key questions engineering leaders ask: How do you minimize risk and maintain oversight? How do you raise quality, control costs, and ship faster? How do you compound organizational knowledge? Learn from enterprise teams running Software Factories in production.",
     "times": [
       {
         "id": "1790033120227001qPUs",
@@ -3925,7 +3817,7 @@
   {
     "id": "1780442268133001cruR",
     "code": "AIM141-S",
-    "title": "Breaking up with closed frontier models",
+    "title": "Breaking up with closed frontier models (sponsored by Modal)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -31512,6 +31404,44 @@
     ]
   },
   {
+    "id": "1793304913704001ofgO",
+    "code": "CON312-R1",
+    "title": "Resolve Amazon ECS incidents faster with AWS DevOps Agent",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Containers",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Executive"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Incident investigation on Amazon ECS means correlating signals across task logs, service events, deployment history, and CloudWatch metrics - scattered data that takes hours to piece together. In this builders session, deploy AWS DevOps Agent against an ECS workload and experience autonomous incident response. The agent discovers your service topology, receives CloudWatch alarms, investigates autonomously by testing hypotheses against telemetry data, and delivers root cause analysis with specific remediation steps. Practice the full workflow from alarm to resolution without manually searching a single dashboard. Bring your laptop to build alongside an AWS expert.",
+    "times": [
+      {
+        "id": "1793305009653001DCKx",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 301",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442278239001cBTr",
     "code": "CON313",
     "title": "Building and scaling inference workloads on Amazon EKS ",
@@ -33011,6 +32941,44 @@
     ]
   },
   {
+    "id": "1793306510004001XUZ1",
+    "code": "CON344-R1",
+    "title": "Multi-tenant SaaS and agentic apps on Amazon EKS",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Containers"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Identity & Access Management",
+      "Network & Infrastructure Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Amazon EKS has become the runtime of choice for ISVs building agentic SaaS, offering the control, workload isolation, and networking flexibility that managed runtimes cannot. The challenge is multi-tenancy: how do you run agent workloads for hundreds of tenants on shared infrastructure without blast radius, cost leakage, or isolation drift? In this workshop, build a multi-tenant agent deployment on EKS with tenant isolation across namespaces and network policies, IRSA-backed credentials per agent workload, and per-tenant observability via OpenTelemetry. Each lab ends with an isolation proof. Leave with a reference architecture you can apply directly to your cluster.",
+    "times": [
+      {
+        "id": "1793306565820001YvE0",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 3",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442241871001cCVl",
     "code": "CON345",
     "title": "Eliminate wasted compute capacity with Amazon ECS",
@@ -33745,7 +33713,7 @@
     "code": "COP201-S",
     "title": "Trust Issues: A Healthy Relationship With Your AI Agents (sponsored by MontyCloud)",
     "type": "Lightning talk",
-    "level": "200 – Intermediate",
+    "level": "100 – Foundational",
     "topics": [
       "Business Agents",
       "Cloud Operations"
@@ -38020,7 +37988,7 @@
   {
     "id": "1780442271758001cdox",
     "code": "DAT202-S",
-    "title": "Powering Interactive Agents with Live Context (sponsored by Materialize)",
+    "title": "Building a live context layer at Crane Worldwide Logistics (Sponsored by Materialize)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -38038,7 +38006,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "How do you keep an agent's understanding of the world fresh enough for it to act on? Interactive agents need current context about the customers, orders, inventory, accounts, and other entities they reason about. But assembling that context from constantly changing operational systems is complex, forcing teams to choose between stale data, expensive recomputation, or complex pipelines. This talk will show how to build continuously updated context in SQL that is trustworthy enough for agents to rely upon. You'll learn how to transform operational data into agent-ready representations, keep attributes and relationships up to date as the underlying data changes, and propagate those changes to search indexes and embeddings when needed. Attend if you're deploying AI agents to production and want to give them fresher, more complete context and tighten their read-act-react loop. This presentation is brought to you by Materialize, an AWS Partner.",
+    "abstract": "Crane Worldwide Logistics serves 10,000+ clients across six continents, where a single international shipment can touch hundreds of systems. To let agents and apps act on what is happening right now, Crane built a live context graph: every business object from every core system, kept current within seconds and queryable in SQL. Jared Noynaert, SVP of Engineering and AI at Crane, and Nate Stewart, CEO of Materialize, walk through the requirements, the engines Crane evaluated, and an architecture that serves reads in under 200ms without breaking transactions. See the agents Crane runs on it today.",
     "times": [
       {
         "id": "1790033125827001qRYB",
@@ -47233,7 +47201,7 @@
   {
     "id": "1780442221624001cqr7",
     "code": "HMC322",
-    "title": "Designing Portable Multicloud Architectures with Open Specifications",
+    "title": "Designing Portable Multicloud Architectures with Open Standards",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -61041,7 +61009,7 @@
   {
     "id": "1780442256261001cAK4",
     "code": "MAM350-R",
-    "title": "Faster tech debt analysis and remediation",
+    "title": "Continuous tech debt analysis and remediation, from findings to fixes",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -61056,7 +61024,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "A Code Talk on how continuous modernization speeds up tech debt analysis and remediation across a portfolio of applications. It covers detecting outdated runtimes, deprecated libraries and security vulnerabilities. It also covers automatically generated pull requests.",
+    "abstract": "In this Code Talk, see how continuous modernization keeps tech debt under control across your application estate. After a one-time setup, it continuously detects outdated runtimes, deprecated libraries, and security vulnerabilities, using signals from both your cloud environment and your code. It then fixes them at scale with automatically generated pull requests. We'll go live through real scenarios, from discovery to remediation, and show how scheduled scans catch new tech debt before it piles up.",
     "times": [
       {
         "id": "1791224278466001tN8F",
@@ -61820,7 +61788,7 @@
   {
     "id": "1780442268949001cp6f",
     "code": "MAM420-S",
-    "title": "Planning for migrations, and operating databases on AWS with Redgate (sponsored by Red Gate)",
+    "title": "Planning for migrations, and operating databases on AWS with Redgate (sponsored by RedGate)",
     "type": "Lightning talk",
     "level": "400 – Expert",
     "topics": [
@@ -67971,6 +67939,93 @@
         "duration": 120,
         "room": "Caesars Forum | Level 1 | Alliance 307",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792716297422001zsJl",
+    "code": "SEC001",
+    "title": "The Future of Security",
+    "type": "Mainstage",
+    "level": "No Level",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AI has changed security forever.\nFor decades, security was built for humans: dashboards, queries, alerts. That model can no longer keep up when the system and threats are both moving at machine speed. The future of security runs on context, reasoning, and action. AI agents are now identifying security issues before they are exploited, validating and addressing them with increasing levels of autonomy.\nJoin Chet Kapoor, AWS VP of Security, Search, and Observability, to see how AWS is building security for this new era. Hear how customers secure their agent workloads and how they use AWS services to build trust and enable autonomous systems to handle a growing range of security work.",
+    "times": [
+      {
+        "id": "1794001263182001JmSr",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "12:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Lower Convention Promenade | Bandol 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1792716339504001zRyn",
+    "code": "SEC002",
+    "title": "The Old Security Playbook Is Dead",
+    "type": "Mainstage",
+    "level": "No Level",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "The window between a vulnerability existing and being exploited has collapsed from years to minutes. As a result, standard security practices, such as patching SLAs, shift-left reviews, and traditional AppSec, are dead. Join AWS Chief Information Security Officer Amy Herzog as she shares how AWS reimagined security to stop AI-enabled threat actors. You will see the fundamentals AWS has enforced for decades, now running at machine speed, and learn what AWS does on both sides of the shared responsibility model. You will leave knowing what to change in your own operations to raise your security bar.",
+    "times": [
+      {
+        "id": "1794001402898001VWTI",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Lower Convention Promenade | Bandol 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1792716379689001MrpS",
+    "code": "SEC003",
+    "title": "Operationalizing security for the future with best practices today",
+    "type": "Mainstage",
+    "level": "No Level",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "The future of security is here and the question is: what can you do with it on Monday morning? New capabilities only matter if you can put them to work. In this session, Eric Brandwine, AWS VP and Distinguished Engineer, will show you how to take the latest AWS security innovations and operationalize them across your organization. You'll see how new capabilities fit together to strengthen your security posture, not in theory but in practice. Eric will draw on decades of experience building security at AWS to share the architectural patterns, operational best practices, and mental models that help teams move from announcement to adoption. Whether you're a security leader setting strategy or a practitioner building the systems, you'll leave with a clear understanding of how to put AWS Security innovations to work and raise your security bar.",
+    "times": [
+      {
+        "id": "1794001544474001mXl7",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Lower Convention Promenade | Bandol 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -79482,7 +79537,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Superblocks and Starfolk AI rebuild the software development lifecycle around AI-native workflows. This session covers how they build faster with AI woven into the development workflow itself, the patterns that make AI-native SDLC work in practice, and what startup founders can take from their approach to rethinking how software gets built.",
+    "abstract": "What changes when AI is woven into the software development lifecycle itself, not just bolted on at the end? Moderated by Nate Slater, Solutions Architect Leader at AWS, this panel brings together Brad Menezes, co-founder and CEO of Superblocks, Gautam Kedia, co-founder of Starfolk AI, and Ross Cefalu, Member of Technical Staff at Factory, to discuss how they build faster with AI-native workflows. They'll explore the patterns that make an AI-native Software Development Lifecycle (SDLC) work in practice, and what founders can take from their approach to rethinking how software gets built.",
     "times": [
       {
         "id": "1793658638625001WmPP",
@@ -80226,7 +80281,7 @@
   {
     "id": "1792018978955001Lvui",
     "code": "SUP313",
-    "title": "Run agent evals and tuning on AgentCore without a QA team",
+    "title": "Implementing an eval strategy while building AgentCore agents without a QA team",
     "type": "Featured experience",
     "level": "300 – Advanced",
     "topics": [
@@ -80240,7 +80295,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Startups shipping AI agents often lack a dedicated QA team to catch regressions before they reach customers. This session shows how to run agent evaluations and tuning directly on AgentCore, covering how to set up evals, catch regressions early, and iterate on agent behavior without a dedicated QA function. You'll leave with a practical approach to testing and tuning agents as a small team.",
+    "abstract": "Startups shipping AI can move fast for the same reason a car can. You trust the brakes. For agents, evals are those brakes. In this session, you build an agent locally with AgentCore and evaluate it as you go with Amazon CloudWatch Omni, without a QA team. Every change you make in your IDE is scored on sessions, responses, and tool calls, so you see right away whether your agent got better. When the scores hold, deploy the same agent to AWS and keep the same evals running on production traffic. Leave with an eval workflow a lean team runs solo, so you can keep your foot on the gas.",
     "times": [
       {
         "id": "1793394896473001E6Fx",
@@ -84529,7 +84584,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Security testing shouldn't require weeks of manual effort anymore. In this hands-on lab, configure and execute automated penetration tests using AWS Security Agent. Set up an Agent Space with VPC networking, verify target domains, scope tests by risk type, and monitor execution in real time. Analyze findings with CVSS scores and reproduction steps, then generate actionable reports for your development teams. ",
+    "abstract": "Security testing shouldn't require weeks of manual effort anymore. In this hands-on lab, configure and execute automated penetration tests using AWS Continuum for Penetration Testing. Set up an Agent Space with VPC networking, verify target domains, scope tests by risk type, and monitor execution in real time. Analyze findings with CVSS scores and reproduction steps, then generate actionable reports for your development teams",
     "times": [
       {
         "id": "1790020879955001RBs7",
