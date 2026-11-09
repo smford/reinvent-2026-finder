@@ -2992,17 +2992,17 @@
   {
     "id": "1780442268608001cY23",
     "code": "AIM115-S",
-    "title": "Agentic AI Control Plane on AWS: govern agents at enterprise scale (sponsored by Tata Consultancy Services)",
+    "title": "When the Lights Flicker: Engineer Minimum Viable Enterprises for Sovereign Resilience",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
       "Artificial Intelligence",
-      "Business Agents"
+      "Cloud Operations"
     ],
     "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI",
-      "Responsible AI"
+      "Data Protection",
+      "Digital Sovereignty",
+      "Resilience"
     ],
     "roles": [
       "Business Executive",
@@ -3011,7 +3011,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Enterprises are moving from a handful of agents to hundreds. Without a shared layer for identity, policy, orchestration, and observability, that growth stalls. In this 20-minute launch session, we introduce the Agentic AI Control Plane on AWS: a governed foundation for building, deploying, and running agents across business and IT workflows. See how it handles agent onboarding, guardrails, cost and performance visibility, and human oversight, with a live look at the platform. Built for CIOs, data and AI leaders, and platform and risk teams who need agent fleets to scale safely, with the controls their auditors expect. This presentation is brought to you by Tata Consultancy Services, an AWS Partner.",
+    "abstract": "Geopolitical shocks. Compromised suppliers. Hijacked identities. AI-accelerated attacks. Disruption is now the operating environment. Sovereignty is no longer about where data lives, but what keeps running when the lights flicker.\n\nThis session introduces Active Sovereignty, which treats sovereignty as continuous, engineered control rather than a compliance checkbox. At its heart is the Minimum Viable Enterprise (MVE): the critical core a business cannot afford to lose across cloud, security, data, AI and the digital workplace. It gives provable control over data, operations and technology, exactly where it matters.\n\nAttendees will discover the three moves required for Active sovereignty: (1) designing the MVE, (2) building resilience, and (3) owning the residual risk. You'll leve this session understanding that sovereignty isn't declared, it's engineered.",
     "times": [
       {
         "id": "1790033124842001q5rp",
