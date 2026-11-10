@@ -1088,7 +1088,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Caesars Forum",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
@@ -1102,7 +1102,7 @@
         "endTimeFormatted": "05:30 PM",
         "duration": 570,
         "room": "Venetian | Level 3 | West Alcove",
-        "venue": "Caesars Forum"
+        "venue": "Venetian"
       }
     ]
   },
@@ -1115,7 +1115,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Caesars Palace",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
@@ -1129,7 +1129,7 @@
         "endTimeFormatted": "05:30 PM",
         "duration": 420,
         "room": "Venetian | Level 3 | West Alcove",
-        "venue": "Caesars Palace"
+        "venue": "Venetian"
       }
     ]
   },
@@ -1142,7 +1142,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "MGM Grand",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
@@ -1156,7 +1156,7 @@
         "endTimeFormatted": "05:30 PM",
         "duration": 570,
         "room": "Venetian | Level 3 | West Alcove",
-        "venue": "MGM Grand"
+        "venue": "Venetian"
       }
     ]
   },
@@ -1169,7 +1169,7 @@
     "topics": [],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Wynn/Encore",
+    "venue": "Venetian",
     "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
@@ -1183,7 +1183,7 @@
         "endTimeFormatted": "05:00 PM",
         "duration": 540,
         "room": "Venetian | Level 3 | West Alcove",
-        "venue": "Wynn/Encore"
+        "venue": "Venetian"
       }
     ]
   },
@@ -1522,8 +1522,8 @@
     ],
     "areasOfInterest": [],
     "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
     "abstract": "Join AWS and Amazon Together Community for an evening reception celebrating those who make the world better. Connect with builders and developers who use AWS AI and cloud technology for positive change. Over light bites and beverages at Tableau in the Wynn, explore skilling and social impact, spark new ideas, and celebrate the work we do best — together. All builders welcome.",
     "times": [
       {
@@ -1536,7 +1536,7 @@
         "endTimeFormatted": "08:00 PM",
         "duration": 120,
         "room": "Tableau (located in Wynn)",
-        "venue": "Venetian"
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -12386,42 +12386,6 @@
     ]
   },
   {
-    "id": "1780442275335001cqge",
-    "code": "AIM402-R1",
-    "title": "Serverless model customization with SageMaker AI​",
-    "type": "Workshop",
-    "level": "400 – Expert",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI"
-    ],
-    "roles": [
-      "Data Engineer",
-      "Data Scientist",
-      "Developer / Engineer"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Go from dataset to a custom foundation model in a few hours, without the need to set up any infrastructure. In this hands-on workshop, you will fine-tune LLMs using Amazon SageMaker Serverless Model Customization, requiring no infrastructure. You will walk through the entire workflow: preparing datasets, training jobs, registering assets in the SageMaker AI Registry, evaluating using the \"LLM-as-a-Judge\", and deploying to a real-time endpoint, leveraging Supervised Fine-Tuning (SFT) with LoRA. By the end of the workshop, you will be ready to customize models at scale immediately. This workshop uses the same customization workflow as AIM389-S, but uses different models.",
-    "times": [
-      {
-        "id": "1790025528843001CqEj",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "08:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "10:00 AM",
-        "duration": 120,
-        "room": "MGM Grand | Level 3 | Premier 317",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
     "id": "1780442223977001cED1",
     "code": "AIM403",
     "title": "Build and Optimize AI Pipelines with Ray on SageMaker HyperPod",
@@ -17761,7 +17725,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Unlock the full potential of Amazon API Gateway for modern workloads. In this chalk talk, we discuss migration strategies from legacy API platforms using OpenAPI extensions, schema validation, and Infrastructure as Code. Then we tackle the agentic era: how do you design APIs that AI agents can discover, authenticate against, and call reliably? We explore custom authorizers, mutual TLS, and exposing your endpoints as MCP-compatible tool definitions. Bring your questions—we'll work through them on the whiteboard.",
+    "abstract": "Unlock the full potential of Amazon API Gateway for modern workloads. In this chalk talk, we discuss migration strategies from legacy API platforms using OpenAPI extensions, schema validation, and Infrastructure as Code. Then we tackle the agentic era: how do you design APIs that AI agents can discover, authenticate against, and call reliably? We explore the different authorization mechanisms available as well as how to expose your endpoints as MCP-compatible tool definitions. Bring your questions—we'll work through them on the whiteboard.",
     "times": [
       {
         "id": "1790360382993001AUQE",
@@ -51889,6 +51853,44 @@
     ]
   },
   {
+    "id": "1793305648990001BeEm",
+    "code": "IND3338-R1",
+    "title": "Accelerate Physical AI development with NVIDIA on AWS",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Innovation & Transformation",
+      "Robotics"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Physical AI is reshaping manufacturing, robotics, and autonomous systems, but realizing that potential requires robust infrastructure and purpose-built tools. AWS and NVIDIA have partnered to simplify the entire Physical AI development lifecycle: from synthetic data generation and model training through sim-to-real validation and hardware-in-loop testing. In this session, discover how the Physical AI Toolchain from AWS provides access to AWS managed infrastructure and NVIDIA’s foundation models and training applications to accelerate every stage of development, reduce time-to-market, and optimize resource utilization across your pipeline.  ",
+    "times": [
+      {
+        "id": "1793305724513001BS4v",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Neopolitan III",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442263803001c0KW",
     "code": "IND3339",
     "title": "Agentic advertising with privacy-enhanced data collaboration",
@@ -55864,6 +55866,42 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Builders' Session 2",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793304782520001DMvB",
+    "code": "IND421-R1",
+    "title": "Grounding LLMs in Truth: Build a Live Fact-Checking Pipeline",
+    "type": "Builders' session",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Tech Explorer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Walk through the reference architecture of a real-time fact-checking pipeline built on Amazon Bedrock AgentCore. See how a live audio stream is turned into fact-by-fact verdicts (true, misleading, or false), with source citing at broadcast-compatible latency. Learn how to build it yourself using a chain of specialized agents on AgentCore, hybrid search on Amazon OpenSearch Service, Amazon Bedrock Guardrails, and custom tool-use hooks. Leave with a mapped path to create a reference architecture, plus answers to the concrete design questions blocking you such as: agent sharding, tabular corpus indexing, guardrails, and streaming reasoning to the UI.",
+    "times": [
+      {
+        "id": "1793304845886001HPnC",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 304",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -80084,7 +80122,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Successful AI pilots no longer guarantee revenue. As enterprise pricing shifts toward consumption and outcomes, startups capture value only when customers deploy, adopt, and realize results. Forward Deployed Engineering (FDE) can close that gap. Moderated by Shane Rai, Principal AI Strategist at the AWS GenAI Innovation Center, the panel features Asa Kalavade, VP of AWS Forward Deployed Engineering; Anu Bharadwaj, Partner at ICONIQ Growth; and Jon Lehr, Co-founder and General Partner at Work-Bench. They will debate whether FDE is consulting under a new name or a compounding moat, and examine the economics and metrics linking deployment to retention and expansion. Series A+ founders and investors will gain a practical framework for building FDE capabilities and moving enterprise pilots into production.",
+    "abstract": "Successful AI pilots no longer guarantee revenue. As enterprise pricing shifts toward consumption and outcomes, startups capture value only when customers deploy, adopt, and realize results. Forward Deployed Engineering (FDE) can close that gap. Moderated by Shane Rai, Principal AI Strategist at the AWS GenAI Innovation Center, the panel features Asa Kalavade, VP of AWS Forward Deployed Engineering; Anu Bharadwaj, Partner at ICONIQ; and Jon Lehr, Co-founder and General Partner at Work-Bench. They will debate whether FDE is consulting under a new name or a compounding moat, and examine the economics and metrics linking deployment to retention and expansion. Series A+ founders and investors will gain a practical framework for building FDE capabilities and moving enterprise pilots into production.",
     "times": [
       {
         "id": "1793317189352001Sjr7",
@@ -80715,10 +80753,10 @@
         "date": "2026-12-01",
         "day": "Tuesday",
         "startTime": "16:20",
-        "endTime": "16:40",
+        "endTime": "17:20",
         "startTimeFormatted": "04:20 PM",
-        "endTimeFormatted": "04:40 PM",
-        "duration": 20,
+        "endTimeFormatted": "05:20 PM",
+        "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
         "venue": "Caesars Forum"
       }
