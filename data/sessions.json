@@ -1089,7 +1089,7 @@
     "areasOfInterest": [],
     "roles": [],
     "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
+    "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
       {
@@ -1101,7 +1101,7 @@
         "startTimeFormatted": "08:00 AM",
         "endTimeFormatted": "05:30 PM",
         "duration": 570,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "room": "Venetian | Level 3 | West Alcove",
         "venue": "Caesars Forum"
       }
     ]
@@ -1116,7 +1116,7 @@
     "areasOfInterest": [],
     "roles": [],
     "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
       {
@@ -1128,7 +1128,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "05:30 PM",
         "duration": 420,
-        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "room": "Venetian | Level 3 | West Alcove",
         "venue": "Caesars Palace"
       }
     ]
@@ -1143,7 +1143,7 @@
     "areasOfInterest": [],
     "roles": [],
     "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
       {
@@ -1155,7 +1155,7 @@
         "startTimeFormatted": "08:00 AM",
         "endTimeFormatted": "05:30 PM",
         "duration": 570,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "room": "Venetian | Level 3 | West Alcove",
         "venue": "MGM Grand"
       }
     ]
@@ -1170,7 +1170,7 @@
     "areasOfInterest": [],
     "roles": [],
     "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "campus": "Venetian Campus",
     "abstract": "Stop by the Amazon Connect Lounge to meet AI agents designed to work the way you work. Experience them in action, see them tackle real-world scenarios side by side with you, and leave knowing how these AI agents can drive results for your business. Four AI agents, four experiences.",
     "times": [
       {
@@ -1182,7 +1182,7 @@
         "startTimeFormatted": "08:00 AM",
         "endTimeFormatted": "05:00 PM",
         "duration": 540,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "room": "Venetian | Level 3 | West Alcove",
         "venue": "Wynn/Encore"
       }
     ]
@@ -2918,7 +2918,7 @@
   {
     "id": "1780441486734001GZVC",
     "code": "AIM111-S",
-    "title": "How Harvey and Majesco maximize AI ROI and drive more value per token",
+    "title": "How Harvey and Majesco maximize AI ROI and drive more value per token (sponsored by Glean)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -2992,7 +2992,7 @@
   {
     "id": "1780442268608001cY23",
     "code": "AIM115-S",
-    "title": "When the Lights Flicker: Engineer Minimum Viable Enterprises for Sovereign Resilience",
+    "title": "When the Lights Flicker: Engineer Minimum Viable Enterprises for Sovereign Resilience (sponsored by Tata Consultancy Services)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -3595,7 +3595,7 @@
   {
     "id": "1780442265981001crq3",
     "code": "AIM134-S",
-    "title": "Beyond Coding Agents: Inside the Self-Improving Software Factory",
+    "title": "Beyond Coding Agents: Inside the Self-Improving Software Factory (sponsored by Factory)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -4978,7 +4978,7 @@
   {
     "id": "1780442285389001cIeO",
     "code": "AIM222-S",
-    "title": "Build, Deploy, and Scale AI Agents with Cloudera on AWS",
+    "title": "Build, Deploy, and Scale AI Agents with Cloudera on AWS (sponsored by Cloudera)",
     "type": "Workshop",
     "level": "200 – Intermediate",
     "topics": [
@@ -5017,7 +5017,7 @@
   {
     "id": "1780442267034001cC3t",
     "code": "AIM2225-S",
-    "title": "Beyond Tool Sprawl: Scalable, Trusted Access to APIs, MCP, and Data",
+    "title": "Beyond Tool Sprawl: Scalable, Trusted Access to APIs, MCP, and Data (sponsored by Apollo GraphQL)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -5240,7 +5240,7 @@
   {
     "id": "1780442267355001cmRv",
     "code": "AIM228-S",
-    "title": "From Data Overload to Action: A Voice-Enabled Digital Assistant for O&G Field Ops",
+    "title": "From Data Overload to Action: A Voice-Enabled Digital Assistant for O&G Field Ops (sponsored by PwC)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -5353,7 +5353,7 @@
   {
     "id": "1780441490215001Gi9L",
     "code": "AIM231-S",
-    "title": "AI That Answers: PepsiCo Reimagines Customer Experience with Amazon Connect",
+    "title": "AI That Answers: PepsiCo Reimagines Customer Experience with Amazon Connect (sponsored by PwC)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5388,7 +5388,7 @@
   {
     "id": "1780441482522001GpXn",
     "code": "AIM232-S",
-    "title": "4 primitives for an AI SRE that runs on-call and improves reliability",
+    "title": "4 primitives for an AI SRE that runs on-call and improves reliability (sponsored by Resolve AI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5463,7 +5463,7 @@
   {
     "id": "1780441482222001G135",
     "code": "AIM234-S",
-    "title": "Machines on-call for humans: how enterprises are transforming reliability with AI SRE",
+    "title": "Machines on-call for humans: how enterprises are transforming reliability with AI SRE (sponsored by Resolve AI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5837,7 +5837,7 @@
   {
     "id": "1780441483312001GQN1",
     "code": "AIM245-S",
-    "title": "AI at scale: practical lessons from Fortune 500 AI leaders ",
+    "title": "AI at scale: practical lessons from Fortune 500 AI leaders (sponsored by Glean)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -6966,7 +6966,7 @@
   {
     "id": "1780441484504001G2GG",
     "code": "AIM278-S",
-    "title": "Evaluating AI Agents with Langfuse (Sponsored by ClickHouse)",
+    "title": "Evaluating AI Agents with Langfuse (sponsored by ClickHouse)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -9135,7 +9135,7 @@
   {
     "id": "1780442390221001Nwi2",
     "code": "AIM3300-S",
-    "title": "Agents at Work, Humans in Control: Stopping the Action No Single Check Can See",
+    "title": "Agents at Work, Humans in Control: Stopping the Action No Single Check Can See (sponsored by Cyera)",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -12387,7 +12387,7 @@
   },
   {
     "id": "1780442275335001cqge",
-    "code": "AIM402-R",
+    "code": "AIM402-R1",
     "title": "Serverless model customization with SageMaker AI​",
     "type": "Workshop",
     "level": "400 – Expert",
@@ -13847,7 +13847,7 @@
   {
     "id": "1780442285332001cC8T",
     "code": "AIM458-S",
-    "title": "The Physical AI Toolchain: A Full-Stack Solution with AWS and NVIDIA",
+    "title": "The Physical AI Toolchain: A Full-Stack Solution with AWS and NVIDIA (sponsored by NVIDIA)",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -20654,7 +20654,7 @@
   {
     "id": "1786406738867001Ln6a",
     "code": "ARC336",
-    "title": "Foundational architecture excellence: the operability trade-off",
+    "title": "Optimizing Cloud Operations with AI: Architecture patterns that actually ship",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -20673,7 +20673,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Elegant architectures that ignore operational reality become expensive liabilities. From hundreds of enterprise engagements, we expose the architectural decisions that silently create operational debt — decomposition without observability boundaries, blast-radius assumptions that fail under correlated load, and abstraction layers hiding the signals operators need. We unpack where good architecture and operable architecture diverge, which trade-offs are worth making early, and what questions your team should be asking before committing to a design. The best architecture is one you can actually run in production.",
+    "abstract": "AI promises leaner, faster cloud operations, but most efforts stall between a compelling demo and measurable production value. This lightning talk shows how to break through that stall through three AI Operations architecture examples, spanning incident response, proactive reliability and cost optimization, and agentic audit loop. We'll cover what to measure to prove impact and the common trade-offs to watch for, so you leave knowing how to evaluate and prioritize your own AI Operations investments.",
     "times": [
       {
         "id": "1790033121279001qtM9",
@@ -22014,6 +22014,330 @@
     ]
   },
   {
+    "id": "1786406740065001Lgdd",
+    "code": "AWS125",
+    "title": "Who gets to decide the future?",
+    "type": "Mainstage",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "All week you'll hear what technology will do. This conversation argues that you're the ones deciding. One of tech's most compelling storytellers, joins an expert in tech societal impacts, and an acclaimed novelist who imagines how societies hold together after disruption. Together they separate hype from real capability and ask how today's build choices shape whose future gets built.",
+    "times": [
+      {
+        "id": "1794247128820001Fz4Z",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740369001LsyT",
+    "code": "AWS126",
+    "title": "Decoder with Nilay Patel, live at AWS re:Invent",
+    "type": "Mainstage",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The Decoder podcast comes to AWS re:Invent for a live conversation about big ideas shaping business and technology. Hosted by The Verge Editor-in-Chief Nilay Patel, Decoder features conversations with a diverse cast of innovators and policymakers at the frontiers of business and technology, exploring how they’re navigating an ever-changing landscape, what keeps them up at night, and what it all means for our shared future.",
+    "times": [
+      {
+        "id": "1794247128589001Fuz6",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 90,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406739442001LbaS",
+    "code": "AWS201",
+    "title": "Architects of literacy: Building AI tools for the next generation",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation",
+      "Responsible AI",
+      "Tech for Impact"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Business Executive"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI arrived in classrooms before most schools had a policy for it. Students use it daily, teachers are improvising, and the skills employers want keep shifting. Bringing together architects shaping the future of global learning, this panel led by AI education strategist Amanda Bickerstaff unpacks a critical paradigm shift: What does education look like when answers are free, and how do we build tools that teach students how to think rather than just what to produce? Together they cover how AI changes teaching and assessment, what learners of every age need to build, and what technologists owe the people learning to use their tools.",
+    "times": [
+      {
+        "id": "1794247128708001Fump",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "03:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406739948001L4pV",
+    "code": "AWS202",
+    "title": "Who's missing from your model?",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Inclusion",
+      "Responsible AI",
+      "Tech for Impact"
+    ],
+    "roles": [
+      "Business Executive",
+      "Developer / Engineer",
+      "IT Executive"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Every dataset reflects choices about who counts. Researchers working on fairness in machine learning and Indigenous language technology examine who's absent from the data, teams, and user bases behind today's AI. They'll show how those gaps turn into product failures and what builders are doing about it, including community-governed data and better ways to measure fairness. You'll leave knowing what your own blind spots are costing you.",
+    "times": [
+      {
+        "id": "1794245096036001FdBz",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740126001LEGX",
+    "code": "AWS203",
+    "title": "What makes a model trustworthy?",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Every team shipping AI has to pick a model that fits the use case and own the trade-offs that come with it. Kay Firth-Butterfield leads NVIDIA and Reflection through how they think about that choice: what weights mean for customization and control, when building smaller models on an open base pays off, and how to balance trust and safety against what the use case needs. No two use cases are alike, so expect trade-offs and judgment calls instead of a checklist.",
+    "times": [
+      {
+        "id": "1794245095066001Fudu",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740247001LcyZ",
+    "code": "AWS204",
+    "title": "The cost of compute",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Sustainability"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Business Executive",
+      "IT Executive"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI demand is growing faster than the grid, the water supply, and the communities that host data centers can easily absorb. Voices from energy, policy, and global systems design lay out the real tradeoffs of scaling compute responsibly. Moving beyond isolated infrastructure metrics, they'll use complex systems thinking to evaluate the true footprint of AI. They'll explore where the power will come from, which efficiency gains are realistic, and how macro technology decisions directly impact equity, social justice, and local communities. You'll leave with the systems-level frameworks and language to bring true equity and global sustainability into your own infrastructure planning.",
+    "times": [
+      {
+        "id": "1794245095673001FdbH",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740617001LQP1",
+    "code": "AWS205",
+    "title": "Beyond capability: Designing AI for an era of converged privacy & trust",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Culture of Security",
+      "Privacy",
+      "Responsible AI"
+    ],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "As AI advances faster than the frameworks meant to govern it, technology, safety, and privacy are converging. The defining question of the next era is no longer just how fast we can build, but how we design AI systems that earn absolute trust. Getting this right turns governance into a competitive advantage and sets a standard of integrity that improves how people live and work. This panel brings together voices from privacy policy, AI product security, and privacy research to openly explore the market's unresolved tensions at a pivotal moment. Panelists will share how privacy-enhancing technologies (PETs) and trust-by-design practices give organizations the foundation to build privacy and trust into AI systems from the start so that responsible innovation can move faster.",
+    "times": [
+      {
+        "id": "1794247128361001FoTj",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "03:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740683001LTbl",
+    "code": "AWS206",
+    "title": "What AI can't automate",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "You're being asked to automate more of your own work every quarter. Kelsey Hightower, one of the most trusted voices in cloud-native, talks through what intelligent automation actually means for platform engineering: which parts of building and running software it will absorb and which parts of your judgment become more valuable. Expect candid opinions on platform teams, developer experience, and the habits that still separate good systems from fragile ones, leaving you with a sharper sense of where to spend your time as the manual work disappears.",
+    "times": [
+      {
+        "id": "1794245095188001FK3e",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:30",
+        "endTime": "13:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "01:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740751001LF0D",
+    "code": "AWS207",
+    "title": "AI can predict your health. Can it change it?",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation",
+      "Responsible AI",
+      "Tech for Impact"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Business Executive",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Health AI has gotten very good at predicting who will get sick. Improving what happens next is much harder. Researchers and industry leaders working on that gap share what it takes to move a model from a published result to a better outcome for a real patient. They'll discuss how to design tools that adapt to patients in real time, how to overcome the data gaps and trust issues that stall deployments, and how to scale it across different populations and health systems, not just the one where it was first tested.",
+    "times": [
+      {
+        "id": "1794247128479001FTgC",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "03:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441465382001G9uE",
     "code": "BIZ101",
     "title": "How Southwest Airlines migrated 4,500 agents in just 2.5 weeks",
@@ -23114,6 +23438,41 @@
     ]
   },
   {
+    "id": "1780441474349001GemH",
+    "code": "BIZ220",
+    "title": "Industry Expert: The Next Era of AI",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "Press / Media Analyst"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "AI can handle calendars and inboxes but falls short on domain-specific workflows. What if AI could understand your industry's systems, standards, and compliance requirements? In this session, we explore how pre-configured agents, skills, and software connectors can address industry-specific use cases while giving customers the flexibility to extend and customize their enterprise workflows. Learn how AI can go beyond a general-purpose productivity tool into a domain expert for your industry.",
+    "times": [
+      {
+        "id": "1793128334660001NlEh",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Roman I",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442269942001cgBn",
     "code": "BIZ221-S",
     "title": "Your Business Is Multiplayer. Your AI Should Be Too. (sponsored by PromptQL)",
@@ -23770,7 +24129,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Creating AI-powered self-service shouldn't require prompt engineering expertise - and in this hands-on workshop, you'll prove it. Go from a blank canvas to a deployed, production-ready AI agent in under two hours using Amazon Connect Customer’s agentic CX designer. Design conversational flows on the visual canvas, blending generative AI responses with deterministic business logic for scenarios like payment processing and identity verification. Connect your agent to external data sources, pass context seamlessly across conversation turns, then test and evaluate your agent's performance using built-in analytics and simulation tools. You'll leave with a working multi-channel AI agent, a repeatable design pattern you can apply to your own use cases, and confidence that your team can build and validate self-service experiences without specialized AI skills - no coding required.",
+    "abstract": "Nexus Station is in lockdown 1,400 meters below the surface, and its operational AI, C.O.R.A.L., has lost critical subsystems. Your mission: bring them back online. In this hands-on escape-room workshop, you’ll repair a conversational AI application in Connect Customer’s agentic CX designer. Ground C.O.R.A.L. in trusted knowledge, connect it to backend actions, use rich visual responses, and combine agentic reasoning with deterministic controls for procedures that can’t be left to chance. You’ll surface with practical patterns for grounding, tool use, orchestration, guardrails, testing, and cross-channel continuity that you can apply to your own AI-powered self-service experiences.",
     "times": [
       {
         "id": "1790360403318001Ay92",
@@ -24472,6 +24831,41 @@
     ]
   },
   {
+    "id": "1780442242868001c9kK",
+    "code": "BIZ336",
+    "title": "Architect industry workflows with AI",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Business Executive",
+      "IT Administrator",
+      "IT Executive"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Specialized work spans applications, established procedures, and expert judgment. The hard part is deciding where AI fits and what it takes for your teams to adopt it. In this session, we whiteboard an approach to designing AI-assisted workflows for your industry. Start with a business outcome, map how work moves across systems and people, and find where domain knowledge and human review matter most. Discuss how to assess readiness, validate results, and move from a first use case to everyday team use. Leave with an architectural blueprint you can take back to your team.",
+    "times": [
+      {
+        "id": "1793128120469001zTKE",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 306",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442276660001cnQV",
     "code": "BIZ402",
     "title": "Configure Security & Governance Controls for Amazon Quick",
@@ -24677,6 +25071,42 @@
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Grand 119",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255485001STp3",
+    "code": "CMP102",
+    "title": "Cutting manual accounts payable work",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Enterprise customers pay for cloud services across dozens of payer accounts and countries through procurement/accounts payable platforms like SAP Ariba and Coupa and track it all in spreadsheets and email threads. Purchase orders run out unnoticed. Payments land on the wrong invoices. Disputes take months. In this session, see how a new first-party application gives Accounts Payable teams one live view of purchase orders, invoices and payments matched against billing records - no console login required.",
+    "times": [
+      {
+        "id": "1794267931351001I8ha",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
       }
     ]
@@ -27726,6 +28156,79 @@
         "endTimeFormatted": "05:00 PM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 320",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084254961001SVy2",
+    "code": "CMP361",
+    "title": "Simplifying how you use AWS: automating common patterns on your behalf",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Getting the most out of AWS often means manually setting up the same optimizations, integrations, and best-practice patterns across your applications. What if AWS could handle more of that for you automatically and securely so you benefit from AWS capabilities without the setup overhead? In this chalk talk, we explore emerging approaches for running AWS-authored logic in isolated, secure-by-default environments alongside your applications, implementing common patterns on your behalf and simplifying how you consume AWS services. We'll whiteboard how this model works, where it fits in your architecture, and how it changes the effort required to adopt AWS best practices.",
+    "times": [
+      {
+        "id": "1794268228916001jONf",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255135001S0Ht",
+    "code": "CMP362",
+    "title": "Graviton5 for data workloads",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Data workloads are bottlenecked by how fast they can access and process information, whether that data lives on local storage, in memory, or behind a lightweight service. New Graviton5 instance families are purpose-built for each tier.",
+    "times": [
+      {
+        "id": "1794268449752001ndLE",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
       }
     ]
@@ -31587,6 +32090,44 @@
     ]
   },
   {
+    "id": "1793306268442001zkKr",
+    "code": "CON316-R1",
+    "title": "Transform your SaaS for the agentic AI era on Amazon ECS",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Containers"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Your multi-tenant SaaS application runs on Amazon ECS. Now your customers expect AI-powered features but adding agents to an existing platform introduces new challenges, including tenant isolation for model access, per-tenant memory and conversation state, cost attribution across shared infrastructure, and agent orchestration at scale. In this workshop, you start with a working SaaS application on Amazon ECS and progressively add agentic capabilities. Implement tenant-aware agent routing, deploy agent tools with ECS task-level security boundaries, add persistent memory per tenant, scale agents, and govern tenant's token spend with rate limits, quotas, cost attribution. Bring your laptop to participate.",
+    "times": [
+      {
+        "id": "1793306407437001DKHd",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "MGM Grand | Level 3 | Premier 314",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442226358001c8pg",
     "code": "CON317-R",
     "title": "Productionize, secure, and scale agentic applications on Amazon ECS",
@@ -33674,43 +34215,8 @@
     ]
   },
   {
-    "id": "1780441466690001GsOa",
-    "code": "COP201",
-    "title": "Accelerating cost optimization on AWS ",
-    "type": "Breakout session",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [
-      "Cost Optimization"
-    ],
-    "roles": [
-      "IT Executive",
-      "IT Professional / Technical Manager",
-      "Student"
-    ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Finding and implementing cost optimization recommendations sustainably require constant monitoring and action. Join this session to learn how you can accelerate your optimization outcomes while maintaining flexibility in how savings are distributed across your organization. See how you can also measure, share and continuously improve your results.",
-    "times": [
-      {
-        "id": "1790034531307001pijb",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "08:30",
-        "endTime": "09:30",
-        "startTimeFormatted": "08:30 AM",
-        "endTimeFormatted": "09:30 AM",
-        "duration": 60,
-        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
     "id": "1780442269063001cDiT",
-    "code": "COP201-S",
+    "code": "COP103-S",
     "title": "Trust Issues: A Healthy Relationship With Your AI Agents (sponsored by MontyCloud)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
@@ -33742,6 +34248,41 @@
         "endTimeFormatted": "02:20 PM",
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1780441466690001GsOa",
+    "code": "COP201",
+    "title": "Accelerating cost optimization on AWS ",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Student"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Finding and implementing cost optimization recommendations sustainably require constant monitoring and action. Join this session to learn how you can accelerate your optimization outcomes while maintaining flexibility in how savings are distributed across your organization. See how you can also measure, share and continuously improve your results.",
+    "times": [
+      {
+        "id": "1790034531307001pijb",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
         "venue": "Venetian"
       }
     ]
@@ -35195,7 +35736,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your developers are burning tokens on AI coding agents with zero visibility. Claude Code and OpenAI Codex run on laptops, outside your perimeter, with no telemetry reaching your observability backend. In this session, we fix that. Using native OpenTelemetry export and Amazon CloudWatch's OTLP endpoint with a single bearer token, with no collectors, no sidecars, no credential wiring, we ship metrics (token usage, cost, productivity), logs (tool decisions, errors), and traces (agent reasoning chains) directly from developer machines. Then we build a live dashboard with per-team cost attribution and anomaly alerting, all queryable with PromQL. Walk out ready to deploy in minutes.",
+    "abstract": "Developers are burning tokens on AI coding agents with zero visibility. Kiro, Claude Code, and OpenAI Codex run on laptops, outside your perimeter, with no telemetry reaching your observability backend. We fix that, then close the loop. Using native OpenTelemetry export to CloudWatch's OTLP endpoint with one bearer token (no collectors, no sidecars), we ship metrics, logs, and traces into a live dashboard with per-team cost attribution and anomaly alerting. Then CloudWatch Omni feeds that telemetry back as shift-left insights while developers code, catching overruns at the source.",
     "times": [
       {
         "id": "1790360382238001Aa9l",
@@ -37911,7 +38452,7 @@
   {
     "id": "1780441482993001G0TR",
     "code": "DAT101-S",
-    "title": "Multicloud in the Real World: Financial Services, Healthcare, and Retail",
+    "title": "Multicloud in the Real World: Financial Services, Healthcare, and Retail (sponsored by Oracle)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -37988,7 +38529,7 @@
   {
     "id": "1780442271758001cdox",
     "code": "DAT202-S",
-    "title": "Building a live context layer at Crane Worldwide Logistics (Sponsored by Materialize)",
+    "title": "Building a live context layer at Crane Worldwide Logistics (sponsored by Materialize)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -38025,7 +38566,7 @@
   {
     "id": "1780442266974001cb8L",
     "code": "DAT203-S",
-    "title": "Engineering Better Context for AI Agents That Work and Learn Together",
+    "title": "Engineering Better Context for AI Agents That Work and Learn Together (sponsored by YugabyteDB)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -38061,7 +38602,7 @@
   {
     "id": "1780441483373001GDUV",
     "code": "DAT204-S",
-    "title": "Edelbyte: The data platform for curious humans and tireless agents",
+    "title": "Edelbyte: The data platform for curious humans and tireless agents (sponsored by Edelbyte)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -41654,6 +42195,41 @@
     ]
   },
   {
+    "id": "1789084255707001SEGt",
+    "code": "DAT454",
+    "title": "What's new in Amazon Aurora: Ask the engineers",
+    "type": "Meetup",
+    "level": "400 – Expert",
+    "topics": [
+      "Databases"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "This meetup provides a unique opportunity to connect with the Amazon Aurora team behind this year's re:Invent launches and dig into the details of what just shipped. Attendees can ask questions, share their use cases, and exchange ideas with other builders using Aurora across various industries",
+    "times": [
+      {
+        "id": "1794263553500001ucXO",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441483545001GJMW",
     "code": "DVT101-S",
     "title": "Built by Agents: Rethinking Reliability for AI-Native Companies (sponsored by Traversal)",
@@ -42064,7 +42640,7 @@
   {
     "id": "1780441487919001GlmQ",
     "code": "DVT213-S",
-    "title": "Decision Mgmt at Scale: Common Patterns for Modernizing Real-Time Decisioning on AWS ",
+    "title": "Decision Mgmt at Scale: Common Patterns for Modernizing Real-Time Decisioning on AWS (sponsored by Redis)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -42406,7 +42982,7 @@
   {
     "id": "1780441488208001GuO1",
     "code": "DVT222-S",
-    "title": "Inside Real AI Software Factories: Lessons From the Teams Building Them ",
+    "title": "Inside Real AI Software Factories: Lessons From the Teams Building Them (sponsored by LaunchDarkly)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -46192,7 +46768,7 @@
   {
     "id": "1780442269999001csdv",
     "code": "HMC205-S",
-    "title": "Run hybrid multi-cloud networks with one operational model",
+    "title": "Run hybrid multi-cloud networks with one operational model (sponsored by Selector AI)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -46228,7 +46804,7 @@
   {
     "id": "1780442270680001csK4",
     "code": "HMC206-S",
-    "title": "Absorbing AI costs? Stop paying for idle GPUs on Amazon EKS",
+    "title": "Absorbing AI costs? Stop paying for idle GPUs on Amazon EKS (sponsored by Cloudability)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -48035,7 +48611,7 @@
   {
     "id": "1780442268555001c3pp",
     "code": "IND108-S",
-    "title": "From AI that responds to AI that delivers measurable outcomes with Zendesk and AWS",
+    "title": "From AI that responds to AI that delivers measurable outcomes with Zendesk and AWS (sponsored by Zendesk)",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -53245,7 +53821,7 @@
   {
     "id": "1780442246369001c58q",
     "code": "IND366",
-    "title": "Zero-Shot Demand Forecasting with Chronos 2, SMUS, and Quick Suite",
+    "title": "Zero-Shot Demand Forecasting with Chronos 2, SMUS, and AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -58253,7 +58829,7 @@
   {
     "id": "1780441484436001GLfe",
     "code": "MAM215-S",
-    "title": "Conversational AI at Scale: S&P Global Energy's 30+ Genie Agents ",
+    "title": "Conversational AI at Scale: S&P Global Energy's 30+ Genie Agents (sponsored by Databricks)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -61825,6 +62401,471 @@
     ]
   },
   {
+    "id": "1789805681996001ITJW",
+    "code": "MUP101",
+    "title": "Master the Cloud: Strategic Upskilling for Organizations",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [],
+    "areasOfInterest": [
+      "Customer Enablement",
+      "Innovation & Transformation",
+      "Training & Certification"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Tech Explorer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Ready to accelerate your organization's cloud journey? Discover how leading companies are closing the cloud skills gap through innovative upskilling strategies that deliver real results. Learn practical approaches for building cloud capabilities across your organization, from creating internal champions to measuring success. Connect with peers, share experiences, and leave with actionable strategies.",
+    "times": [
+      {
+        "id": "1794243999483001ytLy",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805682327001I17e",
+    "code": "MUP102",
+    "title": "Early career meetup",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [],
+    "areasOfInterest": [
+      "Inclusion",
+      "Tech for Impact",
+      "Training & Certification"
+    ],
+    "roles": [
+      "Student",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "This meetup is tailored for early career professionals looking to kickstart their cloud computing careers. Attendees can engage with AWS experts and community members to discuss topics such as breaking into the industry, leveraging AWS certifications, and building practical skills and networks to enhance their employability. The meetup can also cover internship and job opportunities, as well as strategies for navigating the early stages of a cloud-focused career.",
+    "times": [
+      {
+        "id": "1794243999987001ysQd",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805682531001Il5x",
+    "code": "MUP103",
+    "title": "Modernize with Purpose: Bringing Sustainability and GenAI into Your Migration Journey",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Sustainability"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Migration and modernization programs are usually justified by cost and agility. They are also a good moment to lower carbon emissions and prepare for generative AI. Sustainability and GenAI are often planned separately from the migration itself, and that can mean duplicated work later. This session looks at how organizations can bring all three goals into one modernization plan on AWS. We will cover how to set a carbon baseline with the AWS Customer Carbon Footprint Tool and which modernization choices tend to lower emissions, such as AWS Graviton, managed and serverless services, storage lifecycle policies, and Region selection. We will also look at how GenAI can speed up migration work like code analysis and transformation, and how a modern data and application foundation makes GenAI adoption easier afterward. Attendees will compare approaches, share what has worked in their own organizations, and leave with practical ideas for making sustainability and GenAI part of their modernization roadmap.",
+    "times": [
+      {
+        "id": "1794243996310001ydp3",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805679316001IypE",
+    "code": "MUP202",
+    "title": "When agents write the code, what does a PM do?",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Disaster Response & Recovery",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Coding agents can turn an idea into a working prototype in an afternoon. When building gets cheap, the hard part of product work moves to deciding what is worth building, and why. Join product managers, founders and builders for an open conversation on how product work is changing: discovery, prioritization, measurement and working with engineering when agents do much of the building. Share what has worked for you, what broke, and what you are still figuring out. No slides and no pitch, just peers, a whiteboard and real experiences.",
+    "times": [
+      {
+        "id": "1794244000072001yD6x",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805681539001IVqw",
+    "code": "MUP204",
+    "title": "Is Your Code Ready for AI Agents? Modernizing Legacy Apps for AI",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Everyone wants AI agents in production. But most enterprise apps were built long before agents existed. Their APIs are hard to discover, auth wasn't designed for machine callers, and few systems recover safely when an agent retries a call. Join peers working through this right now for an open conversation. We'll swap real experiences on finding readiness gaps in your code with tools like AWS Transform, deciding what to modernize first, and choosing where agents make sense versus simple automation. Bring your challenges, wins, and lessons learned. No slides, just honest discussion with people solving the same problem.",
+    "times": [
+      {
+        "id": "1794243999401001ynzJ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805682260001IxDo",
+    "code": "MUP206",
+    "title": "In Conversation with Kiro Ambassadors",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Meet the Kiro Ambassadors at re:Invent and hear how they build real things with Kiro. They will share how they work with agentic coding day to day and what they have learned shipping their own projects, and you are invited to jump in with your own questions and experiences. A relaxed chat to swap insights with the people using Kiro and meet other builders on campus.",
+    "times": [
+      {
+        "id": "1794243997835001yByj",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805683896001ImpN",
+    "code": "MUP208",
+    "title": "Women in Tech: AI Trends, Bets, and Skills for 2027",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Innovation & Transformation",
+      "Tech for Impact"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Tech Explorer"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AI is reshaping how we build, invest, and lead, and women in tech have an opportunity to shape what comes next. Join AWS women leaders and allies for an open conversation on three questions: Which AI trends matter most for 2027? Where should you and your organization invest your time and budget? Which skills will set you apart as agents take on more of the work? We will build a shared map on the whiteboard, swap career stories, and connect with peers. Everyone is welcome. Leave with new connections and a concrete next step for your AI journey.",
+    "times": [
+      {
+        "id": "1794243996642001ywlm",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789805681413001IJPw",
+    "code": "MUP301",
+    "title": "Frontier Engineering Applied: Rethinking Infrastructure for the Agent Era ",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Frontier engineering means rethinking how we solve hard infrastructure problems. When agents run autonomously, assessing codebases, planning migrations, and executing changes with minimal human input, the constraints shift. Rethrow is a cloud migration platform built to prove this works at scale. This session covers how we keep agents honest: ensuring they follow cloud architecture best practices, validate against approved services, use escalation mechanisms for edge cases, and maintain predictability and consistency across runs. What we solved, what still breaks, and what's next. ",
+    "times": [
+      {
+        "id": "1794244000411001y9JZ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805682947001IIwb",
+    "code": "MUP302",
+    "title": "Put your coding agent in a torture chamber",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Coding agents write code faster than any team can read it. Verification-driven development (VDD) moves trust from reading diffs to checks the agent can't talk its way past: acceptance gates frozen before work starts, bugs planted on purpose that the tests must catch, and a receipt a person signs off on. One open-source project runs this with more than 1,100 planted faults. Bring your pipeline and the ways agents have gamed it. At the whiteboard we'll map where your process still depends on someone reading code, and which checks tell a passing build from a correct one.",
+    "times": [
+      {
+        "id": "1794243994716001yCDb",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805682800001ICuO",
+    "code": "MUP303",
+    "title": "SAP Migration Meetup",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "SAP"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Join AWS experts and SAP specialists to accelerate your RISE with SAP on AWS journey through focused technical planning sessions. We'll exchange practical insights about migration strategies, performance optimization, and complex integration scenarios for S/4HANA transformations. Learn about proven migration patterns, business continuity best practices, and techniques for successful SAP ecosystem transitions through hands-on guidance from designated AWS engineers.",
+    "times": [
+      {
+        "id": "1794243999822001yxQa",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805682666001Iovs",
+    "code": "MUP304",
+    "title": "Leaving VMware Without Breaking Your Microsoft Estate",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Microsoft & .NET",
+      "VMware",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Most VMware estates are full of Windows Server and SQL Server, so a VMware exit forces Microsoft licensing, support, and modernization calls at the same time, usually against a renewal clock. This is an open, off-the-record conversation for people in it right now. Topics on the table: BYOL and license mobility math, SQL re-platform versus lift-and-shift, dual-vendor cost traps, and how much to modernize before you move. No slides, no pitch. Bring a question or an example of how you've tackled this.",
+    "times": [
+      {
+        "id": "1794243998001001yu7n",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805681728001IVED",
+    "code": "MUP305",
+    "title": "Ask the AWS Workflows Team: Durable Agents and Workflows",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DNU - Serverless",
+      "Lambda-Based Applications"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Come talk with the AWS Workflows team about running agents in production. We'll cover how to keep a long-running agent from losing its work when something fails, how to fit agents into the workflows you already run, and how to orchestrate agents that run code in isolated sandboxes (Lambda MicroVMs). We'll also get into when Step Functions is the better fit, when Lambda durable functions is, and how teams use both together. It's an informal conversation, so bring your use cases and the problems you're stuck on. We want to hear what's working for you and what isn't.",
+    "times": [
+      {
+        "id": "1794243997216001yKkI",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805683763001ITVs",
+    "code": "MUP306",
+    "title": "From Vibe Coding to Cloud-Native: Agentic Patterns for Production",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Vibe coding made it easy to build software. Getting a prototype to production is the hard part. Using Rethrow as a case study, this session shows how AI agents assess an app, plan and run a migration, change code, and iterate through build-and-verify loops with little human input. We compare headless agent workflows with interactive sessions over the Agent Client Protocol (ACP), and cover what keeps agents safe in multi-tenant environments, like scoped credentials, retry budgets, failure escalation, and property-based verification.",
+    "times": [
+      {
+        "id": "1794243995946001y38I",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441472395001Gj5P",
     "code": "NET101",
     "title": "What's new in eero networking ",
@@ -62455,7 +63496,7 @@
   {
     "id": "1780442272718001cg4Z",
     "code": "NET221-S",
-    "title": "The next chapter at eero.",
+    "title": "The next chapter at eero. (sponsored by Amazon Eero)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -68104,7 +69145,7 @@
   {
     "id": "1780442389888001NPVg",
     "code": "SEC103-S",
-    "title": "Expert Defense Within Reach: Agentic SecOps with Splunk and AWS ",
+    "title": "Expert Defense Within Reach: Agentic SecOps with Splunk and AWS (sponsored by Splunk by Cisco)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -68493,7 +69534,7 @@
   {
     "id": "1780441480602001Gwy6",
     "code": "SEC206",
-    "title": "Digital sovereignty with verifiable controls in the AWS European Sovereign Cloud",
+    "title": "Digital sovereignty: Verifiable controls and greater choice",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -68506,7 +69547,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "New regulations and geopolitical shifts are pushing organizations to rethink how they protect data and control access in the cloud, while still adopting AI. This session covers how AWS helps customers meet digital sovereignty requirements without giving up capability, through offerings that include the AWS European Sovereign Cloud and controls you can verify and enforce. You learn what AI sovereignty means in practice, get answers to the questions customers ask most, and hear how AWS and partners help organizations meet sovereignty requirements as they change.",
+    "abstract": "Evolving regulations and geopolitical shifts are prompting organizations to rethink how they protect data and maintain control in the cloud, without slowing innovation and AI adoption. This session explores how AWS helps customers meet their digital sovereignty requirements with the full power of the cloud through a range of offerings, including the AWS European Sovereign Cloud, backed by verifiable and auditable controls. Learn what AI sovereignty means in practice, get answers to the most common questions, and hear how AWS and partners are helping organizations navigate complexity in a fast-changing landscape.",
     "times": [
       {
         "id": "1790025550960001CYDp",
@@ -68667,7 +69708,7 @@
   {
     "id": "1780441489411001Gsad",
     "code": "SEC212-S",
-    "title": "Detection in the Agent Era, and the Metrics That Matter",
+    "title": "Detection in the Agent Era, and the Metrics That Matter (sponsored by Datadog)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -69317,7 +70358,7 @@
   {
     "id": "1780442390285001Nizk",
     "code": "SEC229-S",
-    "title": "From Signals to Action for SDG&E and SoCalGas: AI-Powered Cybersecurity on AWS",
+    "title": "From Signals to Action for SDG&E and SoCalGas: AI-Powered Cybersecurity on AWS (sponsored by Accenture)",
     "type": "Lightning talk",
     "level": "200 – Intermediate",
     "topics": [
@@ -78955,7 +79996,7 @@
   },
   {
     "id": "1780442242598001cOr5",
-    "code": "STG422",
+    "code": "STG422-R",
     "title": "Dive deep into resilience architectures for Amazon EBS",
     "type": "Chalk talk",
     "level": "400 – Expert",
@@ -83948,6 +84989,110 @@
         "duration": 60,
         "room": "MGM Grand | Level 1 | Grand 119",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084254899001S3jK",
+    "code": "SVS352",
+    "title": "Ship web apps that just work",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools",
+      "Serverless"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Your agent can ship a web application in seconds. What happens after that is the hard part. In this session, learn how you and your agents get everything you need in one place, integrated and ready in seconds. We walk through how to go from code to production without configuring infrastructure, how the Agent Toolkit keeps deployments reliable, and how to scale without starting over.",
+    "times": [
+      {
+        "id": "1794261500057001TZb7",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789084255654001S5GO",
+    "code": "SVS353",
+    "title": "Lambda Web Functions: Serverless Compute for HTTP Workloads",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Serverless"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Lambda Web Functions runs your HTTP framework natively, no handler adapters or proprietary APIs, extending Lambda's on-demand scaling and managed security posture (Firecracker isolation, patched runtimes, patched hardware) to web workloads. Deploy once, replicate across the regions you choose, and deliver fast, consistent responses with multi-concurrency and latency-based routing. Bring your web or API workload and we'll talk through whether Web Functions fits.",
+    "times": [
+      {
+        "id": "1794261810933001dcfZ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789084255819001SNCq",
+    "code": "SVS354",
+    "title": "Lambda Managed Instances: EC2 Power with Serverless Simplicity",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Compute",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Lambda-Based Applications"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AWS Lambda Managed Instances enables you to run Lambda functions on your choice of EC2 compute. With Lambda Managed Instances, you can optimize the performance and cost efficiency of your functions by utilizing specialized EC2 instance types and EC2 pricing benefits, while maintaining the familiar Serverless programming model and benefits like automatic patching, scaling, and 200+ AWS services integration for event-driven workloads. This session will provide an in-depth overview of how to get started with Lambda Managed Instances, recent launches like 90-minute function timeout, enhanced observability, and a behind-the-scenes look at how Lambda manages and scales your instances to ensure a seamless serverless experience.",
+    "times": [
+      {
+        "id": "1794262044467001nKDC",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
       }
     ]
   },
