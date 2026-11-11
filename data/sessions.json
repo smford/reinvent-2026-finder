@@ -3770,7 +3770,7 @@
         "startTimeFormatted": "04:30 PM",
         "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -4399,7 +4399,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -4805,7 +4805,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -5388,7 +5388,7 @@
   {
     "id": "1780441482522001GpXn",
     "code": "AIM232-S",
-    "title": "4 primitives for an AI SRE that runs on-call and improves reliability (sponsored by Resolve AI)",
+    "title": "4 primitives for an AI SRE that runs on-call and improves reliability (sponsored by ResolveAI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5463,7 +5463,7 @@
   {
     "id": "1780441482222001G135",
     "code": "AIM234-S",
-    "title": "Machines on-call for humans: how enterprises are transforming reliability with AI SRE (sponsored by Resolve AI)",
+    "title": "Machines on-call for humans: how enterprises are transforming reliability with AI SRE (sponsored by ResolveAI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5829,7 +5829,7 @@
         "startTimeFormatted": "02:30 PM",
         "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -6997,7 +6997,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -7266,7 +7266,7 @@
   {
     "id": "1780441489298001GfGp",
     "code": "AIM288-S",
-    "title": "How to run parallel coding agents without sitting in the loop (sponsored by Cursor)",
+    "title": "How to run parallel coding agents without sitting in the loop (sponsored by SpaceXSI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -7285,7 +7285,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Running multiple coding agents in parallel can increase throughput, but only if technical leads and engineers avoid being pulled into every agent’s execution loop. Join this session to learn how Grok Bot is an orchestration layer for technical knowledge work, coordinating workflows while saving time and mitigating costs. Through live demos, see Grok Bot operate from its own VM and browser, maintain authenticated tool access, monitor usage, and provision cloud agents on demand. We’ll be joined by a customer in production as well as SpaceXAI engineers as they share the workflows they run today. This presentation is brought to you by Cursor, an AWS Partner.",
+    "abstract": "Running multiple coding agents in parallel can increase throughput, but only if technical leads and engineers avoid being pulled into every agent’s execution loop. Join this session to learn how Grok Bot is an orchestration layer for technical knowledge work, coordinating workflows while saving time and mitigating costs. Through live demos, see Grok Bot operate from its own VM and browser, maintain authenticated tool access, monitor usage, and provision cloud agents on demand. We’ll be joined by a customer in production as well as SpaceXAI engineers as they share the workflows they run today. This presentation is brought to you by SpaceXSI, an AWS Partner.",
     "times": [
       {
         "id": "1790025491645001ChRj",
@@ -7304,7 +7304,7 @@
   {
     "id": "1780441487636001Gazl",
     "code": "AIM289-S",
-    "title": "How the most advanced teams manage the full SDLC on an agentic stack (sponsored by Cursor)",
+    "title": "How the most advanced teams manage the full SDLC on an agentic stack (sponsored by SpaceXSI)",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -7321,7 +7321,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "This 201 technical deep dive covers the AI Software Development Lifecycle featuring the Grok product family. SpaceXAI experts and customers in production will demo proven patterns, covering which parts of the SDLC to delegate to agents first, how to structure review and testing when agents write most of the code, and where the Grok API and Grok Voice fit a production workflow. This presentation is brought to you by Cursor, an AWS Partner.",
+    "abstract": "This 201 technical deep dive covers the AI Software Development Lifecycle featuring the Grok product family. SpaceXAI experts and customers in production will demo proven patterns, covering which parts of the SDLC to delegate to agents first, how to structure review and testing when agents write most of the code, and where the Grok API and Grok Voice fit a production workflow. This presentation is brought to you by SpaceXSI, an AWS Partner.",
     "times": [
       {
         "id": "1790034533524001pqqh",
@@ -8859,7 +8859,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "AI agents that do real work, such as financial advising, coding, and customer operations, reason across turns, call tools, and recover when steps fail mid-conversation. Prompting won't get you there, and building multi turn RL from scratch takes weeks. We'll whiteboard how SageMaker AI's managed MTRL connects your Strands, LangChain, or CrewAI agent under 10 lines of code, handling rollouts, trajectories, and checkpointing, auto cataloged in SageMaker AI catalog. We'll cover reward design, rollouts in managed gym environments, decoupled training compute keeping GPUs from idling, and smaller specialized models outperforming larger ones at lower inference cost. Bring your agent use case and we'll sketch how to train it. ",
+    "abstract": "Agents that do real work, such as financial advising, coding, or customer operations, have to reason across many turns, call tools, and recover when a step fails partway through a conversation. Better prompts and bigger models don't solve this, because leading LLMs drop in performance when instructions arrive over several turns. We'll whiteboard how managed multi-turn reinforcement learning (MTRL) in Amazon SageMaker AI trains a model on your agent's full trajectory. You connect your agent in under 10 lines of code. SageMaker AI handles rollouts and checkpointing, and it catalogs each trained model automatically. We'll cover reward design and rollouts in managed gym environments. We'll also show how decoupled training compute keeps GPUs from sitting idle, and where smaller specialized models beat larger ones at a lower inference cost. Bring your agent use case, and we'll map out how to train it.",
     "times": [
       {
         "id": "1790025486017001Cwfc",
@@ -9285,7 +9285,7 @@
   {
     "id": "1780441471006001GVii",
     "code": "AIM3308",
-    "title": "What's new: SageMaker HyperPod, with learnings from Multiverse ",
+    "title": "What’s new: SageMaker HyperPod & Multiverse Computing insights",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -9302,7 +9302,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Building specialized intelligence demands clusters that stay reliable under the heaviest training and inference loads. Learn what's new across SageMaker HyperPod running on EKS and Slurm. Maximize every GPU hour when building models such as BioFMs, World Models, and Sovereign AI, and run the full lifecycle from notebook to production across training, serving, and observability",
+    "abstract": "Building specialized intelligence demands clusters that stay reliable under the heaviest training and inference loads. Learn what's new across SageMaker HyperPod running on EKS and Slurm. Maximize every GPU hour when building models such as BioFMs, World Models, and Sovereign AI, and run the full lifecycle from notebook to production across training, serving, and observability. Hear how Multiverse Computing drove their clusters from 30% to 80% utlization using workload-aware resiliency that detects faults, recovers failed nodes, and restarts training from checkpoints. Learn what comes next as they plan to leverage HyperPod Observability to push utilization and goodput even higher.",
     "times": [
       {
         "id": "1793128947177001ORPF",
@@ -9552,7 +9552,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -11787,7 +11787,7 @@
         "startTimeFormatted": "11:30 AM",
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -12084,7 +12084,7 @@
         "startTimeFormatted": "04:30 PM",
         "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -12905,7 +12905,7 @@
   {
     "id": "1780442276321001cZw2",
     "code": "AIM419-R",
-    "title": "Build and deploy agents to Lambda and EKS with Amazon Bedrock",
+    "title": "Build and Deploy Agents on Amazon EKS with Amazon Bedrock",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -12915,7 +12915,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production, including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you deploy to Lambda and EKS. Leave with a reference architecture for agents you can actually ship. Laptop required.",
+    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production, including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you’ll deploy your agent to Amazon EKS. Leave with a reference architecture for agents you can actually ship. Laptop required.",
     "times": [
       {
         "id": "1790025542441001C1zW",
@@ -12934,7 +12934,7 @@
   {
     "id": "1790358255549001iX22",
     "code": "AIM419-R1",
-    "title": "Build and deploy agents to Lambda and EKS with Amazon Bedrock",
+    "title": "Build and Deploy Agents on Amazon EKS with Amazon Bedrock",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -12944,7 +12944,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production, including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you deploy to Lambda and EKS. Leave with a reference architecture for agents you can actually ship. Laptop required.",
+    "abstract": "Bring an agent idea and leave with it deployed. In this workshop you use the Strands Agents SDK and Amazon Bedrock to build an agent from scratch, give it tools and memory, and add guardrails, permissions, and observability. There are multiple ways to deploy agents in production, including Amazon Bedrock AgentCore, AWS Lambda MicroVMs, and Amazon EKS. In this lab you’ll deploy your agent to Amazon EKS. Leave with a reference architecture for agents you can actually ship. Laptop required.",
     "times": [
       {
         "id": "1790360378850001Ao7x",
@@ -14823,7 +14823,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -14881,7 +14881,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -15673,7 +15673,7 @@
         "startTimeFormatted": "04:30 PM",
         "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -15731,7 +15731,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -15770,6 +15770,99 @@
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1789084255253001SofF",
+    "code": "ANT357",
+    "title": "Giving AI agents the context they need with AWS Context",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "An open conversation on how agents get the right knowledge at the right time, including skills, plugins, and open knowledge formats. Trade patterns for feeding governed, trustworthy context to agentic applications.",
+    "times": [
+      {
+        "id": "1794434128616001fUjf",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255541001SPGF",
+    "code": "ANT358",
+    "title": "Interactive and largescale analytics with Amazon Athena and Amazon EMR",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Whiteboard how to combine interactive SQL on Athena with large-scale processing on EMR over open table formats. Swap real-world tuning, cost, and architecture tips with fellow builders.",
+    "times": [
+      {
+        "id": "1794434549394001BTtr",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255924001SvhV",
+    "code": "ANT359",
+    "title": "Open, governed data and AI with the AWS Glue Data Catalog",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Dig into how open standards and open table formats let you govern and share data across engines without lock-in. Bring your toughest access-control and cataloging questions and compare approaches with the people who work on it.",
+    "times": [
+      {
+        "id": "1794434856410001NuPs",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -18882,7 +18975,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -20320,7 +20413,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -20867,7 +20960,7 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "05:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -21422,7 +21515,7 @@
   {
     "id": "1787852032448001j0t4",
     "code": "AWS114-R",
-    "title": "Builder Zone in the Expo ",
+    "title": "Builder Zone in Expo ",
     "type": "Expo",
     "level": "100 – Foundational",
     "topics": [
@@ -21453,7 +21546,7 @@
   {
     "id": "1787852034046001jO69",
     "code": "AWS114-R1",
-    "title": "Builder Zone in the Expo ",
+    "title": "Builder Zone in Expo ",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -21484,7 +21577,7 @@
   {
     "id": "1787852034150001jjQs",
     "code": "AWS114-R2",
-    "title": "Builder Zone in the Expo ",
+    "title": "Builder Zone in Expo ",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -21515,7 +21608,7 @@
   {
     "id": "1787852034298001jIKi",
     "code": "AWS114-R3",
-    "title": "Builder Zone in the Expo ",
+    "title": "Builder Zone in Expo ",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -22138,7 +22231,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Every team shipping AI has to pick a model that fits the use case and own the trade-offs that come with it. Kay Firth-Butterfield leads NVIDIA and Reflection through how they think about that choice: what weights mean for customization and control, when building smaller models on an open base pays off, and how to balance trust and safety against what the use case needs. No two use cases are alike, so expect trade-offs and judgment calls instead of a checklist.",
+    "abstract": "Every team shipping AI has to pick a model that fits the use case and own the trade-offs that come with it. Kay Firth-Butterfield leads Anthropic, NVIDIA, and Reflection through how they think about that choice: what weights mean for customization and control, when building smaller models on an open base pays off, and how to balance trust and safety against what the use case needs. No two use cases are alike, so expect trade-offs and judgment calls instead of a checklist.",
     "times": [
       {
         "id": "1794245095066001Fudu",
@@ -22304,7 +22397,7 @@
   {
     "id": "1780441465382001G9uE",
     "code": "BIZ101",
-    "title": "How Southwest Airlines migrated 4,500 agents in just 2.5 weeks",
+    "title": "How Southwest Airlines put AI at the center of customer experience",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -22314,7 +22407,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In just 2.5 weeks from decision to go-live, Southwest migrated 4,500 agents across 17 business units to Amazon Connect Customer without losing a single call. Join this session to hear their key lessons learned from the migration, and how the move unlocked more comprehensive analytics capabilities, giving leadership real-time visibility into previously hidden metrics. Discover what’s next for Southwest, including how they’re implementing agentic AI throughout the customer experience.",
+    "abstract": "At the start of 2026, Southwest Airlines set out to embed AI throughout the customer experience. Its first step was migrating 4,500 customer service agents to Amazon Connect Customer in just 2.5 weeks, but that was only the starting line. Since then, the Southwest team has deployed AI voice agents for self-service, enabled real-time call transcription and sentiment analysis, rolled out AI evaluations across all interactions, and is now replacing its IVR with an agentic experience. Join this session to hear how Southwest rebuilt its CX to be AI-first in under one year.",
     "times": [
       {
         "id": "1790025476423001CLHA",
@@ -23230,7 +23323,7 @@
   {
     "id": "1780441466315001GqmS",
     "code": "BIZ214",
-    "title": "Empowering 155,000 people without compromising trust: Amazon Quick",
+    "title": "Empowering 200,000 people without compromising trust: AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23832,7 +23925,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this workshop, you build the complete agent and business user experience in Amazon Connect Customer. First, you create persona-specific workspaces using the no-code UI builder, customizing page layouts, applications, and views so frontline agents, back-office workers, and supervisors each see only the information, tools, and guidance they need. Then, you create AI-powered guided workflows using natural language: describe the experience you want, and AI generates the step-by-step workflow automatically. You test and validate end-to-end in the Agent Workspace, seeing how custom layouts and AI-built guides work together to accelerate resolution. Walk away with persona-tailored workspaces and working guided workflows built in minutes instead of days.",
+    "abstract": "In this builder session, you'll use no-code tools to design human agent experiences in Amazon Connect Customer. Create persona-specific workspaces - customizing layouts, apps, and views so frontline agents, back-office workers, and supervisors see only what they need. Build guided workflows in natural language: describe the view you want, and AI generates it. Set up AI agents to fill out forms in real time, freeing human agents to focus on the customer. Then test end-to-end to see how custom layouts, AI-generated views, and AI agents work together to speed resolution. Walk away with workspaces built in minutes, not days.",
     "times": [
       {
         "id": "1790025527809001CPpI",
@@ -23861,7 +23954,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this workshop, you build the complete agent and business user experience in Amazon Connect Customer. First, you create persona-specific workspaces using the no-code UI builder, customizing page layouts, applications, and views so frontline agents, back-office workers, and supervisors each see only the information, tools, and guidance they need. Then, you create AI-powered guided workflows using natural language: describe the experience you want, and AI generates the step-by-step workflow automatically. You test and validate end-to-end in the Agent Workspace, seeing how custom layouts and AI-built guides work together to accelerate resolution. Walk away with persona-tailored workspaces and working guided workflows built in minutes instead of days.",
+    "abstract": "In this builder session, you'll use no-code tools to design human agent experiences in Amazon Connect Customer. Create persona-specific workspaces - customizing layouts, apps, and views so frontline agents, back-office workers, and supervisors see only what they need. Build guided workflows in natural language: describe the view you want, and AI generates it. Set up AI agents to fill out forms in real time, freeing human agents to focus on the customer. Then test end-to-end to see how custom layouts, AI-generated views, and AI agents work together to speed resolution. Walk away with workspaces built in minutes, not days.",
     "times": [
       {
         "id": "1790360365636001AIsi",
@@ -25630,7 +25723,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -30759,7 +30852,7 @@
         "startTimeFormatted": "04:30 PM",
         "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -34362,7 +34455,7 @@
         "startTimeFormatted": "01:00 PM",
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -36589,7 +36682,7 @@
         "startTimeFormatted": "02:30 PM",
         "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -37644,7 +37737,7 @@
   },
   {
     "id": "1780442241531001cSLv",
-    "code": "COP365",
+    "code": "COP365-R",
     "title": "Allocate shared AWS infrastructure costs to your business units",
     "type": "Chalk talk",
     "level": "300 – Advanced",
@@ -37780,6 +37873,73 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 409",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789084255079001SQj3",
+    "code": "COP370",
+    "title": "Use AI to Take Your Resilience to the Next Level",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Your architecture evolves fast — your resilience should too. Come talk with AWS resilience experts about how AI changes the way teams assess, test, and strengthen workloads. Explore generative AI-powered failure mode assessments that uncover risks before they reach production, and see how AWS DevOps Agent observes resilience tests in real time to deliver root cause analysis and context-aware remediation recommendations. Bring your questions, dig into the details, and leave with practical ways to make AI work for your resilience program.",
+    "times": [
+      {
+        "id": "1794435552258001rVH0",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789084255870001SmA8",
+    "code": "COP376",
+    "title": "Who's Watching Your Agents? Observability for the AI Era",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "When your software thinks for itself, how do you know it's working? As AI agents move into production, observability is the difference between confidence and chaos. Join this networking session to connect with practitioners tackling the same questions: how to monitor agentic workloads, control cost, and catch failures before customers do. We'll explore Amazon CloudWatch Omni, the re-imagined observability experience that is AI-powered, built on open standards, and delivered outside the AWS Console. Come to network, share a tip or two, or challenge us with your toughest observability questions.",
+    "times": [
+      {
+        "id": "1794435733044001JpSK",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -40421,7 +40581,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -40563,7 +40723,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -40669,7 +40829,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -40852,7 +41012,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -41936,7 +42096,7 @@
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -43455,7 +43615,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -43998,7 +44158,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -44571,7 +44731,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -44819,7 +44979,7 @@
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -45283,60 +45443,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 114",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1793298756641001oJW2",
-    "code": "EXS025",
-    "title": "A leader's guide to modernizing systems for AI, with AI",
-    "type": "Mainstage",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Every enterprise faces the same sequencing problem: \"Before we can deploy AI, we need to fix our legacy systems.\" This is technology's most expensive false binary. Organizations that made real progress rejected that sequence. They use AI to understand undocumented code, decompose monoliths, and rebuild the very systems blocking deployment. One airline uses AI to comprehend reservation logic only three people understand. Another enterprise uses agents to reverse-engineer decades of business rules into microservices. The recursive unlock: the technology you want to deploy removes what blocks it. This session covers the funding, sequencing, and organizational decisions that make it work.",
-    "times": [
-      {
-        "id": "1793916195084001hazw",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "11:00",
-        "endTime": "11:45",
-        "startTimeFormatted": "11:00 AM",
-        "endTimeFormatted": "11:45 AM",
-        "duration": 45,
-        "room": "Venetian | Level 5 | Palazzo Ballroom M | Mainstage",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1793298808907001rRBx",
-    "code": "EXS026",
-    "title": "A leader's guide to what separates AI leaders from the rest",
-    "type": "Mainstage",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "In early 2026, the Reimagine research program interviewed senior technology leaders under conditions of candor: off-the-record, non-attributable, no marketing follow-up. What they said contradicts the prevailing conference narrative. Nobody is running agents autonomously, not one. The most advanced organizations are carrying the most technical debt. The AI generating real value looks nothing like the demos. This session synthesizes the patterns that emerged when executives stopped performing confidence and started sharing reality. ",
-    "times": [
-      {
-        "id": "1793916283798001oyWM",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "11:45",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:45 AM",
-        "endTimeFormatted": "12:30 PM",
-        "duration": 45,
-        "room": "Venetian | Level 5 | Palazzo Ballroom M | Mainstage",
-        "venue": "Venetian"
       }
     ]
   },
@@ -46689,7 +46795,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -46912,7 +47018,7 @@
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -48684,7 +48790,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -50055,7 +50161,7 @@
   {
     "id": "1780442281085001cU1I",
     "code": "IND327-R",
-    "title": "Build self-healing agents from diagnosis to disaster recovery",
+    "title": "Build a team of agents: From incident diagnosis to safe remediation",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -50898,7 +51004,7 @@
         "startTimeFormatted": "11:30 AM",
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -51001,7 +51107,7 @@
         "startTimeFormatted": "01:00 PM",
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -51156,7 +51262,7 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "05:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -51458,7 +51564,7 @@
         "startTimeFormatted": "08:30 AM",
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -51496,7 +51602,7 @@
         "startTimeFormatted": "02:30 PM",
         "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -51853,44 +51959,6 @@
     ]
   },
   {
-    "id": "1793305648990001BeEm",
-    "code": "IND3338-R1",
-    "title": "Accelerate Physical AI development with NVIDIA on AWS",
-    "type": "Chalk talk",
-    "level": "300 – Advanced",
-    "topics": [
-      "Artificial Intelligence",
-      "Industry Solutions"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Innovation & Transformation",
-      "Robotics"
-    ],
-    "roles": [
-      "Data Scientist",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
-    "abstract": "Physical AI is reshaping manufacturing, robotics, and autonomous systems, but realizing that potential requires robust infrastructure and purpose-built tools. AWS and NVIDIA have partnered to simplify the entire Physical AI development lifecycle: from synthetic data generation and model training through sim-to-real validation and hardware-in-loop testing. In this session, discover how the Physical AI Toolchain from AWS provides access to AWS managed infrastructure and NVIDIA’s foundation models and training applications to accelerate every stage of development, reduce time-to-market, and optimize resource utilization across your pipeline.  ",
-    "times": [
-      {
-        "id": "1793305724513001BS4v",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
-        "duration": 60,
-        "room": "Caesars Palace | Promenade Level | Neopolitan III",
-        "venue": "Caesars Palace"
-      }
-    ]
-  },
-  {
     "id": "1780442263803001c0KW",
     "code": "IND3339",
     "title": "Agentic advertising with privacy-enhanced data collaboration",
@@ -52108,7 +52176,7 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "05:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -52286,7 +52354,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -52362,7 +52430,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -52548,6 +52616,35 @@
     ]
   },
   {
+    "id": "1792690468822001D19p",
+    "code": "IND3356",
+    "title": "How Audi is Building an Adaptive Factory with Physical AI on AWS",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Audi is pursuing its vision of an adaptive factory, a networked plant where machines perceive, reason, and act in real time. Discover how Audi is using physical AI on AWS to build multi-robot cells that optimize and steer themselves. Using NVIDIA Omniverse on Amazon EC2 to simulate multiple robots, Amazon Bedrock agents to generate robot code, and edge connectivity to precisely control machines on the shop floor, Audi is reducing the typical 24 month planning process and minimizing downtime. Now, robots keep welding, not waiting. Leave with lessons for bringing physical AI from pilot to scale in your organization.",
+    "times": [
+      {
+        "id": "1793031639614001AUu0",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441477646001GG1s",
     "code": "IND344",
     "title": "How Chamberlain and Daikin power smart product innovation with AWS",
@@ -52578,7 +52675,7 @@
         "startTimeFormatted": "11:30 AM",
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -54102,7 +54199,7 @@
   {
     "id": "1780442228845001cCik",
     "code": "IND373",
-    "title": "Build a Research Co-Scientist Using Amazon Quick",
+    "title": "Build a Research Co-Scientist Using AWS Quick",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -54115,7 +54212,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn how to build your own co-scientist with Amazon Quick. In this builder session, you'll gain hands-on experience with loading life sciences domain skills directly into Amazon Quick, and work through your own scientific questions with guidance from AWS's life sciences experts. Learn how to bring expert-level reasoning to everyday research workflows. ",
+    "abstract": "Learn how to build your own co-scientist with AWS Quick. In this builder session, you'll gain hands-on experience with loading life sciences domain skills directly into Amazon Quick, and work through your own scientific questions with guidance from AWS's life sciences experts. You'll leave with firsthand experience on bringing expert-level reasoning to everyday research workflows. ",
     "times": [
       {
         "id": "1790025549006001Ch54",
@@ -54587,7 +54684,7 @@
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -55103,7 +55200,7 @@
   {
     "id": "1780442280853001cz36",
     "code": "IND403",
-    "title": "Build a Video Semantic Layer for Media Agent and Agent Harness on AWS",
+    "title": "Build a Video Semantic Layer for Media Agent on AWS",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -55122,7 +55219,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "This workshop tackles a question most media organizations have yet to ask: your video pipeline extracts rich metadata for human search and discovery, but is it actually optimized for agents? In this hands-on session, you will build the semantic infrastructure that bridges that gap: multimodal embeddings tuned for machine recall, hybrid search that combines vector similarity with keyword precision, and an entity graph that maps content relationships into structures agents can reason over. By the end of this workshop, you will have a media agent harness that queries, enriches, and continuously improves their video understanding, making video content not just searchable by people but optimized at scale for agents.",
+    "abstract": "This workshop tackles a question most media organizations have yet to ask: your video pipeline extracts rich metadata for human search and discovery, but is it actually optimized for agents? In this hands-on session, you will build the semantic infrastructure that bridges that gap: multimodal embeddings tuned for machine recall, hybrid search that combines vector similarity with keyword precision, and an entity graph that maps content relationships into structures agents can reason over. By the end of this workshop, you will have a media agent harness that queries, enriches, and continuously improves video understanding, making video content not just searchable by people but optimized at scale for agents.",
     "times": [
       {
         "id": "1790025529039001CJES",
@@ -58900,7 +58997,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -61491,7 +61588,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Transaction Network Services (TNS) needed to modernize their Altitude payments platform that included 274 projects, 988K lines of code, and 20 years of legacy .NET Framework to .NET 10. Their estimate: six months. The result: two days, 26 modules migrated, and 34 security vulnerabilities resolved. In this session, you'll learn what made it possible - from upgrading shared libraries first, running deterministic tools before AI, using human-verified tests, to keeping engineers on the keyboard after the tools stop running. Walk away with a practical, repeatable playbook for accelerating large-scale .NET modernization.",
+    "abstract": "Transaction Network Services (TNS) needed to modernize their internal payment related platform that included 274 projects, 988K lines of code, and 20 years of legacy .NET Framework to .NET 10. Their estimate: six months. The result: two days, 26 modules migrated, and 34 security vulnerabilities resolved. In this session, you'll learn what made it possible - from upgrading shared libraries first, running deterministic tools before AI, using human-verified tests, to keeping engineers on the keyboard after the tools stop running. Walk away with a practical, repeatable playbook for accelerating large-scale .NET modernization",
     "times": [
       {
         "id": "1790033109809001qXo8",
@@ -63964,7 +64061,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -64525,7 +64622,7 @@
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -64931,7 +65028,7 @@
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -65231,7 +65328,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -65421,44 +65518,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 409",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1780442261114001clV7",
-    "code": "NET344",
-    "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
-    "type": "Lightning talk",
-    "level": "300 – Advanced",
-    "topics": [
-      "Architecture",
-      "Networking & Content Delivery"
-    ],
-    "areasOfInterest": [
-      "Identity & Access Management",
-      "Network & Infrastructure Security",
-      "Zero Trust"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Join us to explore architecture patterns for DDI  - DNS, DHCP, and IP Address Management (IPAM). This session covers approaches for resolving DNS across hybrid and multicloud environments, managing private and public domains, and unifying address management for consistent governance and visibility. Walk away with best practices that simplify DDI operations at scale.",
-    "times": [
-      {
-        "id": "1790963623220001QpDo",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "13:00",
-        "endTime": "13:20",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "01:20 PM",
-        "duration": 20,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -65949,7 +66008,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -66353,7 +66412,7 @@
         "startTimeFormatted": "04:30 PM",
         "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -69214,7 +69273,7 @@
         "startTimeFormatted": "11:30 AM",
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -69459,10 +69518,10 @@
         "id": "1790033111455001qkcD",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "12:00",
-        "endTime": "12:20",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "12:20 PM",
+        "startTime": "10:30",
+        "endTime": "10:50",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "10:50 AM",
         "duration": 20,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
         "venue": "Wynn/Encore"
@@ -69494,10 +69553,10 @@
         "id": "1790033111285001q1IX",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "10:30",
-        "endTime": "10:50",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "10:50 AM",
+        "startTime": "12:00",
+        "endTime": "12:20",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:20 PM",
         "duration": 20,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
         "venue": "Wynn/Encore"
@@ -69573,7 +69632,7 @@
   {
     "id": "1780441480602001Gwy6",
     "code": "SEC206",
-    "title": "Digital sovereignty: Verifiable controls and greater choice",
+    "title": "Digital sovereignty: Verifiable controls, greater choice, & innovation",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -69586,7 +69645,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Evolving regulations and geopolitical shifts are prompting organizations to rethink how they protect data and maintain control in the cloud, without slowing innovation and AI adoption. This session explores how AWS helps customers meet their digital sovereignty requirements with the full power of the cloud through a range of offerings, including the AWS European Sovereign Cloud, backed by verifiable and auditable controls. Learn what AI sovereignty means in practice, get answers to the most common questions, and hear how AWS and partners are helping organizations navigate complexity in a fast-changing landscape.",
+    "abstract": "Evolving regulations and geopolitical shifts are forcing organizations to rethink how they protect data, limit access, and maintain control in the cloud, without slowing AI adoption. In this session, learn how AWS helps customers meet digital sovereignty requirements through verifiable, auditable, and enforceable controls, including the AWS European Sovereign Cloud. Learn what AI sovereignty means in practice, get answers to the most common questions, and hear how AWS and partners are helping organizations stay compliant without compromising on capability.",
     "times": [
       {
         "id": "1790025550960001CYDp",
@@ -69927,7 +69986,7 @@
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -69965,7 +70024,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -70856,7 +70915,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -71067,7 +71126,7 @@
         "startTimeFormatted": "08:30 AM",
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -71188,7 +71247,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Level up your firewall policy operations at scale in this hands-on workshop. Learn to integrate AWS Network Firewall into an existing AWS environment using Terraform. Starting with a realistic multi-VPC setup with AWS Transit Gateway, you will deploy Network Firewall and configure routing, inspection, and logging in minutes using reusable modules. You will then implement the latest Network Firewall features such as web category filtering, JA4 fingerprinting, and EventBridge automation. By the end of this session you will have both practical experience adding Network Firewall to existing environments and reusable patterns ready for your own infrastructure.",
+    "abstract": "In this workshop, you deploy AWS Network Firewall and Route 53 Resolver DNS Firewall into a realistic multi-VPC environment using reusable Terraform modules. You start by adding egress and east-west traffic inspection, then get hands-on with recent launches including container-aware rules, domain category filtering for visibility into AI traffic, and managed threat intelligence. You leave with reusable patterns for adding network traffic inspection to your own infrastructure.",
     "times": [
       {
         "id": "1790360402528001AdG9",
@@ -71804,7 +71863,7 @@
         "startTimeFormatted": "08:30 AM",
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -71946,7 +72005,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -72216,7 +72275,7 @@
         "startTimeFormatted": "02:30 PM",
         "endTimeFormatted": "03:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -73457,7 +73516,7 @@
         "startTimeFormatted": "01:00 PM",
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -73489,7 +73548,7 @@
         "startTimeFormatted": "11:30 AM",
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -73732,7 +73791,7 @@
   {
     "id": "1780442257930001cFqN",
     "code": "SEC372",
-    "title": "Governing hundreds of accounts in seconds: agentic AI meets Landing Zone operations",
+    "title": "Governing Hundreds of Accounts in Minutes: Agentic AI Meets Landing Zone Operations",
     "type": "Code talk",
     "level": "300 – Advanced",
     "topics": [
@@ -74145,7 +74204,7 @@
         "startTimeFormatted": "10:00 AM",
         "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -74347,7 +74406,7 @@
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "05:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -75195,7 +75254,7 @@
         "startTimeFormatted": "08:30 AM",
         "endTimeFormatted": "09:30 AM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -75707,7 +75766,7 @@
         "startTimeFormatted": "01:00 PM",
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | White Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Light Blue Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -76744,7 +76803,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -76782,7 +76841,7 @@
         "startTimeFormatted": "04:30 PM",
         "endTimeFormatted": "05:30 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -76820,7 +76879,7 @@
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -78054,7 +78113,7 @@
         "startTimeFormatted": "01:30 PM",
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | White Theater",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Light Blue Theater",
         "venue": "MGM Grand"
       }
     ]
@@ -78091,7 +78150,7 @@
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | White Theater",
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Light Blue Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -80516,7 +80575,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "The next wave of AI won't just answer questions. It will move, build and explore. Join us for a fireside chat with startups and partners turning breakthroughs in robotics, autonomy and hard tech into real products. Learn how they handle data, simulation, compute and go-to-market to bring AI into the physical world.",
+    "abstract": "The next wave of AI won't just answer questions. It will move, build and explore. Join us for a panel discussion with startups and partners turning breakthroughs in robotics, autonomy and hard tech into real products. Learn how they handle data, simulation, compute and go-to-market to bring AI into the physical world.",
     "times": [
       {
         "id": "1793917578986001mFan",
@@ -81083,6 +81142,37 @@
         "endTimeFormatted": "01:00 PM",
         "duration": 20,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793655183609001nUpp",
+    "code": "SUP231",
+    "title": "Personal AI agents that learn: building with Hermes Agent on AWS",
+    "type": "Featured experience",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "What would you build with an AI agent that learns new skills on its own? Hermes Agent is an open-source AI agent that improves itself as you use it. Hervé Bizira, Chief Business Officer at Nous Research, joins Joseph Dolivo, Principal Technologist at AWS Startups, for a fireside chat about how Hermes learns the way your team works and saves it as skills the next person can reuse. They'll also cover how to choose models on Amazon Bedrock based on what a successful task costs. To close, you'll set up your own personal agent with Hermes Agent and Amazon Bedrock and leave with an agent that has already learned something from you. Make sure to bring a laptop!",
+    "times": [
+      {
+        "id": "1794246710298001gR4l",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "03:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Studio",
         "venue": "Caesars Forum"
       }
     ]
