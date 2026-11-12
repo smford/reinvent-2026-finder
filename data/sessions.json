@@ -69142,7 +69142,7 @@
   {
     "id": "1792716379689001MrpS",
     "code": "SEC003",
-    "title": "Operationalizing security for the future with best practices today",
+    "title": "Your new playbook: Operationalizing security in a world of AI",
     "type": "Mainstage",
     "level": "No Level",
     "topics": [
@@ -69152,7 +69152,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "The future of security is here and the question is: what can you do with it on Monday morning? New capabilities only matter if you can put them to work. In this session, Eric Brandwine, AWS VP and Distinguished Engineer, will show you how to take the latest AWS security innovations and operationalize them across your organization. You'll see how new capabilities fit together to strengthen your security posture, not in theory but in practice. Eric will draw on decades of experience building security at AWS to share the architectural patterns, operational best practices, and mental models that help teams move from announcement to adoption. Whether you're a security leader setting strategy or a practitioner building the systems, you'll leave with a clear understanding of how to put AWS Security innovations to work and raise your security bar.",
+    "abstract": "The timeline for responding to a security issue has compressed. Change is now constant and can be bewildering, and as security professionals we still need to deliver on our promises to customers. In this session, Eric Brandwine, AWS VP and Distinguished Engineer, will show you what you can do, today, to help your security team move faster and more effectively, and to adapt to the new world of change. Eric will draw on decades of experience building security at AWS to share the architectural patterns, operational best practices, and mental models that help teams move from announcement to adoption. Whether you're a security leader setting strategy or a practitioner building the systems, you'll leave with a clear understanding of how to take advantage of the new opportunities in front of you and to raise your security bar.",
     "times": [
       {
         "id": "1794001544474001mXl7",
