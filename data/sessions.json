@@ -15774,99 +15774,6 @@
     ]
   },
   {
-    "id": "1789084255253001SofF",
-    "code": "ANT357",
-    "title": "Giving AI agents the context they need with AWS Context",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Analytics"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "Data Engineer"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "An open conversation on how agents get the right knowledge at the right time, including skills, plugins, and open knowledge formats. Trade patterns for feeding governed, trustworthy context to agentic applications.",
-    "times": [
-      {
-        "id": "1794434128616001fUjf",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "14:00",
-        "endTime": "14:45",
-        "startTimeFormatted": "02:00 PM",
-        "endTimeFormatted": "02:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1789084255541001SPGF",
-    "code": "ANT358",
-    "title": "Interactive and largescale analytics with Amazon Athena and Amazon EMR",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Analytics"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "Data Engineer"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Whiteboard how to combine interactive SQL on Athena with large-scale processing on EMR over open table formats. Swap real-world tuning, cost, and architecture tips with fellow builders.",
-    "times": [
-      {
-        "id": "1794434549394001BTtr",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1789084255924001SvhV",
-    "code": "ANT359",
-    "title": "Open, governed data and AI with the AWS Glue Data Catalog",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Analytics"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "Data Engineer"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Dig into how open standards and open table formats let you govern and share data across engines without lock-in. Bring your toughest access-control and cataloging questions and compare approaches with the people who work on it.",
-    "times": [
-      {
-        "id": "1794434856410001NuPs",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
     "id": "1780442274284001c7uQ",
     "code": "ANT401",
     "title": "Data governance for trustworthy AI: from raw data to trusted products",
@@ -22071,6 +21978,33 @@
     ]
   },
   {
+    "id": "1793907193466001Wsf6",
+    "code": "AWS124",
+    "title": "Twenty Years of Building and What Comes Next, with Dr. Werner Vogels and Dr. Swami Sivasubramanian",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Dr. Werner Vogels and Dr. Swami Sivasubramanian have spent two decades building at Amazon, from the earliest days of scaling Amazon.com and pioneering AWS, which fundamentally transformed how the world consumes IT services, too the agents changing how software gets made today. In this candid conversation, they talk about the choices that shaped their careers and how they see technology today. They also look ahead: where innovation is heading, and the skills you’ll need to be successful when it gets there. Expect strong opinions, stories you haven’t heard and advice you can act on straight away.",
+    "times": [
+      {
+        "id": "1794516988563001GOcE",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Venetian Theatre",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1786406740065001Lgdd",
     "code": "AWS125",
     "title": "Who gets to decide the future?",
@@ -22741,7 +22675,7 @@
   {
     "id": "1780441465934001G6hh",
     "code": "BIZ112",
-    "title": "From Zero to 20,000 Desktops: Getting Started with Amazon Quick",
+    "title": "From Zero to 20,000 Desktops: Getting Started with AWS Quick",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -22751,7 +22685,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your team is drowning in context-switching: toggling between email, documents, data tools, and chat just to complete a single task. Productivity tools promise to help, but most add complexity instead of removing it. In this fireside chat, hear from customers who faced that exact challenge and deployed an AI work companion across 20,000+ users in under 90 days. Learn what convinced their leadership to invest, how they integrated AI into daily workflows without disrupting existing tools, and what the first 90 days of adoption actually looked like. Walk away with a practical roadmap for bringing Amazon Quick AI assistant to your workforce at scale.",
+    "abstract": "Your team is drowning in context-switching: toggling between email, documents, data tools, and chat just to complete a single task. Productivity tools promise to help, but most add complexity instead of removing it. In this fireside chat, hear from customers who faced that exact challenge and deployed an AI work companion across 20,000+ users in under 90 days. Learn what convinced their leadership to invest, how they integrated AI into daily workflows without disrupting existing tools, and what the first 90 days of adoption actually looked like. Walk away with a practical roadmap for bringing AWS Quick AI assistant to your workforce at scale.",
     "times": [
       {
         "id": "1790025482567001CiK1",
@@ -22770,7 +22704,7 @@
   {
     "id": "1780441466155001GvQ6",
     "code": "BIZ113",
-    "title": "Getting Started with Amazon Quick: How a Customer Went from Curious to Deployed",
+    "title": "Getting Started with AWS Quick: How a Customer Went from Curious to Deployed",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -22780,7 +22714,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Your team spends hours on work that should take minutes: summarizing meetings, drafting documents, finding answers buried across systems, pulling data from multiple platforms. You know AI should help, but you need to see it work in a real environment before you commit. In this session, see how a customer put Amazon Quick into daily workflows across their organization and watch live as it composes documents, analyzes data, summarizes conversations, and connects to enterprise systems. Hear what problems they were solving, what changed for their teams after deployment, and what surprised them about adoption. Leave with a clear picture of the problems Quick solves and how to evaluate whether it fits your organization.",
+    "abstract": "Your team spends hours on work that should take minutes: summarizing meetings, drafting documents, finding answers buried across systems, pulling data from multiple platforms. You know AI should help, but you need to see it work in a real environment before you commit. In this session, see how a customer put AWS Quick into daily workflows across their organization and watch live as it composes documents, analyzes data, summarizes conversations, and connects to enterprise systems. Hear what problems they were solving, what changed for their teams after deployment, and what surprised them about adoption. Leave with a clear picture of the problems Quick solves and how to evaluate whether it fits your organization.",
     "times": [
       {
         "id": "1790034533034001pZ9T",
@@ -23294,7 +23228,7 @@
   {
     "id": "1780441465993001GIUO",
     "code": "BIZ213",
-    "title": "Accelerating AI adoption and realized value with Amazon Quick",
+    "title": "Accelerating AI adoption and realized value with AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23304,7 +23238,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Most AI investments stall because leaders hand off adoption instead of leading it. 3M did the opposite. It put Amazon Quick in the hands of its top 75 executives first, so the people who set strategy saw the value before they asked their teams to adopt it. With governed access to enterprise data, senior leaders now use Quick to make decisions faster, bring their teams onto shared workflows and turn AI from a personal tool into a team-wide advantage. Learn what executive sponsorship changed, what leaders gained in speed and focus and how to build the same momentum in your organization.",
+    "abstract": "Most AI investments stall because leaders hand off adoption instead of leading it. 3M did the opposite. It put AWS Quick in the hands of its top 75 executives first, so the people who set strategy saw the value before they asked their teams to adopt it. With governed access to enterprise data, senior leaders now use Quick to make decisions faster, bring their teams onto shared workflows and turn AI from a personal tool into a team-wide advantage. Learn what executive sponsorship changed, what leaders gained in speed and focus and how to build the same momentum in your organization.",
     "times": [
       {
         "id": "1790034533096001paRV",
@@ -23333,7 +23267,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Allianz needed to empower 155,000 employees with AI without sacrificing trust. With operations across dozens of regulated markets, the security, privacy, and works council requirements were non-negotiable. Every stakeholder asked the same question: how do you move fast and still earn the trust of those guarding your company's security? Hear how Allianz partnered with AWS to deploy the capabilities that make Amazon Quick enterprise-ready: protection of confidential information, structured approval workflows for agentic actions, custom branding per business unit, and multi-language support. Learn how Allianz navigated the full approval process and moved from \"not yet\" to \"go\" in six weeks.",
+    "abstract": "Allianz needed to empower 155,000 employees with AI without sacrificing trust. With operations across dozens of regulated markets, the security, privacy, and works council requirements were non-negotiable. Every stakeholder asked the same question: how do you move fast and still earn the trust of those guarding your company's security? Hear how Allianz partnered with AWS to deploy the capabilities that make AWS Quick enterprise-ready: protection of confidential information, structured approval workflows for agentic actions, custom branding per business unit, and multi-language support. Learn how Allianz navigated the full approval process and moved from \"not yet\" to \"go\" in six weeks.",
     "times": [
       {
         "id": "1790025510722001CBx6",
@@ -23352,7 +23286,7 @@
   {
     "id": "1780441466368001Gh3y",
     "code": "BIZ215",
-    "title": "From Pilot to Enterprise Scale with Amazon Quick",
+    "title": "From Pilot to Enterprise Scale with AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23362,7 +23296,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "EchoStar evaluated 11 AI assistants before selecting Amazon Quick, which was then deployed to 8,000 employees with training and pre-populated skills. Next in EchoStar’s plans are integrating Quick with a third party gateways for observability and governance. Come and hear how this was done, uptake and innovations improving the efficiency of employees and teams. Discover some of the challenges integrating into existing enterprise systems, the continued activities needed to keep advancing high value usage and what are the appropriate metrics to track. Walk away with a repeatable framework for taking Amazon Quick from pilot to production and enterprise efficiency.",
+    "abstract": "EchoStar evaluated 11 AI assistants before selecting AWS Quick, which was then deployed to 8,000 employees with training and pre-populated skills. Next in EchoStar’s plans are integrating Quick with a third party gateways for observability and governance. Come and hear how this was done, uptake and innovations improving the efficiency of employees and teams. Discover some of the challenges integrating into existing enterprise systems, the continued activities needed to keep advancing high value usage and what are the appropriate metrics to track. Walk away with a repeatable framework for taking AWS Quick from pilot to production and enterprise efficiency.",
     "times": [
       {
         "id": "1790025550222001CxFr",
@@ -23381,7 +23315,7 @@
   {
     "id": "1780441465879001GC5t",
     "code": "BIZ216",
-    "title": "AI Assistant for Public Sector: Governance Without Compromise with Amazon Quick",
+    "title": "AI Assistant for Public Sector: Governance Without Compromise with AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23391,7 +23325,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Public sector organizations serve diverse populations with strict boundaries: students and administrators, citizens and case workers, patients and providers. They need AI that works across these groups without compromising data isolation, compliance, or governance. Multi-tenant environments demand security frameworks most AI assistants were not built to meet.\n\nHear from a higher education customer who faced these constraints and displaced their incumbent tool in favor of Amazon Quick's governance-first architecture: tenant-level data isolation, role-based access controls across distinct user populations, and compliance frameworks built for regulated environments. Learn why existing solutions fell short, how Quick's native governance model met their requirements without custom engineering, and what the transition looked like from decision to deployment.",
+    "abstract": "Public sector organizations serve diverse populations with strict boundaries: students and administrators, citizens and case workers, patients and providers. They need AI that works across these groups without compromising data isolation, compliance, or governance. Multi-tenant environments demand security frameworks most AI assistants were not built to meet.\n\nHear from a higher education customer who faced these constraints and displaced their incumbent tool in favor of AWS Quick's governance-first architecture: tenant-level data isolation, role-based access controls across distinct user populations, and compliance frameworks built for regulated environments. Learn why existing solutions fell short, how Quick's native governance model met their requirements without custom engineering, and what the transition looked like from decision to deployment.",
     "times": [
       {
         "id": "1790025527875001Cx4d",
@@ -23410,7 +23344,7 @@
   {
     "id": "1780441465825001Gj53",
     "code": "BIZ217",
-    "title": "One AI Assistant, Every Data Source: Unifying Access with Amazon Quick",
+    "title": "One AI Assistant, Every Data Source: Unifying Access with AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23420,7 +23354,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your data lives in one platform. Your reports live in another. Your documents live somewhere else. Every time someone needs an answer, they spend time figuring out where to look before they can act. Decisions slow down. Teams duplicate work because they cannot find what already exists. New employees take months to become productive because institutional knowledge is trapped in systems they do not know how to navigate. Hear from a customer who solved this by giving their team a single AI assistant that connects across all their enterprise systems. Instead of training people on where to find information, they ask Amazon Quick and get answers grounded in their real business data, regardless of where it lives. Learn how they configured the integration, how their teams adopted it, and what changed about the speed and quality of decision-making across the organization.",
+    "abstract": "Your data lives in one platform. Your reports live in another. Your documents live somewhere else. Every time someone needs an answer, they spend time figuring out where to look before they can act. Decisions slow down. Teams duplicate work because they cannot find what already exists. New employees take months to become productive because institutional knowledge is trapped in systems they do not know how to navigate. Hear from a customer who solved this by giving their team a single AI assistant that connects across all their enterprise systems. Instead of training people on where to find information, they ask AWS Quick and get answers grounded in their real business data, regardless of where it lives. Learn how they configured the integration, how their teams adopted it, and what changed about the speed and quality of decision-making across the organization.",
     "times": [
       {
         "id": "1790034534828001pNQV",
@@ -23439,7 +23373,7 @@
   {
     "id": "1780441466101001GT93",
     "code": "BIZ218",
-    "title": "From AI Tasks to Autonomous Multi-Agent Workflows with Amazon Quick",
+    "title": "From AI Tasks to Autonomous Multi-Agent Workflows with AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23449,7 +23383,7 @@
     "roles": [],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "The workflows that matter most in financial services span multiple systems, require multiple types of expertise, and today rely on people as the coordination layer. One person pulls data, another reviews it for compliance, a third routes it for approval. That coordination tax is where your team's time disappears. Amazon Quick changes that equation. Instead of one AI assistant doing one task, specialized agents each handle their piece and hand off to the next automatically. The human stays in the loop for judgment calls, not for data gathering and routing. Hear from a customer who moved from standalone AI use cases to compound, multi-agent workflows with Amazon Quick. Learn how they identified which workflows to orchestrate first, how they designed agent handoffs that satisfy compliance, and what it means now that the coordination layer runs autonomously.",
+    "abstract": "The workflows that matter most in financial services span multiple systems, require multiple types of expertise, and today rely on people as the coordination layer. One person pulls data, another reviews it for compliance, a third routes it for approval. That coordination tax is where your team's time disappears. AWS Quick changes that equation. Instead of one AI assistant doing one task, specialized agents each handle their piece and hand off to the next automatically. The human stays in the loop for judgment calls, not for data gathering and routing. Hear from a customer who moved from standalone AI use cases to compound, multi-agent workflows with AWS Quick. Learn how they identified which workflows to orchestrate first, how they designed agent handoffs that satisfy compliance, and what it means now that the coordination layer runs autonomously.",
     "times": [
       {
         "id": "1790034534689001puOL",
@@ -23468,7 +23402,7 @@
   {
     "id": "1780441466262001GSAX",
     "code": "BIZ219",
-    "title": "How a Brand Turned AI Governance Into a Strategic Advantage with Amazon Quick",
+    "title": "How a Brand Turned AI Governance Into a Strategic Advantage with AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -23478,7 +23412,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "AI adoption rarely waits for governance. When employees adopt AI faster than policy keeps pace, scale becomes a liability. Cox Automotive, the world’s largest automotive services and technology provider and home to brands including Autotrader, Kelley Blue Book, Manheim, vAuto and Dealertrack, defined a governance strategy to empower adoption. Hear how Cox Auto alongside AWS is building an agentic control plane spanning agent identity, ownership, security, cost accountability and more – and why Amazon Quick fit the everyday AI needs of its 29,000 person workforce. Leave with a practical seven pillar framework that simplifies safe and smart adoption in the enterprise.",
+    "abstract": "AI adoption rarely waits for governance. When employees adopt AI faster than policy keeps pace, scale becomes a liability. Cox Automotive, the world’s largest automotive services and technology provider and home to brands including Autotrader, Kelley Blue Book, Manheim, vAuto and Dealertrack, defined a governance strategy to empower adoption. Hear how Cox Auto alongside AWS is building an agentic control plane spanning agent identity, ownership, security, cost accountability and more – and why AWS Quick fit the everyday AI needs of its 29,000 person workforce. Leave with a practical seven pillar framework that simplifies safe and smart adoption in the enterprise.",
     "times": [
       {
         "id": "1790025476567001Clxy",
@@ -23567,7 +23501,7 @@
   {
     "id": "1780442224881001cKJF",
     "code": "BIZ301",
-    "title": "Build and Ship an AI-Powered App with Amazon Quick",
+    "title": "Build and Ship an AI-Powered App with AWS Quick",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -23577,7 +23511,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In this hands-on builder session, you'll use Amazon Quick to design, iterate on, and publish a fully functional application through natural-language conversation. You'll connect to a live data source (pre-provisioned via MCP), shape your app interactively with generative AI, persist state across users, and publish something your team or customers can use immediately. Whether you're accelerating decision-making, automating operational workflows, or putting insights directly in the hands of end users, this session shows how Quick Apps collapses the gap between having an idea and shipping a solution. Bring your laptop and be ready to build.",
+    "abstract": "In this hands-on builder session, you'll use AWS Quick to design, iterate on, and publish a fully functional application through natural-language conversation. You'll connect to a live data source (pre-provisioned via MCP), shape your app interactively with generative AI, persist state across users, and publish something your team or customers can use immediately. Whether you're accelerating decision-making, automating operational workflows, or putting insights directly in the hands of end users, this session shows how Quick Apps collapses the gap between having an idea and shipping a solution. Bring your laptop and be ready to build.",
     "times": [
       {
         "id": "1790025490573001C2Ik",
@@ -23596,7 +23530,7 @@
   {
     "id": "1780442224933001c7YK",
     "code": "BIZ302",
-    "title": "Embed Amazon Quick Chat Agents in Enterprise Applications",
+    "title": "Embed AWS Quick Chat Agents in Enterprise Applications",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -23606,7 +23540,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Deploy a fully serverless, production-ready solution that embeds Amazon Quick agents and dashboards into your enterprise web applications. Using AWS CDK, configure Amazon Cognito OAuth 2.0 authentication, Lambda, API Gateway, CloudFront, and WAF to create a secure embedding architecture. Implement the Quick Embedding SDK, configure domain security and token validation, and deploy a working chat agent accessible from any enterprise application — turning Quick into the conversational AI layer that meets users where they already work.",
+    "abstract": "Deploy a fully serverless, production-ready solution that embeds AWS Quick agents and dashboards into your enterprise web applications. Using AWS CDK, configure Amazon Cognito OAuth 2.0 authentication, Lambda, API Gateway, CloudFront, and WAF to create a secure embedding architecture. Implement the Quick Embedding SDK, configure domain security and token validation, and deploy a working chat agent accessible from any enterprise application — turning Quick into the conversational AI layer that meets users where they already work.",
     "times": [
       {
         "id": "1790025534806001CXxu",
@@ -23654,7 +23588,7 @@
   {
     "id": "1780442236172001cIVj",
     "code": "BIZ304",
-    "title": "Building & Governing Apps on Quick",
+    "title": "Zero-Trust Identity & Data Protection in AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -23664,7 +23598,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Anyone can generate apps from a sentence - the hard part is governing them and getting them in front of the right users. This chalk talk whiteboards the full lifecycle of Amazon Quick Apps: building them from natural language with no separate hosting, wiring in data and actions through MCP, and the three sharing paths - private, public URLs, and enterprise sharing gated behind admin approval workflows. ",
+    "abstract": "Anyone can generate apps from a sentence - the hard part is governing them and getting them in front of the right users. This chalk talk whiteboards the full lifecycle of AWS Quick Apps: building them from natural language with no separate hosting, wiring in data and actions through MCP, and the three sharing paths - private, public URLs, and enterprise sharing gated behind admin approval workflows. ",
     "times": [
       {
         "id": "1790025496515001CdyH",
@@ -23683,7 +23617,7 @@
   {
     "id": "1780442236230001cn8Y",
     "code": "BIZ305",
-    "title": "Security → Zero-Trust Identity & Data Protection in Amazon Quick",
+    "title": "Security → Zero-Trust Identity & Data Protection in AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -23693,7 +23627,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Security reviews stall AI rollouts more than any capability gap, and agentic AI raises the bar. This chalk talk goes past \"is it secure?\" to the architecture that gets a CISO to yes for Amazon Quick. We'll whiteboard the full identity path in Quick: SSO through providers like Okta and Ping, with end-user identity propagated to the data so authorization is enforced per user, in real time, across 1P AWS and 3P sources. Then we extend that trust to Quick agents: agent identity, deterministic policy checks on every tool call, and data protection, including Purview DLP, default guardrails, deny-by-default, and full SIEM auditability.",
+    "abstract": "Security reviews stall AI rollouts more than any capability gap, and agentic AI raises the bar. This chalk talk goes past \"is it secure?\" to the architecture that gets a CISO to yes for AWS Quick. We'll whiteboard the full identity path in Quick: SSO through providers like Okta and Ping, with end-user identity propagated to the data so authorization is enforced per user, in real time, across 1P AWS and 3P sources. Then we extend that trust to Quick agents: agent identity, deterministic policy checks on every tool call, and data protection, including Purview DLP, default guardrails, deny-by-default, and full SIEM auditability.",
     "times": [
       {
         "id": "1790025490647001Cxgj",
@@ -23712,7 +23646,7 @@
   {
     "id": "1780442236283001csyO",
     "code": "BIZ306",
-    "title": "Bring Your Own Ontology: Ground Amazon Quick in Enterprise Knowledge with AWS Context",
+    "title": "Bring Your Own Ontology: Ground AWS Quick in Enterprise Knowledge with AWS Context",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -23722,7 +23656,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Enterprise questions rarely have answers in a single document. Your business runs on connections — customers to products, teams to processes, risks to regulations — but vector search doesn't see any of that. In this chalk talk, we show how to ground Amazon Quick in your enterprise context by integrating it with a knowledge graph built from your domain knowledge. We'll walk through how we built this pattern using GraphRAG for real customers and the results they achieved. Then we'll open the whiteboard — bring your toughest use case and we'll sketch your ontology live, showing how Quick would traverse it to deliver dramatically better answers.",
+    "abstract": "Enterprise questions rarely have answers in a single document. Your business runs on connections — customers to products, teams to processes, risks to regulations — but vector search doesn't see any of that. In this chalk talk, we show how to ground AWS Quick in your enterprise context by integrating it with a knowledge graph built from your domain knowledge. We'll walk through how we built this pattern using GraphRAG for real customers and the results they achieved. Then we'll open the whiteboard — bring your toughest use case and we'll sketch your ontology live, showing how Quick would traverse it to deliver dramatically better answers.",
     "times": [
       {
         "id": "1790025476494001CBtV",
@@ -23741,7 +23675,7 @@
   {
     "id": "1780442236341001c13t",
     "code": "BIZ307",
-    "title": "Architect AI-powered analytics with Amazon Quick across your data platforms",
+    "title": "Architect AI-powered analytics with AWS Quick across your data platforms",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -23751,7 +23685,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "As organizations adopt AI-powered analytics, they need architectures that connect BI and conversational AI experiences to their existing data platforms. In this session we'll diagram architectural patterns for connecting Amazon Quick to structured data sources and integrating with third-party catalogs and semantic layers. We'll compare the available connectivity approaches, including data sources and MCP-based action connectors, and discuss when to use each. Considerations will span production use cases like BI dashboards, embedded analytics, text-to-SQL Q&A, and agentic workflows. Together we'll tackle real-world integration challenges including authentication, performance optimization, and governance. This session is ideal for architects and technical leaders looking to build AI-powered analytics across their data platforms.",
+    "abstract": "As organizations adopt AI-powered analytics, they need architectures that connect BI and conversational AI experiences to their existing data platforms. In this session we'll diagram architectural patterns for connecting AWS Quick to structured data sources and integrating with third-party catalogs and semantic layers. We'll compare the available connectivity approaches, including data sources and MCP-based action connectors, and discuss when to use each. Considerations will span production use cases like BI dashboards, embedded analytics, text-to-SQL Q&A, and agentic workflows. Together we'll tackle real-world integration challenges including authentication, performance optimization, and governance. This session is ideal for architects and technical leaders looking to build AI-powered analytics across their data platforms.",
     "times": [
       {
         "id": "1790025482780001C3Ka",
@@ -23770,7 +23704,7 @@
   {
     "id": "1780442236064001cUg0",
     "code": "BIZ310",
-    "title": "Secure and Scalable Multi-Tenant Deployment Patterns for Amazon Quick",
+    "title": "Secure and Scalable Multi-Tenant Deployment Patterns for AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -23780,7 +23714,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "As organizations scale their adoption of Amazon Quick across business units, subsidiaries, and partner ecosystems, deploying a secure multi-tenant architecture becomes critical. This chalk talk explores proven deployment patterns that balance tenant isolation, governance, and operational efficiency when rolling out Amazon Quick at enterprise scale. We will walk through two primary isolation strategies: multi-account separation using AWS Organizations for environment-level boundaries (dev/staging/prod), and namespace-based logical isolation within a single account for user-cohort segmentation.",
+    "abstract": "As organizations scale their adoption of AWS Quick across business units, subsidiaries, and partner ecosystems, deploying a secure multi-tenant architecture becomes critical. This chalk talk explores proven deployment patterns that balance tenant isolation, governance, and operational efficiency when rolling out AWS Quick at enterprise scale. We will walk through two primary isolation strategies: multi-account separation using AWS Organizations for environment-level boundaries (dev/staging/prod), and namespace-based logical isolation within a single account for user-cohort segmentation.",
     "times": [
       {
         "id": "1790025492723001CxHu",
@@ -23799,7 +23733,7 @@
   {
     "id": "1780442276718001cyJQ",
     "code": "BIZ311",
-    "title": "Build production agent skills on Amazon Quick: automate your own work",
+    "title": "Build production agent skills on AWS Quick: automate your own work",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -23809,7 +23743,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Agent skills turn repeatable work into instructions an agent carries out reliably. In this hands-on workshop, you build production skills on Amazon Quick. You author skills from scratch with AI-powered assistance and apply engineering best practices as you build. You put your agents and skills to work automating real business use cases, measure the impact of what you built, and leave able to build and refine skills and agents that automate your own work.",
+    "abstract": "Agent skills turn repeatable work into instructions an agent carries out reliably. In this hands-on workshop, you build production skills on AWS Quick. You author skills from scratch with AI-powered assistance and apply engineering best practices as you build. You put your agents and skills to work automating real business use cases, measure the impact of what you built, and leave able to build and refine skills and agents that automate your own work.",
     "times": [
       {
         "id": "1790025525447001Cpsl",
@@ -23828,7 +23762,7 @@
   {
     "id": "1780442276774001cO7W",
     "code": "BIZ312",
-    "title": "Build AI-Powered Analytics with Conversational BI on Amazon Quick",
+    "title": "Build AI-Powered Analytics with Conversational BI on AWS Quick",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -23838,7 +23772,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Construct a complete AI-powered analytics pipeline, from data ingestion to conversational consumption. Use Amazon Quick's Data Catalog to discover data, query it live without moving it into SPICE, then enrich and import metadata with semantics inherited to build natural-language Q&A. In this hands-on workshop, you start with seven raw banking tables: no catalog, no definitions. An agent inspects the data and builds the catalog for you. You ask questions in plain English and get answers. An agent generates a dashboard showing which top customers are slipping. Another agent, aware of the bank's compliance rules, checks every offer before it ships. Then you automate the full response as a Quick Flow and wrap it in a custom app your team can use. You leave with a working banking command center that agents built, and that you can rebuild in your own account using conversational analytics.",
+    "abstract": "Construct a complete AI-powered analytics pipeline, from data ingestion to conversational consumption. Use AWS Quick's Data Catalog to discover data, query it live without moving it into SPICE, then enrich and import metadata with semantics inherited to build natural-language Q&A. In this hands-on workshop, you start with seven raw banking tables: no catalog, no definitions. An agent inspects the data and builds the catalog for you. You ask questions in plain English and get answers. An agent generates a dashboard showing which top customers are slipping. Another agent, aware of the bank's compliance rules, checks every offer before it ships. Then you automate the full response as a Quick Flow and wrap it in a custom app your team can use. You leave with a working banking command center that agents built, and that you can rebuild in your own account using conversational analytics.",
     "times": [
       {
         "id": "1790025508203001CnpI",
@@ -23857,7 +23791,7 @@
   {
     "id": "1780442276829001csCG",
     "code": "BIZ313",
-    "title": "Build agentic automations for business processes with Amazon Quick",
+    "title": "Build agentic automations for business processes with AWS Quick",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -23867,7 +23801,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "In this session, learn how to build an enterprise-grade automation using Amazon Quick Automate. Through a financial services example, explore how specialized AI agents work together to handle complex interactions across web pages and business applications. You'll create a production-ready automation featuring custom agents that leverage knowledge and tools to transform a merchant onboarding process. Using Quick Automate's chat based authoring and visual studio, you'll configure a workflow with multiple agents, integrate with multiple tools, test and debug the workflow, and then deploy it using robust enterprise controls. Walk away knowing how to develop agentic automations for real-world use cases.",
+    "abstract": "In this session, learn how to build an enterprise-grade automation using AWS Quick Automate. Through a financial services example, explore how specialized AI agents work together to handle complex interactions across web pages and business applications. You'll create a production-ready automation featuring custom agents that leverage knowledge and tools to transform a merchant onboarding process. Using Quick Automate's chat based authoring and visual studio, you'll configure a workflow with multiple agents, integrate with multiple tools, test and debug the workflow, and then deploy it using robust enterprise controls. Walk away knowing how to develop agentic automations for real-world use cases.",
     "times": [
       {
         "id": "1790025519733001C1Kr",
@@ -23886,7 +23820,7 @@
   {
     "id": "1780442276882001cKyt",
     "code": "BIZ314",
-    "title": "Build Multi-Agent Workflows with Amazon Quick, MCP & AgentCore",
+    "title": "Build Multi-Agent Workflows with AWS Quick, MCP & AgentCore",
     "type": "Workshop",
     "level": "300 – Advanced",
     "topics": [
@@ -23896,7 +23830,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Design and build a multi-agent system inside Amazon Quick where specialized agents collaborate to automate complex business processes. Connect to enterprise systems through MCP servers on Bedrock AgentCore, implement inter-agent communication, configure OAuth 2.0 authentication, and deploy autonomous workflows using Quick Flows. Modeled after production deployments running 12+ coordinated agents across ERP, finance, and procurement, you'll leave with a working multi-agent solution you can replicate in your own environment.",
+    "abstract": "Design and build a multi-agent system inside AWS Quick where specialized agents collaborate to automate complex business processes. Connect to enterprise systems through MCP servers on Bedrock AgentCore, implement inter-agent communication, configure OAuth 2.0 authentication, and deploy autonomous workflows using Quick Flows. Modeled after production deployments running 12+ coordinated agents across ERP, finance, and procurement, you'll leave with a working multi-agent solution you can replicate in your own environment.",
     "times": [
       {
         "id": "1790025529962001C85R",
@@ -24379,7 +24313,7 @@
   {
     "id": "1780442236647001cJvn",
     "code": "BIZ323-R",
-    "title": "Decision Frameworks, Evaluation, and Cost Management with Amazon Quick",
+    "title": "Decision Frameworks, Evaluation, and Cost Management with AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -24408,7 +24342,7 @@
   {
     "id": "1790358238440001iWJK",
     "code": "BIZ323-R1",
-    "title": "Decision Frameworks, Evaluation, and Cost Management with Amazon Quick",
+    "title": "Decision Frameworks, Evaluation, and Cost Management with AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -24925,7 +24859,7 @@
   {
     "id": "1780442276660001cnQV",
     "code": "BIZ402",
-    "title": "Configure Security & Governance Controls for Amazon Quick",
+    "title": "Configure Security & Governance Controls for AWS Quick",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -24935,7 +24869,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Implement comprehensive security and administrative controls for Amazon Quick. Practice configuring identity integration, access policies, and data governance frameworks. Learn to establish monitoring, auditing, and compliance controls that meet enterprise requirements. Work through scenarios covering user management, content governance, and security best practices for Quick Suite environments in production.",
+    "abstract": "Implement comprehensive security and administrative controls for AWS Quick. Practice configuring identity integration, access policies, and data governance frameworks. Learn to establish monitoring, auditing, and compliance controls that meet enterprise requirements. Work through scenarios covering user management, content governance, and security best practices for Quick Suite environments in production.",
     "times": [
       {
         "id": "1790025540755001ChSz",
@@ -25022,7 +24956,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Every conversation with an AI assistant starts from scratch. Your agent doesn't remember what worked yesterday, can't tell you who owns a project without searching again, and repeats the same mistakes because failures are never captured. In this chalk talk, we show how Amazon Quick breaks out of statelessness with two primitives: a continuous-learning memory layer where a background agent extracts reusable knowledge after each session and scores it with a probabilistic confidence model, and a personal knowledge graph that connects people, projects, decisions, and evidence across your tools so the agent has a map of your world before it reads a single document. We'll whiteboard the architecture and the tradeoffs that shaped it, then open it up — bring your hardest questions about memory staleness, confidence calibration, graph noise, or making agents that actually get better over time.",
+    "abstract": "Every conversation with an AI assistant starts from scratch. Your agent doesn't remember what worked yesterday, can't tell you who owns a project without searching again, and repeats the same mistakes because failures are never captured. In this chalk talk, we show how AWS Quick breaks out of statelessness with two primitives: a continuous-learning memory layer where a background agent extracts reusable knowledge after each session and scores it with a probabilistic confidence model, and a personal knowledge graph that connects people, projects, decisions, and evidence across your tools so the agent has a map of your world before it reads a single document. We'll whiteboard the architecture and the tradeoffs that shaped it, then open it up — bring your hardest questions about memory staleness, confidence calibration, graph noise, or making agents that actually get better over time.",
     "times": [
       {
         "id": "1790025487919001CgDi",
@@ -25128,42 +25062,6 @@
         "endTimeFormatted": "02:30 PM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Grand 119",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1789084255485001STp3",
-    "code": "CMP102",
-    "title": "Cutting manual accounts payable work",
-    "type": "Meetup",
-    "level": "100 – Foundational",
-    "topics": [
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Cost Optimization"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "IT Professional / Technical Manager"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Enterprise customers pay for cloud services across dozens of payer accounts and countries through procurement/accounts payable platforms like SAP Ariba and Coupa and track it all in spreadsheets and email threads. Purchase orders run out unnoticed. Payments land on the wrong invoices. Disputes take months. In this session, see how a new first-party application gives Accounts Payable teams one live view of purchase orders, invoices and payments matched against billing records - no console login required.",
-    "times": [
-      {
-        "id": "1794267931351001I8ha",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "16:00",
-        "endTime": "16:45",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "04:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
       }
     ]
@@ -28218,79 +28116,6 @@
     ]
   },
   {
-    "id": "1789084254961001SVy2",
-    "code": "CMP361",
-    "title": "Simplifying how you use AWS: automating common patterns on your behalf",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Compute"
-    ],
-    "areasOfInterest": [
-      "Automation",
-      "Cost Optimization",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Getting the most out of AWS often means manually setting up the same optimizations, integrations, and best-practice patterns across your applications. What if AWS could handle more of that for you automatically and securely so you benefit from AWS capabilities without the setup overhead? In this chalk talk, we explore emerging approaches for running AWS-authored logic in isolated, secure-by-default environments alongside your applications, implementing common patterns on your behalf and simplifying how you consume AWS services. We'll whiteboard how this model works, where it fits in your architecture, and how it changes the effort required to adopt AWS best practices.",
-    "times": [
-      {
-        "id": "1794268228916001jONf",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "11:00",
-        "endTime": "11:45",
-        "startTimeFormatted": "11:00 AM",
-        "endTimeFormatted": "11:45 AM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1789084255135001S0Ht",
-    "code": "CMP362",
-    "title": "Graviton5 for data workloads",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Compute"
-    ],
-    "areasOfInterest": [
-      "Cost Optimization",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Data Engineer",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "Data workloads are bottlenecked by how fast they can access and process information, whether that data lives on local storage, in memory, or behind a lightweight service. New Graviton5 instance families are purpose-built for each tier.",
-    "times": [
-      {
-        "id": "1794268449752001ndLE",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "13:00",
-        "endTime": "13:45",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "01:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
     "id": "1780442238221001chq2",
     "code": "CMP401-R",
     "title": "Everything you've wanted to know about performance on EC2 instances",
@@ -28852,6 +28677,79 @@
     ]
   },
   {
+    "id": "1787870260980001fOyd",
+    "code": "COM103",
+    "title": "Regional Community Builders: The Global AWS Community Exchange",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Inclusion"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "What can AWS communities learn from one another across regions? This interactive exchange brings together Community Builders, User Group leaders, organizers, and practitioners to share what their communities are building, what is working, and what they want to create next. Through short community showcases, structured peer discussions, and a Global Community Exchange Wall, participants will exchange practical ideas, share proven approaches, and identify opportunities for cross-region collaboration. Attendees will leave with ideas they can adapt in their own communities, new connections, and potential collaborations that can continue beyond re:Invent.",
+    "times": [
+      {
+        "id": "1794243995080001yc7P",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261537001fIEx",
+    "code": "COM105",
+    "title": "Women Who Build, Lead & Scale",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Customer Enablement",
+      "Generative AI"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "What does it take to build, lead, and grow in an ecosystem that never stops evolving? From navigating complex technical challenges and making architectural decisions to leading teams, building products, winning customers, and scaling businesses, women across the AWS ecosystem bring perspectives and experiences the community needs to hear. This meetup creates space for women to share what they are building, the challenges they are solving, the lessons they have learned, and the questions they are still figuring out. Whether you work in engineering, sales, marketing, product, leadership, or entrepreneurship, come ready to exchange ideas, learn from real experiences, and leave with fresh perspectives and connections that last beyond re:Invent.",
+    "times": [
+      {
+        "id": "1794243998083001yQyO",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442262723001cYoO",
     "code": "COM201",
     "title": "Nine Seconds to Zero: Protecting AWS from AI Agent Disasters",
@@ -28918,6 +28816,305 @@
         "endTimeFormatted": "03:50 PM",
         "duration": 20,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Lightning Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1787870259384001f166",
+    "code": "COM203",
+    "title": "44,000 Photos per Hour on Amazon Bedrock: How We Built, Scaled, and Secured It",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Application Security",
+      "Automation"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Processing 44,000 photos per hour with generative AI sounds great on a slide, but what does it take in production? Join builders for an open, technical conversation covering the application design, the infrastructure that makes it scale, and the security controls that keep it safe. Bring your own Amazon Bedrock challenges and trade ideas with peers and AWS experts.",
+    "times": [
+      {
+        "id": "1794243998500001ya3X",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870260392001fvUf",
+    "code": "COM206",
+    "title": "How Are You Sandboxing AI Agents on Kubernetes?",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Application Security"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Solution / Systems Architect",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI agents run code, call tools, and touch real systems, so where they run matters. Many sandbox options exist now: gVisor, Kata Containers, Firecracker microVMs, Kubernetes Agent Sandbox, and newer vendor platforms. Which one fits your case? Come share what you use, what you tried, and what you are still unsure about. All experience levels are welcome, from first prototypes to production platforms. We will cover isolation, cold starts, cost, network access, and credentials in plain language. No slides, just an open table. Leave with clear options, practical tips, and new contacts who are working on the same questions.",
+    "times": [
+      {
+        "id": "1794243998744001y5He",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870260454001fG3a",
+    "code": "COM207",
+    "title": "Let Your Database Speak: AI Agents for RDS and Redshift",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Databases"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Can AI agents help us make better database capacity and cost decisions, or do they just create more alerts? We’ll start with two concrete AWS examples: an RDS for PostgreSQL workload where spending more may protect reliability, and a Redshift workload where daily contention raises the question of shared versus isolated capacity. Then we’ll compare how teams use telemetry, runbooks, agent recommendations, and human approval to make these decisions. Bring a database challenge or an agent experiment of your own. This is a peer discussion about what works in practice, not a product demo.",
+    "times": [
+      {
+        "id": "1794243995343001yOm8",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1787870260729001feys",
+    "code": "COM208",
+    "title": "Move Agent Rules Out of the Prompt",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevSecOps"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Agents need context to be useful, and running them in production demands control and determinism. Most enterprises try to get both by packing rules into the system prompt, but a prompt is a request, not a control. In this session we move the constraints into the architecture. Policy as code (Cedar, and Dogwood for rules that depend on what the agent already did, such as order, approvals and volume) governs which tools an agent may call. Underneath, the purpose-built databases that supply its context (vector, graph, relational, key-value) enforce their own permissions, as long as the user’s identity actually reaches them. We’ll map where each rule belongs, show which ones can be formally proven and which can’t, and demo a Bedrock agent stopped by its architecture rather than by its prompt.\n",
+    "times": [
+      {
+        "id": "1794243996034001yrih",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1787870260849001fMYD",
+    "code": "COM209",
+    "title": "Open Source Security on AWS: Cedar, Guard, Threat Composer and More",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "DevSecOps"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "AWS maintains several open source security projects many teams have not tried yet, including Cedar, CloudFormation Guard, Threat Composer, OCSF, and Automated Security Response on AWS. This meetup brings security and platform engineers together to share how they use these and other open source tools to secure their AWS environments. We will discuss policy as code, threat modeling, OCSF with Security Lake, and automated responses to Security Hub findings, plus where these tools fit alongside AWS security services, their gaps, and how to contribute.",
+    "times": [
+      {
+        "id": "1794243999563001yQ4e",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870260920001fjQv",
+    "code": "COM210",
+    "title": "Post-Quantum Readiness on AWS: Where Do You Start?",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Application Security",
+      "Cryptography and Post-Quantum"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Data encrypted today could be decrypted later by a future quantum computer, and the move to post-quantum cryptography is already underway across AWS. This practical meetup brings together security and platform engineers to compare how they are preparing. We'll discuss building a cryptographic inventory, where AWS already supports hybrid post-quantum TLS on service endpoints such as AWS KMS, AWS Certificate Manager, and AWS Secrets Manager, and what that means for your clients and SDKs. We'll also cover designing for crypto agility so algorithms can change without rewrites, and deciding which data and systems to address first. Come at any stage, share what you've tried, and leave with a practical starting plan.",
+    "times": [
+      {
+        "id": "1794243995429001ymL7",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1787870261232001foEV",
+    "code": "COM212",
+    "title": "The 7 Rs in the Real World: Honest Migration War Stories",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Customer Enablement",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Every migration looks clean on the whiteboard. Then reality shows up. This peer-to-peer round table is for anyone moving workloads to AWS: mid-migration, cleaning up after one, about to start, or here to learn. We'll trade stories about the 7 Rs, like the rehost that became a refactor and the \"retain\" that's still retained three years later. Expect quick interactive rounds: \"Which R is it?\" votes, hot takes, myth vs. reality, and ask the room. We'll build a shared dos and don'ts list, and ask whether, in the AI era, a workload is even worth migrating. No slides.",
+    "times": [
+      {
+        "id": "1794243996119001yggx",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261355001fX6b",
+    "code": "COM213",
+    "title": "Threat Detection and Response on AWS: Reducing Noise, Acting Faster",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Network & Infrastructure Security",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AWS provides strong detection services, but many teams still struggle with too many alerts and slow response. This meetup brings together security engineers to share how they detect and respond to threats on AWS. We will discuss tuning GuardDuty and Security Hub findings, centralising logs with Security Lake, investigating with CloudTrail and Detective, automating response with EventBridge and Lambda, and running incident response exercises. We will also talk about what teams changed after real incidents and how they measure detection quality. Attendees are welcome to share their setups, questions and lessons learned.\n",
+    "times": [
+      {
+        "id": "1794243999905001ya8S",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
         "venue": "Wynn/Encore"
       }
     ]
@@ -30634,6 +30831,490 @@
     ]
   },
   {
+    "id": "1787870259572001flZU",
+    "code": "COM350",
+    "title": "AI Agents for Data Pipelines: From Alerts to Safe Recovery",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Workforce Development"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "When a data pipeline fails, how much should an AI agent be allowed to do? Join data engineers, architects, and AI builders to discuss agent-assisted troubleshooting and recovery using Amazon Bedrock and Strands Agents. Explore how agents can investigate failures, use operational tools, recommend fixes, and request human approval before making changes. Bring a pipeline challenge or lesson learned to compare approaches for access controls, evaluation, observability, and cost. Through small-group discussions, attendees will exchange practical ideas for moving from useful prototypes to trustworthy production workflows.",
+    "times": [
+      {
+        "id": "1794243998584001yfxl",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1787870259631001fTC0",
+    "code": "COM351",
+    "title": "Serverless Hosting for Agents: Lambda vs. Bedrock AgentCore Runtime",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The era of static microservices is giving way to the world of autonomous AI agents. But where and how should these agents be hosted on AWS? In this 60-minute meetup, we deconstruct the paradigm of \"Serverless for Agents\" and compare the two primary hosting options: the battle-tested, highly flexible AWS Lambda and the specialized, managed Amazon Bedrock AgentCore Runtime. Beyond comparing individual features of both options, we will analyze the architectural trade-offs regarding state management, latency, runtime security, identity, observability, and governance features like built-in policy controls.",
+    "times": [
+      {
+        "id": "1794243997313001yz2M",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870259875001fyyQ",
+    "code": "COM353",
+    "title": "CDK Lovers: Meetup for AWS CDK Contributors & Power Users",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools",
+      "Open Source"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "DevOps",
+      "Management & Governance"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Calling all AWS CDK lovers! Whether you're a CDK user, construct library author, or aws-cdk contributor, join fellow enthusiasts for a discussion-driven meetup. In small table groups, we'll dig into three themes: what we love about CDK, the pain points we hit in real projects, and the improvements we'd like to see, especially as AI coding agents change how we write and review infrastructure code. Share your war stories, swap construct design and testing tips, and leave with new peers in the CDK community and maybe a few ideas worth turning into your next contribution.",
+    "times": [
+      {
+        "id": "1794243996392001yONM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870259934001f4ci",
+    "code": "COM354",
+    "title": "Dealing with Terraform/IaC/Compliance in AI-era",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "DevSecOps"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Meetup to discuss how our Terraform-related activities has changed in modern AI-era and what kind of new (or well-forgotten old) challenges we have to deal with as we combine Terraform and AI for daily DevOps/SRE tasks. Lets discuss what works well, what doesn't, what is getting harder to implement, and what kind of experiences we have gained. Lets bring the pain points - they often lead to great discussions and solutions!",
+    "times": [
+      {
+        "id": "1794243994990001yLGu",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1787870259993001fqGE",
+    "code": "COM355",
+    "title": "Death of the Request-Response: Architecting Serverless for Multi-Agent Loops on AWS",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Traditional REST APIs and synchronous request-response patterns are poorly equipped for the era of Agentic AI. When autonomous multi-agent loops operate over minutes or hours—evaluating context, invoking tools, and collaborating — holding open an HTTP connection is an anti-pattern.\nJoin this community meetup to explore how serverless architectures must evolve for an agentic world. We will tear down synchronous legacy models and map out purely asynchronous, event-driven topologies. Discover how to leverage AWS Lambda Durable Functions, and Amazon Bedrock AgentCore to orchestrate long-running agent workflows. We’ll also discuss handling open standards like the Model Context Protocol (MCP) in a serverless ecosystem.",
+    "times": [
+      {
+        "id": "1794243998419001yhkn",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870260054001fazp",
+    "code": "COM356",
+    "title": "Zero-Downtime Deployments on AWS: What Actually Works",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Event-Driven Architecture",
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Everyone wants zero-downtime releases, and few teams get there without scars. This peer discussion brings together developers, architects, and platform engineers to compare what works in production on AWS. We'll work through four prompts: choosing between blue/green, canary, and rolling deployments with AWS CodeDeploy, Amazon ECS, Lambda aliases, and weighted routing; changing database schemas without breaking running code; handling long-lived connections, caches, and DNS during cutover; and deciding when to roll back automatically. Bring a deployment that went wrong, or one you're proud of, and leave with a shared checklist of patterns and pitfalls from the room.",
+    "times": [
+      {
+        "id": "1794243996722001yMPK",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1787870260260001flNU",
+    "code": "COM357",
+    "title": "Hadoop to EMR & Airflow: Lessons from Migrating 90+ Data Pipelines",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Migrating one data pipeline to the cloud is a project; migrating dozens is a program. In this meetup, compare notes with peers who have moved Hadoop and Oozie-era workloads to Amazon EMR and Apache Airflow. Discuss how to sequence pipelines by dependency, prove old and new outputs match, right-size EMR clusters for Spark and ML jobs, and cut over without breaking downstream consumers. Bring your migration stories. Leave with a peer-built checklist and a network of practitioners to call when your next migration stalls.",
+    "times": [
+      {
+        "id": "1794243998329001y54s",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870260528001flh7",
+    "code": "COM358",
+    "title": "Live Streaming: Real-time Captions & Translation with AWS",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Networking & Content Delivery",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Edge Computing",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "How can live-streaming platforms deliver accurate multilingual captions with minimal delay? This technical meetup uses a working AWS architecture to explore real-time captioning and translation with Amazon IVS, Amazon Transcribe, Amazon Bedrock (for context-aware translation), API Gateway WebSockets, and WebVTT. Participants will examine the end-to-end media and caption flow, latency bottlenecks, synchronization, translation quality, connection management, and scaling patterns. The demonstration will serve as a starting point for attendees to compare implementation approaches and share production lessons from building accessible multilingual streaming experiences for media, education, events, and enterprise communications.",
+    "times": [
+      {
+        "id": "1794243997674001yAfe",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870260588001fSQp",
+    "code": "COM359",
+    "title": "Real-Time Pattern Detection with Flink CEP and Agentic Workflows",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Event-Driven Architecture"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "When fraud, outages, or anomalies show up as patterns across millions of events, batch processing is too late. Join builders running stream processing on AWS to compare how they detect complex patterns in real time with Amazon Managed Service for Apache Flink and Amazon MSK. The host opens with a short look at a production CEP pipeline where rules change without job restarts and matches hand off to agentic workflows for enrichment and action. Then the room takes over: How do you version and test detection rules? How do you manage state and checkpoints at scale? When should an agent act on a match automatically, and when does it need a human? Bring your streaming war stories and leave with patterns from peers. Some Flink familiarity helps but is not required.",
+    "times": [
+      {
+        "id": "1794243998247001yffb",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1787870260669001fT1k",
+    "code": "COM360",
+    "title": "Modernizing Real-Time Market Data with Amazon Kinesis and Apache Flink",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Real-time data feeds are among the hardest streaming workloads: quiet one moment, and a flood of messages the next, consumers expect reliable, low-latency delivery. In this meetup, explore a reference architecture for a high-throughput streaming pipeline using Amazon ECS, Amazon Kinesis, and Amazon Managed Service for Apache Flink. See how a containerized Docker stack lets you build and test locally, then discuss decoupled ingestion, stream replay, and migration strategies with fallback mechanisms. Bring your streaming war stories and leave with a working repository and reusable architectural patterns.\n",
+    "times": [
+      {
+        "id": "1794244000238001yP1A",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261100001fauo",
+    "code": "COM362",
+    "title": "Same Query, Different Results: AI Agents for Migration Validation",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Databases"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Data Protection",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Matching row counts does not guarantee a successful database migration. What happens when reports disagree because of rounding, NULL handling, timestamps, or duplicate records? Join data engineers, database specialists, and architects to discuss agent-assisted migration validation using Amazon Bedrock and Strands Agents. Explore how agents could select comparison tools, investigate discrepancies, and assemble evidence for human review. Through realistic SQL migration scenarios and small-group discussion, attendees will compare validation strategies, read-only access boundaries, and ways to evaluate an agent’s explanations. Bring a migration challenge and exchange ideas for making validation more systematic.\n",
+    "times": [
+      {
+        "id": "1794243998904001y7ic",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261160001fGb5",
+    "code": "COM363",
+    "title": "Scaling data and AI products in the enterprise",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Data Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Organizations are moving quickly to adopt data mesh and data and AI product architectures across large, federated enterprises. Yet many are running into familiar challenges with governance, organizational silos, and broader data dysfunction. In this meetup, we’ll share real-world stories and discuss what’s working, what’s not, and how organizations are combining technology and process to establish effective governance and drive meaningful business outcomes.\n",
+    "times": [
+      {
+        "id": "1794243997590001y7Br",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261295001fNY6",
+    "code": "COM364",
+    "title": "The FinOps Control Room",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Developer / Engineer",
+      "IT Executive"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Your next AWS bill might not be driven by servers. It might be driven by tokens.\n\nAI is changing the economics of the cloud. Every model call, token, inference request, and autonomous agent introduces a new cost decision, and traditional cloud optimization alone isn’t enough. The FinOps Control Room brings practitioners together to investigate the economics behind modern AWS workloads, from infrastructure and architecture choices to AI inference, tokenomics, agent costs, and runaway usage.\n\nExpect real-world stories, practical strategies, and candid conversations on making AI and cloud spend visible, measurable, and accountable. Bring your toughest cost mystery. Let’s open the dashboard, follow the money, and figure out what’s really driving the bill.",
+    "times": [
+      {
+        "id": "1794243997054001yooa",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780441467012001Gp1V",
     "code": "COM401",
     "title": "AI Didn't Wait for Security: Now What?",
@@ -30817,6 +31498,82 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 309",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1787870259510001foKH",
+    "code": "COM405",
+    "title": "Agents in the Pipeline: AI-Driven Development Across Multi-Account AWS",
+    "type": "Meetup",
+    "level": "400 – Expert",
+    "topics": [
+      "Architecture",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "DevOps",
+      "DevSecOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI agents can now write, review, and change code faster than ever, yet they remain imperfect. This meetup explores how multi-account AWS pipelines and structured code promotion let teams harness that speed while mitigating risk. Together, we'll discuss AI testing and code review agents, skills that ensure engineering standards, and emerging development patterns. We'll also discuss how to grant agents secure, scoped access to AWS accounts so they can troubleshoot issues and validate their own changes. Join peers to share experiences and leave with practical strategies for delivering quality code faster with AI.",
+    "times": [
+      {
+        "id": "1794243998165001yGvA",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870260194001fHAv",
+    "code": "COM406",
+    "title": "GenAI-Powered Auto Compliance Check for AWS Workload",
+    "type": "Meetup",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer",
+      "System Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Native AWS compliance services provide a strong foundation, but teams may still face the gap manually for unsupported standards, resource types, or newly released features. In this meetup, participants will explore how AWS Cloud Control API, Amazon Bedrock, AWS Config, and up-to-date AWS documentation accessed through an MCP server can extend compliance coverage, with n8n orchestrating the workflow. The discussion will cover custom control mapping, automated assessment, evidence collection, remediation recommendations, and multi-account visibility. Attendees are encouraged to share their compliance challenges, architectural patterns, and lessons learned from implementing AI-powered compliance checks across complex multi-account environments.",
+    "times": [
+      {
+        "id": "1794243995686001yqQx",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -37406,6 +38163,41 @@
     ]
   },
   {
+    "id": "1780442279702001cnYT",
+    "code": "COP355-R1",
+    "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Follow an issue from detection to resolution. In this builder's session, see how AWS DevOps Agent investigates incidents across AWS, multicloud, and on-premises environments, analyzing telemetry and correlating signals to pinpoint root causes and deliver targeted remediation. Then use the AWS DevOps Agent release management agent to review the code changes for production readiness before they reach your customers. Every review is informed by production intelligence that AWS DevOps Agent continuously builds from your environment.",
+    "times": [
+      {
+        "id": "1794513621422001Gbnb",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 301",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442227450001cFhR",
     "code": "COP356",
     "title": "Catch bad agent behavior before your users do",
@@ -37873,73 +38665,6 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 409",
         "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
-    "id": "1789084255079001SQj3",
-    "code": "COP370",
-    "title": "Use AI to Take Your Resilience to the Next Level",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Architecture",
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "DevOps Engineer",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Your architecture evolves fast — your resilience should too. Come talk with AWS resilience experts about how AI changes the way teams assess, test, and strengthen workloads. Explore generative AI-powered failure mode assessments that uncover risks before they reach production, and see how AWS DevOps Agent observes resilience tests in real time to deliver root cause analysis and context-aware remediation recommendations. Bring your questions, dig into the details, and leave with practical ways to make AI work for your resilience program.",
-    "times": [
-      {
-        "id": "1794435552258001rVH0",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "13:45",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "01:45 PM",
-        "duration": 45,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1789084255870001SmA8",
-    "code": "COP376",
-    "title": "Who's Watching Your Agents? Observability for the AI Era",
-    "type": "Meetup",
-    "level": "300 – Advanced",
-    "topics": [
-      "Cloud Operations"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "DevOps Engineer",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "When your software thinks for itself, how do you know it's working? As AI agents move into production, observability is the difference between confidence and chaos. Join this networking session to connect with practitioners tackling the same questions: how to monitor agentic workloads, control cost, and catch failures before customers do. We'll explore Amazon CloudWatch Omni, the re-imagined observability experience that is AI-powered, built on open standards, and delivered outside the AWS Console. Come to network, share a tip or two, or challenge us with your toughest observability questions.",
-    "times": [
-      {
-        "id": "1794435733044001JpSK",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
-        "duration": 45,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -55200,7 +55925,7 @@
   {
     "id": "1780442280853001cz36",
     "code": "IND403",
-    "title": "Build a Video Semantic Layer for Media Agent on AWS",
+    "title": "Build a Video Semantic Layer for AI Agents on AWS",
     "type": "Workshop",
     "level": "400 – Expert",
     "topics": [
@@ -55219,7 +55944,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "This workshop tackles a question most media organizations have yet to ask: your video pipeline extracts rich metadata for human search and discovery, but is it actually optimized for agents? In this hands-on session, you will build the semantic infrastructure that bridges that gap: multimodal embeddings tuned for machine recall, hybrid search that combines vector similarity with keyword precision, and an entity graph that maps content relationships into structures agents can reason over. By the end of this workshop, you will have a media agent harness that queries, enriches, and continuously improves video understanding, making video content not just searchable by people but optimized at scale for agents.",
+    "abstract": "An AI agent’s accuracy depends on the context it can find. Enterprises have made video understandable to people with transcripts, tags, and summaries built for human search. Agents need context they can retrieve, connect, and reason over. In this advanced, hands-on workshop, you will build a video semantic layer for agents step by step, from multimodal embeddings to hybrid search to a knowledge graph, using Amazon Bedrock and Amazon Bedrock AgentCore. You will leave with a working agent that queries, enriches, and continuously improves its understanding of video, plus a blueprint for grounding agents in trustworthy context from unstructured data.",
     "times": [
       {
         "id": "1790025529039001CJES",
@@ -57654,21 +58379,21 @@
     "roles": [
       "Academic / Researcher"
     ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
     "abstract": "Preventing long outages, meta-stable events, thundering herds, Denial of Service Attacks, resource or concurrency starvation, or noisy neighbor issues all depend on fairness and admission control. We’ll do a deep, interactive dive into practical techniques that prevent or mitigate real-world issues. We’ll get into details of back-pressure, PID control loops, shuffle sharding, floodgates, and other novel techniques that we’ve developed at AWS, and we’ll cover common mistakes that we see in the industry.",
     "times": [
       {
         "id": "1790025534426001CEyM",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Convention Promenade | Latour 5",
-        "venue": "Wynn/Encore"
+        "room": "Caesars Forum | Level 1 | Academy 414",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -62624,7 +63349,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Migration and modernization programs are usually justified by cost and agility. They are also a good moment to lower carbon emissions and prepare for generative AI. Sustainability and GenAI are often planned separately from the migration itself, and that can mean duplicated work later. This session looks at how organizations can bring all three goals into one modernization plan on AWS. We will cover how to set a carbon baseline with the AWS Customer Carbon Footprint Tool and which modernization choices tend to lower emissions, such as AWS Graviton, managed and serverless services, storage lifecycle policies, and Region selection. We will also look at how GenAI can speed up migration work like code analysis and transformation, and how a modern data and application foundation makes GenAI adoption easier afterward. Attendees will compare approaches, share what has worked in their own organizations, and leave with practical ideas for making sustainability and GenAI part of their modernization roadmap.",
+    "abstract": "Migration and modernization programs are usually justified by cost and agility. They are also a good moment to lower carbon emissions and prepare for generative AI. Sustainability and GenAI are often planned separately from the migration itself, and that can mean duplicated work later. This session looks at how organizations can bring all three goals into one modernization plan on AWS. We will cover how to set a carbon baseline with the AWS Sustainability Console and which modernization choices tend to lower emissions, such as AWS Graviton, managed and serverless services, storage lifecycle policies, and Region selection. We will also look at how GenAI can speed up migration work like code analysis and transformation, and how a modern data and application foundation makes GenAI adoption easier afterward. Attendees will compare approaches, share what has worked in their own organizations, and leave with practical ideas for making sustainability and GenAI part of their modernization roadmap.",
     "times": [
       {
         "id": "1794243996310001ydp3",
@@ -62637,6 +63362,307 @@
         "duration": 45,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805679513001IAk7",
+    "code": "MUP105",
+    "title": "Accelerating Agentic AI Use Cases with Experience-Based Acceleration",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Customer Enablement",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Experience-Based Acceleration (EBA) is emerging as a powerful approach for organizations starting their AI agent journey. Through AWS AI services and tools, teams can rapidly prototype and implement agentic solutions that deliver tangible results. This meetup explores practical strategies for designing, building, and scaling AI agent MVPs in less than 6 weeks, focusing on real-world implementations that boost productivity and automate workflows while achieving measurable business outcomes.",
+    "times": [
+      {
+        "id": "1794243999647001yJXm",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805679575001IC2P",
+    "code": "MUP106",
+    "title": "Agentic CX Peer Meetup for Retail: Bring Your Adoption and ROI Questions",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "In retail, every interaction shapes the customer experience across the entire shopping journey, and it all intensifies at peak season. The edge is knowing where AI agents can scale and where a human agent protects the experience. Sit down with peers facing the same challenges and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon. ",
+    "times": [
+      {
+        "id": "1794243995602001y88W",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679641001ImZt",
+    "code": "MUP107",
+    "title": "Agentic CX Peer Meetup for Financial Services: Bring Your Adoption and ROI Questions ",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "In financial services, every interaction has to earn trust, meet compliance, and deepen the customer relationship. The hard part is knowing where AI agents can take the lead and where a human agent should step in. Sit down with peers facing the same challenges and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon. ",
+    "times": [
+      {
+        "id": "1794243995769001yLQa",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679703001Idfb",
+    "code": "MUP108",
+    "title": "Agentic CX Peer Meetup for Travel & Hospitality: Bring Your Adoption & ROI Questions",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "In travel and hospitality, every interaction shapes the guest experience, and loyalty is often won or lost the moment plans change. That is where AI agents need to perform like your best agents and where a human agent still matters most. Sit down with peers facing the same challenges and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon.",
+    "times": [
+      {
+        "id": "1794243996555001yf0U",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679768001IOFU",
+    "code": "MUP109",
+    "title": "Agentic CX Peer Meetup for Insurance: Bring Your Adoption and ROI Questions ",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "In insurance, every interaction is a moment of truth for the policyholder relationship, from the first question to the hardest claim. The whole game is knowing where AI agents can take the lead and where a human agent should. Sit down with peers facing the same challenges and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon. ",
+    "times": [
+      {
+        "id": "1794243996885001ygnQ",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679834001Inz6",
+    "code": "MUP110",
+    "title": "Agentic CX Peer Meetup: From Pilot to Production",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Plenty of agentic CX pilots work. Far fewer make it into production across the business. What separates the two is the conversation we want to have. Sit down with peers moving from pilot to full adoption and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon",
+    "times": [
+      {
+        "id": "1794243999728001yZZT",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679900001Ibhy",
+    "code": "MUP111",
+    "title": "Agentic CX Peer Meetup: AI Agents and Human Agents",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Every agentic CX team has to decide where AI agents take the lead and where a human agent should step in. Getting that balance right drives both adoption and return. Sit down with peers making those calls and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon.",
+    "times": [
+      {
+        "id": "1794243998824001yaDU",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679963001I37p",
+    "code": "MUP112",
+    "title": "Agentic CX Peer Meetup: What We Would Do Differently",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "The most useful lessons in agentic CX come from what didn't go to plan. Sit down with peers who have been through pilots, rollouts, and ROI reviews, and trade honest answers on what worked, what didn't, and what they would change. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon.",
+    "times": [
+      {
+        "id": "1794243999151001yM9x",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1791586269033001cJDZ",
+    "code": "MUP113",
+    "title": "Agentic CX Peer Meetup: Bring Your Adoption and ROI Questions ",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Everyone is building agentic CX. Far fewer have gotten it adopted and proven what it returns. That gap, from pilot to full adoption to measurable ROI, is exactly the conversation we want to have. Sit down with peers facing the same challenges and compare notes on what is working, what isn't, and what they would do differently. Amazon Connect Customer experts will help facilitate, alongside our agentic CX ROI expert and leaders who have scaled AI adoption inside Amazon. ",
+    "times": [
+      {
+        "id": "1794244000497001yakd",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -62780,6 +63806,399 @@
         "duration": 45,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789084255188001SdjP",
+    "code": "MUP209",
+    "title": "Shared Responsibility for Resilience: Build, Test, and Prove Recovery with GenAI",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Disaster Response & Recovery",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Resilience is a shared responsibility between AWS and customers, and clear ownership keeps recovery on track. This session walks through the AWS resilience toolkit. We cover Next Generation AWS Resilience Hub, which uses GenAI-powered failure mode assessments to evaluate workload posture, Application Recovery Controller, and AWS Fault Injection Service for controlled, repeatable failure testing. We also cover the programs that help customers adopt them such as Resilience Program Accelerator and the Resiliency Core Program. Through real examples from AWS and customers, attendees leave with a model for ownership, a prioritized test plan, and a roadmap to improve their resilience posture.",
+    "times": [
+      {
+        "id": "1794243997756001y3Pm",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679172001IRyG",
+    "code": "MUP210",
+    "title": "Women in AI/ML: hard questions on AI systems, careers and leadership",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Application Integration"
+    ],
+    "areasOfInterest": [
+      "Inclusion",
+      "Workforce Development"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Running an agentic system in production and trusting it are different problems; this is the gap is where most AI programs stall. Leaders deciding where AI capability gets built see that signal well before the market does. Senior AWS leaders in AI/ML and Support will answer open questions on how they forecast failure before customers encounter it and prepare their teams for it, how to judge which AI investments are returning value, and how to build a career that survives a technology resetting every few months. This session is hosted by the Women in AI/ML community, open to everyone.",
+    "times": [
+      {
+        "id": "1794243996966001yHPz",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805679378001IuBv",
+    "code": "MUP212",
+    "title": "Building the Future: Transforming SaaS with Agentic AI",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "SaaS"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "The room drives the agenda. \n\nThese are the three threads we will work through together.\n- From pilot to production - Where are companies on the agentic adoption spectrum, what is blocking them, and which real-world use cases are working today?\n- Platform patterns for agentic SaaS - Multi-tenancy, isolation, security models, and accelerators you can apply directly to your own roadmap.\n- Monetization and Cost optimization - How are companies packaging and charging for agent capabilities as they move from seat-based to consumption and outcome-based pricing, and how are they managing unbounded inference cost?\n\n\nWhat you will walk away with:\n- Validated agentic strategy. Pressure-test your approach against peers and pick up new ideas from peers navigating the same transformation.\n- Insight into architecture patterns. Multi-tenant isolation models, data blueprints, and monetization frameworks.\n- A peer network. Fellow technologies actively shipping agentic capabilities, not just evaluating them",
+    "times": [
+      {
+        "id": "1794243999070001yGNe",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805679446001IGyT",
+    "code": "MUP213",
+    "title": "Model customization in production: When does fine-tuning pay off",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Fine-tuning can cut cost and latency, or add weeks without a clear win. Whether you're weighing your first custom model or running one in production, join fellow builders and AWS model customization specialists for a peer-led discussion with no slides. Trade experiences with fine-tuning, distillation, and reinforcement learning on Amazon Bedrock and Amazon SageMaker AI. Together, we'll dig into what decides the outcome: data readiness, the baseline to beat, proving the custom model is better, and whether the cost math holds at scale. Connect with peers and compare notes on what worked. ",
+    "times": [
+      {
+        "id": "1794244000156001ytem",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805680224001IbjT",
+    "code": "MUP214",
+    "title": "Spend Smarter: Cloud Financial Management in the Age of AI",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Management & Governance"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Cloud spend is easy to grow and hard to govern, especially as AI workloads reshape usage patterns overnight. How do you give teams freedom to build while keeping costs predictable? Join this networking session to connect with practitioners wrestling with the same questions: how to set up reporting and alerting, allocate costs fairly, and turn billing data into decisions. We'll explore how AWS Cloud Financial Management tools help you plan, measure, and optimize spend, and how AI is changing the game. Come to network, trade a cost-saving tip, or challenge us with your thorniest FinOps questions.",
+    "times": [
+      {
+        "id": "1794243998665001yRXj",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680810001I1Ck",
+    "code": "MUP215",
+    "title": "How to leverage an internal buy-back process to accelerate new service adoption?",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Hybrid Cloud & Multicloud"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Global Infrastructure",
+      "Management & Governance"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Internal buy-back processes can slow new service adoption, but designed well they can be the fastest path to it. In this Meetup, we'll show how to align finance, procurement, and engineering on a buy-back model that funds early experiments without waiting for annual budget cycles. You'll learn how to define clear entry criteria, use pilot funding to prove value, and convert successful workloads into committed spend. Attendees will hear real examples from AWS and customers who used this approach to shorten approval cycles and accelerate adoption.",
+    "times": [
+      {
+        "id": "1794243994899001yYfq",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805680876001IbAq",
+    "code": "MUP216",
+    "title": "AI for Video Workloads: From Ingest to Insight to Revenue",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Edge Computing",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Sales / Marketing",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI is changing how video gets made, understood, and monetized across broadcast, streaming, ad tech, and startups. This meetup gathers practitioners working through the hard parts: encoding efficiently, scaling, extracting scene-level metadata from live video in real time, and turning that metadata into smarter ad insertion and new revenue. This is an open discussion for people running video workflows at different scales can compare how they handle encoding, metadata, and ad insertion, and where it has worked well or needs improvement.",
+    "times": [
+      {
+        "id": "1794243995251001yFkD",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805680940001I2bz",
+    "code": "MUP217",
+    "title": "Move to AI: Modernizing for GenAI Readiness",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Every organization will deploy AI agents against existing systems — the question is whether those systems are ready when it happens. Answering it used to mean 4–8 weeks of interviews and fragmented tooling; AWS Transform now answers it in minutes, from your actual code. This meetup goes under the hood of two managed analyses — Agentic Readiness Analysis (is a service safe for an agent to call?) and Modernization Analysis (where are the cloud-native gaps and the fastest path to close them?) — covering archetype classification, context-sensitive severity, readiness classifications, and how to scale from a single repo to a full portfolio.",
+    "times": [
+      {
+        "id": "1794243994814001yWFo",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805681075001Ivba",
+    "code": "MUP219",
+    "title": "Cloud-Ready Checklist: What Providers Need to Know Before Migrating",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Business Intelligence",
+      "Cost Optimization",
+      "Customer Enablement"
+    ],
+    "roles": [
+      "Business Executive",
+      "Developer / Engineer",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Thinking about migrating your EHR or other mission-critical workloads to the cloud? Join Matt Dinger, Global Epic Lead, and Angela Shippy, Senior Physician Executive, for an informal, open-floor meetup designed to help provider organizations prepare. Drawing on lessons from large-scale health system migrations, this session tackles the questions you should be asking before you start — from infrastructure readiness and security planning to data strategy, governance, clinician preparedness, and partner alignment. Whether early in evaluation or finalizing your approach, bring your toughest questions and leave with practical guidance to move forward with confidence. ",
+    "times": [
+      {
+        "id": "1794243997138001yxeu",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789805681148001I4MW",
+    "code": "MUP220",
+    "title": "Agents That Use Desktop and Mainframe Apps: Governance Lessons Learned",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Your critical workflows run in desktop and mainframe applications that expose no APIs, and scripted automation breaks each time a screen changes. Join peers from business and engineering teams, along with Amazon WorkSpaces experts, to swap stories about using governed agents to operate these applications. Compare notes on which workflows to hand to agents first, how to govern agents with scoped permissions, agent identity, and audit trails in CloudWatch and CloudTrail, and how to choose tools, models, and reusable skills that balance cost and accuracy. Bring your use cases, governance questions, and lessons learned.",
+    "times": [
+      {
+        "id": "1794243996473001y8ae",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805681347001IABT",
+    "code": "MUP222",
+    "title": "Run With the Best AMD in the Cloud — What's New and What's Next",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Generative AI"
+    ],
+    "roles": [
+      "Data Engineer",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "5th Gen AMD EPYC processors now power six EC2 instance families on AWS: general purpose (M8a), compute-optimized (C8a), memory-optimized (R8a), high-frequency (M8azn), large-memory EDA (X8aedz), and HPC (Hpc8a). All deliver up to 30% better performance and 19% better price-performance than previous generations — with M8azn and X8aedz offering the highest CPU frequency in the cloud at 5 GHz. In this meetup, we'll walk through the full 8th-gen AMD portfolio, share real-world performance data including CPU-based inference workloads, and we'll discuss a bit of the future.",
+    "times": [
+      {
+        "id": "1794243999231001yr7Z",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -62998,6 +64417,291 @@
         "duration": 45,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680090001Iu5h",
+    "code": "MUP313",
+    "title": "Moving from reactive to proactive operations with AI Agents",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "AI agents are changing how engineering and operations teams manage production environments. As applications become more complex and distributed across AWS, multicloud, and on-premises environments, teams have an opportunity to move beyond reactive incident response toward more proactive operations. Join AWS experts and fellow practitioners for an interactive discussion on how AI agents are transforming operations, from preventing incidents and accelerating troubleshooting to automating operational tasks and continuously improving reliability. We’ll explore emerging approaches, real-world challenges, and lessons learned, including how AWS DevOps Agent is helping teams make this shift.",
+    "times": [
+      {
+        "id": "1794243997510001yrXn",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1789805680158001IN4i",
+    "code": "MUP314",
+    "title": "Resilience strategies and insights ",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Disaster Response & Recovery",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Whether you're just getting started on your resilience journey or looking to take it to the next level, pull up a chair and talk shop with AWS resilience experts. This is an open opportunity to ask questions and explore new strategies for elevating your organization's resilience. Dive into disaster recovery strategies, discuss how to leverage AI to assess and test the resilience of your end-to-end services — everything is on the table. Bring your questions, talk to our experts, and leave with practical ideas you can put to work right away. ",
+    "times": [
+      {
+        "id": "1794243998986001yhEt",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680354001IsL5",
+    "code": "MUP316",
+    "title": "Tokenomics: Model Routing and Real ROI from Every Token",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "DevOps Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Token use is growing fast as teams move generative AI and agents into production. Cutting usage is not the goal. Getting more value from every token is. Join peers to swap what is working. How do you match the right model to each task? When do routing, caching, or smaller models pay off? How do you stop agents from burning tokens in loops? And how do you show leaders the return, not just the bill? Bring your wins, your lessons, and your open questions. Leave with practical ideas you can try next week.",
+    "times": [
+      {
+        "id": "1794243996222001yCtU",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680419001I1pA",
+    "code": "MUP317",
+    "title": "Capturing the chaos - observability for agentic applications on Amazon EKS",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Containers"
+    ],
+    "areasOfInterest": [
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Observability for Agentic Applications on Amazon EKS looks at what breaks when your monitoring was built for deterministic services and your workload isn't. The same prompt might trigger one tool call or twenty, and finish in seconds or wait days for approval. Using OpenTelemetry, we follow an agentic request end to end, with metrics that catch runaway loops and attribute token cost, logs that hold prompts without overwhelming storage, and traces you can tell are complete. We then decide what to keep and what to believe: sampling, evaluating agent output, and which spans to trust. You'll leave with patterns and guardrails for moving from prototype to production.",
+    "times": [
+      {
+        "id": "1794243995853001ydqO",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805680548001IfjI",
+    "code": "MUP319",
+    "title": "Shipping to AWS with coding agents: where does yours get stuck?",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DNU - Serverless",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Coding agents write the infrastructure code, run the CLI, and open the pull request. Then they hit permission errors, service quotas, console-only steps, and docs written for people. Bring the last thing your agent tried to deploy on AWS, shipped or stalled. On the whiteboard we'll trace the path from first prompt to running workload, mark where agents stall, and swap what gets them through: MCP servers, agent skills, infrastructure as code, sandboxes, and what you still do by hand. The hosts benchmark agents on real AWS tasks and will take what you share back to service teams.",
+    "times": [
+      {
+        "id": "1794243999315001ysw2",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680675001I1LJ",
+    "code": "MUP320",
+    "title": "Grievances, Gripes, and Genuine Developer Feedback",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "DevOps",
+      "DevSecOps"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "This is your open mic. Something in AWS drives you up the wall? A workflow that takes nine steps when it should take two? A console that hides the one button you need? An error message that reads like a ransom note? We want to hear all of it. This isn't a sales pitch or a roadmap tease — it's a room where developers vent honestly and we listen, write it down, and actually bring it back to the service teams who can fix it. We can't promise every pet peeve becomes a launch, but we can promise it won't disappear into a void. Bring your frustrations; leave feeling heard.",
+    "times": [
+      {
+        "id": "1794243995516001yCYH",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680744001IMnm",
+    "code": "MUP321",
+    "title": "\"You're Absolutely Right!\" — And Other Things Your Agent Says Before Breaking Prod",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Your coding agent is great until it confidently invents an API that doesn't exist, writes an IAM policy that grants nothing or everything, or debugs a CloudFormation stack by guessing. The difference between an agent that wastes your afternoon and one that genuinely ships is mostly in how you set it up. Come trade tactics for getting Kiro, Claude Code, Cursor, and friends to excel at AWS work — writing code that deploys, debugging live in your account, triaging issues, and knowing when to trust the output versus when to read every line. Bring your best prompts, your context-setup tricks, and your favorite \"I can't believe it actually did that\" stories — good and bad.",
+    "times": [
+      {
+        "id": "1794244000321001yxM3",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789805680614001IJzE",
+    "code": "MUP401",
+    "title": "Let your agent break a fake AWS: emulators and agent benchmarks",
+    "type": "Meetup",
+    "level": "400 – Expert",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Data Scientist",
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Agents learn AWS by calling it, and every mistake in a real account costs money, time, or a cleanup ticket. Local emulators such as LocalStack and Moto let an agent create, break, and reset cloud resources in seconds, which also makes them a place to benchmark agents on real AWS tasks. Bring the emulator you use, or why you stopped. At the whiteboard we'll map where emulators match real AWS and where they drift, how to score an agent by the resources it leaves behind, and what a shared practice cloud for agents needs.",
+    "times": [
+      {
+        "id": "1794243996802001yXVf",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
       }
     ]
   },
