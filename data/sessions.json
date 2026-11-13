@@ -15774,6 +15774,135 @@
     ]
   },
   {
+    "id": "1789084255253001SofF",
+    "code": "ANT357",
+    "title": "Giving AI agents the context they need with AWS Context",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "An open conversation on how agents get the right knowledge at the right time, including skills, plugins, and open knowledge formats. Trade patterns for feeding governed, trustworthy context to agentic applications.",
+    "times": [
+      {
+        "id": "1794434128616001fUjf",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      },
+      {
+        "id": "1794513619427001GHLZ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255541001SPGF",
+    "code": "ANT358",
+    "title": "Interactive and largescale analytics with Amazon Athena and Amazon EMR",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Whiteboard how to combine interactive SQL on Athena with large-scale processing on EMR over open table formats. Swap real-world tuning, cost, and architecture tips with fellow builders.",
+    "times": [
+      {
+        "id": "1794434549394001BTtr",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      },
+      {
+        "id": "1794513619535001Ghk2",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255924001SvhV",
+    "code": "ANT359",
+    "title": "Open, governed data and AI with the AWS Glue Data Catalog",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Data Engineer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Dig into how open standards and open table formats let you govern and share data across engines without lock-in. Bring your toughest access-control and cataloging questions and compare approaches with the people who work on it.",
+    "times": [
+      {
+        "id": "1794434856410001NuPs",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      },
+      {
+        "id": "1794513620711001GoF9",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442274284001c7uQ",
     "code": "ANT401",
     "title": "Data governance for trustworthy AI: from raw data to trusted products",
@@ -25067,6 +25196,54 @@
     ]
   },
   {
+    "id": "1789084255485001STp3",
+    "code": "CMP102",
+    "title": "Cutting manual accounts payable work",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Enterprise customers pay for cloud services across dozens of payer accounts and countries through procurement/accounts payable platforms like SAP Ariba and Coupa and track it all in spreadsheets and email threads. Purchase orders run out unnoticed. Payments land on the wrong invoices. Disputes take months. In this session, see how a new first-party application gives Accounts Payable teams one live view of purchase orders, invoices and payments matched against billing records - no console login required.",
+    "times": [
+      {
+        "id": "1794267931351001I8ha",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      },
+      {
+        "id": "1794513621991001GLiD",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441467673001GXho",
     "code": "CMP201",
     "title": "Amazon Linux: Securing and scaling your workloads on AWS",
@@ -28116,6 +28293,103 @@
     ]
   },
   {
+    "id": "1789084254961001SVy2",
+    "code": "CMP361",
+    "title": "Simplifying how you use AWS: automating common patterns on your behalf",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Getting the most out of AWS often means manually setting up the same optimizations, integrations, and best-practice patterns across your applications. What if AWS could handle more of that for you automatically and securely so you benefit from AWS capabilities without the setup overhead? In this chalk talk, we explore emerging approaches for running AWS-authored logic in isolated, secure-by-default environments alongside your applications, implementing common patterns on your behalf and simplifying how you consume AWS services. We'll whiteboard how this model works, where it fits in your architecture, and how it changes the effort required to adopt AWS best practices.",
+    "times": [
+      {
+        "id": "1794268228916001jONf",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      },
+      {
+        "id": "1794513620127001GI76",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255135001S0Ht",
+    "code": "CMP362",
+    "title": "Graviton5 for data workloads",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Data workloads are bottlenecked by how fast they can access and process information, whether that data lives on local storage, in memory, or behind a lightweight service. New Graviton5 instance families are purpose-built for each tier.",
+    "times": [
+      {
+        "id": "1794268449752001ndLE",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      },
+      {
+        "id": "1794513620405001GgF1",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442238221001chq2",
     "code": "CMP401-R",
     "title": "Everything you've wanted to know about performance on EC2 instances",
@@ -29042,6 +29316,43 @@
         "duration": 45,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1787870261040001f2HR",
+    "code": "COM211",
+    "title": "S3 Cost Clinic: Architecting for Scale Without Overspending",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Analytics",
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Data Protection"
+    ],
+    "roles": [
+      "Data Engineer",
+      "Solution / Systems Architect",
+      "Tech Explorer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "S3 makes storing data easy, but controlling costs at scale requires architectural decisions. This interactive meetup uses real-world scenarios to explore storage classes, lifecycle policies, access patterns, retention, retrieval, replication, and monitoring. Attendees will diagnose an unexpected S3 cost increase, compare architecture options, and discuss the trade-offs between cost, performance, and availability. Rather than a presentation, the session is a collaborative “S3 Cost Clinic” where builders can challenge assumptions, share approaches, and learn from different perspectives. Each scenario provides practical patterns attendees can take back to their own AWS environments.",
+    "times": [
+      {
+        "id": "1794243997429001yu5W",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -31311,6 +31622,44 @@
         "duration": 45,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261476001f1B5",
+    "code": "COM365",
+    "title": "Unattended Coding Agents: Memory, Guardrails, and Cost Control - Kiro Crew",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Generative AI"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "IT Administrator",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Your coding agents behave for ten minutes. Overnight, they lose context, repeat mistakes you already corrected, burn credits nobody budgeted, and leave work you can't verify. This meetup is for people past the demo, running agents on schedules, in CI, or across repos. Bring one thing that broke. We'll compare how teams keep memory across sessions, scope write permissions when nobody is approving, track what each agent costs, and prove agent output before merge, builders who run Kiro agent fleets unattended daily. A working session, not a product demo.",
+    "times": [
+      {
+        "id": "1794243995163001yD3Z",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -38665,6 +39014,97 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 409",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1789084255079001SQj3",
+    "code": "COP370",
+    "title": "Use AI to Take Your Resilience to the Next Level",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Your architecture evolves fast â€” your resilience should too. Come talk with AWS resilience experts about how AI changes the way teams assess, test, and strengthen workloads. Explore generative AI-powered failure mode assessments that uncover risks before they reach production, and see how AWS DevOps Agent observes resilience tests in real time to deliver root cause analysis and context-aware remediation recommendations. Bring your questions, dig into the details, and leave with practical ways to make AI work for your resilience program.",
+    "times": [
+      {
+        "id": "1794435552258001rVH0",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      },
+      {
+        "id": "1794513619294001GGMQ",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789084255870001SmA8",
+    "code": "COP376",
+    "title": "Who's Watching Your Agents? Observability for the AI Era",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "When your software thinks for itself, how do you know it's working? As AI agents move into production, observability is the difference between confidence and chaos. Join this networking session to connect with practitioners tackling the same questions: how to monitor agentic workloads, control cost, and catch failures before customers do. We'll explore Amazon CloudWatch Omni, the re-imagined observability experience that is AI-powered, built on open standards, and delivered outside the AWS Console. Come to network, share a tip or two, or challenge us with your toughest observability questions.",
+    "times": [
+      {
+        "id": "1794435733044001JpSK",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      },
+      {
+        "id": "1794513619679001G7CP",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -49850,6 +50290,42 @@
     ]
   },
   {
+    "id": "1794344421507001WI0u",
+    "code": "IND219",
+    "title": "How to Use AI Agents to Run Genomics Pipelines Faster and Cheaper",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Application Integration",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Sequencing costs less than ever, but turning that data into answers is still slow and expensive. Bioinformatics teams spend weeks building and debugging pipelines, managing infrastructure, and paying for idle compute while scientists wait on results. This lightning talk shows how AI agents can write, validate, launch, monitor, and troubleshoot genomics workflows from plain-language requests, so researchers can get to analysis without becoming infrastructure experts. Workflows run on AWS HealthOmics, a managed service for running bioinformatics workflows at scale without managing servers. We’ll share performance and cost results from popular open-source pipelines, and you’ll leave with practical patterns you can apply to your own work.",
+    "times": [
+      {
+        "id": "1794529601340001eArp",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "15:20",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1780442243992001cPQd",
     "code": "IND302-R",
     "title": "Evaluating AI agents for production in financial services",
@@ -53365,6 +53841,44 @@
         "endTimeFormatted": "05:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1792784190584001PTIb",
+    "code": "IND3357",
+    "title": "How Wisconsin DOR cut suspended tax returns with AWS Quick",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Every suspended tax return pull staff into manual review and delays refunds. The Wisconsin Department of Revenue, a 2026 FTA Award winner, tackled this by building a serverless analytics solution with Amazon S3, Amazon Athena, and AWS Quick across more than 3 million returns a year. Using generative AI, the team translated processing rules into plain language and generated queries, cutting suspended returns by 80% on targeted rules and saving thousands of staff hours. Walk away with a repeatable architecture, best practices, natural-language analytics patterns, and an approach for protecting sensitive and regulated tax data.",
+    "times": [
+      {
+        "id": "1792801145069001BqWS",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -62478,6 +62992,40 @@
     ]
   },
   {
+    "id": "1780442256429001cg1g",
+    "code": "MAM350-R1",
+    "title": "Continuous tech debt analysis and remediation, from findings to fixes",
+    "type": "Code talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "In this Code Talk, see how continuous modernization keeps tech debt under control across your application estate. After a one-time setup, it continuously detects outdated runtimes, deprecated libraries, and security vulnerabilities, using signals from both your cloud environment and your code. It then fixes them at scale with automatically generated pull requests. We'll go live through real scenarios, from discovery to remediation, and show how scheduled scans catch new tech debt before it piles up.",
+    "times": [
+      {
+        "id": "1794513621323001GY9a",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Code Talk",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442229428001cp1C",
     "code": "MAM401",
     "title": "Build and test HA/DR architectures for Microsoft workloads on AWS",
@@ -64159,6 +64707,43 @@
         "endTime": "14:45",
         "startTimeFormatted": "02:00 PM",
         "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789805681279001I6uL",
+    "code": "MUP221",
+    "title": "The Best Intel in the Cloud — What's New and What's Next",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Tech Explorer"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Custom Intel Xeon 6 processors — available only on AWS — now power a full portfolio of 8th-generation EC2 instances: compute-optimized (C8i), general purpose (M8i), memory-optimized (R8i, X8i), local storage (C8id, M8id, R8id), network-optimized, EBS-optimized, and dataplane packet processing families. All deliver up to 20% better performance and 15% better price-performance than previous generations. In this meetup, we'll walk through the portfolio, share real-world performance data including CPU-based inference workloads, and we'll discuss a bit of the future. Whether you run databases, HPC, or web serving, come learn where Intel instances fit in your architecture.",
+    "times": [
+      {
+        "id": "1794243997917001yNxf",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
         "duration": 45,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
@@ -67184,44 +67769,6 @@
         "duration": 60,
         "room": "MGM Grand | Level 1 | Boulevard 165",
         "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1780442242124001cRNJ",
-    "code": "NET343-R",
-    "title": "DDI Architecture Patterns: DNS, DHCP, and IPAM at AWS",
-    "type": "Chalk talk",
-    "level": "300 – Advanced",
-    "topics": [
-      "Architecture",
-      "Networking & Content Delivery"
-    ],
-    "areasOfInterest": [
-      "Identity & Access Management",
-      "Network & Infrastructure Security",
-      "Zero Trust"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Professional / Technical Manager",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Join us to explore architecture patterns for DDI  - DNS, DHCP, and IP Address Management (IPAM). This session covers approaches for resolving DNS across hybrid and multicloud environments, managing private and public domains, and unifying address management for consistent governance and visibility. Walk away with best practices that simplify DDI operations at scale.",
-    "times": [
-      {
-        "id": "1790963623732001Q6fo",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Academy 409",
-        "venue": "Caesars Forum"
       }
     ]
   },
@@ -72515,6 +73062,246 @@
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1788307464008001X7Ym",
+    "code": "SEC287",
+    "title": "Identity for humans, workloads, and AI agents ",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Machine identities now outnumber people, and AI agents act on their own across your systems. This meetup works through least-privilege for non-human identities, short-lived credentials, workforce access at scale, and modernizing federation. Bring how you are adapting IAM for agents and the people who manage them, and compare approaches with peers facing the same shift. ",
+    "times": [
+      {
+        "id": "1794531752395001h9KU",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1788307464068001X0dn",
+    "code": "SEC288",
+    "title": "Network security for an AI-driven world",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Network & Infrastructure Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AI workloads change what egress, inspection, and policy enforcement have to do. Bring your approach to controlling what leaves your environment, running firewalls at scale across many accounts, and building layered defense without slowing teams down. Share what is working and where the gaps still are as traffic patterns change. ",
+    "times": [
+      {
+        "id": "1794531752310001hLIz",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1788307464125001XkjT",
+    "code": "SEC289",
+    "title": "Cloud governance from complexity to control",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Governance, Risk & Compliance",
+      "Management & Governance"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Multi-account estates and autonomous agents are outgrowing manual governance. This discussion covers policy enforcement across accounts, automated compliance evidence, and where agentic AI can take over routine governance operations. Compare how teams keep central control while giving builders room to move. ",
+    "times": [
+      {
+        "id": "1794531752124001h5yu",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1788307464235001XfCC",
+    "code": "SEC291",
+    "title": "Secure development in the age of AI coding agents ",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Code is increasingly written and reviewed by agents, which shifts where application security has to live. Talk through securing AI coding agents, threat modeling the agentic software development lifecycle, and keeping protection continuous rather than a gate at the end. Bring your pipeline and the places security still slows it down. ",
+    "times": [
+      {
+        "id": "1794531751902001h19w",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1788307464291001XfXl",
+    "code": "SEC292",
+    "title": "Securing the agentic enterprise",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Application Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Autonomous agents reason, decide, and chain tool calls, which creates identity, governance, and threat surfaces that traditional models never had to handle. This meetup goes deep on threat modeling agents, prompt injection, securing the tool and MCP supply chain, and isolating multi-agent systems. Share where your agent security program is working and where it is still open. ",
+    "times": [
+      {
+        "id": "1794531752570001h0vs",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "09:45 AM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1788307464346001XV3o",
+    "code": "SEC293",
+    "title": "Data protection and the post-quantum shift",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Data Protection"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Encryption, key and secrets management, and data sovereignty all face new pressure as post-quantum timelines compress. Bring your plans for post-quantum migration, secrets rotation at scale, and protecting sensitive data in regulated and sovereign environments. Compare timelines and approaches with others who are planning the same moves. ",
+    "times": [
+      {
+        "id": "1794531752224001hZgx",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1788307464403001X2Zo",
+    "code": "SEC294",
+    "title": "Building a culture of security",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Culture of Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Security culture is now a board-level concern, yet few organizations have a repeatable way to build one. Share how you grow, measure, and sustain security culture, from engineering practice to executive engagement to team structure. Leave with practical approaches you can take back to your own organization. ",
+    "times": [
+      {
+        "id": "1794531752482001hALm",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
       }
     ]
   },
