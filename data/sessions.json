@@ -1350,33 +1350,6 @@
     ]
   },
   {
-    "id": "1792116735578001plqc",
-    "code": "ACT015",
-    "title": "Networking reception at Tableau",
-    "type": "Featured experience",
-    "level": "No Level",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Join us at Tableau in the Wynn for a networking reception!\n",
-    "times": [
-      {
-        "id": "1793322855026001jMbF",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "18:00",
-        "endTime": "20:00",
-        "startTimeFormatted": "06:00 PM",
-        "endTimeFormatted": "08:00 PM",
-        "duration": 120,
-        "room": "Tableau (located in Wynn)",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
     "id": "1789513466503001Lgd8",
     "code": "ACT016-R",
     "title": "Patch'd",
@@ -5130,7 +5103,7 @@
   {
     "id": "1780441488955001GvFC",
     "code": "AIM225-S",
-    "title": "Creating resilient multi-channel customer experiences for NAB with Amazon Connect (sponsored by Deloitte)",
+    "title": "Creating resilient multi-channel customer experiences with Amazon Connect ",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -5148,7 +5121,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "National Australia Bank (NAB) modernized its digital customer service capability by migrating priority banker groups from legacy messaging platforms to Amazon Connect Chat. The transformation delivered a scalable, integrated, and future-ready messaging environment while improving banker productivity, operational control, and reporting capabilities, and enabling a pathway to enhanced self-service and assisted-service experiences. Deloitte led the end-to-end migration through a structured release approach, encompassing experience design, backlog and epic management, governance, business readiness, training, cutover planning, and operational risk management using AWS services. This session explores the strategy, execution, and lessons learned from delivering a successful enterprise messaging transformation. This presentation is brought to you by Deloitte, an AWS Partner.",
+    "abstract": "modernized its digital customer service capability by migrating priority banker groups from legacy messaging platforms to Amazon Connect Chat. The transformation delivered a scalable, integrated, and future-ready messaging environment while improving banker productivity, operational control, and reporting capabilities, and enabling a pathway to enhanced self-service and assisted-service experiences. Deloitte led the end-to-end migration through a structured release approach, encompassing experience design, backlog and epic management, governance, business readiness, training, cutover planning, and operational risk management using AWS services. This session explores the strategy, execution, and lessons learned from delivering a successful enterprise messaging transformation. This presentation is brought to you by Deloitte, an AWS Partner.",
     "times": [
       {
         "id": "1790034533665001pu0e",
@@ -21582,7 +21555,7 @@
   {
     "id": "1787852034046001jO69",
     "code": "AWS114-R1",
-    "title": "Builder Zone in Expo ",
+    "title": "Builder Zone in the Expo ",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -21613,7 +21586,7 @@
   {
     "id": "1787852034150001jjQs",
     "code": "AWS114-R2",
-    "title": "Builder Zone in Expo ",
+    "title": "Builder Zone in the Expo ",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -21644,7 +21617,7 @@
   {
     "id": "1787852034298001jIKi",
     "code": "AWS114-R3",
-    "title": "Builder Zone in Expo ",
+    "title": "Builder Zone in the Expo ",
     "type": "Expo",
     "level": "No Level",
     "topics": [
@@ -22257,7 +22230,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Every dataset reflects choices about who counts. Researchers working on fairness in machine learning and Indigenous language technology examine who's absent from the data, teams, and user bases behind today's AI. They'll show how those gaps turn into product failures and what builders are doing about it, including community-governed data and better ways to measure fairness. You'll leave knowing what your own blind spots are costing you.",
+    "abstract": "Every dataset reflects choices about who is included. Researchers working on fairness in machine learning and Indigenous language technology examine who's absent from the data, teams, and user bases behind today's AI. They'll show how those gaps turn into product failures and what builders are doing about it, including community-governed data and better ways to measure fairness. You'll leave knowing what your own gaps may be costing you.",
     "times": [
       {
         "id": "1794245096036001FdBz",
@@ -22673,7 +22646,7 @@
   {
     "id": "1780441465715001GHij",
     "code": "BIZ108",
-    "title": "Customer Care Reimagined: How a leading bank connects AI end to end",
+    "title": "Customer Care Reimagined: How Barclays UK Embeds AI in CX Journey",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -22683,7 +22656,7 @@
     "roles": [],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Discover how a leading bank is reimagining Customer Care by connecting AI across the end-to-end journey. Instead of isolated pilots, they built joined-up capabilities on Amazon Connect Customer and Amazon Bedrock, delivered as incremental releases with governance from day one. Hear how four AI capabilities, from real-time colleague assistance to automated coaching across 100% of interactions, are already live and making a measurable difference for colleagues and customers. We will share the reusable architecture, lessons learned, and what comes next as these capabilities reach customer-facing journeys.",
+    "abstract": "Discover how Barclays UK is reimagining Customer Care by connecting AI across the end-to-end journey. Instead of isolated pilots, Barclays UK has built joined-up capabilities on Amazon Connect Customer and Amazon Bedrock, delivered as incremental releases. Hear how four AI capabilities, from real-time colleague assistance to automated coaching across 100% of interactions, are already live and making a measurable difference for colleagues and customers. Barclays UK and AWS share the lessons learned, reusable architecture and how this portfolio is evolving to customer-facing journeys. ",
     "times": [
       {
         "id": "1790025534878001C3Sl",
@@ -24017,7 +23990,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "In this builder session, you'll use no-code tools to design human agent experiences in Amazon Connect Customer. Create persona-specific workspaces - customizing layouts, apps, and views so frontline agents, back-office workers, and supervisors see only what they need. Build guided workflows in natural language: describe the view you want, and AI generates it. Set up AI agents to fill out forms in real time, freeing human agents to focus on the customer. Then test end-to-end to see how custom layouts, AI-generated views, and AI agents work together to speed resolution. Walk away with workspaces built in minutes, not days.",
+    "abstract": "In this workshop, you build the complete agent and business user experience in Amazon Connect Customer. First, you create persona-specific workspaces using the no-code UI builder, customizing page layouts, applications, and views so frontline agents, back-office workers, and supervisors each see only the information, tools, and guidance they need. Then, you create AI-powered guided workflows using natural language: describe the experience you want, and AI generates the step-by-step workflow automatically. You test and validate end-to-end in the Agent Workspace, seeing how custom layouts and AI-built guides work together to accelerate resolution. Walk away with persona-tailored workspaces and working guided workflows built in minutes instead of days.",
     "times": [
       {
         "id": "1790360365636001AIsi",
@@ -24471,7 +24444,7 @@
   {
     "id": "1790358238440001iWJK",
     "code": "BIZ323-R1",
-    "title": "Decision Frameworks, Evaluation, and Cost Management with AWS Quick",
+    "title": "Decision Frameworks, Evaluation, and Cost Management with Amazon Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -24529,7 +24502,7 @@
   {
     "id": "1780442236897001cqDM",
     "code": "BIZ325",
-    "title": "Fix Data Gaps Fast: Agentic Onboarding with Amazon Connect Decisions",
+    "title": "Firefighting to decision making: Agentic AI for supply chain ",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -51915,7 +51888,7 @@
   {
     "id": "1780442245351001cSyN",
     "code": "IND3307",
-    "title": " Unified Commerce Intelligence for Amazon Brands on Amazon Quick",
+    "title": "Unified commerce intelligence for Amazon Vendors on AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -51927,7 +51900,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Brands selling on Amazon generate rich signals across commerce and advertising — order trends, catalog performance, competitive pricing, campaign metrics, and customer engagement. The opportunity lies in connecting these signals into a unified view that drives faster, smarter decisions. In this chalk talk, we design an architecture that composes two Model Context Protocol (MCP) servers — the SP-API MCP Server for Selling Partner operations and the Amazon Ads MCP Server for campaigns and reporting — behind Amazon Quick as a conversational layer. We'll whiteboard how brands can build cross-domain queries, like correlating ad spend with order velocity or surfacing catalog insights that inform campaign strategy. Leave with production-grade patterns for building agentic commerce workflows tailored to your brand's data",
+    "abstract": "Vendors selling on Amazon generate rich signals across commerce and advertising—order trends, catalog performance, competitive pricing, campaign metrics, and customer engagement. The opportunity lies in connecting these signals into a unified view that drives faster, smarter decisions. In this chalk talk, we design an architecture composing two Model Context Protocol (MCP) servers—the SP-API MCP Server for Selling Partner operations and the Amazon Ads MCP Server for campaigns—behind AWS Quick as a conversational layer. We whiteboard cross-domain queries like correlating ad spend with order velocity or surfacing catalog insights that inform campaign strategy.",
     "times": [
       {
         "id": "1790025512822001CJQm",
@@ -53884,6 +53857,42 @@
     ]
   },
   {
+    "id": "1794005180742001RqJT",
+    "code": "IND3358",
+    "title": "Inside the up to $50B SI and HPC investment in AWS Government Regions",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Government agencies and the industrial base need compliant, mission-ready infrastructure for Super Intelligence (SI) and HPC. Learn how AWS is investing up to $50 billion to deliver nearly 1.3 gigawatts of purpose-built capacity and new capabilities across the AWS GovCloud (US), Secret, and Top Secret clouds. See how Amazon Bedrock supports agentic SI, with model choice from Amazon, Anthropic, OpenAI, and NVIDIA and built-in responsible SI safeguards. Then get the latest Government Regions updates that help accelerate mission delivery. Ideal for mission owners, architects, and technical leaders.",
+    "times": [
+      {
+        "id": "1794005302607001xWjk",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:20",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1780441477646001GG1s",
     "code": "IND344",
     "title": "How Chamberlain and Daikin power smart product innovation with AWS",
@@ -55160,7 +55169,7 @@
   {
     "id": "1780442246369001c58q",
     "code": "IND366",
-    "title": "Zero-Shot Demand Forecasting with Chronos 2, SMUS, and AWS Quick",
+    "title": "Zero-Shot demand forecasting with Chronos 2, SMUS & AWS Quick",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -55170,7 +55179,7 @@
     "roles": [],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Stockouts and overstocks quietly erode margin for retail and CPG brands, driving lost sales, markdowns, and working capital tied up in the wrong inventory. Traditional forecasting models take months to train and tune, and struggle with the cold-start problem for new products and locations. In this chalk talk, we whiteboard how to architect zero-shot demand forecasting pipelines using Amazon SageMaker Unified Studio with the Chronos 2 time-series foundation model, developed by the Amazon Science team and proven on Amazon's own retail and CPG demand at scale, requiring no historical model training. We walk through the end-to-end design: SMUS notebooks for rapid experimentation, Chronos 2 for multi-variate time series prediction, and Amazon Quick Suite for conversational analytics that let planners explore forecasts in natural language..",
+    "abstract": "Stockouts and overstocks quietly erode margin through lost sales, markdowns, and misallocated working capital. Traditional forecasting models take months to train and fail on new products and locations. In this chalk talk, we whiteboard how to architect zero-shot demand forecasting pipelines using Amazon SageMaker Unified Studio with Chronos 2—the time-series foundation model built and proven on Amazon's own retail demand at scale—requiring no historical training. We cover SMUS notebooks for experimentation, Chronos 2 for multivariate prediction, and AWS Quick for conversational forecast analytics.",
     "times": [
       {
         "id": "1790025475088001CCeW",
@@ -59216,7 +59225,7 @@
   {
     "id": "1780441495529001Gpyo",
     "code": "INV538",
-    "title": "Building the machine that builds the machine",
+    "title": "Building the machine that builds the machine: inside AWS Emulator",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
     "topics": [
@@ -59236,7 +59245,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "At AWS, we're constantly looking for ways to automate parts of the building process with agents. An upcoming launch takes this to the extreme, releasing an application that was built entirely by autonomous agents without a human ever touching the code base. The agents built a first version over a weekend. But turning that into a robust application was a much longer journey than we expected. In this talk, we pull back the curtain on this upcoming launch and talk about the machine that builds the machine.",
+    "abstract": "AWS Emulator was built entirely by autonomous agents without a human ever touching the code base. Our initial hypothesis was simple: with the AWS SDK as a spec and AWS itself as a reference implementation, agents should be able to easily build an emulator on their own. They built a first version over a weekend. But turning that into a robust application was a much longer journey than we expected. In this talk, we pull back the curtain and talk about the machine that builds AWS Emulator. We’ll answer questions like, does this actually work? Why are you rebuilding the emulator daily from scratch, just to throw it away? Did the agents really build their own Python interpreter?",
     "times": [
       {
         "id": "1791396619270001Xhj1",
@@ -62151,7 +62160,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Migrating Microsoft workloads to AWS requires rethinking your monitoring strategy. Existing observability approaches may not translate seamlessly to the cloud, creating blind spots that lead to costly downtime and degraded end-user experiences. In this chalk talk, we'll explore how to strengthen your observability posture as you migrate .NET applications, SQL Server databases, and Windows services to AWS. We'll cover how to use AWS-native and open-source tooling to monitor workloads across VMs, containers, and serverless, giving you confidence to migrate faster while maintaining operational excellence. Bring your questions.",
+    "abstract": "Migrating Microsoft workloads to AWS requires rethinking your monitoring strategy. Existing observability approaches may not translate seamlessly to the cloud, creating coverage gaps that lead to costly downtime and degraded end-user experiences. In this chalk talk, we'll explore how to strengthen your observability posture as you migrate .NET applications, SQL Server databases, and Windows services to AWS. We'll cover how to use AWS-native and open-source tooling to monitor workloads across VMs, containers, and serverless, giving you confidence to migrate faster while maintaining operational excellence. Bring your questions.",
     "times": [
       {
         "id": "1790025493545001Cph5",
@@ -62846,7 +62855,7 @@
   {
     "id": "1780442242053001cKxl",
     "code": "MAM347-R",
-    "title": "Meet Your AI Teammate for WorkSpaces Administration",
+    "title": "Meet Your AI-powered Advisor for WorkSpaces Administration",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -70991,6 +71000,44 @@
     ]
   },
   {
+    "id": "1793386000316001r0q9",
+    "code": "PEX319-R1",
+    "title": "Automate your AWS partnership with a unified agentic operating model",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Partner Enablement"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Sales / Marketing",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Getting the most from your AWS partnership requires thoughtful and sustained engagement from both sides. Instead of heavy manual lifts, an agentic partner operating model supports this engagement at scale through strategic automation, delivering the right guidance, insight, and capabilities to team members who need them most. In this workshop, build a unified agentic operating model that connects pipeline, co-sell coordination, and AWS consumption measurement into a single orchestration layer using your CRM, AWS Partner Central, and Amazon Quick, enabling all team members to easily leverage AWS tools, insights, and investments from one agentic surface to increase your AWS engagement.",
+    "times": [
+      {
+        "id": "1793386134460001YeNR",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "10:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "10:30 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 3",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442227509001c83e",
     "code": "PEX320-R",
     "title": "AI-Powered Migrations: AWS Transform Across the Lifecycle",
@@ -72226,7 +72273,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Defenders often drown in noise while attackers move at machine speed. To truly secure your environment, you must adopt an attacker’s perspective. Horizon3 CEO Snehal Antani shares insights from 250,000+ autonomous pentests across 6,000+ environments, demonstrating how AI hackers find exploitable paths that scanners miss, such as credential theft and domain compromise without CVEs. You’ll learn why vulnerable doesn’t mean exploitable, how to validate controls through a Hack-Fix-Verify loop, and where AI belongs in offense and defense: tool for scale and proof, not a black box. This presentation is brought to you by Horizon3.ai, an AWS Partner.",
+    "abstract": "Defenders often drown in noise while attackers move at machine speed. To truly secure your environment, you must adopt an attacker’s perspective.  Ajit Vakharia shares insights from 250,000+ autonomous pentests across 6,000+ environments, demonstrating how AI hackers find exploitable paths that scanners miss, such as credential theft and domain compromise without CVEs. You’ll learn why vulnerable doesn’t mean exploitable, how to validate controls through a Hack-Fix-Verify loop, and where AI belongs in offense and defense: tool for scale and proof, not a black box. This presentation is brought to you by Horizon3, an AWS Partner.",
     "times": [
       {
         "id": "1790025484293001CBp0",
