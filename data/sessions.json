@@ -22080,33 +22080,6 @@
     ]
   },
   {
-    "id": "1793907193466001Wsf6",
-    "code": "AWS124",
-    "title": "Twenty Years of Building and What Comes Next, with Dr. Werner Vogels and Dr. Swami Sivasubramanian",
-    "type": "Breakout session",
-    "level": "100 – Foundational",
-    "topics": [],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "Dr. Werner Vogels and Dr. Swami Sivasubramanian have spent two decades building at Amazon, from the earliest days of scaling Amazon.com and pioneering AWS, which fundamentally transformed how the world consumes IT services, too the agents changing how software gets made today. In this candid conversation, they talk about the choices that shaped their careers and how they see technology today. They also look ahead: where innovation is heading, and the skills you’ll need to be successful when it gets there. Expect strong opinions, stories you haven’t heard and advice you can act on straight away.",
-    "times": [
-      {
-        "id": "1794516988563001GOcE",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "10:30",
-        "endTime": "11:30",
-        "startTimeFormatted": "10:30 AM",
-        "endTimeFormatted": "11:30 AM",
-        "duration": 60,
-        "room": "Venetian | Level 2 | Venetian Theatre",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
     "id": "1786406740065001Lgdd",
     "code": "AWS125",
     "title": "Who gets to decide the future?",
