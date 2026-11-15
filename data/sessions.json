@@ -53893,6 +53893,43 @@
     ]
   },
   {
+    "id": "1794006495056001xyAz",
+    "code": "IND3359",
+    "title": "Physical AI on the Move: How Torc Robotics Trains and Scales Autonomous Trucks on AWS",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation",
+      "Machine Learning"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Torc Robotics, an independent Daimler Truck subsidiary, is transforming freight with self-driving trucks, powered by physical AI. Discover how Torc is bringing Level 4 driverless trucks to the highway on AWS, using Amazon S3 to store petabytes of driving data and Amazon EC2 to scale GPU-based reinforcement learning and validation. Learn how AWS enables Torc to build more reliable systems faster – providing the infrastructure for Torc to turn multimodal sensor data into training-ready datasets, curate critical scenarios in minutes with AI agents, and validate driving policies against millions of simulated miles. Leave with key insights on how to bring autonomous vehicles to the road at scale.",
+    "times": [
+      {
+        "id": "1794706251494001uGNJ",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780441477646001GG1s",
     "code": "IND344",
     "title": "How Chamberlain and Daikin power smart product innovation with AWS",
@@ -64873,7 +64910,7 @@
   {
     "id": "1789805682800001ICuO",
     "code": "MUP303",
-    "title": "SAP Migration Meetup",
+    "title": "Migrate, Optimize and Operate SAP Workloads at Scale",
     "type": "Meetup",
     "level": "300 – Advanced",
     "topics": [
@@ -64888,7 +64925,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Join AWS experts and SAP specialists to accelerate your RISE with SAP on AWS journey through focused technical planning sessions. We'll exchange practical insights about migration strategies, performance optimization, and complex integration scenarios for S/4HANA transformations. Learn about proven migration patterns, business continuity best practices, and techniques for successful SAP ecosystem transitions through hands-on guidance from designated AWS engineers.",
+    "abstract": "Join AWS experts and SAP specialists to accelerate your cloud journey with Unified Operations (UOps) for SAP Native and RISE. In this session learn how to accelerate your end-to-end cloud journey with UOps for SAP with best practices for migration, performance optimization, complex business integrations, and resilient cost optimized operations. Learn about how to migrate at speed to AWS for SAP Native and RISE with specialized Go-Live teams, HA and DR practices,  and cost optimization with expert-led proactive guidance for SAP workloads.",
     "times": [
       {
         "id": "1794243999822001yxQa",

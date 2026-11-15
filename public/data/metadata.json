@@ -1,10 +1,10 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-11-14T21:47:02Z",
-  "totalSessions": 2588,
-  "scheduledTimeSlots": 2596,
+  "lastUpdated": "2026-11-15T13:06:50Z",
+  "totalSessions": 2589,
+  "scheduledTimeSlots": 2597,
   "campuses": {
-    "Wynn Campus": 610,
+    "Wynn Campus": 611,
     "MGM Grand Campus": 712,
     "Caesars Campus": 886,
     "Venetian Campus": 351,
@@ -12,7 +12,7 @@
     "Various Locations Campus": 26
   },
   "venues": {
-    "Wynn/Encore": 610,
+    "Wynn/Encore": 611,
     "MGM Grand": 712,
     "Caesars Palace": 408,
     "Caesars Forum": 478,
@@ -21,7 +21,7 @@
     "Various Locations": 26
   },
   "levels": {
-    "300 \u2013 Advanced": 1406,
+    "300 \u2013 Advanced": 1407,
     "200 \u2013 Intermediate": 426,
     "100 \u2013 Foundational": 134,
     "Unspecified": 8,
@@ -31,18 +31,18 @@
   },
   "sessionTypes": {
     "Chalk talk": 691,
-    "Breakout session": 544,
+    "Breakout session": 545,
     "Lightning talk": 260,
     "Gamified learning": 35,
     "Meetup": 88,
     "Builders' session": 260,
     "Workshop": 303,
     "Code talk": 128,
-    "Mainstage": 31,
-    "Bootcamp": 26,
     "Featured experience": 113,
+    "Bootcamp": 26,
     "Exam prep": 10,
     "Expo": 24,
+    "Mainstage": 31,
     "Lab": 49,
     "Event service": 21,
     "Keynote": 5
@@ -52,7 +52,7 @@
     "Monday": 672,
     "Thursday": 637,
     "Tuesday": 516,
-    "Friday": 60,
+    "Friday": 61,
     "Sunday": 11
   },
   "topics": [
