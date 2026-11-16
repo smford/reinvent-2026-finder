@@ -1,6 +1,6 @@
 {
   "event": "AWS re:Invent 2026",
-  "lastUpdated": "2026-11-15T22:15:17Z",
+  "lastUpdated": "2026-11-16T14:13:33Z",
   "totalSessions": 2588,
   "scheduledTimeSlots": 2596,
   "campuses": {
@@ -26,8 +26,8 @@
     "100 \u2013 Foundational": 133,
     "Unspecified": 8,
     "400 \u2013 Expert": 424,
-    "No Level": 142,
-    "500 \u2013 Distinguished": 48
+    "500 \u2013 Distinguished": 48,
+    "No Level": 142
   },
   "sessionTypes": {
     "Chalk talk": 691,
@@ -38,12 +38,12 @@
     "Builders' session": 260,
     "Workshop": 303,
     "Code talk": 128,
-    "Mainstage": 31,
     "Featured experience": 113,
     "Bootcamp": 26,
+    "Mainstage": 31,
+    "Lab": 49,
     "Exam prep": 10,
     "Expo": 24,
-    "Lab": 49,
     "Event service": 21,
     "Keynote": 5
   },
