@@ -1485,35 +1485,6 @@
     ]
   },
   {
-    "id": "1792450370692001snVp",
-    "code": "ACT017",
-    "title": "Building Together Reception",
-    "type": "Featured experience",
-    "level": "100 – Foundational",
-    "topics": [
-      "Networking & Content Delivery"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Join AWS and Amazon Together Community for an evening reception celebrating those who make the world better. Connect with builders and developers who use AWS AI and cloud technology for positive change. Over light bites and beverages at Tableau in the Wynn, explore skilling and social impact, spark new ideas, and celebrate the work we do best — together. All builders welcome.",
-    "times": [
-      {
-        "id": "1793081400303001KyD2",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "18:00",
-        "endTime": "20:00",
-        "startTimeFormatted": "06:00 PM",
-        "endTimeFormatted": "08:00 PM",
-        "duration": 120,
-        "room": "Tableau (located in Wynn)",
-        "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
     "id": "1789513462538001LdND",
     "code": "ACT053",
     "title": "AWS re:Invent 5K Run",
@@ -2616,6 +2587,35 @@
         "duration": 450,
         "room": "Venetian | Level 2 | Hall C",
         "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1792450370692001snVp",
+    "code": "ACT159",
+    "title": "Building Together Reception",
+    "type": "Featured experience",
+    "level": "100 – Foundational",
+    "topics": [
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Join AWS and Amazon Together Community for an evening reception celebrating those who make the world better. Connect with builders and developers who use AWS AI and cloud technology for positive change. Over light bites and beverages at Tableau in the Wynn, explore skilling and social impact, spark new ideas, and celebrate the work we do best — together. All builders welcome.",
+    "times": [
+      {
+        "id": "1793081400303001KyD2",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "18:00",
+        "endTime": "20:00",
+        "startTimeFormatted": "06:00 PM",
+        "endTimeFormatted": "08:00 PM",
+        "duration": 120,
+        "room": "Tableau (located in Wynn)",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -15890,18 +15890,6 @@
         "duration": 45,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
-      },
-      {
-        "id": "1794513619427001GHLZ",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "14:00",
-        "endTime": "14:45",
-        "startTimeFormatted": "02:00 PM",
-        "endTimeFormatted": "02:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
       }
     ]
   },
@@ -15933,18 +15921,6 @@
         "duration": 45,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
-      },
-      {
-        "id": "1794513619535001Ghk2",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
       }
     ]
   },
@@ -15967,18 +15943,6 @@
     "times": [
       {
         "id": "1794434856410001NuPs",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      },
-      {
-        "id": "1794513620711001GoF9",
         "date": "2026-12-02",
         "day": "Wednesday",
         "startTime": "15:00",
@@ -25317,18 +25281,6 @@
         "duration": 45,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
-      },
-      {
-        "id": "1794513621991001GLiD",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "16:00",
-        "endTime": "16:45",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "04:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
       }
     ]
   },
@@ -28415,18 +28367,6 @@
         "duration": 45,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
         "venue": "MGM Grand"
-      },
-      {
-        "id": "1794513620127001GI76",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "11:00",
-        "endTime": "11:45",
-        "startTimeFormatted": "11:00 AM",
-        "endTimeFormatted": "11:45 AM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
       }
     ]
   },
@@ -28454,18 +28394,6 @@
     "times": [
       {
         "id": "1794268449752001ndLE",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "13:00",
-        "endTime": "13:45",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "01:45 PM",
-        "duration": 45,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
-        "venue": "MGM Grand"
-      },
-      {
-        "id": "1794513620405001GgF1",
         "date": "2026-12-02",
         "day": "Wednesday",
         "startTime": "13:00",
@@ -39172,18 +39100,6 @@
         "duration": 45,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
         "venue": "Wynn/Encore"
-      },
-      {
-        "id": "1794513619294001GGMQ",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "13:45",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "01:45 PM",
-        "duration": 45,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -39208,18 +39124,6 @@
     "times": [
       {
         "id": "1794435733044001JpSK",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
-        "duration": 45,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
-        "venue": "Wynn/Encore"
-      },
-      {
-        "id": "1794513619679001G7CP",
         "date": "2026-12-01",
         "day": "Tuesday",
         "startTime": "15:00",
@@ -50401,12 +50305,12 @@
     "times": [
       {
         "id": "1793130023034001zZMK",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "17:00",
-        "endTime": "17:20",
-        "startTimeFormatted": "05:00 PM",
-        "endTimeFormatted": "05:20 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "15:20",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:20 PM",
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
         "venue": "Venetian"
@@ -50437,12 +50341,12 @@
     "times": [
       {
         "id": "1794529601340001eArp",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "15:00",
-        "endTime": "15:20",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:20 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "17:00",
+        "endTime": "17:20",
+        "startTimeFormatted": "05:00 PM",
+        "endTimeFormatted": "05:20 PM",
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
         "venue": "Venetian"
@@ -54076,6 +53980,42 @@
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1793251097680001LTXt",
+    "code": "IND3360",
+    "title": "How Jabil AI agents power a 1M-part weekly manufacturing supply chain",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Business Intelligence",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "Data Scientist"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Jabil buyers manage over one million parts per week, classifying material constraints, resolving shortages, and making sourcing decisions across disconnected planning, supplier, and distributor systems. Learn how Jabil and AWS built an agentic AI platform on Amazon Bedrock AgentCore with five agents on a shared foundation: constraint classification, a shortage-decision engine, a natural-language supply chain assistant, part-lifecycle intelligence, and write-back into planning systems. The platform cut per-part classification from minutes to 8-17 seconds, pre-filtered 75% of parts instantly, and classified one million parts weekly within a 24-hour SLA. Leave with architecture patterns for scaling from one use case to a multi-agent platform.",
+    "times": [
+      {
+        "id": "1793251237577001N0EA",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
