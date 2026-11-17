@@ -1501,8 +1501,8 @@
     "times": [
       {
         "id": "1793081400303001KyD2",
-        "date": "2026-12-03",
-        "day": "Thursday",
+        "date": "2026-12-02",
+        "day": "Wednesday",
         "startTime": "18:00",
         "endTime": "20:00",
         "startTimeFormatted": "06:00 PM",
@@ -2104,6 +2104,122 @@
         "duration": 240,
         "room": "Allegiant Stadium",
         "venue": "Allegiant Stadium"
+      }
+    ]
+  },
+  {
+    "id": "1792713232260001lIUY",
+    "code": "ACT067-R",
+    "title": "Startup Plaza",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Calling all startup founders, builders, operators, and VCs. The Startup Plaza at Caesars Forum is the home for the startup community at re:Invent. Get hands-on in sessions built for startups and ask questions to AWS experts throughout the week, see panels on topics like securing agents in production, training robots for real-world use, and AI-native development workflows, hear about hot topics from startups like Manifold Bio, Clay, Supabase, OpenRouter, Agility Robotics, and Triomics, catch live robotics demos from companies like RLWRLD, and explore demos ranging from security and dev tools to voice AI and 3D media. Most of all, connect with pioneers like you.",
+    "times": [
+      {
+        "id": "1794850540593001Mp7Q",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:00",
+        "endTime": "17:30",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 570,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713993338001of3Y",
+    "code": "ACT067-R1",
+    "title": "Startup Plaza",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Calling all startup founders, builders, operators, and VCs. The Startup Plaza at Caesars Forum is the home for the startup community at re:Invent. Get hands-on in sessions built for startups and ask questions to AWS experts throughout the week, see panels on topics like securing agents in production, training robots for real-world use, and AI-native development workflows, hear about hot topics from startups like Manifold Bio, Clay, Supabase, OpenRouter, Agility Robotics, and Triomics, catch live robotics demos from companies like RLWRLD, and explore demos ranging from security and dev tools to voice AI and 3D media. Most of all, connect with pioneers like you.",
+    "times": [
+      {
+        "id": "1794870156894001wtPL",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "06:00 PM",
+        "duration": 600,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713993169001o1Zo",
+    "code": "ACT067-R2",
+    "title": "Startup Plaza",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Calling all startup founders, builders, operators, and VCs. The Startup Plaza at Caesars Forum is the home for the startup community at re:Invent. Get hands-on in sessions built for startups and ask questions to AWS experts throughout the week, see panels on topics like securing agents in production, training robots for real-world use, and AI-native development workflows, hear about hot topics from startups like Manifold Bio, Clay, Supabase, OpenRouter, Agility Robotics, and Triomics, catch live robotics demos from companies like RLWRLD, and explore demos ranging from security and dev tools to voice AI and 3D media. Most of all, connect with pioneers like you.",
+    "times": [
+      {
+        "id": "1794870334479001Do14",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 540,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1792713993253001oGTk",
+    "code": "ACT067-R3",
+    "title": "Startup Plaza",
+    "type": "Featured experience",
+    "level": "No Level",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Calling all startup founders, builders, operators, and VCs. The Startup Plaza at Caesars Forum is the home for the startup community at re:Invent. Get hands-on in sessions built for startups and ask questions to AWS experts throughout the week, see panels on topics like securing agents in production, training robots for real-world use, and AI-native development workflows, hear about hot topics from startups like Manifold Bio, Clay, Supabase, OpenRouter, Agility Robotics, and Triomics, catch live robotics demos from companies like RLWRLD, and explore demos ranging from security and dev tools to voice AI and 3D media. Most of all, connect with pioneers like you.",
+    "times": [
+      {
+        "id": "1794870405309001OlLw",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 540,
+        "room": "Caesars Forum | Level 1 | Forum Event Plaza",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -2775,7 +2891,7 @@
   {
     "id": "1780441490155001GgFv",
     "code": "AIM108-S",
-    "title": "Beyond pilots: agentic AI transforming mortgage operations and IT at scale (sponsored by Tata Consultancy Services)",
+    "title": "Beyond DC Exit: AXA’s Value-Led Cloud Transformation Journey (sponsored by Tata Consultancy Services)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -2795,7 +2911,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Mortgage lending still runs on handoffs, exceptions, and manual review. See how a leading US mortgage lender is rebuilding origination and servicing with agentic AI on AWS, cutting cycle times while keeping controls and auditability intact. We will also show how the same agent patterns reach IT operations, resolving incidents before customers feel them. Tata Consultancy Services shares the reference architecture, guardrails, and adoption model behind both. Built for financial services business and operations leaders, CIOs and IT operations heads, and data and AI leaders, this session gives you a practical path from promising pilots to production at enterprise scale. This presentation is brought to you by Tata Consultancy Services, an AWS Partner.",
+    "abstract": "How do you exit multiple datacenters across a multi-entity enterprise on a hard regulatory deadline? AXA faced an aging, mixed estate where standard rehosting alone wasn’t enough: non-standard workloads, complex file-transfer dependencies, heterogeneous databases, and massive file shares. Join AXA Group and TCS leaders to learn how a bespoke model, centralized governance, and an automated migration factory moved AXA to AWS on time and without disruption, unlocking significant recurring savings and new operational scale. Discover how that foundation positions AXA for AI-driven operations and faster innovation and leave with practical lessons for governing multi-entity programs and automating migration at scale.",
     "times": [
       {
         "id": "1790025508133001CSgo",
@@ -9273,21 +9389,21 @@
       "Data Scientist",
       "Developer / Engineer"
     ],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "Building specialized intelligence demands clusters that stay reliable under the heaviest training and inference loads. Learn what's new across SageMaker HyperPod running on EKS and Slurm. Maximize every GPU hour when building models such as BioFMs, World Models, and Sovereign AI, and run the full lifecycle from notebook to production across training, serving, and observability. Hear how Multiverse Computing drove their clusters from 30% to 80% utlization using workload-aware resiliency that detects faults, recovers failed nodes, and restarts training from checkpoints. Learn what comes next as they plan to leverage HyperPod Observability to push utilization and goodput even higher.",
     "times": [
       {
         "id": "1793128947177001ORPF",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
-        "room": "Caesars Palace | Promenade Level | Roman I",
-        "venue": "Caesars Palace"
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -22080,6 +22196,33 @@
     ]
   },
   {
+    "id": "1793907144909001iG7f",
+    "code": "AWS123",
+    "title": "New to re:Invent: Maximizing your time",
+    "type": "Breakout session",
+    "level": "100 – Foundational",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Is this your first AWS re:Invent? Join this informational session to learn about selecting educational sessions that match your needs and learning style, tools for navigating the re:Invent campus, accessibility options, what happens in Expo, available networking and activities, and much more. There will be time for Q&A to help you get the most out of your week.",
+    "times": [
+      {
+        "id": "1794844745192001uI9q",
+        "date": "2026-11-29",
+        "day": "Sunday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1786406740065001Lgdd",
     "code": "AWS125",
     "title": "Who gets to decide the future?",
@@ -23673,7 +23816,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Anyone can generate apps from a sentence - the hard part is governing them and getting them in front of the right users. This chalk talk whiteboards the full lifecycle of AWS Quick Apps: building them from natural language with no separate hosting, wiring in data and actions through MCP, and the three sharing paths - private, public URLs, and enterprise sharing gated behind admin approval workflows. ",
+    "abstract": "Security reviews stall AI rollouts more than any capability gap, and agentic AI raises the bar. This chalk talk goes past \"is it secure?\" to the architecture that gets a CISO to yes for AWS Quick. We'll whiteboard the full identity path in Quick: SSO through providers like Okta and Ping, with end-user identity propagated to the data so authorization is enforced per user, in real time, across 1P AWS and 3P sources. Then we extend that trust to Quick agents: agent identity, deterministic policy checks on every tool call, and data protection, including Purview DLP, default guardrails, deny-by-default, and full SIEM auditability.",
     "times": [
       {
         "id": "1790025496515001CdyH",
@@ -34665,7 +34808,7 @@
   {
     "id": "1780441471802001GuEb",
     "code": "CON346",
-    "title": "Enhanced container image access & distribution with Amazon ECR ",
+    "title": "Beyond the registry: Discover, trust, & consume containers on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -38493,6 +38636,41 @@
     ]
   },
   {
+    "id": "1794524062911001bMKj",
+    "code": "COP355-R2",
+    "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Follow an issue from detection to resolution. In this builder's session, see how AWS DevOps Agent investigates incidents across AWS, multicloud, and on-premises environments, analyzing telemetry and correlating signals to pinpoint root causes and deliver targeted remediation. Then use the AWS DevOps Agent release management agent to review the code changes for production readiness before they reach your customers. Every review is informed by production intelligence that AWS DevOps Agent continuously builds from your environment.",
+    "times": [
+      {
+        "id": "1794527585800001gFBE",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Builders' Session 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442227450001cFhR",
     "code": "COP356",
     "title": "Catch bad agent behavior before your users do",
@@ -38734,14 +38912,14 @@
     "times": [
       {
         "id": "1791224279491001tz7A",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "16:30",
-        "endTime": "16:50",
-        "startTimeFormatted": "04:30 PM",
-        "endTimeFormatted": "04:50 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "14:50",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "02:50 PM",
         "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
+        "room": "Venetian | Level 2 | Hall B | Expo | Partner Advantage Theater",
         "venue": "Venetian"
       }
     ]
@@ -59060,6 +59238,35 @@
     ]
   },
   {
+    "id": "1780441495169001GbUR",
+    "code": "INV532",
+    "title": "Beating RL with Reflection: GEPA and Optimize Anything (featuring rising stars in AI)",
+    "type": "Chalk talk",
+    "level": "500 – Distinguished",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [
+      "Academic / Researcher"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Teaching AI a new task usually means fine-tuning or reinforcement learning, which needs data and compute most teams don’t have, yet every agent run already produces rich feedback (reasoning traces, tool errors, eval results) that a single reward score throws away. This session shows how GEPA, the open-source optimizer used in production at Databricks, NuBank, Doordash and Decagon, has an LLM reflect on that feedback to automatically rewrite prompts, agent code, and skills in under an hour, matching RL with up to 35x fewer rollouts and letting smaller, cheaper models match frontier ones, with no retraining. Presented by an Amazon AI PhD Fellow Lakshya A. Agrawal from UC Berkeley, this session will also feature short lightning talks and a poster session from additional members of the Amazon AI PhD Fellows cohort.",
+    "times": [
+      {
+        "id": "1791396373019001vXwt",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 114",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441495229001GNU6",
     "code": "INV533",
     "title": "How AI is Changing Everything (Computer Systems, Education, Driving, and More)",
@@ -62896,6 +63103,44 @@
         "endTimeFormatted": "03:30 PM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 320",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1794508479288001jNbz",
+    "code": "MAM347-R1",
+    "title": "Meet Your AI-powered Advisor for WorkSpaces Administration",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Automation",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "IT Administrator",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Whether you run WorkSpaces today or are evaluating cloud desktops for the first time, operational overhead follows every virtual desktop deployment: ongoing monitoring, systemic issues that surface as tickets, and end-user requests that consume administrator time. Most teams operate reactively, triaging problems after they surface and manually guiding users through resolution. This session explores how Amazon WorkSpaces Advisor is using AI to reduce resolution time for both IT administrators and end users. We'll walk through the operational challenges we're hearing from customers, share our approach to solving them, and demonstrate early results from production environments. Bring your deployment architecture questions.",
+    "times": [
+      {
+        "id": "1794513622193001GPvM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 350",
         "venue": "MGM Grand"
       }
     ]
@@ -82678,6 +82923,43 @@
     ]
   },
   {
+    "id": "1794504212301001PoPb",
+    "code": "STG422-R1",
+    "title": "Dive deep into resilience architectures for Amazon EBS",
+    "type": "Chalk talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Disaster Response & Recovery",
+      "Innovation & Transformation",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Learn about new Amazon EBS capabilities for resilient architectures and how they work. We cover how to plan your approach and optimize your block storage. Bring your questions.",
+    "times": [
+      {
+        "id": "1794521636453001mmiZ",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1791492157642001UYqf",
     "code": "SUP101",
     "title": "The state of commercial open source in the age of AI",
@@ -82815,7 +83097,7 @@
   {
     "id": "1791492159918001UIY8",
     "code": "SUP106",
-    "title": "From MIT Lab to Market: Building Efficient AI for Every Enterprise",
+    "title": "Inside Systalyze: Building the Fastest, Most Efficient AI",
     "type": "Lightning talk",
     "level": "100 – Foundational",
     "topics": [
@@ -82827,7 +83109,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Manya Ghobadi, founder and CEO of Systalyze and MIT associate professor, spent nearly a decade at MIT studying how to make AI faster, more efficient, and more sustainable. Then she set out to bring that research into the hands of every enterprise. In this fireside chat with Tiffany Bloomquist, Director of APJ Startups at AWS, Ghobadi shares the story behind her company: the moment she realized an academic insight could solve a real business problem, what it took to move from the lab to the market, and why she believes high-performance AI shouldn't demand unlimited resources. Join us for an honest conversation about the inspiration, the journey, and the lessons behind building a deep-tech startup on AWS.",
+    "abstract": "What does it take to build the world’s fastest, most efficient AI? Manya Ghobadi, founder and CEO of Systalyze and MIT associate professor, spent nearly a decade on efficient AI at MIT before bringing it to enterprises. In this technical fireside with Tiffany Bloomquist (Director of APJ Startups, AWS), she breaks down how Systalyze accelerates real-time and agentic workloads, and the AWS architecture behind it.",
     "times": [
       {
         "id": "1793914333518001NaVi",
@@ -83262,12 +83544,12 @@
     "times": [
       {
         "id": "1793317631207001RQ8t",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "08:40",
-        "endTime": "09:00",
-        "startTimeFormatted": "08:40 AM",
-        "endTimeFormatted": "09:00 AM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:40",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:40 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 20,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
         "venue": "Caesars Forum"
@@ -84283,13 +84565,13 @@
     "abstract": "Cartesia built a voice AI platform that runs end-to-end latency on AWS Trainium silicon. This session covers how Cartesia architected their stack to hit that latency bar, the tradeoffs of building on custom silicon, and what it takes to make voice AI feel truly real-time in production.",
     "times": [
       {
-        "id": "1793643790666001T662",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:40",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:40 PM",
-        "endTimeFormatted": "02:00 PM",
+        "id": "1794851370421001PTUl",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:40",
+        "endTime": "09:00",
+        "startTimeFormatted": "08:40 AM",
+        "endTimeFormatted": "09:00 AM",
         "duration": 20,
         "room": "Caesars Forum | Level 1 | Forum Event Plaza | Startup Plaza Theater",
         "venue": "Caesars Forum"
