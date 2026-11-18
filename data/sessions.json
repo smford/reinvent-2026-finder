@@ -2038,13 +2038,13 @@
     "abstract": "Join us at re:Play for Amazon's World Famous Chicken Wing Eating Competition, where brave competitors will face off at 6:45 PM. Competitors must register prior at the Attendee Experiences Desk (Venetian | Level 2 | Artist Foyer) to devour as many wings as possible in this epic battle of endurance for a chance at a re:Invent 2027 Ticket. This is one of re:Invent's most memorable and exciting spectacles.",
     "times": [
       {
-        "id": "1793316620205001KTlY",
+        "id": "1795045122965001R8DB",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "06:45",
-        "endTime": "07:35",
-        "startTimeFormatted": "06:45 AM",
-        "endTimeFormatted": "07:35 AM",
+        "startTime": "18:45",
+        "endTime": "19:35",
+        "startTimeFormatted": "06:45 PM",
+        "endTimeFormatted": "07:35 PM",
         "duration": 50,
         "room": "Allegiant Stadium",
         "venue": "Allegiant Stadium"
@@ -5212,43 +5212,6 @@
         "endTimeFormatted": "12:30 PM",
         "duration": 60,
         "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
-        "venue": "Venetian"
-      }
-    ]
-  },
-  {
-    "id": "1780441488955001GvFC",
-    "code": "AIM225-S",
-    "title": "Creating resilient multi-channel customer experiences for NAB with Amazon Connect (sponsored by Deloitte)",
-    "type": "Breakout session",
-    "level": "200 – Intermediate",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Automation",
-      "Generative AI",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Venetian",
-    "campus": "Venetian Campus",
-    "abstract": "modernized its digital customer service capability by migrating priority banker groups from legacy messaging platforms to Amazon Connect Chat. The transformation delivered a scalable, integrated, and future-ready messaging environment while improving banker productivity, operational control, and reporting capabilities, and enabling a pathway to enhanced self-service and assisted-service experiences. Deloitte led the end-to-end migration through a structured release approach, encompassing experience design, backlog and epic management, governance, business readiness, training, cutover planning, and operational risk management using AWS services. This session explores the strategy, execution, and lessons learned from delivering a successful enterprise messaging transformation. This presentation is brought to you by Deloitte, an AWS Partner.",
-    "times": [
-      {
-        "id": "1790034533665001pu0e",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
-        "duration": 60,
-        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
         "venue": "Venetian"
       }
     ]
@@ -10078,6 +10041,39 @@
     ]
   },
   {
+    "id": "1789084255024001Sivq",
+    "code": "AIM3329",
+    "title": "Scaling agents from pilot to production on Amazon Bedrock AgentCore",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Join leading experts on what it takes to scale agents on AgentCore Runtime from zero to thousands of concurrent sessions without rebuilding your stack. We'll get into serverless microVMs versus managed Instances, session isolation under load, and how Observability and Evaluations keep quality from slipping as the fleet grows.",
+    "times": [
+      {
+        "id": "1795029147882001gno8",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1790358243674001ilV9",
     "code": "AIM333-R",
     "title": "The Agent Harness: Unifying Fragmented Tools for Mission AI Advisors",
@@ -10150,6 +10146,72 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255429001SIYz",
+    "code": "AIM3330",
+    "title": "Any framework, any model: build agents on Amazon Bedrock AgentCore",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Get to know from experts about how AgentCore stays deliberately framework- and model-agnostic — bring CrewAI, LangGraph, or Strands and run any model in or outside Bedrock, from Claude and Nova to OpenAI and Gemini. We'll get into MCP and A2A as the connective standards and how Gateway turns existing APIs and Lambda functions into agent-ready tools, so you avoid lock-in as the landscape shifts.",
+    "times": [
+      {
+        "id": "1795040201848001KmpJ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084255765001S2wf",
+    "code": "AIM3331",
+    "title": "Agent security: policy, guardrails, isolation on Bedrock AgentCore ",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "A casual chat about how AgentCore enforces security outside the agent's execution boundary, so controls hold even when a prompt drifts or an agent misbehaves. We'll talk through deny-by-default Policy at the Gateway, prompt-injection Guardrails, hardware-isolated Runtime sessions, and Identity scoped to your IdP — and where the real tradeoffs between autonomy and control still sit.",
+    "times": [
+      {
+        "id": "1795040390155001iV12",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -13487,7 +13549,7 @@
   {
     "id": "1780442234858001cKYd",
     "code": "AIM441",
-    "title": "Set the Bar, Then Beat It: Architecting Tailored AI with Forge",
+    "title": "Set the Bar, Then Beat It: Architecting AI Solutions Tailored to Your Business Problem",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -13497,7 +13559,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "When we set out to build Forge, Amazon's foundation model customization platform, we learned that the fastest path to the tailored AI solution is a disciplined loop with one measurable bar that governs every decision. The team behind Forge will whiteboard it end to end: (1) set the bar by defining and measuring \"good\" as explicit accuracy, latency, and cost thresholds, then build a candidate leaderboard against it; (2) improve toward that same bar by optimizing prompts, context, and inference serving; and (3) when optimization still falls short of the bar, choose a customization approach that modifies model weights at the pre- or post-training stage. Leave with lessons to design the optimal AI solution tailored to your use case.",
+    "abstract": "When we set out to build Forge, we learned that the fastest path to an AI solution tailored to your use case is a disciplined loop with one measurable bar that governs every decision. The team behind Forge will whiteboard it end to end: (1) set the bar by defining and measuring “good” as explicit accuracy, latency, and cost thresholds, then build a candidate leaderboard against it; (2) improve toward that same bar by optimizing prompts, context, and inference serving; and (3) when optimization still falls short of the bar, choose a customization approach that modifies model weights at the pre- or post-training stage. Leave with lessons to design the optimal AI solution tailored to your use case.",
     "times": [
       {
         "id": "1790025514045001CAlu",
@@ -13713,35 +13775,6 @@
         "duration": 60,
         "room": "Wynn/Encore | Convention Promenade | Montrachet 1",
         "venue": "Wynn/Encore"
-      }
-    ]
-  },
-  {
-    "id": "1793305496524001GMPd",
-    "code": "AIM450-R1",
-    "title": "Context engineering for production agents on AgentCore",
-    "type": "Chalk talk",
-    "level": "400 – Expert",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Palace",
-    "campus": "Caesars Campus",
-    "abstract": "An agent is only as good as what fills its context window. System prompts, skills, tool definitions, conversation history, retrieved documents, long-term memory, they all compete for limited space. Get the mix wrong and you waste tokens, degrade reasoning, or lose critical instructions mid-conversation. This chalk talk breaks down every layer of context that shapes agent behavior on Amazon Bedrock AgentCore. We cover how to structure system prompts, define skills effectively, manage tool context through gateway, retain the right conversation history, and use Memory strategies to persist what matters across sessions. Bring your agents, we optimize them live.",
-    "times": [
-      {
-        "id": "1793305588626001HfVf",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
-        "duration": 60,
-        "room": "Caesars Palace | Promenade South | Octavius 14",
-        "venue": "Caesars Palace"
       }
     ]
   },
@@ -16333,6 +16366,35 @@
     ]
   },
   {
+    "id": "1793901268861001sbHY",
+    "code": "ANT415-R",
+    "title": "Build a grounded AI support assistant on Amazon OpenSearch Service",
+    "type": "Workshop",
+    "level": "400 – Expert",
+    "topics": [
+      "Analytics"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "You want to build an AI assistant: where do you even start? A model alone is not the answer. The hard part is grounding it in your own data so it gives real answers, remembers the conversation, and holds up as that data grows, and grounding is a search problem. In this hands-on workshop, you build a customer support assistant grounded in Amazon OpenSearch Service. Starting from a pre-deployed base, you create an OpenSearch Serverless collection, add hybrid search for relevance, and add agentic memory so your assistant retains context across the conversation. You connect your tools and data with the OpenSearch MCP server, the AWS Knowledge MCP, and the AWS MCP. You leave with working code, an architecture that scales itself, and a clear path from a blank page to an assistant that answers from real data.",
+    "times": [
+      {
+        "id": "1793901462895001dRUd",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442274464001cWjo",
     "code": "ANT415-R1",
     "title": "Build a grounded AI support assistant on Amazon OpenSearch Service",
@@ -18085,6 +18147,40 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 103",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1793305803130001B3mX",
+    "code": "API312-R1",
+    "title": "Building distributed multi-agent architectures on serverless",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Application Integration"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Moving from a single AI agent to an multi-agent system creates architectural questions: Can we increase scalability of the agent’s building blocks through decomposition? How do multiple agents coordinate, where does state live? How to retain control while allowing for emergent outcomes? This chalk talk explores distributed, multi-agent architectures on AWS Serverless. We discuss approaches to dividing responsibility, coordinating work, and choosing between centralised, structured, and decentralised designs. Along the way, we examine the questions that shape these decisions, including resilience, state management, failure handling, observability, and agent autonomy.",
+    "times": [
+      {
+        "id": "1793305908412001DyoU",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Neopolitan I",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -20210,6 +20306,41 @@
         "duration": 60,
         "room": "MGM Grand | Level 1 | Grand 115",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1793305107747001OsyJ",
+    "code": "ARC323-R",
+    "title": "Deterministic meets probabilistic: Patterns for reliable AI integration",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Production systems demand determinism. AI outputs are probabilistic. The boundary between these two worlds is where this must be resolved. This chalk talk will whiteboard the contracts and integration patterns that hold that boundary: typed interfaces treating model output as untrusted input, propose/commit separation so AI never performs its own side effects, asymmetric verification, bounded generate-verify-repair loops, and compensating actions in place of rollback. We'll work through typical anti-patterns that quietly reach production, where to place the contract in your architecture to avoid these, and the reliability arithmetic that these patterns enable.\n",
+    "times": [
+      {
+        "id": "1793305263380001zpLK",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Alliance 305",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -24998,6 +25129,39 @@
     ]
   },
   {
+    "id": "1794503158221001CJL9",
+    "code": "BIZ332-R1",
+    "title": "​Every Candidate, Every Time: AI-Led Interviews with Connect Talent",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Business Executive"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "​​Who you hire is the most important decision you make, and the hardest to get right at scale. Built on Amazon Connect and grounded in Amazon’s hiring science, Amazon Connect Talent runs AI-led interviews that evaluate every candidate consistently. In this chalk talk, we show how role requirements become evaluation criteria and questions, how AI agents hold a natural conversation while covering each competency and gathering evidence, and how responses are scored against a rubric tied to specific evidence. See a single job posting become a scored, evidence-backed evaluation. Leave knowing how to tell hiring science from gut feel, and why that shows up in better hires and a fairer experience for every candidate.​​ ",
+    "times": [
+      {
+        "id": "1794513621808001GeMB",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Premier 309",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442279896001ce9P",
     "code": "BIZ333-R",
     "title": "Design, Simulate, Ship: End-to-End AI Agents on Connect Customer",
@@ -25027,6 +25191,72 @@
         "duration": 120,
         "room": "MGM Grand | Level 1 | Grand 113",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442280446001cXES",
+    "code": "BIZ333-R1",
+    "title": "Design, Simulate, Ship: End-to-End AI Agents on Connect Customer",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Most AI agent projects stall between pilot and production. In this workshop, you go from an idea to a production-ready agentic customer experience in a single session using Amazon Connect Customer. No months-long timeline.",
+    "times": [
+      {
+        "id": "1794513619177001GlcH",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 120,
+        "room": "MGM Grand | Level 1 | Grand 120",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1794503313946001NCln",
+    "code": "BIZ333-R2",
+    "title": "Design, Simulate, Ship: End-to-End AI Agents on Connect Customer",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Most AI agent projects stall between pilot and production. In this workshop, you go from an idea to a production-ready agentic customer experience in a single session using Amazon Connect Customer. No months-long timeline.",
+    "times": [
+      {
+        "id": "1794513622300001GPUl",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "08:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 7",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -25066,6 +25296,41 @@
     ]
   },
   {
+    "id": "1780442227616001cEqa",
+    "code": "BIZ334-R1",
+    "title": "Building Smarter Self-Service Experiences with AI",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Automation"
+    ],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Great customer self-service starts with the knowledge your team already has, but getting it into customers' hands can be a challenge. In this builder session, explore how AI can help you transform existing resources into live self-service experiences quickly and easily. Learn how teams are reducing time-to-launch without heavy engineering lifts.",
+    "times": [
+      {
+        "id": "1794513619844001GxzO",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 1",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442227400001cvV4",
     "code": "BIZ335-R",
     "title": "Build an AI agent that understands customer intent",
@@ -25095,6 +25360,39 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442227782001coB6",
+    "code": "BIZ335-R1",
+    "title": "Build an AI agent that understands customer intent",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Business Agents"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Advisor / Consultant",
+      "Business Executive",
+      "Sales / Marketing"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Today's AI agents start every session cold. They don't know what the customer was just browsing, whether they're frustrated or exploring, or whether this is a service moment or a buying moment. So they waste the first few turns asking what your data already knows. In this hands-on builders' session, you close that gap. You unify customer data into Profiles, then turn it into real-time signals about what each customer needs. You wire those signals into an AI agent with calculated attributes and event triggers, so when the customer makes contact the agent already understands why they're there and responds with the right answer and the right offer. You leave with a working prototype ready for your own environment.",
+    "times": [
+      {
+        "id": "1794513620925001GYxF",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Builders' Session 1",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -28425,6 +28723,43 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 320",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442243043001cKM8",
+    "code": "CMP359-R1",
+    "title": "Simplifying how you use AWS: automating common patterns on your behalf",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Compute"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "Cost Optimization",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Getting the most out of AWS often means manually setting up the same optimizations, integrations, and best-practice patterns across your applications. What if AWS could handle more of that for you - automatically and securely - so you benefit from AWS capabilities without the setup overhead? In this chalk talk, we explore emerging approaches for running AWS-authored logic in isolated, secure-by-default environments alongside your applications, implementing common patterns on your behalf and simplifying how you consume AWS services. We'll whiteboard how this model works, where it fits in your architecture, and how it changes the effort required to adopt AWS best practices.",
+    "times": [
+      {
+        "id": "1794513620521001G1MP",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -34249,7 +34584,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "AI agents are rapidly moving from prototype to production, and running them at scale presents new challenges. Untrusted, AI-generated code executes in your environment. Many agents share the same infrastructure. Workloads spin up, act, and tear down constantly. Join this session to learn how to run agents securely on Amazon EKS with VM-level isolation, wire up the primitives agents need for tools, memory, and orchestration, and manage fleets of short-lived, bursty workloads. You'll also see how the same EKS platform you run your critical workloads on extends into the agentic era and where we're headed next.",
+    "abstract": "AI agents are rapidly moving from prototype to production, and running them at scale presents new challenges. Untrusted, AI-generated code executes in your environment. Many agents share the same infrastructure. Workloads spin up, act, and tear down constantly. Join this session to learn how to run agents securely on Amazon EKS with AWS Nitro Sandboxes, wire up the primitives agents need for tools, memory, and orchestration, and manage fleets of short-lived, bursty workloads. You’ll also see how the same EKS platform you run your critical workloads on extends into the agentic era and where we’re headed next.",
     "times": [
       {
         "id": "1790025525935001CFHD",
@@ -34660,7 +34995,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your MCP server works perfectly on a single Amazon ECS task. Then agents multiply, sessions collide, and scaling breaks everything. In this chalk talk, we whiteboard the infrastructure patterns that make MCP servers production-ready on Amazon ECS. We'll cover horizontal scaling with externalized session state, request routing, fine-grained authentication, and autoscaling based on agent request patterns. We'll discuss multi-service topologies where different tool categories run as independent ECS services behind a shared ingress layer. Bring your current MCP architecture, and we'll design the production upgrade together.",
+    "abstract": "Your MCP server works perfectly on a single Amazon ECS task. Then agents multiply, state lives in the wrong place, and scaling breaks everything. In this chalk talk, we whiteboard the patterns that make MCP servers production-ready on Amazon ECS. We’ll cover horizontal scaling with state externalized to a durable store, autoscaling on agent request patterns, defense-in-depth authentication with per-tool authorization, and end-to-end observability that turns “the agent is slow” into a single trace. Bring your current MCP architecture, and we’ll design the production upgrade together.",
     "times": [
       {
         "id": "1790360362879001ApEG",
@@ -35298,6 +35633,40 @@
         "endTime": "12:30",
         "startTimeFormatted": "11:30 AM",
         "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 159",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442256373001cBfG",
+    "code": "CON348-R1",
+    "title": "Defense-in-Depth for Containers on Amazon EKS: A Layering Story",
+    "type": "Code talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Containers",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist",
+      "DevOps Engineer",
+      "IT Administrator"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "On a default Amazon EKS cluster, a single pod is a compromise away from the whole cluster - shared node credentials, flat networking, implicit trust, open egress. In this code-first session we start there, then trace how EKS security grew layer by layer as the threat model matured. We rebuild an over-privileged workload live, adding one control at a time: scoped pod identity, admin and DNS network policies, and private certificate trust with zero-downtime CA rotation. We finish by running a lateral-movement attempt against the hardened workload and watching it fail at multiple layers — the whole point of defense-in-depth.",
+    "times": [
+      {
+        "id": "1794513619979001GdK5",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
         "duration": 60,
         "room": "MGM Grand | Level 1 | Boulevard 159",
         "venue": "MGM Grand"
@@ -36420,6 +36789,44 @@
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Builders' Session 1",
         "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1793304596933001HPra",
+    "code": "COP306-R",
+    "title": "Cut through Kubernetes signal overload with unified observability",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations",
+      "Containers",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Kubernetes",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Kubernetes at scale buries teams in high-cardinality signals that traditional pipelines truncate or split across separate backends, so the answer you need is never in one place. In this hands-on builders session, you send OpenTelemetry metrics and logs from an EKS cluster into Amazon CloudWatch, deploy Container Insights, and decide which signals actually matter. You use automatic resource enrichment to build your own dashboards and alerts, deciding what to alert on and why rather than running pre-made scripts. You leave knowing how to cut through high-cardinality noise and set up alerts that drive action.",
+    "times": [
+      {
+        "id": "1793304683257001NsvK",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 304",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -38965,6 +39372,41 @@
     ]
   },
   {
+    "id": "1780442256205001cPKk",
+    "code": "COP354-R1",
+    "title": "Diagnose Complex Workloads with AWS DevOps Agent",
+    "type": "Code talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Follow an investigation of a complex workload using AWS DevOps Agent. Trace an application-level symptom through multiple layers of your environment across AWS, multicloud, and on-prem environments. See how DevOps Agent analyzes telemetry, correlates signals across layers, identifies likely root causes, and delivers targeted remediation. Learn practical techniques for investigating workloads and reducing the manual effort of diagnosing problems across distributed environments.",
+    "times": [
+      {
+        "id": "1794513621129001Gcgy",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 159",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442279589001ckPS",
     "code": "COP355-R",
     "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
@@ -38996,6 +39438,76 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Alliance 311",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442279702001cnYT",
+    "code": "COP355-R1",
+    "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Follow an issue from detection to resolution. In this builder's session, see how AWS DevOps Agent investigates incidents across AWS, multicloud, and on-premises environments, analyzing telemetry and correlating signals to pinpoint root causes and deliver targeted remediation. Then use the AWS DevOps Agent release management agent to review the code changes for production readiness before they reach your customers. Every review is informed by production intelligence that AWS DevOps Agent continuously builds from your environment.",
+    "times": [
+      {
+        "id": "1794513621422001Gbnb",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 301",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1794524062911001bMKj",
+    "code": "COP355-R2",
+    "title": "Resolve Incidents and Validate Releases with AWS DevOps Agent",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Follow an issue from detection to resolution. In this builder's session, see how AWS DevOps Agent investigates incidents across AWS, multicloud, and on-premises environments, analyzing telemetry and correlating signals to pinpoint root causes and deliver targeted remediation. Then use the AWS DevOps Agent release management agent to review the code changes for production readiness before they reach your customers. Every review is informed by production intelligence that AWS DevOps Agent continuously builds from your environment.",
+    "times": [
+      {
+        "id": "1794527585800001gFBE",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Builders' Session 1",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -39068,6 +39580,42 @@
         "endTimeFormatted": "10:30 AM",
         "duration": 120,
         "room": "MGM Grand | Level 1 | Grand 111",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1793292932552001fogJ",
+    "code": "COP357-R1",
+    "title": "Observe AI agents and workloads end to end",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Get hands-on with Amazon CloudWatch Omni, the next evolution of CloudWatch that monitors your AI stack end to end, from the agent all the way down to the self-hosted inference workload serving it, converging application and agent observability into one AI-powered solution. Instrument an agent, trace its execution, and run evaluations against golden datasets. When something degrades, explore auto-discovered topology and golden metrics to pinpoint where latency or errors creep in. Navigate from alarm to the responsible inference workload, and let Omni's AI-powered investigation trace the root cause.",
+    "times": [
+      {
+        "id": "1793734906518001AUtN",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 120,
+        "room": "MGM Grand | Level 1 | Grand 120",
         "venue": "MGM Grand"
       }
     ]
@@ -39291,6 +39839,80 @@
     ]
   },
   {
+    "id": "1780442243524001cVfw",
+    "code": "COP363-R1",
+    "title": "Investigate Incidents Across Teams with AWS DevOps Agent",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Production incidents typically involve multiple teams, but tooling and investigations are often siloed. In this chalk talk, explore how AWS DevOps Agent meets teams where incident response already happens. See how engineers can interact with the agent directly from tools like Slack, consolidating investigation activity, findings, and recommended actions alongside team communication. Bring your multi-team incident patterns and discuss approaches to faster, more connected incident response across AWS, multicloud, and on-prem environments.",
+    "times": [
+      {
+        "id": "1794513621515001GFBk",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1794504005716001aUnn",
+    "code": "COP363-R2",
+    "title": "Investigate Incidents Across Teams with AWS DevOps Agent",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Production incidents typically involve multiple teams, but tooling and investigations are often siloed. In this chalk talk, explore how AWS DevOps Agent meets teams where incident response already happens. See how engineers can interact with the agent directly from tools like Slack, consolidating investigation activity, findings, and recommended actions alongside team communication. Bring your multi-team incident patterns and discuss approaches to faster, more connected incident response across AWS, multicloud, and on-prem environments.",
+    "times": [
+      {
+        "id": "1794513622428001G65H",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Convention Promenade | Montrachet 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442279954001c7F5",
     "code": "COP364-R",
     "title": "Build better, review faster: AI-Powered Well-Architected reviews",
@@ -39330,6 +39952,45 @@
     ]
   },
   {
+    "id": "1780442280382001cGPM",
+    "code": "COP364-R1",
+    "title": "Build better, review faster: AI-Powered Well-Architected reviews",
+    "type": "Workshop",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence",
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Resilience",
+      "Well-Architected Framework"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Periodic reviews can't keep pace with infrastructure that changes daily. In this hands-on workshop, stand up the AWS Well-Architected Agent for continuous, goal-driven reviews across a multi-account environment. Configure agent profiles, cross-account role chaining, and business goals that prioritize across Cost Optimization, Security, Resilience, and Performance pillars. See how the agent enriches Trusted Advisor, Compute Optimizer, and Resilience Hub signals with cross-pillar trade-off analysis. Run pre-deployment reviews against CloudFormation, CDK, and Terraform, then remediate through AI-generated SOPs. Wire recommendations into CI/CD via the Well-Architected API. For architects, platform engineers, and operations leads who want always-on architectural governance in their delivery lifecycle.",
+    "times": [
+      {
+        "id": "1794513621611001GD4N",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 120,
+        "room": "MGM Grand | Level 1 | Grand 113",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442241531001cSLv",
     "code": "COP365-R",
     "title": "Allocate shared AWS infrastructure costs to your business units",
@@ -39358,6 +40019,41 @@
         "endTime": "13:00",
         "startTimeFormatted": "12:00 PM",
         "endTimeFormatted": "01:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 414",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1794503906680001XfRc",
+    "code": "COP365-R1",
+    "title": "Allocate shared AWS infrastructure costs to your business units",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Shared Amazon S3 buckets, Amazon EKS clusters, and network resources improve efficiency but can obscure which applications and business units drive spend. In this session, learn how to attribute shared costs based on actual usage. Follow a practical example using AWS Split Cost Allocation Data for S3 and EKS and Flexible Cost Allocation for networking. Then use AWS Cost Categories and Data Exports to combine each business unit’s share of storage, compute, and networking spend into a unified view. Walk away with a repeatable approach to showback and chargeback across your shared AWS environment.",
+    "times": [
+      {
+        "id": "1794513621229001GJoX",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:30 PM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 414",
         "venue": "Caesars Forum"
@@ -39467,6 +40163,35 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Academy 409",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442265395001cUtP",
+    "code": "COP369",
+    "title": "Resilient and compliant workloads : Where Humans and AI Operate Together",
+    "type": "Lightning talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Regulated industries face rising expectations for uptime, regulatory scrutiny, and speed. Learn how leading banks, insurers, and capital markets firms run resilient, compliant workloads on AWS by pairing human expertise with AI agents. We'll cover architecture patterns for multi-Region resilience, automated compliance evidence, and AI-assisted operations that detect, diagnose, and remediate issues—with humans in the loop for every critical decision.",
+    "times": [
+      {
+        "id": "1795029728549001g8Fd",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "17:00",
+        "endTime": "17:20",
+        "startTimeFormatted": "05:00 PM",
+        "endTimeFormatted": "05:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -39976,6 +40701,41 @@
         "endTime": "11:30",
         "startTimeFormatted": "10:30 AM",
         "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Convention Promenade | Margaux 1",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1793305987063001HSY5",
+    "code": "COP408-R",
+    "title": "Correlate database query latency to user impact",
+    "type": "Code talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Cloud Operations"
+    ],
+    "areasOfInterest": [
+      "Monitoring & Observability"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Diagnosing performance degradation across distributed applications requires more than isolated database or application metrics. It demands correlated, end-to-end telemetry. This code talk demonstrates a scenario that unifies database performance signals with application-layer telemetry using OpenTelemetry and Amazon CloudWatch. Learn how to implement trace-to-query correlation, design log aggregation patterns for accelerated root cause analysis, and build metric relationships that surface bottlenecks across the full stack. You'll be able to connect a slow database query to its downstream user impact.",
+    "times": [
+      {
+        "id": "1793306061615001OWFo",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "01:00 PM",
         "duration": 60,
         "room": "Wynn/Encore | Convention Promenade | Margaux 1",
         "venue": "Wynn/Encore"
@@ -46365,6 +47125,40 @@
     ]
   },
   {
+    "id": "1793305336768001smFG",
+    "code": "DVT339-R1",
+    "title": "Best practices for making coding agent orchestration more deterministic",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "As agents work on longer, more complex tasks, the context window fills up and the agent can lose track of its plan and execution steps. The manual setup required to get multi-agent orchestration to reliably complete these kinds of tasks can be complex and brittle. In this chalk talk, we will walk through best practices, tools, and patterns that power users have perfected to set up and scale multi-agent workloads. Bring questions, challenges, or edge cases you ran into and we'll walk you through how to approach them to improve reliability.",
+    "times": [
+      {
+        "id": "1793305440788001zi5f",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 11",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442241198001ci7W",
     "code": "DVT340",
     "title": "Build on top of large codebases without breaking your code",
@@ -46401,7 +47195,7 @@
   {
     "id": "1786342064647001P5SM",
     "code": "DVT341",
-    "title": "Making Kiro Crew work for your team",
+    "title": "Agents that keep working: Building remote development with Kiro Crew",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -46418,7 +47212,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Kiro Crew is the persistent, open source development workspace that remembers your context, learns how you work, and coordinates across your unique tools and workflows, so you come back to progress instead of another workflow to restart. In this session, you'll learn how to make Kiro Crew work for your team: wire in the tools your team already use over MCP, set up scheduled and webhook-triggered jobs so work keeps moving while you're away, and shape shared memory and reusable skills so agents don't start cold and maintain team standards and best practices.",
+    "abstract": "Agents work best when they keep running after you close your laptop and take on tasks in parallel, which takes a different setup than most teams built for their developers. In this session, you’ll learn how to run Kiro Crew, the open-source app for delegating work to agents, as a remote-first setup that keeps sessions, schedules, and memory going. The Crew team will show how they scaled their team to be agent-first. Bridgewater Associates will share how they balanced security and productivity when agents joined their remote development environment, including whose identity agents act under and what they can reach.",
     "times": [
       {
         "id": "1790025532184001CnNI",
@@ -46503,6 +47297,40 @@
         "endTimeFormatted": "02:00 PM",
         "duration": 60,
         "room": "MGM Grand | Level 3 | Premier 311",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442243104001cEHV",
+    "code": "DVT343-R1",
+    "title": "From code to production in seconds — building web apps that last",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Developer Tools",
+      "Serverless"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Getting a web application live is fast. Keeping it running, reliable, and affordable as you grow is the hard part. In this chalk talk, we dig into the developer journey from first deploy to production scale: zero-config deployment, full-stack provisioning with open-source building blocks, and how to scale without starting over. Bring your questions about framework support, backend integration, and pricing.",
+    "times": [
+      {
+        "id": "1794513622089001GUhz",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 167",
         "venue": "MGM Grand"
       }
     ]
@@ -48543,6 +49371,45 @@
     ]
   },
   {
+    "id": "1780441473347001G7EU",
+    "code": "HMC209",
+    "title": "How SAP built its multicloud Center of Excellence",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Cloud Operations",
+      "Hybrid Cloud & Multicloud"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps",
+      "Governance, Risk & Compliance"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "IT Executive",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "A successful multicloud strategy at scale needs a robust multicloud center of excellence (CoE). In this session, you will learn how SAP designed, implemented and operationalized their multicloud center of excellence across AWS, Azure and GCP. SAP will dive deep into how their organize their teams and cloud experts and which key cloud agnostic functions, such as Finops, their CoE owns. Discover how SAP’s Community of Experts scaled from a 30-person pilot to every line of business, cutting duplicate questions and rework across teams. You will leave with a blueprint for standing up your own multicloud CoE.",
+    "times": [
+      {
+        "id": "1791240088137001SMIc",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780442263430001cLak",
     "code": "HMC302",
     "title": "How Max Mara built multicloud FinOps with open source",
@@ -49397,45 +50264,6 @@
         "duration": 60,
         "room": "MGM Grand | Level 1 | Grand 117",
         "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1780441473347001G7EU",
-    "code": "HMC321",
-    "title": "Multicloud Operating Models for ISVs",
-    "type": "Breakout session",
-    "level": "300 – Advanced",
-    "topics": [
-      "Artificial Intelligence",
-      "Cloud Operations",
-      "Hybrid Cloud & Multicloud"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "DevOps",
-      "Governance, Risk & Compliance"
-    ],
-    "roles": [
-      "DevOps Engineer",
-      "IT Executive",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "ISVs adopting multiple clouds face the same trade-offs. This breakout distills cloud-agnostic operating-model patterns from production multi-cloud estates -- workload placement, abstraction layers, resiliency, and FinOps (optimization, tokenization), and unified observability -- illustrated by SAP running at 25,000+ accounts across AWS, Azure, and GCP. SAP's team walks through what stayed cloud-specific, what they unified, and what they had to invent. Leave with operating-model patterns you can apply across clouds.",
-    "times": [
-      {
-        "id": "1791240088137001SMIc",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
-        "venue": "Caesars Forum"
       }
     ]
   },
@@ -50712,6 +51540,42 @@
         "endTime": "15:20",
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "03:20 PM",
+        "duration": 20,
+        "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1794344421507001WI0u",
+    "code": "IND219",
+    "title": "How to Use AI Agents to Run Genomics Pipelines Faster and Cheaper",
+    "type": "Lightning talk",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Application Integration",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Sequencing costs less than ever, but turning that data into answers is still slow and expensive. Bioinformatics teams spend weeks building and debugging pipelines, managing infrastructure, and paying for idle compute while scientists wait on results. This lightning talk shows how AI agents can write, validate, launch, monitor, and troubleshoot genomics workflows from plain-language requests, so researchers can get to analysis without becoming infrastructure experts. Workflows run on AWS HealthOmics, a managed service for running bioinformatics workflows at scale without managing servers. We’ll share performance and cost results from popular open-source pipelines, and you’ll leave with practical patterns you can apply to your own work.",
+    "times": [
+      {
+        "id": "1794529601340001eArp",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "17:00",
+        "endTime": "17:20",
+        "startTimeFormatted": "05:00 PM",
+        "endTimeFormatted": "05:20 PM",
         "duration": 20,
         "room": "Venetian | Level 2 | Hall B | Expo | Industry Theater",
         "venue": "Venetian"
@@ -53553,6 +54417,44 @@
     ]
   },
   {
+    "id": "1793305648990001BeEm",
+    "code": "IND3338-R1",
+    "title": "Accelerate Physical AI development with NVIDIA on AWS",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Innovation & Transformation",
+      "Robotics"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Physical AI is reshaping manufacturing, robotics, and autonomous systems, but realizing that potential requires robust infrastructure and purpose-built tools. AWS and NVIDIA have partnered to simplify the entire Physical AI development lifecycle: from synthetic data generation and model training through sim-to-real validation and hardware-in-loop testing. In this session, discover how the Physical AI Toolchain from AWS provides access to AWS managed infrastructure and NVIDIA’s foundation models and training applications to accelerate every stage of development, reduce time-to-market, and optimize resource utilization across your pipeline.  ",
+    "times": [
+      {
+        "id": "1793305724513001BS4v",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade Level | Neopolitan III",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1780442263803001c0KW",
     "code": "IND3339",
     "title": "Agentic advertising with privacy-enhanced data collaboration",
@@ -54228,12 +55130,50 @@
         "id": "1793031639614001AUu0",
         "date": "2026-12-02",
         "day": "Wednesday",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "05:00 PM",
+        "startTime": "16:30",
+        "endTime": "17:30",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "05:30 PM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Purple Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1792784190584001PTIb",
+    "code": "IND3357",
+    "title": "How Wisconsin DOR cut suspended tax returns with AWS Quick",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Analytics",
+      "Artificial Intelligence",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Every suspended tax return pull staff into manual review and delays refunds. The Wisconsin Department of Revenue, a 2026 FTA Award winner, tackled this by building a serverless analytics solution with Amazon S3, Amazon Athena, and AWS Quick across more than 3 million returns a year. Using generative AI, the team translated processing rules into plain language and generated queries, cutting suspended returns by 80% on targeted rules and saving thousands of staff hours. Walk away with a repeatable architecture, best practices, natural-language analytics patterns, and an approach for protecting sensitive and regulated tax data.",
+    "times": [
+      {
+        "id": "1792801145069001BqWS",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "11:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -54307,6 +55247,79 @@
         "endTimeFormatted": "10:00 AM",
         "duration": 60,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Red Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1793251097680001LTXt",
+    "code": "IND3360",
+    "title": "How Jabil AI agents power a 1M-part weekly manufacturing supply chain",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Business Intelligence",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Business Executive",
+      "Data Scientist"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Jabil buyers manage over one million parts per week, classifying material constraints, resolving shortages, and making sourcing decisions across disconnected planning, supplier, and distributor systems. Learn how Jabil and AWS built an agentic AI platform on Amazon Bedrock AgentCore with five agents on a shared foundation: constraint classification, a shortage-decision engine, a natural-language supply chain assistant, part-lifecycle intelligence, and write-back into planning systems. The platform cut per-part classification from minutes to 8-17 seconds, pre-filtered 75% of parts instantly, and classified one million parts weekly within a 24-hour SLA. Leave with architecture patterns for scaling from one use case to a multi-agent platform.",
+    "times": [
+      {
+        "id": "1793251237577001N0EA",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1793654623861001oB6g",
+    "code": "IND3361",
+    "title": "Building mission-grade cyber defense agents, for the Army and beyond",
+    "type": "Breakout session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Threat Detection & Incident Response",
+      "Threat Intelligence"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Security teams face an ever-widening gap between the speed of modern threats and the capacity to respond. We explore how SI can enable cyber-response capabilities today—not as a future aspiration, but as an operational reality on AWS. We'll walk through how SI-driven tooling can accelerate detection, triage, and response across complex environments. Originally developed by the AWS ProServe team for the U.S. Army, the approach generalizes well beyond defense to any organization seeking to strengthen its security posture. Join us to see what's possible, and leave with a concrete understanding of how to bring these capabilities into your environment.",
+    "times": [
+      {
+        "id": "1795031397792001e40s",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 5",
         "venue": "Wynn/Encore"
       }
     ]
@@ -57708,7 +58721,7 @@
   {
     "id": "1780442245535001cGuk",
     "code": "IND423",
-    "title": "Replacing eligibility rules engines with Neurosymbolic AI in HHS",
+    "title": "Modernizing government rules engines with Neurosymbolic AI",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -57727,7 +58740,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "State HHS agencies spend hundreds of millions maintaining eligibility rules engines built on Drools or proprietary tooling. These systems are brittle, expensive, and impossible to audit. We built a different path: Ingesting policy, using Large Language Models, and building a formal logic representation, followed by using neurosymbolic techniques to produce a verified rule set, enabling deterministic eligibility decisions with full audit trails. No hallucinations. Provable correctness. We walk through the architecture, show a working prototype processing SNAP and Medicaid policy, discuss pricing at scale, and share early results from state engagements.",
+    "abstract": "Government agencies run services such as permitting, driver's license applications, and notice generation on rules engines built on Drools or proprietary tooling. These engines are brittle, costly to update, and hard to audit. This talk shows another path: use large language models and neurosymbolic techniques to translate written policy into rules, check that the rules match the policy, and prove they are consistent and satisfiable for all known valid inputs. We then use those rules to produce mathematically verified decisions. We cover the theory of solver-based consistency checks, show an architecture that produces verified rules, demos validation against policy, discuss costs at scale, and share lessons from early AWS Partner work. ",
     "times": [
       {
         "id": "1790025533484001CPDN",
@@ -59154,7 +60167,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Your consumers are healthy, your pods are green - yet your backlog isn't shrinking. Why? Because systems provisioned for steady-state have zero recovery capacity. In this chalk talk, we'll derive the formulas that govern backlog formation and drain, explore the non-linear utilization cliff where small traffic spikes become catastrophic, and work through the real-world complications: retry amplification, stale-message degradation, and multi-stage cascades. Bring your architectures - we'll whiteboard whether they can actually recover from failure, or just survive it.",
+    "abstract": "Your consumers are healthy, your pods are green - yet your backlog isn’t shrinking. Why? Because systems provisioned for steady-state have zero recovery capacity. In this chalk talk, we’ll derive the formulas that govern backlog formation and drain, explore the non-linear utilization cliff where small traffic spikes become catastrophic, and work through the real-world complications: retry amplification, stale-message degradation, and multi-stage cascades. By the end of the session, you’ll learn techniques to prevent and drain backlogs in your systems.",
     "times": [
       {
         "id": "1790025513909001CAWl",
@@ -60801,12 +61814,12 @@
         "id": "1790034534550001plcc",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 60,
-        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
         "venue": "Venetian"
       }
     ]
@@ -60838,12 +61851,12 @@
         "id": "1790025533790001CXZk",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "16:00",
-        "endTime": "17:00",
-        "startTimeFormatted": "04:00 PM",
-        "endTimeFormatted": "05:00 PM",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Red Theater",
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
         "venue": "Venetian"
       }
     ]
@@ -61075,7 +62088,7 @@
   {
     "id": "1780442260987001cBIr",
     "code": "MAM228",
-    "title": "20-minute guide to automating post-migration validation",
+    "title": "20-minute guide: Cut migration validation to hours with AWS Transform",
     "type": "Lightning talk",
     "level": "",
     "topics": [
@@ -61095,7 +62108,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Migration teams spend weeks per wave coordinating connectivity tests, performance comparisons, application health checks, and compliance reviews across disconnected tools. This lightning talk examines how to move post-deployment validation from a manual, multi-tool process into an integrated part of the migration workflow. You will learn approaches for automating infrastructure checks at deployment time, incorporating Well-Architected compliance into wave execution, and running day-one modernization actions so workloads land production-ready. Ideal for migration engineers and cloud architects managing large rehost and network modernization programs.",
+    "abstract": "Post-deployment validation is the last bottleneck in large-scale migrations. Engineers spend weeks coordinating connectivity tests, performance comparisons, and compliance checks across disconnected tools. AWS Transform's newest post-migration actions capability eliminates this by running validation layers automatically, the moment a workload deploys. Learn how it runs connectivity tests, performance baseline comparisons, application health checks, and Well-Architected compliance analysis. Learn how to run source action validations and tasks against source environments, so you can verify readiness on both sides of the migration. Along with predefined post-launch modernization actions, teams receive a documented go/no-go signal in hours. Join this session to learn how to compress wave timelines and land workloads production-ready.",
     "times": [
       {
         "id": "1792440471597001tSSi",
@@ -63360,7 +64373,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "\nOperational overhead follows every cloud desktop deployment: monitoring, systemic issues that surface as tickets, and end-user requests that consume administrator time. This session introduces WorkSpaces Advisor an AI-powered operations agent with two new capabilities. Proactive troubleshooting watches deployment telemetry at scale, flagging issues before users notice and delivering a diagnosis with recommended remediation. End-user troubleshooting lets users self-diagnose common pre-session and in-session issues; when they can't act, it provides a clear root cause to share with their administrator. Advisor recommends; you stay in control. We demonstrate both capabilities. Bring your architecture questions.",
+    "abstract": "Whether you run WorkSpaces today or are evaluating cloud desktops for the first time, operational overhead follows every virtual desktop deployment: ongoing monitoring, systemic issues that surface as tickets, and end-user requests that consume administrator time. Most teams operate reactively, triaging problems after they surface and manually guiding users through resolution. This session explores how Amazon WorkSpaces Advisor is using AI to reduce resolution time for both IT administrators and end users. We'll walk through the operational challenges we're hearing from customers, share our approach to solving them, and demonstrate early results from production environments. Bring your deployment architecture questions.",
     "times": [
       {
         "id": "1794513622193001GPvM",
@@ -63410,6 +64423,43 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Builders' Session 2",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442227669001cbd9",
+    "code": "MAM348-R1",
+    "title": "Provision Desktops for Builders Faster with WorkSpaces",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Administrator",
+      "IT Executive"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Builders lose days configuring environments. IT teams struggle to govern the growing sprawl of AI tools and extensions across their organization. In this session, we explore these challenges and share how Amazon WorkSpaces is approaching the builder desktop experience. We'll discuss what enterprises need to provision environments faster, maintain governance across multiple surfaces, and keep pace as AI-assisted development becomes the norm. Bring your questions.",
+    "times": [
+      {
+        "id": "1794513622642001GIyC",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Convention Promenade | Latour 7",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -63483,6 +64533,40 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
         "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1780442256429001cg1g",
+    "code": "MAM350-R1",
+    "title": "Continuous tech debt analysis and remediation, from findings to fixes",
+    "type": "Code talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "In this Code Talk, see how continuous modernization keeps tech debt under control across your application estate. After a one-time setup, it continuously detects outdated runtimes, deprecated libraries, and security vulnerabilities, using signals from both your cloud environment and your code. It then fixes them at scale with automatically generated pull requests. We'll go live through real scenarios, from discovery to remediation, and show how scheduled scans catch new tech debt before it piles up.",
+    "times": [
+      {
+        "id": "1794513621323001GY9a",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Code Talk",
+        "venue": "Caesars Palace"
       }
     ]
   },
@@ -63923,14 +65007,14 @@
     "times": [
       {
         "id": "1794527960896001P2qP",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "12:30",
-        "endTime": "14:30",
-        "startTimeFormatted": "12:30 PM",
-        "endTimeFormatted": "02:30 PM",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "05:00 PM",
         "duration": 120,
-        "room": "MGM Grand | Level 3 | Premier 310",
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
         "venue": "MGM Grand"
       }
     ]
@@ -64153,6 +65237,43 @@
         "duration": 120,
         "room": "Caesars Palace | Promenade Level | Pompeian IV",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1794528133725001w3nZ",
+    "code": "MAM417-R1",
+    "title": "Modernize your full .NET and SQL Server stack with AWS Transform",
+    "type": "Workshop",
+    "level": "400 – Expert",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Microsoft & .NET"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Modernizing Microsoft workloads means tackling .NET and SQL Server together, not as separate projects. In this workshop, you'll use AWS Transform to compress this effort into a single sprint and reduce operating costs by up to 70% by moving off costly licenses. Working from a legacy app, you'll port .NET Framework code to modern, cross-platform .NET, migrate SQL Server to Amazon Aurora PostgreSQL, then containerize and deploy to Amazon ECS or EKS. You'll leave with a proven approach to transform your full stack into a scalable, cloud-native architecture. Come ready with your personal GitHub account. Laptop required.",
+    "times": [
+      {
+        "id": "1795019579227001AlDK",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "12:30",
+        "endTime": "14:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "02:30 PM",
+        "duration": 120,
+        "room": "MGM Grand | Level 3 | Premier 310",
+        "venue": "MGM Grand"
       }
     ]
   },
@@ -68237,7 +69358,7 @@
   {
     "id": "1780442242182001c7VA",
     "code": "NET342-R",
-    "title": "Innovations in DNS and Amazon Route 53",
+    "title": "Amazon Route 53 Global Resolver: Anycast DNS over private connections",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -68255,7 +69376,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Join us to learn about the latest innovations in Domain Name Systems (DNS) and Amazon Route 53. This session covers new capabilities in DNS resolution and new approaches to private and public domain resolution. Join us for architecture patterns and best practices that simplify DNS at scale.",
+    "abstract": "Amazon Route 53 Global Resolver gives clients on premises, in branch offices, and on the road secure, resilient anycast DNS resolution. Now you can bring the same capabilities to clients that connect over your private connections (e.g. AWS Direct Connect, AWS Site-to-Site VPN), with no internet path required. In this chalk talk, we whiteboard architecture patterns for enabling Global Resolver over private connections. You’ll see how to keep multi-Region failover, DNS filtering, and public and private domain resolution consistent across every network path. Bring your hybrid DNS questions and leave with best practices you can apply today.",
     "times": [
       {
         "id": "1790963622199001Q3dW",
@@ -68272,9 +69393,83 @@
     ]
   },
   {
+    "id": "1780442243461001c7Po",
+    "code": "NET342-R1",
+    "title": "Amazon Route 53 Global Resolver: Anycast DNS over private connections",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Amazon Route 53 Global Resolver gives clients on premises, in branch offices, and on the road secure, resilient anycast DNS resolution. Now you can bring the same capabilities to clients that connect over your private connections (e.g. AWS Direct Connect, AWS Site-to-Site VPN), with no internet path required. In this chalk talk, we whiteboard architecture patterns for enabling Global Resolver over private connections. You’ll see how to keep multi-Region failover, DNS filtering, and public and private domain resolution consistent across every network path. Bring your hybrid DNS questions and leave with best practices you can apply today.",
+    "times": [
+      {
+        "id": "1794513620615001G4hF",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:30",
+        "endTime": "15:30",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1794504129955001XnLc",
+    "code": "NET342-R2",
+    "title": "Amazon Route 53 Global Resolver: Anycast DNS over private connections",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Architecture",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Global Infrastructure",
+      "Resilience"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Amazon Route 53 Global Resolver gives clients on premises, in branch offices, and on the road secure, resilient anycast DNS resolution. Now you can bring the same capabilities to clients that connect over your private connections (e.g. AWS Direct Connect, AWS Site-to-Site VPN), with no internet path required. In this chalk talk, we whiteboard architecture patterns for enabling Global Resolver over private connections. You’ll see how to keep multi-Region failover, DNS filtering, and public and private domain resolution consistent across every network path. Bring your hybrid DNS questions and leave with best practices you can apply today.",
+    "times": [
+      {
+        "id": "1794513621902001GA1X",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 353",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442261172001cEhp",
     "code": "NET345",
-    "title": "Innovations in DNS and Amazon Route 53",
+    "title": "Amazon Route 53 Global Resolver: Anycast DNS over private connections",
     "type": "Lightning talk",
     "level": "300 – Advanced",
     "topics": [
@@ -68292,7 +69487,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Join us to learn about the latest innovations in Domain Name Systems (DNS) and Amazon Route 53. This session covers new capabilities in DNS resolution and new approaches to private and public domain resolution. Join us for architecture patterns and best practices that simplify DNS at scale.",
+    "abstract": "In this lightning talk, see how Amazon Route 53 Global Resolver now resolves queries over your private connections (e.g. AWS Direct Connect, AWS Site-to-Site VPN). You’ll get the same multi-Region failover, DNS filtering, and public and private domain resolution over every network path. We will discuss best practices and the steps to turn it on today.",
     "times": [
       {
         "id": "1790963623012001Qi4p",
@@ -71566,6 +72761,44 @@
     ]
   },
   {
+    "id": "1780442227718001c1jV",
+    "code": "PEX320-R1",
+    "title": "AI-Powered Migrations: AWS Transform Across the Lifecycle",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Automation",
+      "DevOps",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "IT Executive",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Get hands-on with AWS Transform's composable AI agents automating the full migration lifecycle. Qualify using AI-powered agents to automate migration and modernization deal qualification along with funding orchestration. Migrate and modernize by leveraging Transform Custom agents to modernize legacy workloads at enterprise scale. Finally, measure by implementing Partner Revenue Measurement (PRM) to attribute revenue and impact to your delivery.",
+    "times": [
+      {
+        "id": "1794513621709001GQJQ",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 304",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1788565601350001cywj",
     "code": "PEX322",
     "title": "Composable Agentic AI: Build Your Partner Offerings for Enterprises",
@@ -73708,6 +74941,40 @@
     ]
   },
   {
+    "id": "1788307464181001XVap",
+    "code": "SEC290",
+    "title": "Detection and response at machine speed",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Adversaries move faster when they use AI, so detection and response have to keep pace. Share how you are closing the gap from alert to resolution, running incident response under pressure, and investigating across clouds from one place. Trade playbooks, metrics, and hard-won lessons from real incidents.",
+    "times": [
+      {
+        "id": "1794531752031001hzmg",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "startTimeFormatted": "10:00 AM",
+        "endTimeFormatted": "10:45 AM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1788307464235001XfCC",
     "code": "SEC291",
     "title": "Secure development in the age of AI coding agents ",
@@ -73832,6 +75099,68 @@
         "id": "1794531752482001hALm",
         "date": "2026-12-02",
         "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789084255372001SnxJ",
+    "code": "SEC296",
+    "title": "What's new in network and edge protection on AWS ",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Join AWS network security experts and other builders for an informal conversation about the latest launches across network and edge protection. We'll share what's new for protecting traffic at the edge, at the internet gateway, and inside your VPCs, and how the services work together from the front door to the workloads behind it. Bring your questions, your architectures, and the problems you're working on today. This is a small, discussion-led group with no slides, so come ready to talk with the people building these capabilities and with peers solving the same challenges.",
+    "times": [
+      {
+        "id": "1795028661907001uIrr",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789084255978001SPN4",
+    "code": "SEC297",
+    "title": "What's new in AI security: agents, identity, and the edge",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Cloud Security Specialist"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "A single room for this year's AI security launches across three fronts. 1/ AWS Continuum for finding and securing agents across clouds and for closing code vulnerabilities. 2/ New Amazon Bedrock AgentCore identity capabilities, including OAuth delegation for agents and workload identity. 3/ AWS WAF AI-powered discovery and protection for the API attack surface. Bring your questions on securing agents end to end, from identity to runtime to the edge. ",
+    "times": [
+      {
+        "id": "1795028880102001u05S",
+        "date": "2026-12-03",
+        "day": "Thursday",
         "startTime": "15:00",
         "endTime": "15:45",
         "startTimeFormatted": "03:00 PM",
@@ -77564,6 +78893,42 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Alliance 311",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1780442227561001cemM",
+    "code": "SEC395-R1",
+    "title": "Find, prove, and fix code vulnerabilities with AWS Continuum",
+    "type": "Builders' session",
+    "level": "300 – Advanced",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Application Security",
+      "Threat Detection & Incident Response"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Frontier AI models discover code vulnerabilities in minutes. Security teams still take days or weeks to validate, prioritize, and fix them. In this builders' session, use AWS Continuum to close that gap end to end on a live application. You build a security context graph from your infrastructure, identity, and code to determine what is actually reachable, confirm exploitability through a sandboxed proof-of-concept, and generate a validated fix. You will see graduated trust in action, starting with human approval and promoting to autonomous remediation as confidence builds. Leave able to move your team from manual triage to continuous discovery, validation, and remediation.",
+    "times": [
+      {
+        "id": "1794513622532001GNay",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Builders' Session 2",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -82196,6 +83561,43 @@
     ]
   },
   {
+    "id": "1780442242936001cMVb",
+    "code": "STG369-R1",
+    "title": "AWS Backup: Architecture deep dive",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "Data Protection",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Administrator",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Dive into AWS Backup architecture with AWS experts, including how new capabilities fit into your design. We work through deployment strategies, backup storage options, restore scenarios, and security posture. Bring your questions, leave with a plan.",
+    "times": [
+      {
+        "id": "1794513621031001GKYr",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Academy 409",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1780441473028001GFlX",
     "code": "STG370",
     "title": "What's new with AWS Backup",
@@ -83151,6 +84553,43 @@
         "endTime": "10:00",
         "startTimeFormatted": "09:00 AM",
         "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1794504212301001PoPb",
+    "code": "STG422-R1",
+    "title": "Dive deep into resilience architectures for Amazon EBS",
+    "type": "Chalk talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Storage"
+    ],
+    "areasOfInterest": [
+      "Disaster Response & Recovery",
+      "Innovation & Transformation",
+      "Resilience"
+    ],
+    "roles": [
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect",
+      "System Administrator"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Learn about new Amazon EBS capabilities for resilient architectures and how they work. We cover how to plan your approach and optimize your block storage. Bring your questions.",
+    "times": [
+      {
+        "id": "1794521636453001mmiZ",
+        "date": "2026-12-04",
+        "day": "Friday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
         "duration": 60,
         "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
         "venue": "Wynn/Encore"
@@ -88077,6 +89516,41 @@
     ]
   },
   {
+    "id": "1780442243401001cWq2",
+    "code": "SVS349-R1",
+    "title": "Managing Lambda Runtimes at Scale for Platform Teams",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Lambda-Based Applications"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Lambda's managed runtimes work until your platform team needs a pinned language version, a pre-loaded monitoring agent, or an SDK that every function must use. Today that means managing custom layers, coordinating updates across teams, and hoping nobody is running a version you deprecated last quarter. In this chalk talk, we whiteboard strategies for taking control of your Lambda runtime layer. Bring your runtime requirements and the constraints you're working around today.",
+    "times": [
+      {
+        "id": "1794513620817001Gf9D",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Room 350",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780441472915001GpE6",
     "code": "SVS350",
     "title": "Lambda Web Functions: From Event Handlers to Standard HTTP on Lambda",
@@ -89508,7 +90982,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "A successful agent demo does not guarantee production readiness because agents can behave inconsistently across question types and multi-turn sessions. In this spotlight lab, you build two custom evaluators for an agent: THELMA, which scores single-turn RAG quality across seven dimensions including hallucination detection via groundedness scoring, and Mind the Goal, which computes Goal Success Rate across entire conversations and attributes failures to root causes. You register both as native AgentCore evaluators, run batch evaluations, and use diagnostic outputs to pinpoint exactly what to optimize first. ",
+    "abstract": "A successful demo doesn’t mean production readiness. Answers vary, prompt changes alter behavior, and model updates shift results. In this spotlight lab, you evaluate an analytics agent built with Strands Agents that queries Amazon Redshift Serverless through a read-only MCP server. You build an answer key, record a baseline, and prove it can’t change data. You then score it with Amazon Bedrock AgentCore Evaluations graders for Helpfulness, Correctness, and Tool Selection Accuracy. Also, diagnose root causes from their explanations, compare two prompt fixes, confirm gains exceed grader variation, and approve or reject the fix through a predefined release gate.",
     "times": [
       {
         "id": "1790018975367001cAQK",
@@ -90680,7 +92154,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "A personal finance assistant agent deployed on AgentCore Runtime starts showing intermittent failures and slow responses. In this lab, you will use AgentCore Observability with CloudWatch GenAI dashboards and Transaction Search to diagnose production issues. Trace errors through spans, correlate telemetry with application logs, and identify root causes including a tool timeout and conversation history bloat. Apply fixes, redeploy to AgentCore Runtime, and set up CloudWatch Alarms to catch issues before users do. ",
+    "abstract": "A personal finance assistant agent deployed on AgentCore Runtime starts returning incomplete answers and slow responses, yet its CloudWatch metrics look healthy. In this lab, you will learn why runtime metrics miss agent-level failures, then use CloudWatch Log Analytics to trace the agent’s logs to two root causes: a tool timeout and an inefficient analysis tool. Turn a log value into a metric and build a latency alarm that catches the problem, then fix the code, redeploy to AgentCore Runtime, and watch the alarm clear.",
     "times": [
       {
         "id": "1790020924687001gcFG",
