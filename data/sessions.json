@@ -10216,6 +10216,72 @@
     ]
   },
   {
+    "id": "1789084256031001SVlH",
+    "code": "AIM3332",
+    "title": "Run agents cost-effectively on Amazon Bedrock AgentCore ",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Learn how AgentCore's consumption-based pricing changes the economics of running agents — you pay only for active CPU and memory, and the I/O wait time agents spend idling on LLM and tool calls is free. We'll cover per-second billing, per-user Gateway rate limits for predictable cost control, and when managed Instances let you put existing EC2 commitments to work.",
+    "times": [
+      {
+        "id": "1795125661270001wjVE",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | AWS Meetups",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1789084256087001SxbP",
+    "code": "AIM3333",
+    "title": "Build on the AI platform you trust with Amazon Bedrock",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "A casual conversation about what it takes to run AI workloads you can trust in production. We will dig into how teams are thinking about data security, cost controls, access to frontier models, and reliable performance on Amazon Bedrock, and where the hard tradeoffs still are.",
+    "times": [
+      {
+        "id": "1795125846586001H4Fs",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "startTimeFormatted": "02:00 PM",
+        "endTimeFormatted": "02:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
     "id": "1780442275908001csOH",
     "code": "AIM334-R",
     "title": "Hands-on distributed training with AWS Trainium and PyTorch",
@@ -15417,7 +15483,7 @@
   {
     "id": "1780442232565001ca4K",
     "code": "ANT331",
-    "title": "Develop with natural language and agentic AI in Amazon SageMaker",
+    "title": "From raw to reliable: Building trusted datasets with Amazon SageMaker",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -15427,7 +15493,7 @@
     "roles": [],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Dive into how data analytics and data engineering workflows are changing with natural language and agentic AI in Amazon SageMaker. Using the SageMaker Data Agent, we'll show how a single conversation can take you from a business question to a governed, scheduled data pipeline, and how to keep that data trustworthy with data quality checks defined in natural language.",
+    "abstract": "Before your data can power analytics or AI, you need to understand what’s in it and trust that it stays accurate. In this chalk talk, learn how to take a dataset from raw to reliable with Amazon SageMaker Unified Studio. Explore, visualize, and prepare data using notebooks and AI-assisted development, then use built-in data quality capabilities, such as profiling and quality rules, to catch issues early and keep tables reliable over time.",
     "times": [
       {
         "id": "1790025525163001CiLv",
@@ -22291,35 +22357,6 @@
     ]
   },
   {
-    "id": "1786406740308001LMl3",
-    "code": "AWS122",
-    "title": "The annual forecast for where sports AI is heading",
-    "type": "Mainstage",
-    "level": "100 – Foundational",
-    "topics": [
-      "Industry Solutions"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "Caesars Forum",
-    "campus": "Caesars Campus",
-    "abstract": "Once a year, the sharpest voices in communications go on the record about what comes next, then answer for it when the year arrives. This session brings that ritual to sports. A broadcast analyst convenes league partners, former players, and media voices from the NFL, NBA, PGA TOUR, F1, and Bundesliga, and each one makes a specific, dated prediction about how AI reshapes their sport within three years, then defends it to a skeptical room. The real question underneath, which AI to adopt now, faces everyone in the seats.",
-    "times": [
-      {
-        "id": "1793997217913001yntW",
-        "date": "2026-12-02",
-        "day": "Wednesday",
-        "startTime": "09:00",
-        "endTime": "10:00",
-        "startTimeFormatted": "09:00 AM",
-        "endTimeFormatted": "10:00 AM",
-        "duration": 60,
-        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
-        "venue": "Caesars Forum"
-      }
-    ]
-  },
-  {
     "id": "1793907144909001iG7f",
     "code": "AWS123",
     "title": "New to re:Invent: Maximizing your time",
@@ -22438,6 +22475,80 @@
         "endTime": "17:00",
         "startTimeFormatted": "04:00 PM",
         "endTimeFormatted": "05:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406739814001LbQh",
+    "code": "AWS128",
+    "title": "Built for people: Frontline AI with the Now Go Build CTO Fellows",
+    "type": "Mainstage",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Innovation & Transformation",
+      "Responsible AI",
+      "Tech for Impact"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Join Amazon.com VP and CTO Dr. Werner Vogels for a candid, practitioner-led conversation with four leaders from the Now Go Build CTO Fellowship. While most AI discussions focus on what technology can do, these nonprofit technologists show how AI directly serves real people—from trauma survivors and young people to students learning to read and frontline health workers. Hear how they decide what to build when budgets are tight, stakes are high, and a bad answer costs far more than a lost click. Walk away with practical lessons for builders on creating people-first AI that delivers real-world impact.",
+    "times": [
+      {
+        "id": "1795103492985001oJXQ",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740005001LCFN",
+    "code": "AWS129",
+    "title": "Signal and noise: Robin Thede interviews Arvind Narayanan",
+    "type": "Mainstage",
+    "level": "100 – Foundational",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "Data Scientist",
+      "Developer / Engineer",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "You’ve spent all week being told what AI will do. Now watch someone refuse to take “it’s complicated” for an answer. Robin Thede—comedian, writer, actor, producer, and creator of the Emmy Award–Winning A Black Lady Sketch Show—sits down with Princeton computer scientist and AI Snake Oil co-author Arvind Narayanan for a fast, funny, jargon-free interrogation of where AI is actually taking society: the “truth oracle” our kids will trust more than us, how to spot the tools that can’t possibly work, and why AI often makes the job smaller but the anxiety bigger. The sharpest BS-detector in comedy meets the sharpest BS-detector in AI research for a refreshing take on the state of the industry.",
+    "times": [
+      {
+        "id": "1795114673583001gPpO",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
         "venue": "Caesars Forum"
@@ -22726,6 +22837,75 @@
         "id": "1794932889319001aVaF",
         "date": "2026-12-01",
         "day": "Tuesday",
+        "startTime": "12:30",
+        "endTime": "13:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "01:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740495001LrEE",
+    "code": "AWS209",
+    "title": "Testing in prod, building in public: An interview with Charity Majors",
+    "type": "Mainstage",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AI has made our systems more difficult to reason about, and the right questions nearly impossible to anticipate. Charity Majors was asking those questions long before AI showed up, usually loudly, and often before anyone wanted to hear them. She ran databases at Facebook, Parse, and Second Life, co-founded Honeycomb, pioneered modern observability, and made “test in production” a badge of honor. She’s also never been shy about working out her thinking in public, mistakes and all. She sits down with AWS VP/Distinguished Engineer Laura Grit to talk about what it really takes to build systems that last: the lessons she learned the hard way, the complexity nobody budgets for, and how to keep caring about this work without letting it burn you out.",
+    "times": [
+      {
+        "id": "1795106057214001WddX",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:30",
+        "endTime": "13:30",
+        "startTimeFormatted": "12:30 PM",
+        "endTimeFormatted": "01:30 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1786406740187001Lzsy",
+    "code": "AWS301",
+    "title": "The history of servers, the cloud, and what’s next",
+    "type": "Mainstage",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Compute"
+    ],
+    "areasOfInterest": [],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "From the dot-com boom and bust to the rise of the public cloud to today's AI-driven demand, infrastructure has changed as much as software has. What does that history teach us about what comes next? Every abstraction hides complexity, so when systems fail in ways nobody predicted, how can you actually see what's going on?  Should companies rent their compute infrastructure or own it? And what are the real threats from AI: the doomsday scenarios that grab headlines, or the quieter risks of hype, lost accountability, and investments that may never pay off? Joining the conversation is Bryan Cantrill, co-founder and CTO of Oxide Computer Company and co-creator of DTrace, whose career has spanned three decades of building servers, operating systems, and cloud infrastructure.",
+    "times": [
+      {
+        "id": "1795106695273001aOSb",
+        "date": "2026-12-03",
+        "day": "Thursday",
         "startTime": "12:30",
         "endTime": "13:30",
         "startTimeFormatted": "12:30 PM",
@@ -35033,7 +35213,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your MCP server works perfectly on a single Amazon ECS task. Then agents multiply, sessions collide, and scaling breaks everything. In this chalk talk, we whiteboard the infrastructure patterns that make MCP servers production-ready on Amazon ECS. We'll cover horizontal scaling with externalized session state, request routing, fine-grained authentication, and autoscaling based on agent request patterns. We'll discuss multi-service topologies where different tool categories run as independent ECS services behind a shared ingress layer. Bring your current MCP architecture, and we'll design the production upgrade together.",
+    "abstract": "Your MCP server works perfectly on a single Amazon ECS task. Then agents multiply, state lives in the wrong place, and scaling breaks everything. In this chalk talk, we whiteboard the patterns that make MCP servers production-ready on Amazon ECS. We’ll cover horizontal scaling with state externalized to a durable store, autoscaling on agent request patterns, defense-in-depth authentication with per-tool authorization, and end-to-end observability that turns “the agent is slow” into a single trace. Bring your current MCP architecture, and we’ll design the production upgrade together.",
     "times": [
       {
         "id": "1790025542164001CoCK",
@@ -59752,7 +59932,7 @@
   {
     "id": "1780441494051001GY8h",
     "code": "INV513",
-    "title": "Lifecycle of a pod: trust boundaries in VM-isolated containers",
+    "title": "Lifecycle of a Pod: Trust Boundaries in Nitro Sandboxes",
     "type": "Chalk talk",
     "level": "500 – Distinguished",
     "topics": [
@@ -59765,7 +59945,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Trace a pod from kubelet's RunPodSandbox call to process execution inside a VM isolated sandbox, then dissect the hard problems at each boundary crossing: how do you enforce policy on what runtime actions are allowed? How do you transport container images into an isolated environment the parent cannot read? Where does attestation fit, and how can you truly trust what is running inside? We examine how the trust model shifts between untrusted host and untrusted guest, explore the tradeoffs between CRI compatibility and security invariants, and discuss how EKS is approaching VM-level workload isolation",
+    "abstract": "Trace a pod from kubelet’s RunPodSandbox call to process execution inside a Nitro Sandbox, then dissect the hard problems at each boundary crossing: how do you enforce a policy on what runtime actions can be allowed? How do you transport container images into a Nitro Sandbox that the parent cannot read? Where does attestation fit, and how can you truly trust what is running inside? We examine how the trust model flips between untrusted parent and untrusted guest, and the design tradeoffs that fall out of taking those invariants seriously.",
     "times": [
       {
         "id": "1790025548182001Cq4B",
@@ -60533,14 +60713,14 @@
     "times": [
       {
         "id": "1791396408600001m1GW",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "11:30",
-        "endTime": "12:30",
-        "startTimeFormatted": "11:30 AM",
-        "endTimeFormatted": "12:30 PM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
         "duration": 60,
-        "room": "Caesars Forum | Level 1 | Forum 103",
+        "room": "Caesars Forum | Level 1 | Summit 216 | Showcase Theater",
         "venue": "Caesars Forum"
       }
     ]
@@ -60812,6 +60992,33 @@
     ]
   },
   {
+    "id": "1794596347945001k9Rb",
+    "code": "KEY001-OF2",
+    "title": "Developer Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Building software has never moved faster, and it has never asked more of developers. In this keynote, AWS Engineers and Heroes from the community tackle what's still hard: going from idea to a live app in minutes, building agents that actually work, and trusting code you didn't write yourself. Expect live demos, hard-won lessons from the AWS team that built a new service with an AI software factory, and an honest look at how the developer's job is changing. Come see how AWS is making it easier to build anything you can imagine, then go build it.",
+    "times": [
+      {
+        "id": "1794865283361001ttCI",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "19:30",
+        "endTime": "20:45",
+        "startTimeFormatted": "07:30 PM",
+        "endTimeFormatted": "08:45 PM",
+        "duration": 75,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Pink Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
     "id": "1791492157230001Uw9y",
     "code": "KEY002",
     "title": "CEO Keynote",
@@ -60866,6 +61073,114 @@
     ]
   },
   {
+    "id": "1794596352892001k145",
+    "code": "KEY003-OF11",
+    "title": "Data & AI Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "The future is already here...it's just not evenly distributed in production. Most teams have agents that shine in a demo and stall before they do real work. The ones who get to production changed three things: how agents reach their data, how they measure what agents are worth, and the limits they set. Join Swami Sivasubramanian and Andy Warfield to learn how to make these same shifts in your organization.",
+    "times": [
+      {
+        "id": "1794863384848001ccfK",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Green Theater",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1794596352046001keAK",
+    "code": "KEY003-OF3",
+    "title": "Data & AI Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "The future is already here...it's just not evenly distributed in production. Most teams have agents that shine in a demo and stall before they do real work. The ones who get to production changed three things: how agents reach their data, how they measure what agents are worth, and the limits they set. Join Swami Sivasubramanian and Andy Warfield to learn how to make these same shifts in your organization.",
+    "times": [
+      {
+        "id": "1794859687780001Mrtw",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Turquoise Theater",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1794596352360001kWd1",
+    "code": "KEY003-OF6",
+    "title": "Data & AI Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "The future is already here...it's just not evenly distributed in production. Most teams have agents that shine in a demo and stall before they do real work. The ones who get to production changed three things: how agents reach their data, how they measure what agents are worth, and the limits they set. Join Swami Sivasubramanian and Andy Warfield to learn how to make these same shifts in your organization.",
+    "times": [
+      {
+        "id": "1794863385145001cIN3",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Green Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1794596352465001keA5",
+    "code": "KEY003-OF7",
+    "title": "Data & AI Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "The future is already here...it's just not evenly distributed in production. Most teams have agents that shine in a demo and stall before they do real work. The ones who get to production changed three things: how agents reach their data, how they measure what agents are worth, and the limits they set. Join Swami Sivasubramanian and Andy Warfield to learn how to make these same shifts in your organization.",
+    "times": [
+      {
+        "id": "1794863385243001cXRj",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Green Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1791492157430001U8jn",
     "code": "KEY004",
     "title": "Partner Keynote",
@@ -60893,6 +61208,141 @@
     ]
   },
   {
+    "id": "1794596353101001k0ou",
+    "code": "KEY004-OF2",
+    "title": "Partner Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "AWS Partners, this one's for you. You're powering today's biggest transformations, and AWS is building alongside you to make co-selling and going to market simpler. This is your biggest moment of re:Invent, where you'll leave knowing where to invest and how to win in the agentic era. Join Dr. Ruba Borno and guests including AWS CEO Matt Garman for a game plan built on agent-run migrations with your data plugged in, your expertise embedded in customer tools, and more profitable business models, plus a Marketplace and Partner Central demo on reaching more buyers faster. Don't miss it.",
+    "times": [
+      {
+        "id": "1794859687895001MhVG",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Turquoise Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1794596353208001kclA",
+    "code": "KEY004-OF3",
+    "title": "Partner Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "AWS Partners, this one's for you. You're powering today's biggest transformations, and AWS is building alongside you to make co-selling and going to market simpler. This is your biggest moment of re:Invent, where you'll leave knowing where to invest and how to win in the agentic era. Join Dr. Ruba Borno and guests including AWS CEO Matt Garman for a game plan built on agent-run migrations with your data plugged in, your expertise embedded in customer tools, and more profitable business models, plus a Marketplace and Partner Central demo on reaching more buyers faster. Don't miss it.",
+    "times": [
+      {
+        "id": "1794863385540001chon",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Pink Theater",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1794596353312001k9sR",
+    "code": "KEY004-OF4",
+    "title": "Partner Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "AWS Partners, this one's for you. You're powering today's biggest transformations, and AWS is building alongside you to make co-selling and going to market simpler. This is your biggest moment of re:Invent, where you'll leave knowing where to invest and how to win in the agentic era. Join Dr. Ruba Borno and guests including AWS CEO Matt Garman for a game plan built on agent-run migrations with your data plugged in, your expertise embedded in customer tools, and more profitable business models, plus a Marketplace and Partner Central demo on reaching more buyers faster. Don't miss it.",
+    "times": [
+      {
+        "id": "1794863385642001c9qM",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Green Theater",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1794596353418001kWtg",
+    "code": "KEY004-OF5",
+    "title": "Partner Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "AWS Partners, this one's for you. You're powering today's biggest transformations, and AWS is building alongside you to make co-selling and going to market simpler. This is your biggest moment of re:Invent, where you'll leave knowing where to invest and how to win in the agentic era. Join Dr. Ruba Borno and guests including AWS CEO Matt Garman for a game plan built on agent-run migrations with your data plugged in, your expertise embedded in customer tools, and more profitable business models, plus a Marketplace and Partner Central demo on reaching more buyers faster. Don't miss it.",
+    "times": [
+      {
+        "id": "1794859687999001MM90",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Turquoise Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1794596353525001kzyF",
+    "code": "KEY004-OF6",
+    "title": "Partner Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AWS Partners, this one's for you. You're powering today's biggest transformations, and AWS is building alongside you to make co-selling and going to market simpler. This is your biggest moment of re:Invent, where you'll leave knowing where to invest and how to win in the agentic era. Join Dr. Ruba Borno and guests including AWS CEO Matt Garman for a game plan built on agent-run migrations with your data plugged in, your expertise embedded in customer tools, and more profitable business models, plus a Marketplace and Partner Central demo on reaching more buyers faster. Don't miss it.",
+    "times": [
+      {
+        "id": "1794863385740001ccOE",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Green Theater",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1791492157537001UxSg",
     "code": "KEY005",
     "title": "Technical Innovations Keynote",
@@ -60915,6 +61365,141 @@
         "endTimeFormatted": "10:00 AM",
         "duration": 90,
         "room": "Venetian | Level 2 | Ballroom E | Keynote",
+        "venue": "Venetian"
+      }
+    ]
+  },
+  {
+    "id": "1794596354484001ksug",
+    "code": "KEY005-OF10",
+    "title": "Technical Innovations Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "Agents don't follow a script. They change plans mid-task, reach for tools they didn't know they'd need, and create demand you can't predict. For two decades, the hardest workloads builders brought to AWS have pushed us to rethink everything from Graviton and Trainium to the shape of the data center network, to the way storage scales, and how we prove systems behave as intended. Join AWS's top engineers and scientists for an under-the-hood look at the technology that came out of that pressure, the kind of story you won't hear anywhere else. See how AWS infrastructure adapts as your work changes, freeing you to stop engineering around constraints and build anything you can imagine.",
+    "times": [
+      {
+        "id": "1794863385843001cnGX",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Green Theater",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
+    "id": "1794596353630001kL9H",
+    "code": "KEY005-OF2",
+    "title": "Technical Innovations Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Agents don't follow a script. They change plans mid-task, reach for tools they didn't know they'd need, and create demand you can't predict. For two decades, the hardest workloads builders brought to AWS have pushed us to rethink everything from Graviton and Trainium to the shape of the data center network, to the way storage scales, and how we prove systems behave as intended. Join AWS's top engineers and scientists for an under-the-hood look at the technology that came out of that pressure, the kind of story you won't hear anywhere else. See how AWS infrastructure adapts as your work changes, freeing you to stop engineering around constraints and build anything you can imagine.",
+    "times": [
+      {
+        "id": "1794859688205001Mnah",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Turquoise Theater",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1794596353740001kzWj",
+    "code": "KEY005-OF3",
+    "title": "Technical Innovations Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Agents don't follow a script. They change plans mid-task, reach for tools they didn't know they'd need, and create demand you can't predict. For two decades, the hardest workloads builders brought to AWS have pushed us to rethink everything from Graviton and Trainium to the shape of the data center network, to the way storage scales, and how we prove systems behave as intended. Join AWS's top engineers and scientists for an under-the-hood look at the technology that came out of that pressure, the kind of story you won't hear anywhere else. See how AWS infrastructure adapts as your work changes, freeing you to stop engineering around constraints and build anything you can imagine.",
+    "times": [
+      {
+        "id": "1794859688307001Mlqh",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | Turquoise Theater",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1794596353950001klie",
+    "code": "KEY005-OF5",
+    "title": "Technical Innovations Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Agents don't follow a script. They change plans mid-task, reach for tools they didn't know they'd need, and create demand you can't predict. For two decades, the hardest workloads builders brought to AWS have pushed us to rethink everything from Graviton and Trainium to the shape of the data center network, to the way storage scales, and how we prove systems behave as intended. Join AWS's top engineers and scientists for an under-the-hood look at the technology that came out of that pressure, the kind of story you won't hear anywhere else. See how AWS infrastructure adapts as your work changes, freeing you to stop engineering around constraints and build anything you can imagine.",
+    "times": [
+      {
+        "id": "1794863386206001cp6q",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Green Theater",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1794596354272001kRmw",
+    "code": "KEY005-OF8",
+    "title": "Technical Innovations Keynote",
+    "type": "Keynote",
+    "level": "",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
+    "abstract": "Agents don't follow a script. They change plans mid-task, reach for tools they didn't know they'd need, and create demand you can't predict. For two decades, the hardest workloads builders brought to AWS have pushed us to rethink everything from Graviton and Trainium to the shape of the data center network, to the way storage scales, and how we prove systems behave as intended. Join AWS's top engineers and scientists for an under-the-hood look at the technology that came out of that pressure, the kind of story you won't hear anywhere else. See how AWS infrastructure adapts as your work changes, freeing you to stop engineering around constraints and build anything you can imagine.",
+    "times": [
+      {
+        "id": "1794863386497001cJU5",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "08:30",
+        "endTime": "09:30",
+        "startTimeFormatted": "08:30 AM",
+        "endTimeFormatted": "09:30 AM",
+        "duration": 60,
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Turquoise Theater",
         "venue": "Venetian"
       }
     ]
@@ -66002,12 +66587,12 @@
     "times": [
       {
         "id": "1794243997756001y3Pm",
-        "date": "2026-12-01",
-        "day": "Tuesday",
-        "startTime": "15:00",
-        "endTime": "15:45",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "03:45 PM",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "startTimeFormatted": "04:00 PM",
+        "endTimeFormatted": "04:45 PM",
         "duration": 45,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
         "venue": "Caesars Palace"
@@ -66408,6 +66993,44 @@
     ]
   },
   {
+    "id": "1789084255319001Sqys",
+    "code": "MUP223",
+    "title": "How to Ensure Your CCoE Is Accelerating Your Cloud Transformation, Not Hindering It",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Hybrid Cloud & Multicloud",
+      "Migration & Modernization"
+    ],
+    "areasOfInterest": [
+      "Customer Enablement",
+      "Innovation & Transformation",
+      "Management & Governance"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "IT Executive",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Palace",
+    "campus": "Caesars Campus",
+    "abstract": "Some Cloud Centers of Excellence (CCoE) start as accelerators and slowly become gatekeepers. Approval queues grow, new services wait months, and app teams start working around the platform. In this session, we share practical patterns for keeping your CCoE focused on speed and safety together. Topics span people, process, and technology: shifting governance left, building reusable service enablement kits, defining ownership between platform and app teams, and measuring the CCoE by the outcomes it enables, not the controls it enforces. Through real examples from AWS and customers, attendees leave with ideas that accelerate cloud transformation and an action plan to remove friction.",
+    "times": [
+      {
+        "id": "1795105659960001icGL",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
+        "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
     "id": "1789805681413001IJPw",
     "code": "MUP301",
     "title": "Frontier Engineering Applied: Rethinking Infrastructure for the Agent Era ",
@@ -66562,6 +67185,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "DNU - Serverless",
       "Lambda-Based Applications"
     ],
     "roles": [
@@ -66777,6 +67401,7 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
+      "DNU - Serverless",
       "DevOps"
     ],
     "roles": [
@@ -69393,7 +70018,7 @@
   {
     "id": "1780442243461001c7Po",
     "code": "NET342-R1",
-    "title": "Amazon Route 53 Global Resolver: Anycast DNS over private connections",
+    "title": "Innovations in DNS and Amazon Route 53",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -69411,7 +70036,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Amazon Route 53 Global Resolver gives clients on premises, in branch offices, and on the road secure, resilient anycast DNS resolution. Now you can bring the same capabilities to clients that connect over your private connections (e.g. AWS Direct Connect, AWS Site-to-Site VPN), with no internet path required. In this chalk talk, we whiteboard architecture patterns for enabling Global Resolver over private connections. You’ll see how to keep multi-Region failover, DNS filtering, and public and private domain resolution consistent across every network path. Bring your hybrid DNS questions and leave with best practices you can apply today.",
+    "abstract": "Join us to learn about the latest innovations in Domain Name Systems (DNS) and Amazon Route 53. This session covers new capabilities in DNS resolution and new approaches to private and public domain resolution. Join us for architecture patterns and best practices that simplify DNS at scale.",
     "times": [
       {
         "id": "1794513620615001G4hF",
@@ -69430,7 +70055,7 @@
   {
     "id": "1794504129955001XnLc",
     "code": "NET342-R2",
-    "title": "Amazon Route 53 Global Resolver: Anycast DNS over private connections",
+    "title": "Innovations in DNS and Amazon Route 53",
     "type": "Chalk talk",
     "level": "300 – Advanced",
     "topics": [
@@ -69448,7 +70073,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Amazon Route 53 Global Resolver gives clients on premises, in branch offices, and on the road secure, resilient anycast DNS resolution. Now you can bring the same capabilities to clients that connect over your private connections (e.g. AWS Direct Connect, AWS Site-to-Site VPN), with no internet path required. In this chalk talk, we whiteboard architecture patterns for enabling Global Resolver over private connections. You’ll see how to keep multi-Region failover, DNS filtering, and public and private domain resolution consistent across every network path. Bring your hybrid DNS questions and leave with best practices you can apply today.",
+    "abstract": "Join us to learn about the latest innovations in Domain Name Systems (DNS) and Amazon Route 53. This session covers new capabilities in DNS resolution and new approaches to private and public domain resolution. Join us for architecture patterns and best practices that simplify DNS at scale.",
     "times": [
       {
         "id": "1794513621902001GA1X",
@@ -69573,6 +70198,33 @@
         "duration": 60,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | Purple Theater",
         "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1794525822868001PuE8",
+    "code": "NET348",
+    "title": "IP Address Management and DNS Architecture Patterns on AWS",
+    "type": "Chalk talk",
+    "level": "300 – Advanced",
+    "topics": [],
+    "areasOfInterest": [],
+    "roles": [],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Join us to explore architecture patterns for IP address management (IPAM) and DNS. Together, we can discuss structuring pool hierarchies, handling contiguous IPv4 blocks and bring-your-own-IP, sharing address space across an AWS Organization, and resolving names across hybrid environments with Amazon Route 53. Bring your questions and scenarios, and walk away with best practices that simplify address management and DNS operations at scale.",
+    "times": [
+      {
+        "id": "1795030802785001gTHP",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "startTimeFormatted": "09:00 AM",
+        "endTimeFormatted": "10:00 AM",
+        "duration": 60,
+        "room": "Wynn/Encore | Level 1 | Encore Ballroom 3",
+        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -71839,7 +72491,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "AWS Marketplace connects buyers and software sellers at subscription. In this lightning talk, explore how you can capture a buyer's contact details earlier during procurement to reduce friction from purchase to onboarding, support, and initial product engagement.Â ",
+    "abstract": "AWS Marketplace connects customers and software sellers at subscription. In this lightning talk, explore how AWS Marketplace captures a customer's contact details on the procurement page and shares them with the seller, pre-filling known information so customers confirm rather than retype. See how this gives sellers reliable, consistent buyer contact across product types and streamlines the path from purchase to onboarding, support, and first value.\n",
     "times": [
       {
         "id": "1791224280075001tjP3",
@@ -75163,6 +75815,40 @@
         "endTime": "15:45",
         "startTimeFormatted": "03:00 PM",
         "endTimeFormatted": "03:45 PM",
+        "duration": 45,
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1789084255598001S1WP",
+    "code": "SEC298",
+    "title": "Network Firewall ingress & egress just leveled up: what to use when ",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Network & Infrastructure Security"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "One firewall, many ways to deploy it, and each mode unlocks a different architectural superpower. Join us for this meetup to discuss all the new Network Firewall upgrades: simplified rule writing, and new deployment options across: distributed, centralized, multi-endpoint, explicit proxy, integration points. Join network security experts and walk through real architectures, security implications, visibility options, you'll see where each one shines, how they scale, and the patterns that make your network security clean, flexible, and future-ready. Whether you're protecting a single VPC or a global multi-account estate, you'll leave knowing exactly which mode fits your environment and why. If you route traffic through AWS, this is the map that gets you there faster. ",
+    "times": [
+      {
+        "id": "1795126013848001H8WU",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "startTimeFormatted": "11:00 AM",
+        "endTimeFormatted": "11:45 AM",
         "duration": 45,
         "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | AWS Meetups",
         "venue": "Wynn/Encore"
@@ -84876,7 +85562,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Autonomous racing is the proving ground for agentic AI: agents must perceive, decide, and act in real time with zero room for error. In this session, we walk through building agents that compete in autonomous racing, covering the perception, planning, and control stack, and what breaks when you push agents into real-time, high-stakes environments. You'll leave with a working mental model for building and testing agents under pressure.",
+    "abstract": "This is a hands-on session, bring your laptop to participate. Autonomous racing is the proving ground for agentic AI: agents must perceive, decide, and act in real time with zero room for error. In this session, we walk through building agents that compete in autonomous racing, covering the perception, planning, and control stack, and what breaks when you push agents into real-time, high-stakes environments. You'll leave with a working mental model for building and testing agents under pressure.",
     "times": [
       {
         "id": "1793659195709001nDa7",
@@ -84910,7 +85596,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Autonomous racing is the proving ground for agentic AI: agents must perceive, decide, and act in real time with zero room for error. In this session, we walk through building agents that compete in autonomous racing, covering the perception, planning, and control stack, and what breaks when you push agents into real-time, high-stakes environments. You'll leave with a working mental model for building and testing agents under pressure.",
+    "abstract": "This is a hands-on session, bring your laptop to participate. Autonomous racing is the proving ground for agentic AI: agents must perceive, decide, and act in real time with zero room for error. In this session, we walk through building agents that compete in autonomous racing, covering the perception, planning, and control stack, and what breaks when you push agents into real-time, high-stakes environments. You'll leave with a working mental model for building and testing agents under pressure.",
     "times": [
       {
         "id": "1793394945698001qxF1",
@@ -85626,7 +86312,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "What would you build with an AI agent that learns new skills on its own? Hermes Agent is an open-source AI agent that improves itself as you use it. Hervé Bizira, Chief Business Officer at Nous Research, joins Joseph Dolivo, Principal Technologist at AWS Startups, for a fireside chat about how Hermes learns the way your team works and saves it as skills the next person can reuse. They'll also cover how to choose models on Amazon Bedrock based on what a successful task costs. To close, you'll set up your own personal agent with Hermes Agent and Amazon Bedrock and leave with an agent that has already learned something from you. Make sure to bring a laptop!",
+    "abstract": "This is a hands-on session, bring your laptop to participate. What would you build with an AI agent that learns new skills on its own? Hermes Agent is an open-source AI agent that improves itself as you use it. Hervé Bizira, Chief Business Officer at Nous Research, joins Joseph Dolivo, Principal Technologist at AWS Startups, for a fireside chat about how Hermes learns the way your team works and saves it as skills the next person can reuse. They'll also cover how to choose models on Amazon Bedrock based on what a successful task costs. To close, you'll set up your own personal agent with Hermes Agent and Amazon Bedrock and leave with an agent that has already learned something from you. Make sure to bring a laptop!",
     "times": [
       {
         "id": "1794246710298001gR4l",
