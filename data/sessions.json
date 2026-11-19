@@ -54773,7 +54773,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "How does Amazon combine people, AI and robots to get new sites ready? Hear how Amazon Robotics runs thousands of autonomous mobile robots on one shared map, and recovers lost robots with agents on Amazon Bedrock. Then follow a pilot that takes last year's computer-vision readiness checks, built with Amazon Nova on Bedrock, from a tablet to a humanoid robot that walks a site and scans each station, so people can focus on the decisions. We go deep on the AWS architecture, from edge navigation to a serverless backend, and share what broke, what we learned and patterns you can reuse.",
+    "abstract": "Hedge funds rely on research, strategy tools, and around-the-clock execution. Retail investors rarely have access to the institutional-grade research and real-time analysis that professionals depend on. In this session, discover how Robinhood built Robinhood Agents, an in-app agentic trading experience built on Amazon Bedrock. Customers can build their own agent to research the market, develop strategies, or trade within the limits they set. Learn how Robinhood's AI engineering leaders built an internal agentic platform focused on trust, security, and safety and how that later evolved and scaled to power Robinhood Agents. Hear about the architecture, guardrails, and lessons learned delivering institutional intelligence at consumer scale.",
     "times": [
       {
         "id": "1791583862450001OtTf",
@@ -55271,7 +55271,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Jabil buyers manage over one million parts per week, classifying material constraints, resolving shortages, and making sourcing decisions across disconnected planning, supplier, and distributor systems. Learn how Jabil and AWS built an agentic AI platform on Amazon Bedrock AgentCore with five agents on a shared foundation: constraint classification, a shortage-decision engine, a natural-language supply chain assistant, part-lifecycle intelligence, and write-back into planning systems. The platform cut per-part classification from minutes to 8-17 seconds, pre-filtered 75% of parts instantly, and classified one million parts weekly within a 24-hour SLA. Leave with architecture patterns for scaling from one use case to a multi-agent platform.",
+    "abstract": "Jabil buyers manage over one million parts, classifying tens of thousands of material constraints weekly, resolving shortages, and making sourcing decisions across planning, order management, transportation, supplier, and distributor systems. Learn how Jabil and partners including AWS and Royal Cyber built an agentic AI platform on Amazon Bedrock AgentCore with five agents on one foundation: constraint intelligence, shortage intelligence, natural-language material status, part-cost breakdown, and market alternates. The platform is expected to cut per-part shortage validation and classification from hours to minutes and mitigate tens of thousands of shortages weekly. Leave with architecture patterns for scaling to a multi-agent platform.",
     "times": [
       {
         "id": "1793251237577001N0EA",
@@ -66562,7 +66562,6 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "DNU - Serverless",
       "Lambda-Based Applications"
     ],
     "roles": [
@@ -66778,7 +66777,6 @@
     ],
     "areasOfInterest": [
       "Agentic AI",
-      "DNU - Serverless",
       "DevOps"
     ],
     "roles": [
@@ -75808,10 +75806,10 @@
         "date": "2026-12-04",
         "day": "Friday",
         "startTime": "08:00",
-        "endTime": "09:00",
+        "endTime": "10:00",
         "startTimeFormatted": "08:00 AM",
-        "endTimeFormatted": "09:00 AM",
-        "duration": 60,
+        "endTimeFormatted": "10:00 AM",
+        "duration": 120,
         "room": "Wynn/Encore | Convention Promenade | Mouton 2",
         "venue": "Wynn/Encore"
       }
