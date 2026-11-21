@@ -25700,6 +25700,42 @@
     ]
   },
   {
+    "id": "1780441474472001G6x8",
+    "code": "BIZ222",
+    "title": "Teams and Agents Working Together in AWS Quick",
+    "type": "Breakout session",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Agents"
+    ],
+    "areasOfInterest": [
+      "Agentic AI"
+    ],
+    "roles": [
+      "Business Executive",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Sales / Marketing"
+    ],
+    "venue": "MGM Grand",
+    "campus": "MGM Grand Campus",
+    "abstract": "AI has made individual tasks faster, but most of a team's time goes into pulling work together: chasing updates, tracking down context, and moving between tools. See how teams and agents work together in AWS Quick, live. Start with your own work, then follow it as it moves to your team and across your organization, with people in control along the way. Leave with practical ways to get more done, together.",
+    "times": [
+      {
+        "id": "1795204305640001QMuU",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:30",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:30 AM",
+        "duration": 60,
+        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Blue Theater",
+        "venue": "MGM Grand"
+      }
+    ]
+  },
+  {
     "id": "1780442224881001cKJF",
     "code": "BIZ301",
     "title": "Build and Ship an AI-Powered App with AWS Quick",
@@ -37908,27 +37944,6 @@
     ]
   },
   {
-    "id": "1780442256070001cJKF",
-    "code": "CON348-R",
-    "title": "Defense-in-Depth for Containers on Amazon EKS: A Layering Story",
-    "type": "Code talk",
-    "level": "300 – Advanced",
-    "topics": [
-      "Containers",
-      "Security & Identity"
-    ],
-    "areasOfInterest": [],
-    "roles": [
-      "Cloud Security Specialist",
-      "DevOps Engineer",
-      "IT Administrator"
-    ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
-    "abstract": "On a default Amazon EKS cluster, a single pod is a compromise away from the whole cluster - shared node credentials, flat networking, implicit trust, open egress. In this code-first session we start there, then trace how EKS security grew layer by layer as the threat model matured. We rebuild an over-privileged workload live, adding one control at a time: scoped pod identity, admin and DNS network policies, and private certificate trust with zero-downtime CA rotation. We finish by running a lateral-movement attempt against the hardened workload and watching it fail at multiple layers — the whole point of defense-in-depth.",
-    "times": []
-  },
-  {
     "id": "1780442278007001cQwB",
     "code": "CON401-R",
     "title": "Accelerate platform engineering on Amazon EKS",
@@ -47653,7 +47668,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Your infrastructure code deserves the same developer experience as your application code. This session recaps what's new for AWS CloudFormation and the AWS CDK: early change-set validation, the CloudFormation Language Server for your IDE, Stack Refactoring without downtime, drift-aware change sets, CDK Mixins for composable abstractions, cross-account output references, and the CDK Toolkit Library. See how these capabilities shorten your dev-test cycle and strengthen deployment safety.",
+    "abstract": "Your infrastructure code deserves the same developer experience as your application code. This session recaps what’s new for AWS CloudFormation and the AWS CDK, including capabilities for building entire applications with agents, iterating on infrastructure at agent speed, and strengthening safety practices. Join us to also hear from Macquarie Group as they talk about their two-speed cloud operating model, where native CloudFormation is validated automatically against policy guardrails and an AI risk agent accelerates security review, helping teams move from idea to production faster and deliver new capabilities to clients sooner.",
     "times": [
       {
         "id": "1790025481171001CxJE",
@@ -96957,6 +96972,7 @@
       "Artificial Intelligence"
     ],
     "areasOfInterest": [
+      "Partner Enablement",
       "Training & Certification",
       "Workforce Development"
     ],
