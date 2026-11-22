@@ -23750,30 +23750,6 @@
     ]
   },
   {
-    "id": "1795047340059001HzR4",
-    "code": "AWS121-SC2",
-    "title": "Why do we want robots to be like us?",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Industry Solutions"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Robotics"
-    ],
-    "roles": [
-      "Academic / Researcher",
-      "Developer / Engineer",
-      "Tech Explorer"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Robots don't need faces, personalities, or a sense of humor, yet we keep building them in our own image. AWS's Director of Frontier AI Science and Engineering Sri Elaprolu digs into that instinct with Catie Cuan, a choreographer who dances with robots, and Simone Giertz, the maker famous for building gloriously bad ones. Both have built careers watching people react to machines that move, joke, and spectacularly fail. Together they explore what makes a machine feel trustworthy and when human likeness gets in the way. It's a playful, practical session for anyone designing agents, interfaces, or products people need to trust.",
-    "times": []
-  },
-  {
     "id": "1793907144909001iG7f",
     "code": "AWS123",
     "title": "New to re:Invent: Maximizing your time",
@@ -23835,29 +23811,6 @@
         "venue": "Caesars Forum"
       }
     ]
-  },
-  {
-    "id": "1795047340172001HIYs",
-    "code": "AWS125-SC2",
-    "title": "Who gets to decide the future?",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI",
-      "Responsible AI"
-    ],
-    "roles": [
-      "Advisor / Consultant",
-      "Tech Explorer"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "All week you'll hear what technology will do. This conversation argues that you're the ones deciding. One of tech's most compelling storytellers, joins an expert in tech societal impacts, and an acclaimed novelist who imagines how societies hold together after disruption. Together they separate hype from real capability and ask how today's build choices shape whose future gets built.",
-    "times": []
   },
   {
     "id": "1786406740369001LsyT",
@@ -24105,30 +24058,6 @@
         "venue": "Caesars Forum"
       }
     ]
-  },
-  {
-    "id": "1795047340285001HWdy",
-    "code": "AWS203-SC2",
-    "title": "What makes a model trustworthy?",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI",
-      "Responsible AI"
-    ],
-    "roles": [
-      "Developer / Engineer",
-      "IT Executive",
-      "IT Professional / Technical Manager"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Every team shipping AI has to pick a model that fits the use case and own the trade-offs that come with it. Kay Firth-Butterfield leads Anthropic, NVIDIA, and Reflection through how they think about that choice: what weights mean for customization and control, when building smaller models on an open base pays off, and how to balance trust and safety against what the use case needs. No two use cases are alike, so expect trade-offs and judgment calls instead of a checklist.",
-    "times": []
   },
   {
     "id": "1786406740247001LcyZ",
@@ -79010,22 +78939,6 @@
     ]
   },
   {
-    "id": "1795047352280001HmdJ",
-    "code": "SEC002-SC2",
-    "title": "Your new playbook: Operationalizing security in a world of AI",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Security & Identity"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "The window between a vulnerability existing and being exploited has collapsed from years to minutes. As a result, standard security practices, such as patching SLAs, shift-left reviews, and traditional AppSec, are dead. Join AWS Chief Information Security Officer Amy Herzog as she shares how AWS reimagined security to stop AI-enabled threat actors. You will see the fundamentals AWS has enforced for decades, now running at machine speed, and learn what AWS does on both sides of the shared responsibility model. You will leave knowing what to change in your own operations to raise your security bar.",
-    "times": []
-  },
-  {
     "id": "1792716339504001zRyn",
     "code": "SEC003",
     "title": "The Old Security Playbook Is Dead",
@@ -79053,22 +78966,6 @@
         "venue": "Wynn/Encore"
       }
     ]
-  },
-  {
-    "id": "1795047352385001HumK",
-    "code": "SEC003-SC2",
-    "title": "The Old Security Playbook Is Dead",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Security & Identity"
-    ],
-    "areasOfInterest": [],
-    "roles": [],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "The timeline for responding to a security issue has compressed. Change is now constant and can be bewildering, and as security professionals we still need to deliver on our promises to customers. In this session, Eric Brandwine, AWS VP and Distinguished Engineer, will show you what you can do, today, to help your security team move faster and more effectively, and to adapt to the new world of change. Eric will draw on decades of experience building security at AWS to share the architectural patterns, operational best practices, and mental models that help teams move from announcement to adoption. Whether you're a security leader setting strategy or a practitioner building the systems, you'll leave with a clear understanding of how to take advantage of the new opportunities in front of you and to raise your security bar.",
-    "times": []
   },
   {
     "id": "1780441486898001Gm5S",
@@ -86448,30 +86345,6 @@
     ]
   },
   {
-    "id": "1795047354316001HgpY",
-    "code": "SNR302-SC2",
-    "title": "A leader's guide to the AI you haven't seen yet",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Compute"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Cost Optimization",
-      "Generative AI"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Most AI strategy is built for the AI leaders can see. The models in production today are the constrained ones, gated by capacity and cost, and that gate is lifting. When it lifts, a dozen breakthrough applications becomes a million, and AI systems get as cheap and as common as a website. Progress has stopped being predictable too: capability arrives in step changes that can obsolete a year of work in a quarter. This session asks what you would build if AI were free and never made a mistake, and how to tell a durable bet from a disposable one.",
-    "times": []
-  },
-  {
     "id": "1780442221125001cULv",
     "code": "SNR303",
     "title": "A leader's guide to advanced teams models in an agentic world",
@@ -86509,30 +86382,6 @@
     ]
   },
   {
-    "id": "1795047354428001HNmM",
-    "code": "SNR303-SC2",
-    "title": "A leader's guide to advanced teams models in an agentic world",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Amazon Builds on AWS",
-      "Workforce Development"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Agents made execution cheap. The work did not disappear. It moved into deciding what should exist, checking what agents produce, and owning it when something breaks. Most team designs were not built for that. This session gives you four questions to ask of any piece of work: what is it for, what does it touch, how will we check it, and whose name is on it. Then we walk through the team models leaders reach for, what each gets wrong, and where the pager and the name should sit. You leave knowing who does what now.",
-    "times": []
-  },
-  {
     "id": "1780442221180001cqvF",
     "code": "SNR304",
     "title": "A leader's guide to how AI is changing Amazon’s ways of working",
@@ -86567,52 +86416,6 @@
         "venue": "Venetian"
       }
     ]
-  },
-  {
-    "id": "1795047354546001HWc9",
-    "code": "SNR304-SC2",
-    "title": "A leader's guide to how AI is changing Amazon's ways of working",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Amazon Builds on AWS",
-      "Innovation & Transformation",
-      "Workforce Development"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "AI is changing how Amazon hires, builds, manages, and deploys teams across every function to innovate and deliver on behalf of customers. This session shares Amazon's emerging framework: the mental models fueling transformation, a state model for understanding where teams are on the AI journey, and real case studies of teams that have crossed from AI-enhanced to AI-native and beyond. We'll walk through the implications, share the questions we're still wrestling with, and offer practical recommendations for leaders navigating the same transition. First-person data from an organization at scale, shared with candor.",
-    "times": []
-  },
-  {
-    "id": "1795047354657001HHoP",
-    "code": "SNR304-SC3",
-    "title": "A leader's guide to how AI is changing Amazon's ways of working",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence"
-    ],
-    "areasOfInterest": [
-      "Amazon Builds on AWS",
-      "Innovation & Transformation",
-      "Workforce Development"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "AI is changing how Amazon hires, builds, manages, and deploys teams across every function to innovate and deliver on behalf of customers. This session shares Amazon's emerging framework: the mental models fueling transformation, a state model for understanding where teams are on the AI journey, and real case studies of teams that have crossed from AI-enhanced to AI-native and beyond. We'll walk through the implications, share the questions we're still wrestling with, and offer practical recommendations for leaders navigating the same transition. First-person data from an organization at scale, shared with candor.",
-    "times": []
   },
   {
     "id": "1780442221229001crtG",
@@ -86727,31 +86530,6 @@
         "venue": "Venetian"
       }
     ]
-  },
-  {
-    "id": "1795047354766001HSAX",
-    "code": "SNR307-SC2",
-    "title": "A leader's guide to the AI speed trap",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "DevOps",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "IT Professional / Technical Manager"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Your developers are faster with AI. Your organization isn't. AI tools accelerate individual teams, but organizational outcomes depend on what happens between teams: coordination, dependencies, and end-to-end value streams that extend far beyond code. Most productivity metrics miss this entirely because they stop at the team boundary. In this session, we present real patterns from startups, scaleups, digital natives, and large organizations, introduce measurement frameworks that capture what matters at the organizational level, and share practical approaches for turning team-level acceleration into outcomes your customers will notice.",
-    "times": []
   },
   {
     "id": "1780442221509001cfDw",
@@ -86906,31 +86684,6 @@
     ]
   },
   {
-    "id": "1795047354879001HPTa",
-    "code": "SNR315-SC2",
-    "title": "A leader's guide to modernizing systems for AI, with AI",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Migration & Modernization"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Every enterprise faces the same sequencing problem: \"Before we can deploy AI, we need to fix our legacy systems.\" This is technology's most expensive false binary. Organizations that made real progress rejected that sequence. They use AI to understand undocumented code, decompose monoliths, and rebuild the very systems blocking deployment. One airline uses AI to comprehend reservation logic only three people understand. Another enterprise uses agents to reverse-engineer decades of business rules into microservices. The recursive unlock: the technology you want to deploy removes what blocks it. This session covers the funding, sequencing, and organizational decisions that make it work.",
-    "times": []
-  },
-  {
     "id": "1783654976546001dEAE",
     "code": "SNR316",
     "title": "A leader's guide to moving from AI investment gridlock to acceleration",
@@ -87007,58 +86760,6 @@
     ]
   },
   {
-    "id": "1795047354988001HVMu",
-    "code": "SNR317-SC2",
-    "title": "A leader's guide to scaling AI adoption without losing control",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Amazon Builds on AWS",
-      "Training & Certification"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "IT Professional / Technical Manager"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "I gave the organization AI tools â why did adoption stall? Most enterprises equip teams with AI and expect transformation to follow. It doesn't. Amazon scaled agentic AI to thousands of production deployments not by mandate, but by investing in what surrounds the model: governance that guards what truly matters â customer trust, privacy, security, and cost â while loosening its grip everywhere else, a culture where experimentation and oversight coexist, and upskilling that turns casual prompters into confident builders. This session names the structural bets that move adoption, the debts you're quietly acquiring, and why losing control isn't the failure â over-constraining is.",
-    "times": []
-  },
-  {
-    "id": "1795047355100001HOQ2",
-    "code": "SNR317-SC3",
-    "title": "A leader's guide to scaling AI adoption without losing control",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents",
-      "Developer Tools"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Amazon Builds on AWS",
-      "Training & Certification"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive",
-      "IT Professional / Technical Manager"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "I gave the organization AI tools â why did adoption stall? Most enterprises equip teams with AI and expect transformation to follow. It doesn't. Amazon scaled agentic AI to thousands of production deployments not by mandate, but by investing in what surrounds the model: governance that guards what truly matters â customer trust, privacy, security, and cost â while loosening its grip everywhere else, a culture where experimentation and oversight coexist, and upskilling that turns casual prompters into confident builders. This session names the structural bets that move adoption, the debts you're quietly acquiring, and why losing control isn't the failure â over-constraining is.",
-    "times": []
-  },
-  {
     "id": "1783654976655001dJjp",
     "code": "SNR318",
     "title": "A leader's guide to reimagining complex business processes with agents",
@@ -87097,31 +86798,6 @@
     ]
   },
   {
-    "id": "1795047355212001HBgm",
-    "code": "SNR318-SC2",
-    "title": "A leader's guide to reimagining complex business processes with agents",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Application Integration",
-      "Artificial Intelligence",
-      "Business Agents"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Automation",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "Most enterprises use AI as an assistant, automating individual tasks for incremental 20% gains. The leaders unlocking profound productivity gains are doing something different: reimagining entire business processes from the outcome backward, so every step hands forward context, confidence, and decision authority, not just data. This session shows what it takes to transform your most strategic operations with agentic AI and scale them, then Thomson Reuters walks through the lessons of rebuilding its M&A process end-to-end. You leave knowing which processes to reimagine and how to move them into production, where value compounds. ",
-    "times": []
-  },
-  {
     "id": "1783654976796001dH2c",
     "code": "SNR320",
     "title": "A leader's guide to what separates AI leaders from the rest",
@@ -87157,30 +86833,6 @@
         "venue": "Venetian"
       }
     ]
-  },
-  {
-    "id": "1795047355325001HEoH",
-    "code": "SNR320-SC2",
-    "title": "A leader's guide to what separates AI leaders from the rest",
-    "type": "Mainstage",
-    "level": "",
-    "topics": [
-      "Artificial Intelligence",
-      "Business Agents"
-    ],
-    "areasOfInterest": [
-      "Agentic AI",
-      "Generative AI",
-      "Innovation & Transformation"
-    ],
-    "roles": [
-      "Business Executive",
-      "IT Executive"
-    ],
-    "venue": "TBD",
-    "campus": "Other / Virtual",
-    "abstract": "In early 2026, the Reimagine research program interviewed senior technology leaders under conditions of candor: off-the-record, non-attributable, no marketing follow-up. What they said contradicts the prevailing conference narrative. Nobody is running agents autonomously, not one. The most advanced organizations are carrying the most technical debt. The AI generating real value looks nothing like the demos. This session synthesizes the patterns that emerged when executives stopped performing confidence and started sharing reality. ",
-    "times": []
   },
   {
     "id": "1789411632892001iZOX",
