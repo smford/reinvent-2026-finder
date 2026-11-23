@@ -3214,7 +3214,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and Amazon Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success. This presentation is brought to you by Informatica, an AWS Partner.",
+    "abstract": "To unlock transformative business outcomes, AI agents require a foundation of trusted data with rich enterprise context. Delivering success means bridging the knowledge, trust, and action gaps across a highly complex data landscape. In this session, learn how Informatica Intelligent Data Management Cloud (IDMC) provides the comprehensive AI-ready data needed to power reliable agentic workflows. Explore how headless IDMC architecture via integrations with Amazon Bedrock AgentCore, Agent Registry and AWS Quick fuels agents with trusted enterprise context and end-to-end governance, driving impactful results and long-term project success. This presentation is brought to you by Informatica, an AWS Partner.",
     "times": [
       {
         "id": "1790033120457001qG8R",
@@ -3625,7 +3625,7 @@
     ],
     "venue": "Venetian",
     "campus": "Venetian Campus",
-    "abstract": "Big AI outcomes are within reach for high-growth businesses looking to scale value from Amazon Quick. See how Accenture Edge, built for organizations with $300M-$3B annual revenue, combines AI, cloud, and pre-built solutions to help organizations move faster, work smarter, and achieve enterprise-grade outcomes without enterprise-level complexity. A session for resource-constrained IT and business teams that need to deliver measurable impact in weeks, not quarters.",
+    "abstract": "Big AI outcomes are within reach for high-growth businesses looking to scale value from AWS. See how Accenture Edge, built for organizations with $300M-$3B annual revenue, combines AI, cloud, and pre-built solutions to help organizations move faster, work smarter, and achieve enterprise-grade outcomes without enterprise-level complexity. A session for resource-constrained IT and business teams that need to deliver measurable impact in weeks, not quarters.",
     "times": [
       {
         "id": "1790033124226001qYbK",
@@ -14795,7 +14795,7 @@
   {
     "id": "1780442235647001cIUJ",
     "code": "AIM450-R",
-    "title": "Context engineering for production agents on AgentCore",
+    "title": "Context engineering for production agents with Strands",
     "type": "Chalk talk",
     "level": "400 – Expert",
     "topics": [
@@ -14805,7 +14805,7 @@
     "roles": [],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "An agent is only as good as what fills its context window. System prompts, skills, tool definitions, conversation history, retrieved documents, long-term memory, they all compete for limited space. Get the mix wrong and you waste tokens, degrade reasoning, or lose critical instructions mid-conversation. This chalk talk breaks down every layer of context that shapes agent behavior on Amazon Bedrock AgentCore. We cover how to structure system prompts, define skills effectively, manage tool context through gateway, retain the right conversation history, and use Memory strategies to persist what matters across sessions. Bring your agents, we optimize them live.",
+    "abstract": "An agent is only as good as what fills its context window. System prompts, skills, tool definitions, tool results, conversation history, plans, and retrieved knowledge all compete for limited space. Get the mix wrong and you degrade reasoning or lose critical instructions mid-task, with higher token usage and higher cost overall. This chalk talk breaks down every layer of context that shapes agent behavior. It shows how to decide what enters the window, when, and in what form, so agents stay accurate and affordable in production.",
     "times": [
       {
         "id": "1790025517780001CYkX",
@@ -25358,7 +25358,7 @@
   {
     "id": "1780441466315001GqmS",
     "code": "BIZ214",
-    "title": "Empowering 200,000 people without compromising trust: AWS Quick",
+    "title": "Empowering 155,000 people without compromising trust: AWS Quick",
     "type": "Breakout session",
     "level": "200 – Intermediate",
     "topics": [
@@ -31196,6 +31196,77 @@
     ]
   },
   {
+    "id": "1787870259691001fvkX",
+    "code": "COM101",
+    "title": "BeSA (Become a Solutions Architect) meetup with Jeff Barr",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Architecture",
+      "Industry Solutions"
+    ],
+    "areasOfInterest": [
+      "Workforce Development"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Connect with the BeSA (Become a Solutions Architect) Community at re:Invent 2026. Whether you're advancing in your cloud career or just starting out, join this peer networking event to gain insights, exchange experiences, and build relationships. BeSA participants - don't miss your chance to claim a personalized Jeff Barr signed certificate and exclusive BeSA swag. See you there!",
+    "times": [
+      {
+        "id": "1795187924004001skb5",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870260325001fHL5",
+    "code": "COM102",
+    "title": "How AI Wins a Football Match: Five Silent Agents in Two Minutes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Application Integration"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "IT Professional / Technical Manager"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "How can five independent AI agents coordinate attacks, defend their goal, and compete in a two-minute football match without communicating directly? Using the AWS Agentic Football Cup as a case study, this session shows how agents interpret their environment, choose actions, and coordinate through shared state and complementary roles.\n\nWith practical examples using Amazon Bedrock AgentCore, participants will explore structured action outputs, role design, decision logic, and experimental validation, with lessons for workflow automation and task scheduling. Designed for developers interested in generative AI, agent development, and cloud applications. If time allows, we can play an AFC match in person.",
+    "times": [
+      {
+        "id": "1795188323391001klBR",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "14:30",
+        "endTime": "15:15",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:15 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1787870260980001fOyd",
     "code": "COM103",
     "title": "Regional Community Builders: The Global AWS Community Exchange",
@@ -31226,6 +31297,42 @@
         "duration": 45,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261415001fpjQ",
+    "code": "COM104",
+    "title": "Thriving as a Solutions Architect in the Agentic AI Era",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Workforce Development"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Agentic AI is changing how solutions are designed, built, and delivered. As AI agents take on more technical work, how do Solutions Architects stay relevant and valuable? This session shows how the role is shifting from producing designs to owning business outcomes, and how to orchestrate people and AI agents as one delivery system. We will cover the skills that grow in value (judgment, systems thinking, customer trust) and the habits worth dropping. You will leave with a clear list of what to double down on, what to let go of, and how to guide customers into an AI-first future with confidence.\n",
+    "times": [
+      {
+        "id": "1795189031037001sXnu",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -31265,6 +31372,222 @@
         "duration": 45,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870261600001f3uk",
+    "code": "COM106-R",
+    "title": "Kiroween '26 | Build something wicked for a shot at $100,000 in prizes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro’s annual Halloween-themed hackathon returns in 2026. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn to summon your creativity and build something unforgettable. Compete for a chance at $100,000 in prizes including students-only and startups-only dedicated prize tracks. Join us for a quick intro to Kiro, Kiroween, and dedicated hacking time with Kiro experts in the room to help as you work on your project. Projects must be submitted on the Devpost hackathon page by Friday, 12/4 at 2:00pm PT.",
+    "times": [
+      {
+        "id": "1795189134144001xWMp",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:15 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492162030001UqG3",
+    "code": "COM106-R1",
+    "title": "Kiroween '26 | Build something wicked for a shot at $100,000 in prizes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro’s annual Halloween-themed hackathon returns in 2026. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn to summon your creativity and build something unforgettable. Compete for a chance at $100,000 in prizes including students-only and startups-only dedicated prize tracks. Join us for a quick intro to Kiro, Kiroween, and dedicated hacking time with Kiro experts in the room to help as you work on your project. Projects must be submitted on the Devpost hackathon page by Friday, 12/4 at 2:00pm PT.",
+    "times": [
+      {
+        "id": "1795205491161001eKor",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:15 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492162128001U8Zv",
+    "code": "COM106-R2",
+    "title": "Kiroween '26 | Build something wicked for a shot at $100,000 in prizes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro’s annual Halloween-themed hackathon returns in 2026. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn to summon your creativity and build something unforgettable. Compete for a chance at $100,000 in prizes including students-only and startups-only dedicated prize tracks. Join us for a quick intro to Kiro, Kiroween, and dedicated hacking time with Kiro experts in the room to help as you work on your project. Projects must be submitted on the Devpost hackathon page by Friday, 12/4 at 2:00pm PT.",
+    "times": [
+      {
+        "id": "1795205559221001Gd0a",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "12:15",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:15 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492162226001UMia",
+    "code": "COM106-R3",
+    "title": "Kiroween '26 | Build something wicked for a shot at $100,000 in prizes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro’s annual Halloween-themed hackathon returns in 2026. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn to summon your creativity and build something unforgettable. Compete for a chance at $100,000 in prizes including students-only and startups-only dedicated prize tracks. Join us for a quick intro to Kiro, Kiroween, and dedicated hacking time with Kiro experts in the room to help as you work on your project. Projects must be submitted on the Devpost hackathon page by Friday, 12/4 at 2:00pm PT.",
+    "times": [
+      {
+        "id": "1795205604287001R1Uw",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:15 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492162320001UziF",
+    "code": "COM106-R4",
+    "title": "Kiroween '26 | Build something wicked for a shot at $100,000 in prizes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro’s annual Halloween-themed hackathon returns in 2026. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn to summon your creativity and build something unforgettable. Compete for a chance at $100,000 in prizes including students-only and startups-only dedicated prize tracks. Join us for a quick intro to Kiro, Kiroween, and dedicated hacking time with Kiro experts in the room to help as you work on your project. Projects must be submitted on the Devpost hackathon page by Friday, 12/4 at 2:00pm PT.",
+    "times": [
+      {
+        "id": "1795205652782001m2op",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "10:30",
+        "endTime": "11:15",
+        "startTimeFormatted": "10:30 AM",
+        "endTimeFormatted": "11:15 AM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1791492162410001Ur0S",
+    "code": "COM106-R5",
+    "title": "Kiroween '26 | Build something wicked for a shot at $100,000 in prizes",
+    "type": "Meetup",
+    "level": "100 – Foundational",
+    "topics": [
+      "Developer Tools"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Kiro’s annual Halloween-themed hackathon returns in 2026. Last year, thousands of developers used Kiro to bring dead tech back to life, stitch together unexpected technologies, and create hauntingly good experiences. This year, it’s your turn to summon your creativity and build something unforgettable. Compete for a chance at $100,000 in prizes including students-only and startups-only dedicated prize tracks. Join us for a quick intro to Kiro, Kiroween, and dedicated hacking time with Kiro experts in the room to help as you work on your project. Projects must be submitted on the Devpost hackathon page by Friday, 12/4 at 2:00pm PT.",
+    "times": [
+      {
+        "id": "1795205690104001UcKR",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "11:30",
+        "endTime": "12:15",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:15 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -31374,6 +31697,82 @@
         "duration": 45,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870259810001fVJN",
+    "code": "COM204",
+    "title": "Building and Deploying PacMon with Kiro on AWS!",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture",
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Generative AI"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "Solution / Systems Architect",
+      "Tech Explorer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Join us for a technical meetup in Brazilian Portuguese (pt-BR), with automatic English captions!\n\nTogether with the AWS User Group Campinas (Brazil), we'll evolve PacMon, a Pac-Man and Pokémon-inspired game, into a multiplayer application using Kiro and AWS.\nThrough live demonstrations and technical discussions, we'll explore AI-assisted development, real-time multiplayer architecture, cloud infrastructure, and deployment strategies.\nAttendees will help shape technical decisions, suggest features, and discover how Kiro can accelerate development from prototype to cloud deployment.\n\nCome build, learn, fun, and connect with fellow Brazilian AWS builders at re:Invent!",
+    "times": [
+      {
+        "id": "1795188038333001xik0",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "14:30",
+        "endTime": "15:15",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:15 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870260131001fjsr",
+    "code": "COM205",
+    "title": "From Cloud Fundamentals to Hands-On AWS: Making Cloud Concepts Click",
+    "type": "Meetup",
+    "level": "200 – Intermediate",
+    "topics": [
+      "Architecture",
+      "Business Agents",
+      "Networking & Content Delivery"
+    ],
+    "areasOfInterest": [
+      "Identity & Access Management",
+      "Innovation & Transformation",
+      "Network & Infrastructure Security"
+    ],
+    "roles": [
+      "Academic / Researcher",
+      "Entrepreneur (Founder/Co-Founder)",
+      "Student"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "How do we help people from different technical backgrounds move from understanding cloud concepts to confidently exploring AWS? Drawing on a cloud training initiative with Conectadas, a program supporting women in technology, this meetup explores making cloud fundamentals accessible without oversimplifying them.\n\nWe will connect core concepts, including Regions and Availability Zones, the Shared Responsibility Model, IAM, and Amazon EC2, to real-world scenarios and hands-on activities. Participants will exchange ideas on designing beginner-friendly labs, explaining infrastructure decisions simply, and overcoming learning barriers. This interactive, peer-driven session is for practitioners, community builders, and educators.",
+    "times": [
+      {
+        "id": "1795188105693001ZivI",
+        "date": "2026-12-03",
+        "day": "Thursday",
+        "startTime": "13:00",
+        "endTime": "13:45",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "01:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
       }
     ]
   },
@@ -33610,6 +34009,41 @@
     ]
   },
   {
+    "id": "1787870259289001ffJl",
+    "code": "COM348",
+    "title": "3 AI agents, 1 Strava: my orchestrated running staff, over-engineering",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Innovation & Transformation"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "Analyzing a run should be simple. Yet, I decided to set up a virtual expert committee to dissect my Sunday jogs. Using Kiro CLI, I packaged an orchestrator that manages three sub-agents: a Coach (Strava API), a Meteorologist (weather API), and a Librarian (Kiro Knowledge Management). The goal? Cross-reference my heart rate, the wind, and running science to deliver a ruthless breakdown. This live demo showcases the architecture and deployment of a multi-agent application built around a trivial use case.",
+    "times": [
+      {
+        "id": "1795187870642001RRGO",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "14:30",
+        "endTime": "15:15",
+        "startTimeFormatted": "02:30 PM",
+        "endTimeFormatted": "03:15 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
     "id": "1787870259450001fjuU",
     "code": "COM349",
     "title": "A new area of AWS Cloud Observability",
@@ -33753,6 +34187,43 @@
         "endTimeFormatted": "09:45 AM",
         "duration": 45,
         "room": "Caesars Forum | Level 1 | Forum 120 | Content Hub | AWS Meetups",
+        "venue": "Caesars Forum"
+      }
+    ]
+  },
+  {
+    "id": "1787870259751001fkvF",
+    "code": "COM352",
+    "title": "Build an AI agent that consumes any API with AgentCore",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Artificial Intelligence",
+      "Security & Identity"
+    ],
+    "areasOfInterest": [
+      "Agentic AI",
+      "Identity & Access Management"
+    ],
+    "roles": [
+      "Cloud Security Specialist",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "When an agent calls an API, it makes that call on behalf of a user, not on yours. Who is allowed to call what? With which credentials? How do you audit it?\n\nIn this talk we’ll see how to quickly build an agent with Amazon AgentCore Harness, expose the API as an MCP server with AgentCore Gateway, and solve secure access with AgentCore Identity, so the agent calls the API on behalf of the user without fixed credentials pasted in the code.\n\nAmong the details we’ll cover are how to describe the Gateway tools so the agent picks them correctly, and which delegation model Identity uses so the user’s credentials are never exposed to the agent.\nYou’ll leave with the complete architecture, Harness, Gateway and Identity working together, to connect any API using MCP to an agent in production, without the manual parts that today take up so much of teams’ time.\n",
+    "times": [
+      {
+        "id": "1795187997282001vKGs",
+        "date": "2026-12-02",
+        "day": "Wednesday",
+        "startTime": "13:30",
+        "endTime": "14:15",
+        "startTimeFormatted": "01:30 PM",
+        "endTimeFormatted": "02:15 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
         "venue": "Caesars Forum"
       }
     ]
@@ -34162,6 +34633,43 @@
         "duration": 45,
         "room": "Caesars Palace | Promenade South | Octavius 4 | Content Hub | AWS Meetups",
         "venue": "Caesars Palace"
+      }
+    ]
+  },
+  {
+    "id": "1787870260789001fCA1",
+    "code": "COM361",
+    "title": "My House on AWS IoT: Serverless Monitoring for Under $0.50/Month",
+    "type": "Meetup",
+    "level": "300 – Advanced",
+    "topics": [
+      "Application Integration",
+      "Serverless"
+    ],
+    "areasOfInterest": [
+      "Lambda-Based Applications",
+      "Sustainability"
+    ],
+    "roles": [
+      "Developer / Engineer",
+      "IT Professional / Technical Manager",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Caesars Forum",
+    "campus": "Caesars Campus",
+    "abstract": "After deploying 500+ LoRaWAN sensors in industrial plants as a developer at an IIoT 4.0 manufacturer, I applied the same lessons at home: AWS IoT Core, Aurora DSQL and Lambda monitor my electricity, gas, water and air quality for under $0.50 a month. Sensors range from off-the-shelf LoRaWAN devices to DIY ESP32 WiFi boards. The pipeline drives dashboards, automated reports, and alerts for water leaks, gas leaks and poor ventilation, plus savings recommendations. It controls my ventilation fan speed. Come share your own IoT designs: LoRaWAN vs WiFi trade-offs, DSQL data modeling, and serverless cost tuning.\n",
+    "times": [
+      {
+        "id": "1795188962160001kNjp",
+        "date": "2026-11-30",
+        "day": "Monday",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "startTimeFormatted": "12:00 PM",
+        "endTimeFormatted": "12:45 PM",
+        "duration": 45,
+        "room": "Caesars Forum | Level 1 | West Alcove | Forum Ballroom | Builder Loft",
+        "venue": "Caesars Forum"
       }
     ]
   },
