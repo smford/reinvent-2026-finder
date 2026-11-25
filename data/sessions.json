@@ -2891,7 +2891,7 @@
   {
     "id": "1780441490155001GgFv",
     "code": "AIM108-S",
-    "title": "Beyond DC Exit: AXA’s Value-Led Cloud Transformation Journey",
+    "title": "Beyond DC Exit: AXA’s Value-Led Cloud Transformation Journey (sponsored by Tata Consultancy Services)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -8978,7 +8978,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Many of today's largest foundation models are mixture-of-experts (MoE) models, and modern MoE models place several performance demands on AI chips and their HPC systems. This session walks through those demands and how AWS Trainium3 and the Trn3 UltraServer respond. See how to train and serve with PyTorch, TorchTitan, and vLLM, then profile with Neuron Explorer and choose between a config change, an NKI Library kernel, or a custom NKI kernel. Two customers share their experience running on Trainium3.",
+    "abstract": "Many of today’s largest foundation models are mixture-of-experts (MoE) models, which place heavy demands on the communication, memory bandwidth, and compute of AI chips and their HPC systems. This session walks through those demands and how AWS Trainium3 and the Trn3 UltraServer meet them, then demonstrates an agentic loop that profiles workloads with Neuron Explorer and iterates on configurations and NKI kernels to optimize performance. Odyssey shares their experience running on Trainium3.",
     "times": [
       {
         "id": "1790034534759001p0z7",
@@ -30647,7 +30647,7 @@
     ],
     "venue": "Wynn/Encore",
     "campus": "Wynn Campus",
-    "abstract": "Learn how Bee built a personal AI assistant where privacy is cryptographically guaranteed - not policy-promised. Bee processes user data exclusively within hardware-isolated EC2 Confidential VMs powered by AWS Nitro, where no one - including Amazon - can access unencrypted data. We'll dive into NitroTPM attestation that lets devices verify server integrity before sharing keys, Sigstore transparency logs for auditability, mutual TLS with embedded attestation proofs, and key lifecycle management within encrypted VM memory. A practical blueprint for building zero-trust AI on Amazon EC2.",
+    "abstract": "Learn how Bee built a personal AI assistant whose privacy protections are technically enforced and cryptographically verifiable, not just promised in policy. Bee processes user data only on Amazon EC2 instances built on the AWS Nitro System, which by design gives AWS operators no way to access instance memory or customer data. Bee launches these instances from Attestable AMIs. We’ll show how NitroTPM attestation documents let user devices check which software a server is running before they release any keys, how Sigstore transparency logs make every deployed build publicly auditable, how mutual TLS carries attestation evidence into each connection, and how keys are created, used, and destroyed without leaving the attested instance. You’ll leave with a practical blueprint for building verifiable, zero-operator-access AI workloads on EC2.",
     "times": [
       {
         "id": "1790033109970001q1iE",
@@ -46356,7 +46356,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "This session provides a deep dive into Amazon DynamoDB and shares insights into how DynamoDB is architected and how it’s able to deliver the scalability and response times that customers have come to expect. DynamoDB is used by over one million AWS customers, and powers hundreds of applications that exceed half a million requests per second. In this talk we explore the architecture of DynamoDB, and of several specific features. You will understand how we architected DynamoDB to deliver predictable low latency at any scale, and how best to develop your own applications to delight your customers.",
+    "abstract": "Nearly 15 years ago, Amazon DynamoDB promised predictable performance at any scale through a simple API. The API is unchanged, but almost everything under it is new. DynamoDB serves over one million customers and handles an average of over a billion requests every second. In this session, dive deep into the architecture behind that scale. See how the team replaced core storage node data structures while serving traffic, and explore native vector search. Learn how the new bulk put items feature loads data into live tables, and how open source ExtendDB brings the DynamoDB API to other datastores. Leave with design rules for your own applications.",
     "times": [
       {
         "id": "1790025523088001CXqI",
@@ -48198,7 +48198,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Modern analytics architectures increasingly rely on open table formats like Apache Iceberg but combining operational and analytical data remains complex. This session explores emerging patterns for bridging Amazon Aurora with open table format analytics. Learn architectural patterns for bidirectional data flow between databases and data lakes. Topics include design patterns for analytical workloads, performance optimization and reverse ETL, and deep dives into maintaining transactional consistency when streaming database changes to Amazon S3 Tables, delivery guarantees, and type mapping.",
+    "abstract": "Modern analytics architectures increasingly rely on open table formats like Apache Iceberg but combining operational and analytical data remains complex. This session explores emerging patterns for bridging Amazon Aurora with open table format analytics. Learn architectural patterns for bidirectional data flow between databases and data lakes. Topics include design patterns for analytical workloads, performance optimization and reverse ETL, and deep dives into maintaining transactional consistency when replicating database changes to Amazon S3 Tables, delivery guarantees, and type mapping.",
     "times": [
       {
         "id": "1790025545450001CFRN",
@@ -58349,7 +58349,7 @@
   {
     "id": "1780441477099001GHEi",
     "code": "IND3319",
-    "title": "How FINRA Explores Governed Agentic AI to Its Member Firms on AWS",
+    "title": "How FINRA Explores Governed Agentic Al for Its Member Firms on AWS",
     "type": "Breakout session",
     "level": "300 – Advanced",
     "topics": [
@@ -67891,7 +67891,7 @@
     ],
     "venue": "Caesars Palace",
     "campus": "Caesars Campus",
-    "abstract": "Batch processing has powered critical enterprise workloads for decades, from mainframes running COBOL and PL/I to distributed systems on legacy Java. The trade-off? Overnight batch cycles that business processes can no longer afford. In this session, reimagine batch as event-driven microservices using Domain-Driven Design. AWS Transform reverse-engineers business rules from legacy code across platforms with full traceability, and Kiro translates that understanding into microservices specifications, generates production code, and creates Infrastructure as Code for AWS deployment. Leave with a repeatable pattern for reimagining batch workloads as real-time, event-driven microservices built on business rules that took decades to refine. Laptop required.",
+    "abstract": "Batch processing has powered critical enterprise workloads on mainframes running COBOL and PL/I for decades. The trade-off is overnight batch cycles that business processes can no longer afford. In this session, reimagine a batch routine as event-driven microservices. AWS Transform reverse-engineers business rules from existing code with full traceability, and Kiro translates that understanding into specifications and generates production code. Leave with a repeatable pattern for reimagining batch workloads as event-driven microservices built on business rules that took decades to refine. Laptop required.",
     "times": [
       {
         "id": "1790025481655001Cnv4",
