@@ -3376,7 +3376,7 @@
   {
     "id": "1780441483251001GAiZ",
     "code": "AIM122-S",
-    "title": "Mission-Critical Reliability: Financial Services in the Age of AI",
+    "title": "Mission-Critical Reliability: Financial Services in the Age of AI (sponsored by Traversal)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -15393,14 +15393,14 @@
     "times": [
       {
         "id": "1791998553038001IK7z",
-        "date": "2026-12-03",
-        "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "13:20",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "01:20 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "16:30",
+        "endTime": "16:50",
+        "startTimeFormatted": "04:30 PM",
+        "endTimeFormatted": "04:50 PM",
         "duration": 20,
-        "room": "Venetian | Level 2 | Hall B | Expo | Global Impact Theater",
+        "room": "Venetian | Level 2 | Hall B | Expo | Builder Theater",
         "venue": "Venetian"
       }
     ]
@@ -31506,8 +31506,45 @@
     ]
   },
   {
-    "id": "1780442255116001cn7H",
+    "id": "1795548501411001bfwK",
     "code": "CMP411-R",
+    "title": "Aperf: An all-in-one tool for performance data collection and analysis",
+    "type": "Code talk",
+    "level": "400 – Expert",
+    "topics": [
+      "Compute",
+      "Open Source"
+    ],
+    "areasOfInterest": [
+      "Cost Optimization",
+      "DevOps"
+    ],
+    "roles": [
+      "DevOps Engineer",
+      "Developer / Engineer",
+      "Solution / Systems Architect"
+    ],
+    "venue": "Wynn/Encore",
+    "campus": "Wynn Campus",
+    "abstract": "Aperf is an open-source project created by AWS to accelerate the performance debugging process by enabling experienced users to deep dive into extensive data and less experienced users to identify issues without specialized knowledge. During this session, we'll present its key features and run a demo showing the analysis workflow, from installation, data collection, and then analysis. Finally, we'll open the conversation to collect feedback and feature requests from the audience.",
+    "times": [
+      {
+        "id": "1795548873425001vxQs",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "11:30",
+        "endTime": "12:30",
+        "startTimeFormatted": "11:30 AM",
+        "endTimeFormatted": "12:30 PM",
+        "duration": 60,
+        "room": "MGM Grand | Level 1 | Boulevard 159",
+        "venue": "Wynn/Encore"
+      }
+    ]
+  },
+  {
+    "id": "1780442255116001cn7H",
+    "code": "CMP411-R1",
     "title": "Aperf: An all-in-one tool for performance data collection and analysis",
     "type": "Code talk",
     "level": "400 – Expert",
@@ -31539,43 +31576,6 @@
         "duration": 60,
         "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Code Talk",
         "venue": "MGM Grand"
-      }
-    ]
-  },
-  {
-    "id": "1795548501411001bfwK",
-    "code": "CMP411-R1",
-    "title": "Aperf: An all-in-one tool for performance data collection and analysis",
-    "type": "Code talk",
-    "level": "400 – Expert",
-    "topics": [
-      "Compute",
-      "Open Source"
-    ],
-    "areasOfInterest": [
-      "Cost Optimization",
-      "DevOps"
-    ],
-    "roles": [
-      "DevOps Engineer",
-      "Developer / Engineer",
-      "Solution / Systems Architect"
-    ],
-    "venue": "Wynn/Encore",
-    "campus": "Wynn Campus",
-    "abstract": "Aperf is an open-source project created by AWS to accelerate the performance debugging process by enabling experienced users to deep dive into extensive data and less experienced users to identify issues without specialized knowledge. During this session, we'll present its key features and run a demo showing the analysis workflow, from installation, data collection, and then analysis. Finally, we'll open the conversation to collect feedback and feature requests from the audience.",
-    "times": [
-      {
-        "id": "1795548873425001vxQs",
-        "date": "2026-12-04",
-        "day": "Friday",
-        "startTime": "10:00",
-        "endTime": "11:00",
-        "startTimeFormatted": "10:00 AM",
-        "endTimeFormatted": "11:00 AM",
-        "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Code Talk",
-        "venue": "Wynn/Encore"
       }
     ]
   },
@@ -48432,7 +48432,7 @@
   {
     "id": "1780441483545001GJMW",
     "code": "DVT101-S",
-    "title": "Reliability in the AI Era: Inside Harvey’s Production Playbook",
+    "title": "Reliability in the AI Era: Inside Harvey’s Production Playbook (sponsored by Traversal)",
     "type": "Breakout session",
     "level": "100 – Foundational",
     "topics": [
@@ -49313,21 +49313,21 @@
       "Developer / Engineer",
       "Solution / Systems Architect"
     ],
-    "venue": "MGM Grand",
-    "campus": "MGM Grand Campus",
+    "venue": "Venetian",
+    "campus": "Venetian Campus",
     "abstract": "AI is moving beyond the cloud, requiring developers to deploy intelligent workloads across data centers, edge infrastructure, vehicles, industrial systems, PCs, and mobile devices. The challenge is scaling AI efficiently across diverse hardware environments. In this session, learn how Qualcomm and AWS enable developers to build agentic AI applications across the compute continuum, from cloud training to real-time edge and on-device inference. Discover how open frameworks, portable AI runtimes, and streamlined workflows accelerate development and deployment. Through examples spanning automotive, IoT, industrial edge, mobile, datacenter, and cloud use cases, explore how a unified developer experience reduces complexity, increases flexibility, and helps deliver scalable AI applications anywhere. This presentation is brought to you by Qualcomm, an AWS Partner.",
     "times": [
       {
         "id": "1790025484225001Ck4i",
-        "date": "2026-11-30",
-        "day": "Monday",
-        "startTime": "12:00",
-        "endTime": "13:00",
-        "startTimeFormatted": "12:00 PM",
-        "endTimeFormatted": "01:00 PM",
+        "date": "2026-12-01",
+        "day": "Tuesday",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "MGM Grand | Level 3 | Chairman's 363 | Content Hub | Blue Theater",
-        "venue": "MGM Grand"
+        "room": "Venetian | Level 2 | Ballroom F | Content Hub | Purple Theater",
+        "venue": "Venetian"
       }
     ]
   },
@@ -79394,7 +79394,7 @@
   {
     "id": "1780442227509001c83e",
     "code": "PEX320-R",
-    "title": "AI-Powered Migrations: AWS Transform Across the Lifecycle",
+    "title": "Agentic MAP experience in AWS Transform Across the Lifecycle",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -79413,7 +79413,7 @@
     ],
     "venue": "Caesars Forum",
     "campus": "Caesars Campus",
-    "abstract": "Get hands-on with AWS Transform's composable AI agents automating the full migration lifecycle. Qualify using Express Migrations agents to automate migration and modernization deal qualification along with funding orchestration. Migrate and modernize by leveraging Transform Custom agents to modernize legacy workloads at enterprise scale. Finally, measure by implementing Partner Revenue Measurement (PRM) to attribute revenue and impact to your delivery.\n",
+    "abstract": "Get hands-on with AWS Transform’s composable AI agents automating the full migration lifecycle. Qualify using Agentic MAP experience in AWS Transform agents to automate migration and modernization deal qualification along with funding orchestration. Migrate and modernize by leveraging Transform Custom agents to modernize legacy workloads at enterprise scale. Finally, measure by implementing Partner Revenue Measurement (PRM) to attribute revenue and impact to your delivery.",
     "times": [
       {
         "id": "1791224280703001tU6h",
@@ -79432,7 +79432,7 @@
   {
     "id": "1780442227718001c1jV",
     "code": "PEX320-R1",
-    "title": "AI-Powered Migrations: AWS Transform Across the Lifecycle",
+    "title": "Agentic MAP experience in AWS Transform Across the Lifecycle",
     "type": "Builders' session",
     "level": "300 – Advanced",
     "topics": [
@@ -79451,7 +79451,7 @@
     ],
     "venue": "MGM Grand",
     "campus": "MGM Grand Campus",
-    "abstract": "Get hands-on with AWS Transform's composable AI agents automating the full migration lifecycle. Qualify using Express Migrations agents to automate migration and modernization deal qualification along with funding orchestration. Migrate and modernize by leveraging Transform Custom agents to modernize legacy workloads at enterprise scale. Finally, measure by implementing Partner Revenue Measurement (PRM) to attribute revenue and impact to your delivery.\n",
+    "abstract": "Get hands-on with AWS Transform’s composable AI agents automating the full migration lifecycle. Qualify using Agentic MAP experience in AWS Transform agents to automate migration and modernization deal qualification along with funding orchestration. Migrate and modernize by leveraging Transform Custom agents to modernize legacy workloads at enterprise scale. Finally, measure by implementing Partner Revenue Measurement (PRM) to attribute revenue and impact to your delivery.",
     "times": [
       {
         "id": "1794513621709001GQJQ",
@@ -79877,12 +79877,12 @@
         "id": "1795465775774001yeug",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "13:00",
-        "endTime": "14:00",
-        "startTimeFormatted": "01:00 PM",
-        "endTimeFormatted": "02:00 PM",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "startTimeFormatted": "03:00 PM",
+        "endTimeFormatted": "04:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Green Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Turquoise Theater",
         "venue": "Wynn/Encore"
       }
     ]
@@ -79935,12 +79935,12 @@
         "id": "1795465826813001zqxE",
         "date": "2026-12-03",
         "day": "Thursday",
-        "startTime": "15:00",
-        "endTime": "16:00",
-        "startTimeFormatted": "03:00 PM",
-        "endTimeFormatted": "04:00 PM",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "startTimeFormatted": "01:00 PM",
+        "endTimeFormatted": "02:00 PM",
         "duration": 60,
-        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Turquoise Theater",
+        "room": "Wynn/Encore | Upper Convention Promenade | Cristal 2 | Content Hub | Green Theater",
         "venue": "Wynn/Encore"
       }
     ]
